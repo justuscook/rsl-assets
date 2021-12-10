@@ -35,5 +35,6 @@
 			"multiplier": "2.9*DEF+0.05*TRG_HP",
 			"numBooksToMax": 5
 		}
-	]
+	],
+	"rarity": "Uncommon"
 }

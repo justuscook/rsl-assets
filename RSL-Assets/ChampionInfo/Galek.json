@@ -45,5 +45,6 @@
 			"multiplier": "1.6*ATK",
 			"numBooksToMax": 4
 		}
-	]
+	],
+	"rarity": "Rare"
 }

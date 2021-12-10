@@ -45,5 +45,6 @@
 			"multiplier": "2*ATK+0.35*HP",
 			"numBooksToMax": 5
 		}
-	]
+	],
+	"rarity": "Epic"
 }

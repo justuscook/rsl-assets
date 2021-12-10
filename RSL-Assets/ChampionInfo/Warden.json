@@ -45,5 +45,6 @@
 			"multiplier": "0.3*DEALT_DMG",
 			"numBooksToMax": 6
 		}
-	]
+	],
+	"rarity": "Epic"
 }

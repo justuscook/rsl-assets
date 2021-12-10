@@ -45,5 +45,6 @@
 			"multiplier": "ATK*(2+TRG_DEBUFF_COUNT)",
 			"numBooksToMax": 3
 		}
-	]
+	],
+	"rarity": "Rare"
 }

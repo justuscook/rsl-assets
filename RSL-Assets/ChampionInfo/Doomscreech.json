@@ -45,5 +45,6 @@
 			"multiplier": "0.1*HP",
 			"numBooksToMax": 4
 		}
-	]
+	],
+	"rarity": "Rare"
 }

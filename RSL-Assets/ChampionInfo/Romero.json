@@ -55,5 +55,6 @@
 			"multiplier": "1.4*DEF",
 			"numBooksToMax": 0
 		}
-	]
+	],
+	"rarity": "Epic"
 }

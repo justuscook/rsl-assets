@@ -45,5 +45,6 @@
 			"multiplier": "TRG_HP*0.1+ATK*1.7",
 			"numBooksToMax": 4
 		}
-	]
+	],
+	"rarity": "Rare"
 }

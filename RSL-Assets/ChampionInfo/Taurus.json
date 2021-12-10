@@ -45,5 +45,6 @@
 			"multiplier": "0.99*CUR_HP",
 			"numBooksToMax": 3
 		}
-	]
+	],
+	"rarity": "Epic"
 }
