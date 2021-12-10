@@ -57,5 +57,6 @@
 			"numBooksToMax": "0"
 		}
 	],
-	"rarity": "Legendary"
+	"rarity": "Legendary",
+	"type": "Attack"
 }

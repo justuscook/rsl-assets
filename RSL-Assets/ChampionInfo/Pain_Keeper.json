@@ -47,5 +47,6 @@
 			"numBooksToMax": "3"
 		}
 	],
-	"rarity": "Rare"
+	"rarity": "Rare",
+	"type": "Health"
 }

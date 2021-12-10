@@ -37,5 +37,6 @@
 			"numBooksToMax": "1"
 		}
 	],
-	"rarity": "Uncommon"
+	"rarity": "Uncommon",
+	"type": "Defense"
 }

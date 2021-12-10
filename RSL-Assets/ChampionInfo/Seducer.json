@@ -57,5 +57,6 @@
 			"numBooksToMax": "1"
 		}
 	],
-	"rarity": "Rare"
+	"rarity": "Rare",
+	"type": "Defense"
 }

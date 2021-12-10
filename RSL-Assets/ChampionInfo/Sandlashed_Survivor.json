@@ -47,5 +47,6 @@
 			"numBooksToMax": "1"
 		}
 	],
-	"rarity": "Epic"
+	"rarity": "Epic",
+	"type": "Defense"
 }

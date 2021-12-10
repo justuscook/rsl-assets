@@ -47,5 +47,6 @@
 			"numBooksToMax": "5"
 		}
 	],
-	"rarity": "Uncommon"
+	"rarity": "Uncommon",
+	"type": "Attack"
 }

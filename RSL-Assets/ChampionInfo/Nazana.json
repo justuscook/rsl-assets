@@ -47,5 +47,6 @@
 			"numBooksToMax": "6"
 		}
 	],
-	"rarity": "Epic"
+	"rarity": "Epic",
+	"type": "Health"
 }

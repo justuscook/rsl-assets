@@ -37,5 +37,6 @@
 			"numBooksToMax": "6"
 		}
 	],
-	"rarity": "Uncommon"
+	"rarity": "Uncommon",
+	"type": "Support"
 }

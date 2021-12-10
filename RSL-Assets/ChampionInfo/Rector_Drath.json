@@ -57,5 +57,6 @@
 			"numBooksToMax": "0"
 		}
 	],
-	"rarity": "Epic"
+	"rarity": "Epic",
+	"type": "Support"
 }

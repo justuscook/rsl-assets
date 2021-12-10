@@ -57,5 +57,6 @@
 			"numBooksToMax": "2"
 		}
 	],
-	"rarity": "Legendary"
+	"rarity": "Legendary",
+	"type": "Support"
 }
