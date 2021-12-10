@@ -3,6 +3,7 @@
 	"key": "l10n:hero-type/name?id=5830#static",
 	"id": 5836,
 	"avatar": "5830",
+	"affinity": "Magic",
 	"hp": "15360",
 	"atk": "1487",
 	"def": "1068",

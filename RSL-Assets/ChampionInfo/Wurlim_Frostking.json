@@ -3,6 +3,7 @@
 	"key": "l10n:hero-type/name?id=4510#static",
 	"id": 4516,
 	"avatar": "4510",
+	"affinity": "Void",
 	"hp": "19650",
 	"atk": "1035",
 	"def": "1233",

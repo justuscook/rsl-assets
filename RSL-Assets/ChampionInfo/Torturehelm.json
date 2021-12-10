@@ -3,6 +3,7 @@
 	"key": "l10n:hero-type/name?id=630#static",
 	"id": 636,
 	"avatar": "630",
+	"affinity": "Force",
 	"hp": "19980",
 	"atk": "881",
 	"def": "1090",

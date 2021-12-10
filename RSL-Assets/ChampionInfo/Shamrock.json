@@ -3,6 +3,7 @@
 	"key": "l10n:hero-type/name?id=3570#static",
 	"id": 3576,
 	"avatar": "3570",
+	"affinity": "Spirit",
 	"hp": "20805",
 	"atk": "1002",
 	"def": "1189",
