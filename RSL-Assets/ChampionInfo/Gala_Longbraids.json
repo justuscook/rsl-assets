@@ -1,16 +1,17 @@
 {
 	"name": "Gala Longbraids",
-	"id": 4396,
+	"key": "l10n:hero-type/name?id=4390#static",
+	"id": "4396",
 	"avatar": "4390",
-	"hp": 18165,
-	"atk": 1432,
-	"def": 661,
-	"spd": 97,
-	"res": 60,
-	"acc": 0,
-	"crate": 15,
-	"cdamage": 60,
-	"cheal": 50,
+	"hp": "18165",
+	"atk": "1432",
+	"def": "661",
+	"spd": "97",
+	"res": "60",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "60",
+	"cheal": "50",
 	"faction": "Dwarves",
 	"aura": "Increase Ally ATK in in all Battles by 25",
 	"totalBooks": "11",
@@ -19,31 +20,31 @@
 			"desc": "Attacks 1 enemy 2 times. Each hit ignores 30% of the target's DEF. Places a [Shield] buff on this Champion for 2 turns. The value of the [Shield] is equal to 20% of the damage inflicted.",
 			"basedOn": "[ATK]",
 			"name": "Brutal Bludgeon",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\n",
 			"multiplier": "1.7*ATK",
-			"numBooksToMax": 3
+			"numBooksToMax": "3"
 		},
 		{
 			"desc": "Attacks 1 enemy. Ignores 50% of target's DEF when attacking under a [Shield] buff. Heals this Champion by 50% of the damage inflicted. Places a [Shield] buff on this Champion equal to any surplus heal for 3 turns.",
 			"basedOn": "[ATK]",
 			"name": "Fearless Aggression",
-			"maxcd": 4,
-			"mincd": 4,
+			"maxcd": "4",
+			"mincd": "4",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
 			"multiplier": "4.7*ATK",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Attacks 1 enemy 3 times. Each hit ignores 25% of the target's DEF. Grants an Extra Turn if this Champion has full HP after using this Skill.",
 			"basedOn": "[ATK]",
 			"name": "Sheer Swagger",
-			"maxcd": 4,
-			"mincd": 3,
+			"maxcd": "4",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Damage +10%\n",
 			"multiplier": "1.6*ATK",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		}
 	],
 	"rarity": "Epic"

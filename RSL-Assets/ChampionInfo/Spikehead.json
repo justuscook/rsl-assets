@@ -1,16 +1,17 @@
 {
 	"name": "Spikehead",
-	"id": 1656,
+	"key": "l10n:hero-type/name?id=1650#static",
+	"id": "1656",
 	"avatar": "1650",
-	"hp": 11895,
-	"atk": 1465,
-	"def": 771,
-	"spd": 102,
-	"res": 40,
-	"acc": 0,
-	"crate": 15,
-	"cdamage": 50,
-	"cheal": 50,
+	"hp": "11895",
+	"atk": "1465",
+	"def": "771",
+	"spd": "102",
+	"res": "40",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Orcs",
 	"aura": "Increase Ally  in Arena battles by 30",
 	"totalBooks": "11",
@@ -19,31 +20,31 @@
 			"desc": "Attacks 1 enemy 2 times.",
 			"basedOn": "[ATK]",
 			"name": "Stomp",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Damage +10%\n",
 			"multiplier": "1.5*ATK",
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Places a 15% [Increase C. RATE] buff and a 50% [Increase ATK] buff on this Champion for 2 turns.",
 			"basedOn": "",
 			"name": "Battle Cry",
-			"maxcd": 4,
-			"mincd": 3,
+			"maxcd": "4",
+			"mincd": "3",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 1
+			"numBooksToMax": "1"
 		},
 		{
 			"desc": "Attacks 1 enemy 3 times. Has an extra 20% chance of inflicting a critical hit.",
 			"basedOn": "[ATK]",
 			"name": "Rip",
-			"maxcd": 5,
-			"mincd": 4,
+			"maxcd": "5",
+			"mincd": "4",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
 			"multiplier": "1.4*ATK",
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		}
 	],
 	"rarity": "Rare"

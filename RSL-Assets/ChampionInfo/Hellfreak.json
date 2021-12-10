@@ -1,16 +1,17 @@
 {
 	"name": "Hellfreak",
-	"id": 6416,
+	"key": "l10n:hero-type/name?id=6410#static",
+	"id": "6416",
 	"avatar": "6410",
-	"hp": 15195,
-	"atk": 1365,
-	"def": 650,
-	"spd": 107,
-	"res": 30,
-	"acc": 0,
-	"crate": 15,
-	"cdamage": 50,
-	"cheal": 50,
+	"hp": "15195",
+	"atk": "1365",
+	"def": "650",
+	"spd": "107",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Demonspawn",
 	"aura": "Increase Ally SPD in in all Battles by 10",
 	"totalBooks": "15",
@@ -19,31 +20,31 @@
 			"desc": "Attacks 1 enemy 2 times. Each hit has a 20% chance of placing a 60% [Decrease DEF] debuff for 2 turns.",
 			"basedOn": "[ATK]",
 			"name": "Vile Blades",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +5%\nLvl. 7 Buff/Debuff Chance +5%\nLvl. 8 Damage +5%\nLvl. 9 Buff/Debuff Chance +5%\n",
 			"multiplier": "1.6*ATK",
-			"numBooksToMax": 8
+			"numBooksToMax": "8"
 		},
 		{
 			"desc": "Attacks 1 enemy. Has a 50% chance of stealing all buffs from the target before attacking.",
 			"basedOn": "",
 			"name": "Mind Games",
-			"maxcd": 4,
-			"mincd": 3,
+			"maxcd": "4",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +15%\n",
 			"multiplier": null,
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Swaps HP with an enemy, then grants an Extra Turn.",
 			"basedOn": "",
 			"name": "Worst Nightmare",
-			"maxcd": 6,
-			"mincd": 4,
+			"maxcd": "6",
+			"mincd": "4",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 2
+			"numBooksToMax": "2"
 		}
 	],
 	"rarity": "Rare"

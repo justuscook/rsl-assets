@@ -1,16 +1,17 @@
 {
 	"name": "Vrask",
-	"id": 1666,
+	"key": "l10n:hero-type/name?id=1660#static",
+	"id": "1666",
 	"avatar": "1660",
-	"hp": 23460,
-	"atk": 870,
-	"def": 870,
-	"spd": 97,
-	"res": 45,
-	"acc": 0,
-	"crate": 15,
-	"cdamage": 50,
-	"cheal": 50,
+	"hp": "23460",
+	"atk": "870",
+	"def": "870",
+	"spd": "97",
+	"res": "45",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Orcs",
 	"aura": "Increase Ally  in Dungeons by 33",
 	"totalBooks": "8",
@@ -19,31 +20,31 @@
 			"desc": "Attacks 1 enemy. Fills this Champion's Turn Meter by 20% if this attack is critical.",
 			"basedOn": "[HP]",
 			"name": "Whack",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
 			"multiplier": "0.1*HP",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Attacks 1 enemy.",
 			"basedOn": "[HP]",
 			"name": "Lightning Strike",
-			"maxcd": 4,
-			"mincd": 3,
+			"maxcd": "4",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Damage +10%\n",
 			"multiplier": "0.15*HP",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Heals all allies by 10% of his MAX HP when he inflicts a critical hit.",
 			"basedOn": "[HP]",
 			"name": "Cannibalism [Passive]",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 0
+			"numBooksToMax": "0"
 		}
 	],
 	"rarity": "Epic"

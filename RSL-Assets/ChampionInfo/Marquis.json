@@ -1,16 +1,17 @@
 {
 	"name": "Marquis",
-	"id": 2766,
+	"key": "l10n:hero-type/name?id=2760#static",
+	"id": "2766",
 	"avatar": "2760",
-	"hp": 16845,
-	"atk": 892,
-	"def": 1013,
-	"spd": 97,
-	"res": 40,
-	"acc": 0,
-	"crate": 15,
-	"cdamage": 50,
-	"cheal": 50,
+	"hp": "16845",
+	"atk": "892",
+	"def": "1013",
+	"spd": "97",
+	"res": "40",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Demonspawn",
 	"aura": "Increase undefined Ally HP in in all Battles by 18",
 	"totalBooks": "11",
@@ -19,31 +20,31 @@
 			"desc": "Attacks 1 enemy. If the hit is critical, places a 15% [Decrease SPD] debuff.",
 			"basedOn": "[ATK]",
 			"name": "Skewer",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
 			"multiplier": "5*ATK",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Places a [Counterattack] buff and a 15% [Continuous Heal] buff on this Champion for 2 turns.",
 			"basedOn": "",
 			"name": "Infernal Skill",
-			"maxcd": 4,
-			"mincd": 2,
+			"maxcd": "4",
+			"mincd": "2",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 2
+			"numBooksToMax": "2"
 		},
 		{
 			"desc": "Attacks all enemies. Has a 35% chance of placing a [Sleep] debuff for 1 turn. This debuff cannot be removed.",
 			"basedOn": "[ATK]",
 			"name": "Paralyzing Bolts",
-			"maxcd": 4,
-			"mincd": 3,
+			"maxcd": "4",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
 			"multiplier": "5.1*ATK",
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		}
 	],
 	"rarity": "Rare"

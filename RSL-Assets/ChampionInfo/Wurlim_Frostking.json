@@ -1,16 +1,17 @@
 {
 	"name": "Wurlim Frostking",
-	"id": 4516,
+	"key": "l10n:hero-type/name?id=4510#static",
+	"id": "4516",
 	"avatar": "4510",
-	"hp": 19650,
-	"atk": 1035,
-	"def": 1233,
-	"spd": 100,
-	"res": 30,
-	"acc": 20,
-	"crate": 15,
-	"cdamage": 50,
-	"cheal": 50,
+	"hp": "19650",
+	"atk": "1035",
+	"def": "1233",
+	"spd": "100",
+	"res": "30",
+	"acc": "20",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Knights Revenant",
 	"aura": "Increase Ally  in Doom Tower battles by 40",
 	"totalBooks": "12",
@@ -19,31 +20,31 @@
 			"desc": "Attacks 1 enemy. Has a 30% chance of placing a [Freeze] debuff for 1 turn.\r\n\r\nPlaces a [Perfect Veil] buff on the ally with the lowest HP for 2 turns if the [Freeze] debuff is placed. Places a [Veil] buff on the ally with the lowest HP for 1 turn if the [Freeze] debuff is blocked or resisted.",
 			"basedOn": "[DEF]",
 			"name": "Winds of Winter",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
 			"multiplier": "4*DEF",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Attacks all enemies. Has a 70% chance of placing a 25% [Decrease C. DMG] debuff and a 50% [Decrease ACC] debuff for 2 turns. These debuffs cannot be resisted.\r\n\r\nAlso places a 30% [Increase C. DMG] buff on all allies for 2 turns.",
 			"basedOn": "[DEF]",
 			"name": "Frostbite Blast",
-			"maxcd": 4,
-			"mincd": 3,
+			"maxcd": "4",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +10%\n",
 			"multiplier": "4*DEF",
-			"numBooksToMax": 6
+			"numBooksToMax": "6"
 		},
 		{
 			"desc": "Places a 25% [Strengthen] buff and a 60% [Increase DEF] buff on all allies for 2 turns.",
 			"basedOn": "",
 			"name": "Icegrave Armor",
-			"maxcd": 5,
-			"mincd": 3,
+			"maxcd": "5",
+			"mincd": "3",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 2
+			"numBooksToMax": "2"
 		}
 	],
 	"rarity": "Legendary"

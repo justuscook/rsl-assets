@@ -1,16 +1,17 @@
 {
 	"name": "Lydia the Deathsiren",
-	"id": 4716,
+	"key": "l10n:hero-type/name?id=4710#static",
+	"id": "4716",
 	"avatar": "4710",
-	"hp": 20805,
-	"atk": 903,
-	"def": 1288,
-	"spd": 110,
-	"res": 40,
-	"acc": 0,
-	"crate": 15,
-	"cdamage": 50,
-	"cheal": 50,
+	"hp": "20805",
+	"atk": "903",
+	"def": "1288",
+	"spd": "110",
+	"res": "40",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Dark Elves",
 	"aura": "Increase Ally  in Arena battles by 100",
 	"totalBooks": "15",
@@ -19,61 +20,61 @@
 			"desc": "Attacks 1 enemy. Has a 75% chance of placing a [Fear] debuff for 1 turn. Has a 75% chance of increasing the duration of any [Poison Sensitivity] debuffs by 1 turn.\r\n\r\n[Passive Effect]\r\nAttacks enemy Champions with this Skill whenever they place a [Freeze], [Stun], [Fear], [True Fear], or [Petrification] debuff on an ally. The number of attacks increases according to how many debuffs are placed at that time; 1 attack for each [Freeze], [Stun], [Fear], [True Fear], or [Petrification] debuff placed. The first attack will target the attacker, while all extra hits will attack random enemies. Can only attack each enemy once.",
 			"basedOn": "[ATK]",
 			"name": "Oppression",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\n",
 			"multiplier": "3.75*ATK",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Attacks all enemies. Has a 75% chance of placing a 60% [Decrease DEF] debuff and a 25% [Weaken] debuff for 2 turns. Also places a 25% [Strengthen] buff and a 30% [Increase SPD] buff on all allies for 2 turns.",
 			"basedOn": "[ATK]",
 			"name": "Siren's Wail",
-			"maxcd": 4,
-			"mincd": 3,
+			"maxcd": "4",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +15%\n",
 			"multiplier": "4*ATK",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Attacks 1 enemy 2 times. The first hit has a 75% chance of placing a 25% [Poison Sensitivity] debuff for 2 turns. The second hit has a 75% chance of placing a [Block Buffs] and [Block Active Skills] debuff for 2 turns.",
 			"basedOn": "[ATK]",
 			"name": "Nullification",
-			"maxcd": 5,
-			"mincd": 3,
+			"maxcd": "5",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +15%\n",
 			"multiplier": "3.2*ATK",
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Skill 1000004 description",
 			"basedOn": "[ATK]",
 			"name": "Skill 47105 name",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "",
 			"multiplier": "3.75*ATK",
-			"numBooksToMax": 0
+			"numBooksToMax": "0"
 		},
 		{
 			"desc": "Skill 47106 description",
 			"basedOn": "",
 			"name": "Skill 47106 name",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 0
+			"numBooksToMax": "0"
 		},
 		{
 			"desc": "Denies enemy revive attempts. This works even if this Champion is dead.\r\n\r\nIf this Champion is alive when an enemy revive is denied, revives all dead allies with 50% HP and 50% Turn Meter. Grants an Extra Turn instead if there are no dead allies.\r\n\r\nIf this Champion is dead when an enemy revive is denied, revives this Champion with 50% HP and 50% Turn Meter.\r\n\r\nThis skill will ignore [Block Revive].",
 			"basedOn": "",
 			"name": "Death Hold [Passive]",
-			"maxcd": 9,
-			"mincd": 7,
+			"maxcd": "9",
+			"mincd": "7",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 2
+			"numBooksToMax": "2"
 		}
 	],
 	"rarity": "Legendary"

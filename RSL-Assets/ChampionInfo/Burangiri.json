@@ -1,16 +1,17 @@
 {
 	"name": "Burangiri",
-	"id": 6056,
+	"key": "l10n:hero-type/name?id=6050#static",
+	"id": "6056",
 	"avatar": "6050",
-	"hp": 16680,
-	"atk": 804,
-	"def": 1387,
-	"spd": 93,
-	"res": 30,
-	"acc": 15,
-	"crate": 15,
-	"cdamage": 50,
-	"cheal": 50,
+	"hp": "16680",
+	"atk": "804",
+	"def": "1387",
+	"spd": "93",
+	"res": "30",
+	"acc": "15",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Samurai",
 	"aura": "Increase Ally  in in all Battles by 40",
 	"totalBooks": "13",
@@ -19,41 +20,41 @@
 			"desc": "Attacks 1 enemy. Has a 20% chance of placing a [Provoke] debuff for 1 turn.",
 			"basedOn": "[DEF]",
 			"name": "Battering Skull",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +10%\nLvl. 7 Buff/Debuff Chance +10%\n",
 			"multiplier": "3.1*DEF",
-			"numBooksToMax": 6
+			"numBooksToMax": "6"
 		},
 		{
 			"desc": "Attacks all enemies. Has a 40% chance of placing a [Stun] debuff for 1 turn.",
 			"basedOn": "[DEF]",
 			"name": "Bakemono Charge",
-			"maxcd": 4,
-			"mincd": 3,
+			"maxcd": "4",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
 			"multiplier": "3.5*DEF",
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Places a 25% [Strengthen] buff on all allies for 2 turns. Also places a [Shield] buff for 2 turns on all allies with less than 50% HP. The [Shield] buff is equal to 15% of the target’s MAX HP.",
 			"basedOn": "",
 			"name": "Frightful Warcry",
-			"maxcd": 6,
-			"mincd": 4,
+			"maxcd": "6",
+			"mincd": "4",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 2
+			"numBooksToMax": "2"
 		},
 		{
 			"desc": "Heals this Champion by 50% of their MAX HP whenever an ally or an enemy dies.",
 			"basedOn": "[HP]",
 			"name": "Soulmonger [P]",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 0
+			"numBooksToMax": "0"
 		}
 	],
 	"rarity": "Epic"

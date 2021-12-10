@@ -1,16 +1,17 @@
 {
 	"name": "Hound Spawn",
-	"id": 1466,
+	"key": "l10n:hero-type/name?id=1460#static",
+	"id": "1466",
 	"avatar": "1460",
-	"hp": 13050,
-	"atk": 1398,
-	"def": 760,
-	"spd": 93,
-	"res": 30,
-	"acc": 0,
-	"crate": 15,
-	"cdamage": 57,
-	"cheal": 50,
+	"hp": "13050",
+	"atk": "1398",
+	"def": "760",
+	"spd": "93",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
 	"faction": "Demonspawn",
 	"aura": "",
 	"totalBooks": "15",
@@ -19,41 +20,41 @@
 			"desc": "Attacks 1 enemy. Has a 20% chance of placing a [Stun] debuff for 1 turn.",
 			"basedOn": "[ATK]",
 			"name": "Fire Breath",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Damage +5%\n",
 			"multiplier": "3.3*ATK",
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Attacks 1 enemy 2 times. Has a 50% chance of placing a 60% [Decrease DEF] debuff for 1 turn.",
 			"basedOn": "[ATK]",
 			"name": "Adamantine Teeth",
-			"maxcd": 3,
-			"mincd": 3,
+			"maxcd": "3",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +15%\n",
 			"multiplier": "2.6*ATK",
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Attacks all enemies. Will Ignore DEF and [Block Damage] buffs if the target has a [Freeze] debuff.\r\n\r\n[Only available when Hellfang is on the same team.]",
 			"basedOn": "[ATK]",
 			"name": "Shattering Strike",
-			"maxcd": 5,
-			"mincd": 4,
+			"maxcd": "5",
+			"mincd": "4",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Damage +10%\n",
 			"multiplier": "2.5*ATK",
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		},
 		{
 			"desc": "",
 			"basedOn": "",
 			"name": "",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 0
+			"numBooksToMax": "0"
 		}
 	],
 	"rarity": "Rare"

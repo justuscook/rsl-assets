@@ -1,16 +1,17 @@
 {
 	"name": "Shatterbones",
-	"id": 1016,
+	"key": "l10n:hero-type/name?id=1010#static",
+	"id": "1016",
 	"avatar": "1010",
-	"hp": 13875,
-	"atk": 1498,
-	"def": 881,
-	"spd": 97,
-	"res": 30,
-	"acc": 0,
-	"crate": 15,
-	"cdamage": 60,
-	"cheal": 50,
+	"hp": "13875",
+	"atk": "1498",
+	"def": "881",
+	"spd": "97",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "60",
+	"cheal": "50",
 	"faction": "Ogryn Tribes",
 	"aura": "Increase Ally ACC in Arena battles by 70",
 	"totalBooks": "11",
@@ -19,31 +20,31 @@
 			"desc": "Attacks 1 enemy. Places a 25% [Increase ATK] buff on all allies for 1 turn if this attack is critical.",
 			"basedOn": "[ATK]",
 			"name": "Rend",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
 			"multiplier": "3.5*ATK",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Attacks all enemies 3 times. Has a 50% chance to decrease the Turn Meter by 30%.",
 			"basedOn": "[ATK]",
 			"name": "Hail",
-			"maxcd": 5,
-			"mincd": 4,
+			"maxcd": "5",
+			"mincd": "4",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
 			"multiplier": "1.4*ATK",
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Places a 15% [Decrease SPD] debuff on all enemies for 2 turns. Fills the Turn Meter of all allies by 25%.",
 			"basedOn": "",
 			"name": "Warcry",
-			"maxcd": 7,
-			"mincd": 5,
+			"maxcd": "7",
+			"mincd": "5",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 2
+			"numBooksToMax": "2"
 		}
 	],
 	"rarity": "Epic"

@@ -1,16 +1,17 @@
 {
 	"name": "Gravechill Killer",
-	"id": 4736,
+	"key": "l10n:hero-type/name?id=4730#static",
+	"id": "4736",
 	"avatar": "4730",
-	"hp": 13545,
-	"atk": 1233,
-	"def": 892,
-	"spd": 96,
-	"res": 30,
-	"acc": 10,
-	"crate": 15,
-	"cdamage": 50,
-	"cheal": 50,
+	"hp": "13545",
+	"atk": "1233",
+	"def": "892",
+	"spd": "96",
+	"res": "30",
+	"acc": "10",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Undead Hordes",
 	"aura": "",
 	"totalBooks": "14",
@@ -19,31 +20,31 @@
 			"desc": "Attacks 1 enemy. Has a 40% chance of placing a 5% [Poison] debuff for 1 turn.",
 			"basedOn": "[ATK]",
 			"name": "Freezing Toxin",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
 			"multiplier": "3.9*ATK",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Attacks 1 enemy. Has a 75% chance of placing a 30% [Decrease DEF] debuff for 2 turns. Has a 75% chance of placing a 60% [Decrease DEF] debuff instead if the target is under a [Poison] debuff.",
 			"basedOn": "[ATK]",
 			"name": "Blood Chill",
-			"maxcd": 4,
-			"mincd": 3,
+			"maxcd": "4",
+			"mincd": "3",
 			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +10%\n",
 			"multiplier": "6.8*ATK",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Attacks 1 enemy 2 times.Each hit places a 2.5% [Poison] debuff for 2 turns. Places a 5% [Poison] debuff instead if the target is under a [Poison Sensitivity] debuff.",
 			"basedOn": "[ATK]",
 			"name": "Icy Veins",
-			"maxcd": 5,
-			"mincd": 3,
+			"maxcd": "5",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Damage +10%\nLvl. 5 Damage +10%\n",
 			"multiplier": "2.65*ATK",
-			"numBooksToMax": 6
+			"numBooksToMax": "6"
 		}
 	],
 	"rarity": "Rare"

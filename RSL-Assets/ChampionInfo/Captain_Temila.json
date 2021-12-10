@@ -1,16 +1,17 @@
 {
 	"name": "Captain Temila",
-	"id": 3776,
+	"key": "l10n:hero-type/name?id=3770#static",
+	"id": "3776",
 	"avatar": "3770",
-	"hp": 18825,
-	"atk": 936,
-	"def": 1112,
-	"spd": 96,
-	"res": 45,
-	"acc": 0,
-	"crate": 15,
-	"cdamage": 50,
-	"cheal": 50,
+	"hp": "18825",
+	"atk": "936",
+	"def": "1112",
+	"spd": "96",
+	"res": "45",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Dark Elves",
 	"aura": "Increase Ally  in Faction Crypts by 45",
 	"totalBooks": "10",
@@ -19,31 +20,31 @@
 			"desc": "Attacks 1 enemy. Has a 50% chance of placing a 15% [Continuous Heal] buff on this Champion for 1 turn if the hit is critical.",
 			"basedOn": "[ATK]",
 			"name": "Bond of Duty",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
 			"multiplier": "4.9*ATK",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Places a 60% [Increase DEF] buff on all allies for 2 turns. Heals all allies by 15% of this Champion's MAX HP.",
 			"basedOn": "",
 			"name": "Stay In The Fight",
-			"maxcd": 4,
-			"mincd": 3,
+			"maxcd": "4",
+			"mincd": "3",
 			"books": "Lvl. 2  Heal +5%\nLvl. 3  Heal +5%\nLvl. 4  Heal +5%\nLvl. 5  Heal +5%\n",
 			"multiplier": "",
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Places a 50% [Ally Protection] buff on all allies except this Champion for 2 turns.",
 			"basedOn": "",
 			"name": "Exalted Guardian",
-			"maxcd": 5,
-			"mincd": 4,
+			"maxcd": "5",
+			"mincd": "4",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 1
+			"numBooksToMax": "1"
 		}
 	],
 	"rarity": "Epic"

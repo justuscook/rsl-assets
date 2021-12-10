@@ -1,16 +1,17 @@
 {
 	"name": "Dolor Lorekeeper",
-	"id": 5156,
+	"key": "l10n:hero-type/name?id=5150#static",
+	"id": "5156",
 	"avatar": "5150",
-	"hp": 16845,
-	"atk": 1035,
-	"def": 870,
-	"spd": 98,
-	"res": 30,
-	"acc": 0,
-	"crate": 15,
-	"cdamage": 50,
-	"cheal": 50,
+	"hp": "16845",
+	"atk": "1035",
+	"def": "870",
+	"spd": "98",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Dwarves",
 	"aura": "Increase Ally HP in in all Battles by 15",
 	"totalBooks": "12",
@@ -19,31 +20,31 @@
 			"desc": "Attacks 1 enemy. Has a 25% chance of placing a [Block Active Skills] debuff for 1 turn.",
 			"basedOn": "[ATK]",
 			"name": "Banisher Axe",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +5%\nLvl. 7 Buff/Debuff Chance +5%\nLvl. 8 Buff/Debuff Chance +5%\n",
 			"multiplier": "3.46*ATK",
-			"numBooksToMax": 7
+			"numBooksToMax": "7"
 		},
 		{
 			"desc": "Attacks 1 enemy. Has a 40% chance of placing a [Stun] debuff for 1 turn if the target is under any debuff.",
 			"basedOn": "[ATK]",
 			"name": "Stern Punishment",
-			"maxcd": 3,
-			"mincd": 3,
+			"maxcd": "3",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
 			"multiplier": "5.69*ATK",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Places a 15% [Continuous Heal] buff on all allies for 2 turns. Also places a [Block Debuffs] buff on the target ally for 1 turn if they have less than 100% HP.",
 			"basedOn": "",
 			"name": "Forebear's Boon",
-			"maxcd": 5,
-			"mincd": 4,
+			"maxcd": "5",
+			"mincd": "4",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 1
+			"numBooksToMax": "1"
 		}
 	],
 	"rarity": "Rare"

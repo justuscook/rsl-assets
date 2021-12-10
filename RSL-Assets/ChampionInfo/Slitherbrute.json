@@ -1,16 +1,17 @@
 {
 	"name": "Slitherbrute",
-	"id": 2936,
+	"key": "l10n:hero-type/name?id=2930#static",
+	"id": "2936",
 	"avatar": "2930",
-	"hp": 12885,
-	"atk": 1310,
-	"def": 859,
-	"spd": 98,
-	"res": 30,
-	"acc": 0,
-	"crate": 15,
-	"cdamage": 57,
-	"cheal": 50,
+	"hp": "12885",
+	"atk": "1310",
+	"def": "859",
+	"spd": "98",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
 	"faction": "Lizard Men",
 	"aura": "Increase Ally ACC in Dungeons by 40",
 	"totalBooks": "11",
@@ -19,31 +20,31 @@
 			"desc": "Attacks 1 enemy. Has a 30% chance of placing a 30% [Decrease SPD] debuff for 2 turns.",
 			"basedOn": "[ATK]",
 			"name": "Rusty Gash",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +10%\n",
 			"multiplier": "ATK*3.5",
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Attacks 1 enemy and steals 1 random buff from them.",
 			"basedOn": "[ATK]",
 			"name": "Essence Snatch",
-			"maxcd": 4,
-			"mincd": 3,
+			"maxcd": "4",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
 			"multiplier": "ATK*5.5",
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Attacks 1 enemy. Decreases the target's Turn Meter equal to the amount of buffs on the target.",
 			"basedOn": "[ATK]",
 			"name": "Punish Hubris",
-			"maxcd": 5,
-			"mincd": 4,
+			"maxcd": "5",
+			"mincd": "4",
 			"books": "",
 			"multiplier": "ATK*5.9",
-			"numBooksToMax": 1
+			"numBooksToMax": "1"
 		}
 	],
 	"rarity": "Rare"

@@ -1,16 +1,17 @@
 {
 	"name": "Inquisitor Shamael",
-	"id": 4546,
+	"key": "l10n:hero-type/name?id=4540#static",
+	"id": "4546",
 	"avatar": "4540",
-	"hp": 16680,
-	"atk": 1288,
-	"def": 903,
-	"spd": 101,
-	"res": 30,
-	"acc": 0,
-	"crate": 15,
-	"cdamage": 60,
-	"cheal": 50,
+	"hp": "16680",
+	"atk": "1288",
+	"def": "903",
+	"spd": "101",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "60",
+	"cheal": "50",
 	"faction": "Sacred Order",
 	"aura": "Increase Ally ACC in Doom Tower battles by 60",
 	"totalBooks": "10",
@@ -19,41 +20,41 @@
 			"desc": "Attacks 1 enemy. Has a 50% chance of decreasing the duration of a random buff on the target by 1 turn.\r\n\r\nEvery time an enemy places a debuff on an ally, uses this skill against that enemy. These counterattacks will only deal 50% of the normal damage and cannot be critical.\r\n\r\nIf there are multiple Champions in the team with this Skill, only one Champion's counterattack will activate.",
 			"basedOn": "[ATK]",
 			"name": "Wreak Revenge",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Damage +10%\nLvl. 7 Buff/Debuff Chance +10%\nLvl. 8 Damage +15%\n",
 			"multiplier": "2.9*ATK",
-			"numBooksToMax": 7
+			"numBooksToMax": "7"
 		},
 		{
 			"desc": "Attacks 1 enemy 3 times. Will ignore 25% of the target's DEF. Will ignore a further 25% of the target's DEF for each buff on this Champion. Places a [True Fear] debuff on all enemies for 1 turn if this attack kills an enemy.",
 			"basedOn": "[ATK]",
 			"name": "Cow the Horrors",
-			"maxcd": 3,
-			"mincd": 3,
+			"maxcd": "3",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Damage +15%\n",
 			"multiplier": "2*ATK",
-			"numBooksToMax": 3
+			"numBooksToMax": "3"
 		},
 		{
 			"desc": "Each critical hit fills this Champion's Turn Meter by 7.5%. Whenever an ally receives a [Fear] or a [True Fear] debuff from an enemy, this skill will instantly remove the debuff and fill the ally's Turn Meter by 15%.",
 			"basedOn": "",
 			"name": "Dauntless [P]",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 0
+			"numBooksToMax": "0"
 		},
 		{
 			"desc": "passive counterattack for skill 45404",
 			"basedOn": "[ATK]",
 			"name": "Skill 45405 name",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "",
 			"multiplier": "1.45*ATK",
-			"numBooksToMax": 0
+			"numBooksToMax": "0"
 		}
 	],
 	"rarity": "Epic"

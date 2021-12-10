@@ -1,16 +1,17 @@
 {
 	"name": "Warlord",
-	"id": 666,
+	"key": "l10n:hero-type/name?id=660#static",
+	"id": "666",
 	"avatar": "660",
-	"hp": 22305,
-	"atk": 914,
-	"def": 1178,
-	"spd": 100,
-	"res": 30,
-	"acc": 20,
-	"crate": 15,
-	"cdamage": 50,
-	"cheal": 50,
+	"hp": "22305",
+	"atk": "914",
+	"def": "1178",
+	"spd": "100",
+	"res": "30",
+	"acc": "20",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Orcs",
 	"aura": "Increase Ally  in in all Battles by 80",
 	"totalBooks": "10",
@@ -19,31 +20,31 @@
 			"desc": "Attacks 1 enemy. Has a 25% chance of increasing the duration of all debuffs on the target by 1 turn",
 			"basedOn": "[ATK]",
 			"name": "Bludgeon",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\n",
 			"multiplier": "5*ATK",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Places a [Block Debuffs] buff on all allies for 1 turn, then places a [Shield] buff on all allies for equal to 30% of this Champion's MAX HP for 2 turns. Heals all allies by 25% of their MAX HP.",
 			"basedOn": "",
 			"name": "Protection of Gods",
-			"maxcd": 4,
-			"mincd": 3,
+			"maxcd": "4",
+			"mincd": "3",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 1
+			"numBooksToMax": "1"
 		},
 		{
 			"desc": "Attacks all enemies. Has a 70% chance to put each target's Skills on cooldown. Has a 30% chance to fully deplete each target's Turn Meter.",
 			"basedOn": "[ATK]",
 			"name": "Orcish Rituals",
-			"maxcd": 5,
-			"mincd": 4,
+			"maxcd": "5",
+			"mincd": "4",
 			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
 			"multiplier": "5.5*ATK",
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		}
 	],
 	"rarity": "Legendary"

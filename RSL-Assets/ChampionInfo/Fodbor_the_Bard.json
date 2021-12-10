@@ -1,16 +1,17 @@
 {
 	"name": "Fodbor the Bard",
-	"id": 5636,
+	"key": "l10n:hero-type/name?id=5630#static",
+	"id": "5636",
 	"avatar": "5630",
-	"hp": 15360,
-	"atk": 1454,
-	"def": 826,
-	"spd": 100,
-	"res": 30,
-	"acc": 0,
-	"crate": 15,
-	"cdamage": 60,
-	"cheal": 50,
+	"hp": "15360",
+	"atk": "1454",
+	"def": "826",
+	"spd": "100",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "60",
+	"cheal": "50",
 	"faction": "Dwarves",
 	"aura": "",
 	"totalBooks": "13",
@@ -19,31 +20,31 @@
 			"desc": "Attacks 1 enemy 3 times. Has a 15% chance of placing a 100% [Heal Reduction] debuff for 2 turns.",
 			"basedOn": "[ATK]",
 			"name": "Axe Solo",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
 			"multiplier": "1.2*ATK",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Attacks 1 enemy. Has an 80% chance of stealing 2 random buff from the target. Has an 80% chance of placing a [Stun] debuff for 1 turn instead if the target has no active buffs.",
 			"basedOn": "[ATK]",
 			"name": "Robber's Tale",
-			"maxcd": 4,
-			"mincd": 3,
+			"maxcd": "4",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
 			"multiplier": "5.5*ATK",
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Attacks all enemies. Has a 75% chance of placing a 60% [Decrease DEF] debuff for 2 turns.",
 			"basedOn": "[ATK]",
 			"name": "Awful Crooning",
-			"maxcd": 5,
-			"mincd": 4,
+			"maxcd": "5",
+			"mincd": "4",
 			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +15%\n",
 			"multiplier": "3.4*ATK",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		}
 	],
 	"rarity": "Epic"

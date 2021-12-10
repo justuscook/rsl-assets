@@ -1,16 +1,17 @@
 {
 	"name": "Luria",
-	"id": 266,
+	"key": "l10n:hero-type/name?id=260#static",
+	"id": "266",
 	"avatar": "260",
-	"hp": 13050,
-	"atk": 1487,
-	"def": 947,
-	"spd": 104,
-	"res": 30,
-	"acc": 10,
-	"crate": 15,
-	"cdamage": 50,
-	"cheal": 50,
+	"hp": "13050",
+	"atk": "1487",
+	"def": "947",
+	"spd": "104",
+	"res": "30",
+	"acc": "10",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Dark Elves",
 	"aura": "",
 	"totalBooks": "15",
@@ -19,31 +20,31 @@
 			"desc": "Attacks 1 enemy. Has a 50% chance of placing a 60% [Decrease DEF] debuff OR a 100% [Heal Reduction] debuff OR a 30% [Decrease SPD] debuff for 2 turns.",
 			"basedOn": "[ATK]",
 			"name": "Cursed Sword",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Damage +10%\nLvl. 7 Buff/Debuff Chance +10%\n",
 			"multiplier": "3.55*ATK",
-			"numBooksToMax": 6
+			"numBooksToMax": "6"
 		},
 		{
 			"desc": "Attacks all enemies. Has a 50% chance of placing a [Freeze] debuff for 1 turn. Enemies killed by this skill cannot be revived.",
 			"basedOn": "[ATK]",
 			"name": "Mark of Fear",
-			"maxcd": 4,
-			"mincd": 4,
+			"maxcd": "4",
+			"mincd": "4",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Damage +10%\nLvl. 6 Buff/Debuff Chance +15%\n",
 			"multiplier": "3.6*ATK",
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Attacks 1 enemy. Removes all buffs. Also has an 80% chance of placing a [Block Buffs] debuff for 2 turns.",
 			"basedOn": "[ATK]",
 			"name": "Hex",
-			"maxcd": 5,
-			"mincd": 5,
+			"maxcd": "5",
+			"mincd": "5",
 			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
 			"multiplier": "5.4*ATK",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		}
 	],
 	"rarity": "Epic"

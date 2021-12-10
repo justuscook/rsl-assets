@@ -1,16 +1,17 @@
 {
 	"name": "Aox the Rememberer",
-	"id": 4826,
+	"key": "l10n:hero-type/name?id=4820#static",
+	"id": "4826",
 	"avatar": "4820",
-	"hp": 17010,
-	"atk": 991,
-	"def": 1178,
-	"spd": 99,
-	"res": 30,
-	"acc": 15,
-	"crate": 15,
-	"cdamage": 50,
-	"cheal": 50,
+	"hp": "17010",
+	"atk": "991",
+	"def": "1178",
+	"spd": "99",
+	"res": "30",
+	"acc": "15",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Lizard Men",
 	"aura": "Increase Ally ACC in Doom Tower battles by 60",
 	"totalBooks": "15",
@@ -19,41 +20,41 @@
 			"desc": "Attacks 1 enemy 2 times. Each hit has a 10% chance of placing a 5% [Poison] debuff for 2 turns.",
 			"basedOn": "[ATK]",
 			"name": "Feathered Staff",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +10%\n",
 			"multiplier": "2.1*ATK",
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Attacks 1 enemy. Heals all allies by 10% of their MAX HP.\r\n\r\nHeals each ally by an extra 2.5% for each debuff on the target.",
 			"basedOn": "[ATK]",
 			"name": "Lore of Restoration",
-			"maxcd": 4,
-			"mincd": 3,
+			"maxcd": "4",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5  Heal +10%\n",
 			"multiplier": "5.7*ATK",
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Places a 50% [Decrease ATK] debuff on all enemies for 2 turns. Also has a 75% chance of decreasing each enemy's Turn Meter by 20%. Places a 30% [Decrease C. RATE] debuff on the target for 2 turns if they have 50% or more Turn Meter after the Turn Meter decrease.",
 			"basedOn": "",
 			"name": "Weight of Aeons",
-			"maxcd": 4,
-			"mincd": 3,
+			"maxcd": "4",
+			"mincd": "3",
 			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\n",
 			"multiplier": "",
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Increases the duration of 2 random debuffs on the attacker by 1 turn when attacked. Occurs once per hit.",
 			"basedOn": "",
 			"name": "Steward of Time [P]",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 0
+			"numBooksToMax": "0"
 		}
 	],
 	"rarity": "Epic"

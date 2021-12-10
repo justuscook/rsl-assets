@@ -1,16 +1,17 @@
 {
 	"name": "Gnarlhorn",
-	"id": 1106,
+	"key": "l10n:hero-type/name?id=1100#static",
+	"id": "1106",
 	"avatar": "1100",
-	"hp": 17010,
-	"atk": 958,
-	"def": 936,
-	"spd": 96,
-	"res": 45,
-	"acc": 0,
-	"crate": 15,
-	"cdamage": 50,
-	"cheal": 50,
+	"hp": "17010",
+	"atk": "958",
+	"def": "936",
+	"spd": "96",
+	"res": "45",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Skinwalkers",
 	"aura": "Increase Ally  in Dungeons by 27",
 	"totalBooks": "7",
@@ -19,31 +20,31 @@
 			"desc": "Attacks 1 enemy. Damage increases according to how much HP this Champion has lost. This attack cannot be a strong, critical, or weak hit.",
 			"basedOn": "[ATK]",
 			"name": "Ram",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
 			"multiplier": "ATK*(2.5+3*(1-HP_PERC))",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Places a [Provoke] debuff on all enemies for 1 turn. Places a 30% [Increase DEF] buff on this Champion for 2 turns.",
 			"basedOn": "",
 			"name": "War Drum",
-			"maxcd": 4,
-			"mincd": 3,
+			"maxcd": "4",
+			"mincd": "3",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 1
+			"numBooksToMax": "1"
 		},
 		{
 			"desc": "Places an [Unkillable] buff on this Champion for 2 turns.",
 			"basedOn": "",
 			"name": "Determined",
-			"maxcd": 5,
-			"mincd": 3,
+			"maxcd": "5",
+			"mincd": "3",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 2
+			"numBooksToMax": "2"
 		}
 	],
 	"rarity": "Rare"

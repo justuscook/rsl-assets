@@ -1,16 +1,17 @@
 {
 	"name": "Seeker",
-	"id": 1126,
+	"key": "l10n:hero-type/name?id=1120#static",
+	"id": "1126",
 	"avatar": "1120",
-	"hp": 16845,
-	"atk": 1002,
-	"def": 1178,
-	"spd": 103,
-	"res": 45,
-	"acc": 0,
-	"crate": 15,
-	"cdamage": 50,
-	"cheal": 50,
+	"hp": "16845",
+	"atk": "1002",
+	"def": "1178",
+	"spd": "103",
+	"res": "45",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Undead Hordes",
 	"aura": "Increase Ally  in Arena battles by 30",
 	"totalBooks": "9",
@@ -19,31 +20,31 @@
 			"desc": "Attacks 1 enemy 2 times. Has a 25% chance of placing a [Provoke] debuff for 1 turn.",
 			"basedOn": "[ATK]",
 			"name": "Devour",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Damage +10%\nLvl. 7 Buff/Debuff Chance +10%\nLvl. 8 Damage +10%\n",
 			"multiplier": "2.2*ATK",
-			"numBooksToMax": 7
+			"numBooksToMax": "7"
 		},
 		{
 			"desc": "Fills the Turn Meter of all allies by 30%. Places a 50% [Increase ATK] buff on all allies for 2 turns. Grants an Extra Turn.",
 			"basedOn": "",
 			"name": "Tailwind",
-			"maxcd": 5,
-			"mincd": 3,
+			"maxcd": "5",
+			"mincd": "3",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 2
+			"numBooksToMax": "2"
 		},
 		{
 			"desc": "Heals this Champion by 20% HP and places a 60% [Increase DEF] buff on all allies for 2 turns when hit with a critical hit.",
 			"basedOn": "[HP]",
 			"name": "Dark Blood [Passive]",
-			"maxcd": 5,
-			"mincd": 5,
+			"maxcd": "5",
+			"mincd": "5",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 0
+			"numBooksToMax": "0"
 		}
 	],
 	"rarity": "Epic"

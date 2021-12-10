@@ -1,16 +1,17 @@
 {
 	"name": "Conquerer",
-	"id": 806,
+	"key": "l10n:hero-type/name?id=800#static",
+	"id": "806",
 	"avatar": "800",
-	"hp": 12225,
-	"atk": 1421,
-	"def": 793,
-	"spd": 99,
-	"res": 30,
-	"acc": 0,
-	"crate": 15,
-	"cdamage": 57,
-	"cheal": 50,
+	"hp": "12225",
+	"atk": "1421",
+	"def": "793",
+	"spd": "99",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
 	"faction": "Banner Lords",
 	"aura": "Increase Ally ATK in in all Battles by 18",
 	"totalBooks": "14",
@@ -19,31 +20,31 @@
 			"desc": "Attacks 1 enemy 2 times.",
 			"basedOn": "[ATK]",
 			"name": "Swift Blow",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
 			"multiplier": "1.9*ATK",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Attacks 1 enemy. Removes 2 random buffs from the target.",
 			"basedOn": "[ATK]",
 			"name": "Cut Down To Size",
-			"maxcd": 4,
-			"mincd": 2,
+			"maxcd": "4",
+			"mincd": "2",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\n",
 			"multiplier": "5.2*ATK",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Attacks 1 enemy. Enemies killed by this skill cannot be revived.",
 			"basedOn": "[ATK]",
 			"name": "Purge",
-			"maxcd": 5,
-			"mincd": 3,
+			"maxcd": "5",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Damage +10%\n",
 			"multiplier": "5.6*ATK",
-			"numBooksToMax": 6
+			"numBooksToMax": "6"
 		}
 	],
 	"rarity": "Rare"

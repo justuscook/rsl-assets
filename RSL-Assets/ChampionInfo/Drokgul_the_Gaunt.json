@@ -1,16 +1,17 @@
 {
 	"name": "Drokgul the Gaunt",
-	"id": 4796,
+	"key": "l10n:hero-type/name?id=4790#static",
+	"id": "4796",
 	"avatar": "4790",
-	"hp": 22965,
-	"atk": 991,
-	"def": 1057,
-	"spd": 107,
-	"res": 40,
-	"acc": 0,
-	"crate": 15,
-	"cdamage": 50,
-	"cheal": 50,
+	"hp": "22965",
+	"atk": "991",
+	"def": "1057",
+	"spd": "107",
+	"res": "40",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Ogryn Tribes",
 	"aura": "Increase Ally HP in in all Battles by 25",
 	"totalBooks": "11",
@@ -19,41 +20,41 @@
 			"desc": "Attacks 1 enemy. Has a 20% chance of placing a [Stun] debuff for 1 turn.",
 			"basedOn": "[HP]",
 			"name": "Bonebreak Boulder",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +10%\n",
 			"multiplier": "0.2*HP",
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Places a 50% [Increase ATK] buff and a 60% [Increase DEF] buff on all allies for 2 turns. Also places a [Block Damage] buff for 1 turn on allies with less than 30% HP.",
 			"basedOn": "",
 			"name": "Eldritch Ground",
-			"maxcd": 5,
-			"mincd": 3,
+			"maxcd": "5",
+			"mincd": "3",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 2
+			"numBooksToMax": "2"
 		},
 		{
 			"desc": "[Active Effect]\r\nPlaces a [Shield] buff equal to 15% of this Champion's MAX HP on all allies for 3 turns. \r\n\r\n[Passive Effect]\r\nHeals each ally by 15% of this Champion's MAX HP whenever a [Shield] buff placed by this Skill expires, is removed, or is broken by an enemy attack. Allies whose [Shield] buffs are broken will also counterattack the enemy that breaks the [Shield]. When a [Shield] is broken, the heal occurs instantly before any remaining damage from the Shield-breaking attack is taken.",
 			"basedOn": "[HP]",
 			"name": "Runestone Blessing",
-			"maxcd": 5,
-			"mincd": 4,
+			"maxcd": "5",
+			"mincd": "4",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Passive part of skill 47904 Heal when Shield expires, ActivateSkill on Shield destroying.",
 			"basedOn": "[HP]",
 			"name": "47906 (47904 Passive part)",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 0
+			"numBooksToMax": "0"
 		}
 	],
 	"rarity": "Legendary"

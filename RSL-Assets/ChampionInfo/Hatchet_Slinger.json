@@ -1,16 +1,17 @@
 {
 	"name": "Hatchet Slinger",
-	"id": 4686,
+	"key": "l10n:hero-type/name?id=4680#static",
+	"id": "4686",
 	"avatar": "4680",
-	"hp": 10575,
-	"atk": 1321,
-	"def": 1002,
-	"spd": 93,
-	"res": 30,
-	"acc": 0,
-	"crate": 15,
-	"cdamage": 57,
-	"cheal": 50,
+	"hp": "10575",
+	"atk": "1321",
+	"def": "1002",
+	"spd": "93",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
 	"faction": "Dwarves",
 	"aura": "",
 	"totalBooks": "14",
@@ -19,31 +20,31 @@
 			"desc": "Attacks 1 enemy 2 times. Has an 80% chance of ignoring 15% of the target’s DEF if this Champion has 50% HP or higher. Has a 10% chance of placing a [Stun] debuff for 1 turn if this Champion has less than 50% HP.",
 			"basedOn": "[ATK]",
 			"name": "Axe Frenzy",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +5%\nLvl. 7 Buff/Debuff Chance +5%\nLvl. 8 Damage +5%\nLvl. 9 Buff/Debuff Chance +5%\n",
 			"multiplier": "2*ATK",
-			"numBooksToMax": 8
+			"numBooksToMax": "8"
 		},
 		{
 			"desc": "Places an [Unkillable] buff on this Champion for 2 turns.",
 			"basedOn": "",
 			"name": "Dwarven Fortitude",
-			"maxcd": 7,
-			"mincd": 4,
+			"maxcd": "7",
+			"mincd": "4",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 3
+			"numBooksToMax": "3"
 		},
 		{
 			"desc": "Has a 5% chance of counterattacking when hit. Has a 25% chance of counterattacking when hit with a critical hit.",
 			"basedOn": "",
 			"name": "Hatchets For All [P]",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +5%\n",
 			"multiplier": "",
-			"numBooksToMax": 3
+			"numBooksToMax": "3"
 		}
 	],
 	"rarity": "Rare"

@@ -1,16 +1,17 @@
 {
 	"name": "Teumesia",
-	"id": 6246,
+	"key": "l10n:hero-type/name?id=6240#static",
+	"id": "6246",
 	"avatar": "6240",
-	"hp": 16020,
-	"atk": 1476,
-	"def": 1035,
-	"spd": 101,
-	"res": 30,
-	"acc": 10,
-	"crate": 15,
-	"cdamage": 63,
-	"cheal": 50,
+	"hp": "16020",
+	"atk": "1476",
+	"def": "1035",
+	"spd": "101",
+	"res": "30",
+	"acc": "10",
+	"crate": "15",
+	"cdamage": "63",
+	"cheal": "50",
 	"faction": "Skinwalkers",
 	"aura": "",
 	"totalBooks": "13",
@@ -19,41 +20,41 @@
 			"desc": "Attacks 1 enemy. Has a 50% chance of placing a 60% [Decrease DEF] debuff for 2 turns. \r\n\r\nHas a 100% chance of placing a 60% [Decrease DEF] debuff for 2 turns on the target before attacking if the target is under a [HP Burn] debuff.",
 			"basedOn": "",
 			"name": "Fiery Battleaxe",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\n",
 			"multiplier": null,
-			"numBooksToMax": 3
+			"numBooksToMax": "3"
 		},
 		{
 			"desc": "Attacks all enemies. Has a 75% chance of placing a [HP Burn] debuff for 3 turns.\r\n\r\nHas a 75% chance of placing a [Stun] debuff for 1 turn on targets with 50% Turn Meter or more.\r\n\r\nHas a 75% chance of placing a 30% [Decrease SPD] debuff for 3 turns on targets with less than 50% Turn Meter.",
 			"basedOn": "[ATK]",
 			"name": "Cunning Chaos",
-			"maxcd": 4,
-			"mincd": 3,
+			"maxcd": "4",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\n",
 			"multiplier": "4*ATK",
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Attacks 1 enemy. Damage increases by 40% for each active [HP Burn] debuff in the battle (up to 400%). \r\nAlso has a 75% chance of decreasing the target’s Turn Meter by 15%. Decreases the target’s Turn Meter by an additional 15% for each active [HP Burn] debuff in the battle.",
 			"basedOn": "[ATK]",
 			"name": "Burning Regret",
-			"maxcd": 4,
-			"mincd": 3,
+			"maxcd": "4",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\n",
 			"multiplier": "5.5*ATK",
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Whenever an ally receives a [Freeze] debuff, has a 50% chance of replacing it with a [HP Burn] for 2 turns instead. This debuff cannot be blocked or removed.\r\n\r\nWhenever any ally or enemy is under a [HP Burn] debuff, this Champion is immune to [Stun], [Sleep], [Freeze], [Fear], [True Fear], [Provoke], [Petrification] debuffs.",
 			"basedOn": "",
 			"name": "Inner Heat [P]",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 0
+			"numBooksToMax": "0"
 		}
 	],
 	"rarity": "Legendary"

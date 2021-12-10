@@ -1,16 +1,17 @@
 {
 	"name": "Amarantine Skeleton",
-	"id": 3636,
+	"key": "l10n:hero-type/name?id=3630#static",
+	"id": "3636",
 	"avatar": "3630",
-	"hp": 17505,
-	"atk": 683,
-	"def": 1178,
-	"spd": 93,
-	"res": 30,
-	"acc": 10,
-	"crate": 15,
-	"cdamage": 50,
-	"cheal": 50,
+	"hp": "17505",
+	"atk": "683",
+	"def": "1178",
+	"spd": "93",
+	"res": "30",
+	"acc": "10",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Undead Hordes",
 	"aura": "",
 	"totalBooks": "15",
@@ -19,31 +20,31 @@
 			"desc": "Attacks 1 enemy. Has a 30% chance of placing a [Block Buffs] debuff for 2 turns.",
 			"basedOn": "[DEF]",
 			"name": "Sorcerous Bones",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\nLvl. 6 Buff/Debuff Chance +10%\nLvl. 7 Buff/Debuff Chance +10%\n",
 			"multiplier": "3.4*DEF",
-			"numBooksToMax": 6
+			"numBooksToMax": "6"
 		},
 		{
 			"desc": "Attacks 1 enemy. Has an 80% chance of placing a [Block Active Skills] debuff for 1 turn. Also has an 80% chance of placing a 50% [Heal Reduction] debuff for 2 turns.",
 			"basedOn": "[DEF]",
 			"name": "Tomb Blight",
-			"maxcd": 3,
-			"mincd": 3,
+			"maxcd": "3",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +10%\n",
 			"multiplier": "5.6*DEF",
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Attacks 1 enemy. Places a 30% [Increase DEF] buff on this Champion for 2 turns.",
 			"basedOn": "[DEF]",
 			"name": "Rusted Targe",
-			"maxcd": 4,
-			"mincd": 3,
+			"maxcd": "4",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\n",
 			"multiplier": "5.4*DEF",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		}
 	],
 	"rarity": "Rare"

@@ -1,16 +1,17 @@
 {
 	"name": "Goremask",
-	"id": 1266,
+	"key": "l10n:hero-type/name?id=1260#static",
+	"id": "1266",
 	"avatar": "1260",
-	"hp": 12225,
-	"atk": 1509,
-	"def": 705,
-	"spd": 98,
-	"res": 30,
-	"acc": 0,
-	"crate": 15,
-	"cdamage": 57,
-	"cheal": 50,
+	"hp": "12225",
+	"atk": "1509",
+	"def": "705",
+	"spd": "98",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
 	"faction": "Orcs",
 	"aura": "Increase Ally HP in Arena battles by 25",
 	"totalBooks": "17",
@@ -19,31 +20,31 @@
 			"desc": "Attacks 1 enemy 2 times.",
 			"basedOn": "[ATK]",
 			"name": "Snap",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\nLvl. 6 Damage +10%\n",
 			"multiplier": "1.6*ATK",
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Attacks 1 enemy. Damage increases by 20% if this attack is critical.",
 			"basedOn": "[ATK]",
 			"name": "Go for the Throat",
-			"maxcd": 4,
-			"mincd": 3,
+			"maxcd": "4",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\nLvl. 6 Damage +10%\n",
 			"multiplier": "4.4*ATK",
-			"numBooksToMax": 6
+			"numBooksToMax": "6"
 		},
 		{
 			"desc": "Attacks 1 enemy. Will ignore [Shield] and [Block Damage] buffs.",
 			"basedOn": "[ATK]",
 			"name": "Tearing Jaws",
-			"maxcd": 5,
-			"mincd": 3,
+			"maxcd": "5",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
 			"multiplier": "4.8*ATK",
-			"numBooksToMax": 6
+			"numBooksToMax": "6"
 		}
 	],
 	"rarity": "Rare"

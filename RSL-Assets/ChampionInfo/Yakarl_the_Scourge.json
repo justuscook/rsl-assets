@@ -1,16 +1,17 @@
 {
 	"name": "Yakarl the Scourge",
-	"id": 5516,
+	"key": "l10n:hero-type/name?id=5510#static",
+	"id": "5516",
 	"avatar": "5510",
-	"hp": 16350,
-	"atk": 1597,
-	"def": 892,
-	"spd": 95,
-	"res": 30,
-	"acc": 10,
-	"crate": 15,
-	"cdamage": 63,
-	"cheal": 50,
+	"hp": "16350",
+	"atk": "1597",
+	"def": "892",
+	"spd": "95",
+	"res": "30",
+	"acc": "10",
+	"crate": "15",
+	"cdamage": "63",
+	"cheal": "50",
 	"faction": "Barbarians",
 	"aura": "Increase Ally ATK in Doom Tower battles by 43",
 	"totalBooks": "12",
@@ -19,41 +20,41 @@
 			"desc": "Attacks 1 enemy 2 times. Each hit has a 20% chance of placing a [Freeze] debuff for 1 turn.\r\n\r\nWill ignore [Shield] buffs if there are 1 or more enemies under [Freeze] debuffs. Will also ignore [Block Damage] buffs if there are 2 or more enemies under [Freeze] debuffs. Will also ignore 30% of the target’s DEF if there are 3 or more enemies under [Freeze] debuffs.",
 			"basedOn": "[ATK]",
 			"name": "Axe of Allwinter",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
 			"multiplier": "1.8*ATK",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Attacks 1 enemy. Has a 75% chance of placing a 30% [Decrease SPD] debuff for 3 turns and a 75% chance of placing a [Freeze] debuff for 1 turn.\r\n\r\nAlso steals 100% of the target’s Turn Meter and places a 30% [Increase SPD] buff on this Champion for 3 turns.",
 			"basedOn": "[ATK]",
 			"name": "Blizzard Rider",
-			"maxcd": 4,
-			"mincd": 3,
+			"maxcd": "4",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +15%\n",
 			"multiplier": "6*ATK",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Attacks 1 enemy 3 times. If the target is under a [Freeze] debuff, removes the debuff after attacking and places it on all enemies except the initial target. Will also attack all enemies except the initial target after the third hit.\r\n\r\nThe [Freeze] debuff will be placed on all other enemies even if the initial target dies before their [Freeze] debuff is removed.",
 			"basedOn": "[ATK]",
 			"name": "Glaciate",
-			"maxcd": 5,
-			"mincd": 4,
+			"maxcd": "5",
+			"mincd": "4",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\n",
 			"multiplier": "1.8*ATK",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		},
 		{
 			"desc": "[Passive Effect]\r\n\r\nDecreases the damage this Champion receives by 10% and increases the damage this Champion inflicts by 10% if there are 1 or more enemies under [Freeze] debuffs. \r\n\r\nIncreases this Champion’s SPD by 15 and RES by 50 if there are 2 or more enemies under [Freeze] debuffs. \r\n\r\n[Active Effect]\r\n\r\nPlaces an [Unkillable] buff on this Champion for 2 turns whenever there are 3 enemies under [Freeze] debuffs.",
 			"basedOn": "",
 			"name": "Lord of Ice [P]",
-			"maxcd": 5,
-			"mincd": 5,
+			"maxcd": "5",
+			"mincd": "5",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 0
+			"numBooksToMax": "0"
 		}
 	],
 	"rarity": "Legendary"

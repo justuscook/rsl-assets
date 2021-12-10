@@ -1,16 +1,17 @@
 {
 	"name": "Lifetaker",
-	"id": 5896,
+	"key": "l10n:hero-type/name?id=5890#static",
+	"id": "5896",
 	"avatar": "5890",
-	"hp": 17340,
-	"atk": 1145,
-	"def": 727,
-	"spd": 99,
-	"res": 30,
-	"acc": 0,
-	"crate": 15,
-	"cdamage": 57,
-	"cheal": 50,
+	"hp": "17340",
+	"atk": "1145",
+	"def": "727",
+	"spd": "99",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
 	"faction": "Samurai",
 	"aura": "",
 	"totalBooks": "12",
@@ -19,31 +20,31 @@
 			"desc": "Attacks 1 enemy 2 times. Each hit has a 30% chance of placing a 100% [Heal Reduction] debuff for 2 turns.",
 			"basedOn": "[ATK]",
 			"name": "Bleeding Serum",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
 			"multiplier": "2*ATK",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Attacks 1 enemy 3 times. Each hit has a 50% chance of decreasing the target’s Turn Meter by 10%. The third hit has a 50% chance of placing a 30% [Decrease SPD] debuff for 2 turns.",
 			"basedOn": "[ATK]",
 			"name": "Leg Bind",
-			"maxcd": 4,
-			"mincd": 3,
+			"maxcd": "4",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +5%\nLvl. 7 Buff/Debuff Chance +10%\n",
 			"multiplier": "2.3*ATK",
-			"numBooksToMax": 7
+			"numBooksToMax": "7"
 		},
 		{
 			"desc": "Places a [Veil] buff on this Champion for 1 turn and a 30% [Reflect Damage] buff on this Champion for 2 turns.",
 			"basedOn": "",
 			"name": "Diamond Body",
-			"maxcd": 4,
-			"mincd": 3,
+			"maxcd": "4",
+			"mincd": "3",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 1
+			"numBooksToMax": "1"
 		}
 	],
 	"rarity": "Rare"

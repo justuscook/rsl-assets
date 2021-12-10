@@ -1,16 +1,17 @@
 {
 	"name": "Mistress of Hymns",
-	"id": 3976,
+	"key": "l10n:hero-type/name?id=3970#static",
+	"id": "3976",
 	"avatar": "3970",
-	"hp": 18990,
-	"atk": 1024,
-	"def": 1013,
-	"spd": 103,
-	"res": 30,
-	"acc": 0,
-	"crate": 15,
-	"cdamage": 50,
-	"cheal": 50,
+	"hp": "18990",
+	"atk": "1024",
+	"def": "1013",
+	"spd": "103",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Sacred Order",
 	"aura": "Increase Ally  in in all Battles by 25",
 	"totalBooks": "10",
@@ -19,31 +20,31 @@
 			"desc": "Attacks 1 enemy.\r\n\r\nHeals the ally with the lowest HP by 15% of the damage inflicted.",
 			"basedOn": "[ATK]",
 			"name": "Bolstering Blow",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
 			"multiplier": "4*ATK",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Attacks 1 enemy.\r\n\r\nPlaces a 15% [Continuous Heal] buff on the 2 allies with the lowest HP for 2 turns if this attack is critical.",
 			"basedOn": "[ATK]",
 			"name": "Song of Triumph",
-			"maxcd": 4,
-			"mincd": 3,
+			"maxcd": "4",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
 			"multiplier": "5.7*ATK",
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Revives 2 random allies with 50% HP and places a [Veil] buff on them for 1 turn.",
 			"basedOn": "[Enemy MAX HP]",
 			"name": "Hymn of Rebirth",
-			"maxcd": 6,
-			"mincd": 5,
+			"maxcd": "6",
+			"mincd": "5",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 1
+			"numBooksToMax": "1"
 		}
 	],
 	"rarity": "Epic"

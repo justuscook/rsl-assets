@@ -1,16 +1,17 @@
 {
 	"name": "Visix the Unbowed",
-	"id": 5116,
+	"key": "l10n:hero-type/name?id=5110#static",
+	"id": "5116",
 	"avatar": "5110",
-	"hp": 17175,
-	"atk": 958,
-	"def": 1476,
-	"spd": 97,
-	"res": 50,
-	"acc": 0,
-	"crate": 15,
-	"cdamage": 50,
-	"cheal": 50,
+	"hp": "17175",
+	"atk": "958",
+	"def": "1476",
+	"spd": "97",
+	"res": "50",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Dark Elves",
 	"aura": "Increase Ally  in Faction Crypts by 37",
 	"totalBooks": "10",
@@ -19,31 +20,31 @@
 			"desc": "Attacks 1 enemy 2 times. Each hit has an 80% chance of decreasing the target's Turn Meter by 15%. Fills this Champion's Turn Meter equal to the amount the target loses.",
 			"basedOn": "[DEF]",
 			"name": "Flanged Mace",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
 			"multiplier": "1.6*DEF",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Attacks all enemies. Has a 75% chance of placing a 30% [Decrease SPD] debuff for 2 turns.\r\n\r\nAlso places a 50% [Ally Protection] buff on all allies except this Champion for 2 turns.",
 			"basedOn": "[DEF]",
 			"name": "Sinister Allies",
-			"maxcd": 4,
-			"mincd": 3,
+			"maxcd": "4",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
 			"multiplier": "3.5*DEF",
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Attacks all enemies. Places a [Provoke] debuff for 1 turn. Places a [Shield] buff on this Champion equal to 20% of their MAX HP for 2 turns.",
 			"basedOn": "[DEF]",
 			"name": "Single Combat",
-			"maxcd": 4,
-			"mincd": 3,
+			"maxcd": "4",
+			"mincd": "3",
 			"books": "",
 			"multiplier": "4.1*DEF",
-			"numBooksToMax": 1
+			"numBooksToMax": "1"
 		}
 	],
 	"rarity": "Legendary"

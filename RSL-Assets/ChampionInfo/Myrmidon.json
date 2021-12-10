@@ -1,16 +1,17 @@
 {
 	"name": "Myrmidon",
-	"id": 4666,
+	"key": "l10n:hero-type/name?id=4660#static",
+	"id": "4666",
 	"avatar": "4660",
-	"hp": 15030,
-	"atk": 804,
-	"def": 1222,
-	"spd": 99,
-	"res": 30,
-	"acc": 10,
-	"crate": 15,
-	"cdamage": 50,
-	"cheal": 50,
+	"hp": "15030",
+	"atk": "804",
+	"def": "1222",
+	"spd": "99",
+	"res": "30",
+	"acc": "10",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Banner Lords",
 	"aura": "Increase Ally  in Dungeons by 20",
 	"totalBooks": "17",
@@ -19,31 +20,31 @@
 			"desc": "Attacks 1 enemy. Has a 20% chance of placing a [Provoke] debuff for 1 turn if the target has higher MAX HP than this Champion.",
 			"basedOn": "[DEF]",
 			"name": "Bone Splitter",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +5%\nLvl. 7 Buff/Debuff Chance +5%\nLvl. 8 Damage +5%\nLvl. 9 Buff/Debuff Chance +5%\n",
 			"multiplier": "3.1*DEF",
-			"numBooksToMax": 8
+			"numBooksToMax": "8"
 		},
 		{
 			"desc": "Attacks all enemies. Has a 60% chance of placing a 25% [Decrease ATK] debuff for 2 turns.",
 			"basedOn": "[DEF]",
 			"name": "Disarm Sweep",
-			"maxcd": 4,
-			"mincd": 3,
+			"maxcd": "4",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +10%\nLvl. 7 Buff/Debuff Chance +10%\n",
 			"multiplier": "3.8*DEF",
-			"numBooksToMax": 7
+			"numBooksToMax": "7"
 		},
 		{
 			"desc": "Places a 50% [Ally Protection] buff on all allies for 2 turns. Places a 15% [Continuous Heal] buff on this Champion for 2 turns.",
 			"basedOn": "",
 			"name": "In Their Midst",
-			"maxcd": 6,
-			"mincd": 4,
+			"maxcd": "6",
+			"mincd": "4",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 2
+			"numBooksToMax": "2"
 		}
 	],
 	"rarity": "Rare"

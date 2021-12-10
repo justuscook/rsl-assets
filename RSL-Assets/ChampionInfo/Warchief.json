@@ -1,16 +1,17 @@
 {
 	"name": "Warchief",
-	"id": 946,
+	"key": "l10n:hero-type/name?id=940#static",
+	"id": "946",
 	"avatar": "21050",
-	"hp": 18990,
-	"atk": 848,
-	"def": 1465,
-	"spd": 102,
-	"res": 50,
-	"acc": 10,
-	"crate": 15,
-	"cdamage": 50,
-	"cheal": 50,
+	"hp": "18990",
+	"atk": "848",
+	"def": "1465",
+	"spd": "102",
+	"res": "50",
+	"acc": "10",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Skinwalkers",
 	"aura": "",
 	"totalBooks": "11",
@@ -19,31 +20,31 @@
 			"desc": "Attacks 1 enemy 3 times. Has a 25% chance of placing a [Provoke] debuff for 1 turn. Damage inflicted is proportional to DEF.",
 			"basedOn": "[DEF]",
 			"name": "Brutal Force",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Damage +10%\nLvl. 6 Buff/Debuff Chance +10%\n",
 			"multiplier": "1*DEF",
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Attacks 1 enemy. Places a [Provoke] debuff for 3 turns. Steals 2 random buffs from the target.",
 			"basedOn": "[DEF]",
 			"name": "Marauder",
-			"maxcd": 3,
-			"mincd": 2,
+			"maxcd": "3",
+			"mincd": "2",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Damage +10%\nLvl. 6 Damage +10%\n",
 			"multiplier": "4.3*DEF",
-			"numBooksToMax": 6
+			"numBooksToMax": "6"
 		},
 		{
 			"desc": "Reflects 60% of the damage taken back to the attacker. DEF increases by 15% for each dead ally.",
 			"basedOn": "",
 			"name": "Standstill [Passive]",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 0
+			"numBooksToMax": "0"
 		}
 	],
 	"rarity": "Legendary"

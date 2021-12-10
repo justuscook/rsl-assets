@@ -1,16 +1,17 @@
 {
 	"name": "Zavia",
-	"id": 3486,
+	"key": "l10n:hero-type/name?id=3480#static",
+	"id": "3486",
 	"avatar": "3480",
-	"hp": 18660,
-	"atk": 1586,
-	"def": 749,
-	"spd": 105,
-	"res": 30,
-	"acc": 10,
-	"crate": 15,
-	"cdamage": 63,
-	"cheal": 50,
+	"hp": "18660",
+	"atk": "1586",
+	"def": "749",
+	"spd": "105",
+	"res": "30",
+	"acc": "10",
+	"crate": "15",
+	"cdamage": "63",
+	"cheal": "50",
 	"faction": "Dark Elves",
 	"aura": "Increase Ally ATK in in all Battles by 33",
 	"totalBooks": "10",
@@ -19,41 +20,41 @@
 			"desc": "Attacks 1 enemy 3 times. Each hit has a 40% chance of placing a 5% [Poison] debuff for 2 turns.",
 			"basedOn": "[ATK]",
 			"name": "Transfix",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\n",
 			"multiplier": "1.1*ATK",
-			"numBooksToMax": 3
+			"numBooksToMax": "3"
 		},
 		{
 			"desc": "Attacks all enemies 2 times. Each hit has a 50% chance of placing a 5% [Poison] debuff for 2 turns.",
 			"basedOn": "[ATK]",
 			"name": "Poison Rain",
-			"maxcd": 3,
-			"mincd": 3,
+			"maxcd": "3",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
 			"multiplier": "2*ATK",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Attacks all enemies. Enemies killed by this skill cannot be revived.\r\n\r\nDeals damage from all [Poison] debuffs on the target instantly. [Poison] debuffs will only deal half of the standard damage when this Skill hits Bosses.",
 			"basedOn": "[ATK]",
 			"name": "Deadly Catalyst",
-			"maxcd": 4,
-			"mincd": 4,
+			"maxcd": "4",
+			"mincd": "4",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\n",
 			"multiplier": "4.1*ATK",
-			"numBooksToMax": 3
+			"numBooksToMax": "3"
 		},
 		{
 			"desc": "Attacks 1 enemy. Applies a [Debuff Spread] effect, taking 4 random debuffs from the target and placing them on all enemies.\r\n\r\n[Only available when Belanor is on the same team.]",
 			"basedOn": "[ATK]",
 			"name": "Calamitous Partner",
-			"maxcd": 5,
-			"mincd": 5,
+			"maxcd": "5",
+			"mincd": "5",
 			"books": "",
 			"multiplier": "4*ATK",
-			"numBooksToMax": 0
+			"numBooksToMax": "0"
 		}
 	],
 	"rarity": "Legendary"

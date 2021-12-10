@@ -1,16 +1,17 @@
 {
 	"name": "Bone Knight",
-	"id": 766,
+	"key": "l10n:hero-type/name?id=760#static",
+	"id": "766",
 	"avatar": "760",
-	"hp": 14370,
-	"atk": 1090,
-	"def": 980,
-	"spd": 93,
-	"res": 30,
-	"acc": 0,
-	"crate": 15,
-	"cdamage": 57,
-	"cheal": 50,
+	"hp": "14370",
+	"atk": "1090",
+	"def": "980",
+	"spd": "93",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
 	"faction": "Undead Hordes",
 	"aura": "",
 	"totalBooks": "13",
@@ -19,31 +20,31 @@
 			"desc": "Attacks 1 enemy 2 times. Has a 15% chance of placing a 15% [Weaken] debuff for 2 turns.",
 			"basedOn": "[ATK]",
 			"name": "Mutilate",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +10%\n",
 			"multiplier": "1.8*ATK",
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Attacks 1 enemy. Has an 80% chance of placing a 100% [Heal Reduction] debuff for 2 turns.",
 			"basedOn": "[ATK]",
 			"name": "Ancient Seal",
-			"maxcd": 3,
-			"mincd": 2,
+			"maxcd": "3",
+			"mincd": "2",
 			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
 			"multiplier": "7*ATK",
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Attacks all enemies. Places a 15% [Increase C. RATE] buff on all allies for 2 turns.",
 			"basedOn": "[ATK]",
 			"name": "Death's Vigor",
-			"maxcd": 4,
-			"mincd": 3,
+			"maxcd": "4",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\n",
 			"multiplier": "4.2*ATK",
-			"numBooksToMax": 3
+			"numBooksToMax": "3"
 		}
 	],
 	"rarity": "Rare"

@@ -1,16 +1,17 @@
 {
 	"name": "Chaplain",
-	"id": 2186,
+	"key": "l10n:hero-type/name?id=2180#static",
+	"id": "2186",
 	"avatar": "2180",
-	"hp": 15855,
-	"atk": 1079,
-	"def": 892,
-	"spd": 102,
-	"res": 30,
-	"acc": 0,
-	"crate": 15,
-	"cdamage": 50,
-	"cheal": 50,
+	"hp": "15855",
+	"atk": "1079",
+	"def": "892",
+	"spd": "102",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Sacred Order",
 	"aura": "",
 	"totalBooks": "10",
@@ -19,31 +20,31 @@
 			"desc": "Attacks 1 enemy.",
 			"basedOn": "[ATK]",
 			"name": "Holy Bolt",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\n",
 			"multiplier": "3.7*ATK",
-			"numBooksToMax": 3
+			"numBooksToMax": "3"
 		},
 		{
 			"desc": "Removes all debuffs from a target ally, then heals the target. The heal amount is proportional to this Champion's ATK.",
 			"basedOn": "",
 			"name": "Benediction",
-			"maxcd": 4,
-			"mincd": 3,
+			"maxcd": "4",
+			"mincd": "3",
 			"books": "Lvl. 2  Heal +5%\nLvl. 3  Heal +5%\n",
 			"multiplier": "",
-			"numBooksToMax": 3
+			"numBooksToMax": "3"
 		},
 		{
 			"desc": "Attacks all enemies. Heals all allies by 25% of the damage inflicted.",
 			"basedOn": "[ATK]",
 			"name": "Radiance",
-			"maxcd": 5,
-			"mincd": 4,
+			"maxcd": "5",
+			"mincd": "4",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\n",
 			"multiplier": "3.4*ATK",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		}
 	],
 	"rarity": "Rare"

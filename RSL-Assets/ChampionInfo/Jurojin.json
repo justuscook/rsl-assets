@@ -1,16 +1,17 @@
 {
 	"name": "Jurojin",
-	"id": 6366,
+	"key": "l10n:hero-type/name?id=6360#static",
+	"id": "6366",
 	"avatar": "6360",
-	"hp": 20970,
-	"atk": 738,
-	"def": 1167,
-	"spd": 98,
-	"res": 30,
-	"acc": 0,
-	"crate": 15,
-	"cdamage": 60,
-	"cheal": 50,
+	"hp": "20970",
+	"atk": "738",
+	"def": "1167",
+	"spd": "98",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "60",
+	"cheal": "50",
 	"faction": "Samurai",
 	"aura": "Increase Ally HP in in all Battles by 25",
 	"totalBooks": "15",
@@ -19,41 +20,41 @@
 			"desc": "Attacks 1 enemy. Has a 45% chance of placing a 50% [Decrease ATK] debuff for 2 turns.",
 			"basedOn": "[HP]",
 			"name": "Monk's Spade",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
 			"multiplier": "0.24*HP",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Places a [Shield] buff on this Champion for 2 turns equal to 25% of their MAX HP, then attacks 1 enemy. Places a [Provoke] debuff for 1 turn. \r\n\r\nIf the target’s MAX HP is equal to or lower than this Champion’s, the [Provoke] debuff cannot be resisted.",
 			"basedOn": "[HP]",
 			"name": "Fated Duel",
-			"maxcd": 4,
-			"mincd": 3,
+			"maxcd": "4",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +5%\nLvl. 4 Damage +5%\nLvl. 6 Damage +10%\n",
 			"multiplier": "0.25*HP",
-			"numBooksToMax": 7
+			"numBooksToMax": "7"
 		},
 		{
 			"desc": "Attacks 1 enemy. Will ignore 25% of the target’s DEF. Will also ignore [Unkillable] and [Block Damage] buffs.",
 			"basedOn": "[HP]",
 			"name": "True Smite",
-			"maxcd": 4,
-			"mincd": 3,
+			"maxcd": "4",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\n",
 			"multiplier": "0.34*HP",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Will receive 25% less damage from enemy attacks when this Champion’s HP drops to 50% or below.",
 			"basedOn": "",
 			"name": "Smiles at Death [P]",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 0
+			"numBooksToMax": "0"
 		}
 	],
 	"rarity": "Epic"

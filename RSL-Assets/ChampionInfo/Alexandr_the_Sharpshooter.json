@@ -1,16 +1,17 @@
 {
 	"name": "Aleksandr the Sharpshooter",
-	"id": 6556,
+	"key": "l10n:hero-type/name?id=6550#static",
+	"id": "6556",
 	"avatar": "6550",
-	"hp": 17505,
-	"atk": 1432,
-	"def": 980,
-	"spd": 100,
-	"res": 30,
-	"acc": 10,
-	"crate": 15,
-	"cdamage": 63,
-	"cheal": 50,
+	"hp": "17505",
+	"atk": "1432",
+	"def": "980",
+	"spd": "100",
+	"res": "30",
+	"acc": "10",
+	"crate": "15",
+	"cdamage": "63",
+	"cheal": "50",
 	"faction": "High Elves",
 	"aura": "Increase Ally ACC in in all Battles by 60",
 	"totalBooks": "12",
@@ -19,31 +20,31 @@
 			"desc": "Attacks 1 enemy. Has a 50% chance of placing a [Freeze] debuff for 1 turn. The chance increases to 75% against enemies from the Orc and Ogryn Tribe Factions.",
 			"basedOn": "[ATK]",
 			"name": "Arctic Warfare",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
 			"multiplier": "3.7*ATK",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Attacks all enemies. Has a 75% chance of placing a 60% [Decrease DEF] debuff for 2 turns. Also has a 75% chance of placing a 25% [Weaken] debuff against enemies from the Orc and Ogryn Tribe Factions for 2 turns.",
 			"basedOn": "[ATK]",
 			"name": "Spraydown",
-			"maxcd": 4,
-			"mincd": 3,
+			"maxcd": "4",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\n",
 			"multiplier": "4.6*ATK",
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Attacks 1 enemy. Removes all buffs from the target.\r\n\r\nRemoves all buffs from the target before attacking when targeting enemies from the Orc and Ogryn Tribe Factions.",
 			"basedOn": "[ATK]",
 			"name": "Born to Win",
-			"maxcd": 5,
-			"mincd": 4,
+			"maxcd": "5",
+			"mincd": "4",
 			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\n",
 			"multiplier": "7*ATK",
-			"numBooksToMax": 3
+			"numBooksToMax": "3"
 		}
 	],
 	"rarity": "Legendary"

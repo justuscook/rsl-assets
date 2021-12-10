@@ -1,16 +1,17 @@
 {
 	"name": "Duchess Lilitu",
-	"id": 4426,
+	"key": "l10n:hero-type/name?id=4420#static",
+	"id": "4426",
 	"avatar": "4420",
-	"hp": 22470,
-	"atk": 793,
-	"def": 1288,
-	"spd": 103,
-	"res": 50,
-	"acc": 0,
-	"crate": 15,
-	"cdamage": 50,
-	"cheal": 50,
+	"hp": "22470",
+	"atk": "793",
+	"def": "1288",
+	"spd": "103",
+	"res": "50",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Demonspawn",
 	"aura": "Increase Ally SPD in in all Battles by 19",
 	"totalBooks": "8",
@@ -19,41 +20,41 @@
 			"desc": "Attacks 1 enemy 2 times, then places a [Shield] buff equal to 10% of this Champion’s MAX HP for 2 turns on this Champion and the ally with the lowest HP.",
 			"basedOn": "[DEF]",
 			"name": "Abyssal Invocation",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\n",
 			"multiplier": "1.7*DEF",
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Places a [Block Debuffs] buff and a 50% [Increase ATK] buff on all allies for 2 turns.\r\n\r\nPlaces a [Perfect Veil] buff on all allies except this Champion for 2 turns.",
 			"basedOn": "",
 			"name": "Shroud of Souls",
-			"maxcd": 5,
-			"mincd": 4,
+			"maxcd": "5",
+			"mincd": "4",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 1
+			"numBooksToMax": "1"
 		},
 		{
 			"desc": "Revives all dead allies with 70% HP.\r\n\r\nPlaces a [Veil] buff on all allies except this Champion for 1 turn.\r\nPlaces a 15% [Continuous Heal] buff on all allies for 2 turns.",
 			"basedOn": "[Enemy MAX HP]",
 			"name": "Spectral Rebirth",
-			"maxcd": 6,
-			"mincd": 4,
+			"maxcd": "6",
+			"mincd": "4",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 2
+			"numBooksToMax": "2"
 		},
 		{
 			"desc": "Decreases the damage taken by all allies from AoE attacks by 25% (15% from Bosses).",
 			"basedOn": "",
 			"name": "Ethereal Ways [P]",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 0
+			"numBooksToMax": "0"
 		}
 	],
 	"rarity": "Legendary"

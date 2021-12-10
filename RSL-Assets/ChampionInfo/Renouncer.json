@@ -1,16 +1,17 @@
 {
 	"name": "Renouncer",
-	"id": 5236,
+	"key": "l10n:hero-type/name?id=5230#static",
+	"id": "5236",
 	"avatar": "5230",
-	"hp": 12885,
-	"atk": 1255,
-	"def": 914,
-	"spd": 97,
-	"res": 30,
-	"acc": 0,
-	"crate": 15,
-	"cdamage": 57,
-	"cheal": 50,
+	"hp": "12885",
+	"atk": "1255",
+	"def": "914",
+	"spd": "97",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
 	"faction": "Sacred Order",
 	"aura": "",
 	"totalBooks": "15",
@@ -19,31 +20,31 @@
 			"desc": "Attacks 1 enemy 2 times.",
 			"basedOn": "[ATK]",
 			"name": "Redoubled Effort",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
 			"multiplier": "1.85*ATK",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Removes one random debuff from this Champion, then attacks 1 enemy. Heals this Champion by 25% of the damage inflicted.",
 			"basedOn": "",
 			"name": "Shining Sword",
-			"maxcd": 4,
-			"mincd": 3,
+			"maxcd": "4",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Damage +5%\n",
 			"multiplier": null,
-			"numBooksToMax": 6
+			"numBooksToMax": "6"
 		},
 		{
 			"desc": "Attacks 1 enemy. Places a 15% [Increase SPD] buff on all allies for 2 turns if this attack kills an enemy.",
 			"basedOn": "[ATK]",
 			"name": "Battlefield Grace",
-			"maxcd": 5,
-			"mincd": 3,
+			"maxcd": "5",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\n",
 			"multiplier": "6*ATK",
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		}
 	],
 	"rarity": "Rare"

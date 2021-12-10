@@ -1,16 +1,17 @@
 {
 	"name": "Panthera",
-	"id": 5426,
+	"key": "l10n:hero-type/name?id=5420#static",
+	"id": "5426",
 	"avatar": "5420",
-	"hp": 13545,
-	"atk": 1277,
-	"def": 848,
-	"spd": 97,
-	"res": 30,
-	"acc": 10,
-	"crate": 15,
-	"cdamage": 50,
-	"cheal": 50,
+	"hp": "13545",
+	"atk": "1277",
+	"def": "848",
+	"spd": "97",
+	"res": "30",
+	"acc": "10",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Skinwalkers",
 	"aura": "Increase Ally ACC in Dungeons by 40",
 	"totalBooks": "17",
@@ -19,31 +20,31 @@
 			"desc": "Attacks 1 enemy 3 times. Each critical hit has a 50% chance of decreasing the target’s Turn Meter by 3%.",
 			"basedOn": "[ATK]",
 			"name": "Claws Upon Claws",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +5%\nLvl. 7 Damage +5%\nLvl. 8 Damage +10%\nLvl. 9 Buff/Debuff Chance +10%\n",
 			"multiplier": "0.9*ATK",
-			"numBooksToMax": 8
+			"numBooksToMax": "8"
 		},
 		{
 			"desc": "Attacks 1 enemy 2 times. Each hit has an 85% chance of placing a 100% [Heal Reduction] debuff for 2 turns.",
 			"basedOn": "[ATK]",
 			"name": "Devitalize",
-			"maxcd": 3,
-			"mincd": 3,
+			"maxcd": "3",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +5%\nLvl. 7 Buff/Debuff Chance +5%\n",
 			"multiplier": "2.7*ATK",
-			"numBooksToMax": 6
+			"numBooksToMax": "6"
 		},
 		{
 			"desc": "Places a [Perfect Veil] buff and a 30% [Reflect Damage] buff on this Champion for 2 turns.",
 			"basedOn": "",
 			"name": "Vanish to Shadows",
-			"maxcd": 6,
-			"mincd": 3,
+			"maxcd": "6",
+			"mincd": "3",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 3
+			"numBooksToMax": "3"
 		}
 	],
 	"rarity": "Rare"

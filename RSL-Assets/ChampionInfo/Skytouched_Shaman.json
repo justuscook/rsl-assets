@@ -1,16 +1,17 @@
 {
 	"name": "Skytouched Shaman",
-	"id": 4536,
+	"key": "l10n:hero-type/name?id=4530#static",
+	"id": "4536",
 	"avatar": "4530",
-	"hp": 18330,
-	"atk": 958,
-	"def": 1123,
-	"spd": 102,
-	"res": 30,
-	"acc": 0,
-	"crate": 15,
-	"cdamage": 50,
-	"cheal": 50,
+	"hp": "18330",
+	"atk": "958",
+	"def": "1123",
+	"spd": "102",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Barbarians",
 	"aura": "Increase Ally HP in in all Battles by 25",
 	"totalBooks": "11",
@@ -19,31 +20,31 @@
 			"desc": "Attacks all enemies. Heals by 15% of the damage inflicted if this Champion has less than 50% HP. Boosts this Champion’s Turn Meter by 20% instead if this Champion has 50% HP or higher.",
 			"basedOn": "[ATK]",
 			"name": "Talon Knives",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\nLvl. 6 Damage +10%\n",
 			"multiplier": "2.2*ATK",
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Removes all debuffs from all allies, then places a [Block Debuffs] buff and a [Revive On Death] buff on all allies for 2 turns.",
 			"basedOn": "",
 			"name": "Immortal Skies",
-			"maxcd": 6,
-			"mincd": 4,
+			"maxcd": "6",
+			"mincd": "4",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 2
+			"numBooksToMax": "2"
 		},
 		{
 			"desc": "Damages this Champion by 10% of their MAX HP at the start of each turn. Heals all allies except this Champion equal to half of the lost HP. Places a 30% [Decrease SPD] debuff on this Champion for 1 turn at the start of each turn. Also has a 50% chance of placing a [Fear] debuff on this Champion for 1 turn.",
 			"basedOn": "[HP]",
 			"name": "Bloodstain Ritual [P]",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2  Heal +5%\nLvl. 3  Heal +5%\nLvl. 4  Heal +5%\nLvl. 5  Heal +5%\n",
 			"multiplier": "0.1*HP",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		}
 	],
 	"rarity": "Epic"

@@ -1,16 +1,17 @@
 {
 	"name": "Ashwalker",
-	"id": 6406,
+	"key": "l10n:hero-type/name?id=6400#static",
+	"id": "6406",
 	"avatar": "6400",
-	"hp": 10905,
-	"atk": 1498,
-	"def": 804,
-	"spd": 103,
-	"res": 30,
-	"acc": 0,
-	"crate": 15,
-	"cdamage": 57,
-	"cheal": 50,
+	"hp": "10905",
+	"atk": "1498",
+	"def": "804",
+	"spd": "103",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
 	"faction": "Knights Revenant",
 	"aura": "Increase Ally SPD in in all Battles by 12",
 	"totalBooks": "17",
@@ -19,31 +20,31 @@
 			"desc": "Attacks 1 enemy. Resets the cooldown of the [Devastator] skill if this attack kills an enemy.",
 			"basedOn": "[ATK]",
 			"name": "Great Hammer",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\nLvl. 6 Damage +10%\n",
 			"multiplier": "3.2*ATK",
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Attacks 1 enemy. Has a 65% chance of placing a [Stun] debuff for 1 turn. Decreases the Turn Meters of all enemies by 10% if this attack is critical.",
 			"basedOn": "[ATK]",
 			"name": "Devastator",
-			"maxcd": 4,
-			"mincd": 4,
+			"maxcd": "4",
+			"mincd": "4",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +10%\nLvl. 7 Buff/Debuff Chance +10%\n",
 			"multiplier": "5*ATK",
-			"numBooksToMax": 6
+			"numBooksToMax": "6"
 		},
 		{
 			"desc": "Attacks all enemies. Has an 75% chance of placing a 15% [Weaken] debuff for 2 turns.",
 			"basedOn": "[ATK]",
 			"name": "Backbreaker",
-			"maxcd": 4,
-			"mincd": 3,
+			"maxcd": "4",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +10%\n",
 			"multiplier": "3.5*ATK",
-			"numBooksToMax": 6
+			"numBooksToMax": "6"
 		}
 	],
 	"rarity": "Rare"

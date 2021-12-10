@@ -1,16 +1,17 @@
 {
 	"name": "Hyria",
-	"id": 106,
+	"key": "l10n:hero-type/name?id=100#static",
+	"id": "106",
 	"avatar": "100",
-	"hp": 12060,
-	"atk": 1476,
-	"def": 749,
-	"spd": 101,
-	"res": 30,
-	"acc": 0,
-	"crate": 15,
-	"cdamage": 57,
-	"cheal": 50,
+	"hp": "12060",
+	"atk": "1476",
+	"def": "749",
+	"spd": "101",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
 	"faction": "High Elves",
 	"aura": "Increase Ally C. RATE in Arena battles by 16",
 	"totalBooks": "10",
@@ -19,31 +20,31 @@
 			"desc": "Attacks 1 enemy. Has an extra 25% chance of inflicting a critical hit.",
 			"basedOn": "[ATK]",
 			"name": "Feint",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
 			"multiplier": "2.9*ATK",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Attacks 1 enemy 3 times. Each hit has a 35% chance of placing a 5% [Poison] debuff for 2 turns.",
 			"basedOn": "[ATK]",
 			"name": "Poisonous Lily",
-			"maxcd": 4,
-			"mincd": 4,
+			"maxcd": "4",
+			"mincd": "4",
 			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
 			"multiplier": "1.7*ATK",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Attacks 1 enemy with 2 random allies. Allies joining the attack use their default skills.",
 			"basedOn": "",
 			"name": "Lead the Charge",
-			"maxcd": 6,
-			"mincd": 4,
+			"maxcd": "6",
+			"mincd": "4",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 2
+			"numBooksToMax": "2"
 		}
 	],
 	"rarity": "Rare"

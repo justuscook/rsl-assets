@@ -1,16 +1,17 @@
 {
 	"name": "Bergoth the Malformed",
-	"id": 4126,
+	"key": "l10n:hero-type/name?id=4120#static",
+	"id": "4126",
 	"avatar": "4120",
-	"hp": 21810,
-	"atk": 716,
-	"def": 1134,
-	"spd": 95,
-	"res": 45,
-	"acc": 0,
-	"crate": 15,
-	"cdamage": 50,
-	"cheal": 50,
+	"hp": "21810",
+	"atk": "716",
+	"def": "1134",
+	"spd": "95",
+	"res": "45",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Knights Revenant",
 	"aura": "",
 	"totalBooks": "10",
@@ -19,31 +20,31 @@
 			"desc": "Attacks 1 enemy. Has a 50% chance of placing a 15% [Continuous Heal] buff on this Champion for 1 turn if this attack is critical.",
 			"basedOn": "[HP]",
 			"name": "Nightmare Juggernaut",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
 			"multiplier": "0.2*HP",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Attacks all enemies. Has a 30% chance of placing a [Provoke] debuff for 2 turns.",
 			"basedOn": "[HP]",
 			"name": "Chemical Stench",
-			"maxcd": 5,
-			"mincd": 4,
+			"maxcd": "5",
+			"mincd": "4",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +15%\n",
 			"multiplier": "0.2*HP",
-			"numBooksToMax": 6
+			"numBooksToMax": "6"
 		},
 		{
 			"desc": "Whenever this Champion is attacked, heals all allies except this Champion by 20% of the damage received.",
 			"basedOn": "[DEALT_DMG]",
 			"name": "Canister [P]",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 0
+			"numBooksToMax": "0"
 		}
 	],
 	"rarity": "Epic"

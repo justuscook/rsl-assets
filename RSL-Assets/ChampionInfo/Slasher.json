@@ -1,16 +1,17 @@
 {
 	"name": "Slasher",
-	"id": 2246,
+	"key": "l10n:hero-type/name?id=2240#static",
+	"id": "2246",
 	"avatar": "2240",
-	"hp": 13050,
-	"atk": 1332,
-	"def": 826,
-	"spd": 94,
-	"res": 30,
-	"acc": 0,
-	"crate": 15,
-	"cdamage": 57,
-	"cheal": 50,
+	"hp": "13050",
+	"atk": "1332",
+	"def": "826",
+	"spd": "94",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
 	"faction": "Lizard Men",
 	"aura": "Increase Ally ATK in Faction Crypts by 17",
 	"totalBooks": "9",
@@ -19,31 +20,31 @@
 			"desc": "Attacks 1 enemy.",
 			"basedOn": "[ATK]",
 			"name": "Fearsome Slice",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Damage +10%\n",
 			"multiplier": "3.2*ATK",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Attacks 1 enemy 2 times. Has a 25% chance of placing a 30% [Decrease DEF] debuff for 2 turns.",
 			"basedOn": "[ATK]",
 			"name": "Chop Apart",
-			"maxcd": 4,
-			"mincd": 3,
+			"maxcd": "4",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\n",
 			"multiplier": "2.9*ATK",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Places a 15% [Increase C. RATE] buff and a [Shield] buff on this Champion for 2 turns. The value of [Shield] is proportional to this Champion's DEF and C. DMG. Grants an Extra Turn.",
 			"basedOn": "",
 			"name": "Killing Zeal",
-			"maxcd": 5,
-			"mincd": 4,
+			"maxcd": "5",
+			"mincd": "4",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 1
+			"numBooksToMax": "1"
 		}
 	],
 	"rarity": "Rare"

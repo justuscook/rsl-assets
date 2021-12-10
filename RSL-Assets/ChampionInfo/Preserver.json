@@ -1,16 +1,17 @@
 {
 	"name": "Preserver",
-	"id": 1946,
+	"key": "l10n:hero-type/name?id=1940#static",
+	"id": "1946",
 	"avatar": "1940",
-	"hp": 16350,
-	"atk": 771,
-	"def": 1167,
-	"spd": 102,
-	"res": 40,
-	"acc": 0,
-	"crate": 15,
-	"cdamage": 50,
-	"cheal": 50,
+	"hp": "16350",
+	"atk": "771",
+	"def": "1167",
+	"spd": "102",
+	"res": "40",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Banner Lords",
 	"aura": "Increase Ally HP in in all Battles by 17",
 	"totalBooks": "13",
@@ -19,31 +20,31 @@
 			"desc": "Attacks 1 enemy 2 times. Has a 15% chance of placing a 30% [Decrease SPD] debuff for 2 turns.",
 			"basedOn": "[ATK]",
 			"name": "Exhausting Assault",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
 			"multiplier": "5.5*ATK",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Places a 7.5% [Continuous Heal] buff and a [Shield] buff on this Champion for 2 turns. The value of the [Shield] is proportional to this Champion's MAX HP.",
 			"basedOn": "[HP]",
 			"name": "Recuperate",
-			"maxcd": 4,
-			"mincd": 3,
+			"maxcd": "4",
+			"mincd": "3",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 3
+			"numBooksToMax": "3"
 		},
 		{
 			"desc": "Attacks 1 enemy. Has a 75% chance of placing a [Freeze] debuff for 1 turn.",
 			"basedOn": "[ATK]",
 			"name": "Ice Blow",
-			"maxcd": 5,
-			"mincd": 4,
+			"maxcd": "5",
+			"mincd": "4",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Damage +10%\nLvl. 6 Buff/Debuff Chance +10%\n",
 			"multiplier": "6.7*ATK",
-			"numBooksToMax": 6
+			"numBooksToMax": "6"
 		}
 	],
 	"rarity": "Rare"

@@ -1,16 +1,17 @@
 {
 	"name": "Haruspex",
-	"id": 3556,
+	"key": "l10n:hero-type/name?id=3550#static",
+	"id": "3556",
 	"avatar": "3550",
-	"hp": 18165,
-	"atk": 859,
-	"def": 958,
-	"spd": 105,
-	"res": 30,
-	"acc": 0,
-	"crate": 15,
-	"cdamage": 50,
-	"cheal": 50,
+	"hp": "18165",
+	"atk": "859",
+	"def": "958",
+	"spd": "105",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Lizard Men",
 	"aura": "Increase Ally SPD in Arena battles by 15",
 	"totalBooks": "9",
@@ -19,31 +20,31 @@
 			"desc": "Attacks 1 enemy 2 times. Each hit has a 15% chance of placing a 2.5% [Poison] debuff for 2 turns.",
 			"basedOn": "[ATK]",
 			"name": "Infected Liver",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +10%\nLvl. 7 Buff/Debuff Chance +10%\n",
 			"multiplier": "1.8*ATK",
-			"numBooksToMax": 6
+			"numBooksToMax": "6"
 		},
 		{
 			"desc": "Fills the Turn Meters of all allies by 15%. Places a 15% [Increase SPD] buff on all allies for 2 turns.",
 			"basedOn": "",
 			"name": "Sign of Swiftness",
-			"maxcd": 5,
-			"mincd": 3,
+			"maxcd": "5",
+			"mincd": "3",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 2
+			"numBooksToMax": "2"
 		},
 		{
 			"desc": "Revives a dead ally with 30% HP, then fills their Turn Meter by 30%.",
 			"basedOn": "[Enemy MAX HP]",
 			"name": "Fate Reweaved",
-			"maxcd": 6,
-			"mincd": 5,
+			"maxcd": "6",
+			"mincd": "5",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 1
+			"numBooksToMax": "1"
 		}
 	],
 	"rarity": "Rare"

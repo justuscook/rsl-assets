@@ -1,16 +1,17 @@
 {
 	"name": "Runekeeper Dazdurk",
-	"id": 4206,
+	"key": "l10n:hero-type/name?id=4200#static",
+	"id": "4206",
 	"avatar": "4200",
-	"hp": 20310,
-	"atk": 694,
-	"def": 1255,
-	"spd": 105,
-	"res": 30,
-	"acc": 0,
-	"crate": 15,
-	"cdamage": 50,
-	"cheal": 50,
+	"hp": "20310",
+	"atk": "694",
+	"def": "1255",
+	"spd": "105",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Dwarves",
 	"aura": "Increase Ally ATK in in all Battles by 25",
 	"totalBooks": "10",
@@ -19,31 +20,31 @@
 			"desc": "Attacks 1 enemy. Has a 35% chance of placing a [Leech] debuff for 2 turns.",
 			"basedOn": "[DEF]",
 			"name": "Syphon Symbol",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
 			"multiplier": "3.3*DEF",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Places a 50% [Increase ATK] buff on all allies for 2 turns, then fills the Turn Meters of all allies by 25%.",
 			"basedOn": "",
 			"name": "Rune of Battle",
-			"maxcd": 5,
-			"mincd": 3,
+			"maxcd": "5",
+			"mincd": "3",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 2
+			"numBooksToMax": "2"
 		},
 		{
 			"desc": "Removes all debuffs from all allies, then heals all allies by 25% of this Champion's MAX HP. Places a 15% [Continuous Heal] buff for 2 turns on allies that have a debuff removed.",
 			"basedOn": "",
 			"name": "Purity Sigil",
-			"maxcd": 5,
-			"mincd": 4,
+			"maxcd": "5",
+			"mincd": "4",
 			"books": "Lvl. 2  Heal +5%\nLvl. 3  Heal +5%\nLvl. 4  Heal +10%\n",
 			"multiplier": "",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		}
 	],
 	"rarity": "Epic"

@@ -1,16 +1,17 @@
 {
 	"name": "Hospitaller",
-	"id": 3406,
+	"key": "l10n:hero-type/name?id=3400#static",
+	"id": "3406",
 	"avatar": "3400",
-	"hp": 17175,
-	"atk": 1035,
-	"def": 848,
-	"spd": 101,
-	"res": 30,
-	"acc": 0,
-	"crate": 15,
-	"cdamage": 50,
-	"cheal": 50,
+	"hp": "17175",
+	"atk": "1035",
+	"def": "848",
+	"spd": "101",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Sacred Order",
 	"aura": "Increase Ally SPD in in all Battles by 10",
 	"totalBooks": "10",
@@ -19,41 +20,41 @@
 			"desc": "Attacks 1 enemy.",
 			"basedOn": "[ATK]",
 			"name": "Quick Slash",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\n",
 			"multiplier": "4*ATK",
-			"numBooksToMax": 3
+			"numBooksToMax": "3"
 		},
 		{
 			"desc": "Attacks all enemies. Has a 50% chance of removing 1 random buff from each target.",
 			"basedOn": "[ATK]",
 			"name": "Wave of Purification",
-			"maxcd": 4,
-			"mincd": 4,
+			"maxcd": "4",
+			"mincd": "4",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Damage +10%\nLvl. 7 Buff/Debuff Chance +10%\n",
 			"multiplier": "2.5*ATK",
-			"numBooksToMax": 6
+			"numBooksToMax": "6"
 		},
 		{
 			"desc": "Places a 15% [Increase SPD] and a 15% [Increase C. RATE] buff on all allies for 2 turns.",
 			"basedOn": "",
 			"name": "Invigorating Prayers",
-			"maxcd": 4,
-			"mincd": 3,
+			"maxcd": "4",
+			"mincd": "3",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 1
+			"numBooksToMax": "1"
 		},
 		{
 			"desc": "Revives a random ally with 25% HP and places a [Block Damage] buff on them for 1 turn whenever Harrier kills an enemy.\r\n\r\n[Only available when Harrier is on the same team.]",
 			"basedOn": "[Enemy MAX HP]",
 			"name": "Merciful Partner [P]",
-			"maxcd": 5,
-			"mincd": 5,
+			"maxcd": "5",
+			"mincd": "5",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 0
+			"numBooksToMax": "0"
 		}
 	],
 	"rarity": "Rare"

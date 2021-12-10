@@ -1,16 +1,17 @@
 {
 	"name": "Gomlok Skyhide",
-	"id": 4956,
+	"key": "l10n:hero-type/name?id=4950#static",
+	"id": "4956",
 	"avatar": "4950",
-	"hp": 19650,
-	"atk": 1233,
-	"def": 1035,
-	"spd": 104,
-	"res": 30,
-	"acc": 20,
-	"crate": 15,
-	"cdamage": 50,
-	"cheal": 50,
+	"hp": "19650",
+	"atk": "1233",
+	"def": "1035",
+	"spd": "104",
+	"res": "30",
+	"acc": "20",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Orcs",
 	"aura": "",
 	"totalBooks": "15",
@@ -19,41 +20,41 @@
 			"desc": "Attacks 1 enemy. Has a 50% chance of placing a [Leech] debuff for 2 turns.\r\n\r\nHas a 50% chance of placing a [Leech] debuff for 2 turns on 2 random enemies if this Champion has full HP.",
 			"basedOn": "[ATK]",
 			"name": "Soulsuck Tendrils",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +10%\n",
 			"multiplier": "4.5*ATK",
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Attacks 1 enemy. Has a 60% chance of stealing 2 random buffs from the target.\r\n\r\nAlso has a 60% chance of decreasing the target's Turn Meter by 50%. Steals 50% of the target's max Turn Meter instead if this Champion has full HP.",
 			"basedOn": "[ATK]",
 			"name": "Fateful Trickster",
-			"maxcd": 4,
-			"mincd": 2,
+			"maxcd": "4",
+			"mincd": "2",
 			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +15%\nLvl. 5 Buff/Debuff Chance +15%\n",
 			"multiplier": "5.8*ATK",
-			"numBooksToMax": 6
+			"numBooksToMax": "6"
 		},
 		{
 			"desc": "Attacks all enemies 2 times. Each hit has a 75% chance of placing a 60% [Decrease DEF] debuff on all enemies for 2 turns. The first hit on each target also has a 75% chance of decreasing the target's Turn Meter by 10%.\r\n\r\nThe second hit on each target also has a 75% chance of placing a 25% [Weaken] debuff for 2 turns if this Champion has full HP.",
 			"basedOn": "[ATK]",
 			"name": "Wild Surge",
-			"maxcd": 6,
-			"mincd": 4,
+			"maxcd": "6",
+			"mincd": "4",
 			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Buff/Debuff Chance +15%\n",
 			"multiplier": "2.3*ATK",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Whenever 4 or more buffs are placed on the enemy team in a single turn, places a [Shield] buff on this Champion for equal to 15% of this Champion's MAX HP for 2 turns.",
 			"basedOn": "[HP]",
 			"name": "Enchanter [P]",
-			"maxcd": 3,
-			"mincd": 3,
+			"maxcd": "3",
+			"mincd": "3",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 0
+			"numBooksToMax": "0"
 		}
 	],
 	"rarity": "Legendary"

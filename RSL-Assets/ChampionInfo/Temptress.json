@@ -1,16 +1,17 @@
 {
 	"name": "Temptress",
-	"id": 3386,
+	"key": "l10n:hero-type/name?id=3380#static",
+	"id": "3386",
 	"avatar": "3380",
-	"hp": 11565,
-	"atk": 1343,
-	"def": 914,
-	"spd": 99,
-	"res": 30,
-	"acc": 0,
-	"crate": 15,
-	"cdamage": 57,
-	"cheal": 50,
+	"hp": "11565",
+	"atk": "1343",
+	"def": "914",
+	"spd": "99",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
 	"faction": "Undead Hordes",
 	"aura": "",
 	"totalBooks": "11",
@@ -19,31 +20,31 @@
 			"desc": "Attacks 1 enemy. Has a 30% chance of stealing 1 random buff from the target.",
 			"basedOn": "[ATK]",
 			"name": "Sly Slice",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +10%\n",
 			"multiplier": "3.5*ATK",
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Attacks 4 times at random. Each hit has a 50% chance of placing a [Leech] debuff for 2 turns.",
 			"basedOn": "[ATK]",
 			"name": "Flying Daggers",
-			"maxcd": 4,
-			"mincd": 3,
+			"maxcd": "4",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\n",
 			"multiplier": "1.4*ATK",
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Places a 50% [Increase ATK] and a 30% [Increase C. RATE] buff on this Champion for 2 turns. Grants an Extra Turn when Seducer is on the same team.",
 			"basedOn": "",
 			"name": "Vicious Partner",
-			"maxcd": 5,
-			"mincd": 4,
+			"maxcd": "5",
+			"mincd": "4",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 1
+			"numBooksToMax": "1"
 		}
 	],
 	"rarity": "Rare"

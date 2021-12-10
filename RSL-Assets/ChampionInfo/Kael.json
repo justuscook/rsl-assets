@@ -1,16 +1,17 @@
 {
 	"name": "Kael",
-	"id": 1516,
+	"key": "l10n:hero-type/name?id=1510#static",
+	"id": "1516",
 	"avatar": "1510",
-	"hp": 13710,
-	"atk": 1200,
-	"def": 914,
-	"spd": 103,
-	"res": 30,
-	"acc": 0,
-	"crate": 15,
-	"cdamage": 57,
-	"cheal": 50,
+	"hp": "13710",
+	"atk": "1200",
+	"def": "914",
+	"spd": "103",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
 	"faction": "Dark Elves",
 	"aura": "Increase Ally HP in in all Battles by 15",
 	"totalBooks": "14",
@@ -19,31 +20,31 @@
 			"desc": "Attacks 1 enemy. Has an 80% chance of placing a 2.5% [Poison] debuff for 2 turns.",
 			"basedOn": "[ATK]",
 			"name": "Dark Bolt",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Damage +10%\n",
 			"multiplier": "(3.5*ATK)+100",
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Attacks all enemies. Has an extra 15% chance of inflicting a critical hit. Fill the Turn Meter of this Champion by 25% for each enemy killed.",
 			"basedOn": "[ATK]",
 			"name": "Acid Rain",
-			"maxcd": 3,
-			"mincd": 3,
+			"maxcd": "3",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
 			"multiplier": "4.65*ATK",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Attacks 4 times at random. Has a 40% chance of placing a 5% [Poison] debuff for 2 turns.",
 			"basedOn": "[ATK]",
 			"name": "Disintegrate",
-			"maxcd": 5,
-			"mincd": 4,
+			"maxcd": "5",
+			"mincd": "4",
 			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +5%\n",
 			"multiplier": "1.5*ATK",
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		}
 	],
 	"rarity": "Rare"

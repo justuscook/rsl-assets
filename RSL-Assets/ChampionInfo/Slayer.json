@@ -1,16 +1,17 @@
 {
 	"name": "Slayer",
-	"id": 1526,
+	"key": "l10n:hero-type/name?id=1520#static",
+	"id": "1526",
 	"avatar": "1520",
-	"hp": 15690,
-	"atk": 1233,
-	"def": 749,
-	"spd": 90,
-	"res": 30,
-	"acc": 0,
-	"crate": 15,
-	"cdamage": 57,
-	"cheal": 50,
+	"hp": "15690",
+	"atk": "1233",
+	"def": "749",
+	"spd": "90",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
 	"faction": "Barbarians",
 	"aura": "",
 	"totalBooks": "14",
@@ -19,31 +20,31 @@
 			"desc": "Attacks 1 enemy. Has a 30% chance of placing a 25% [Decrease ATK] debuff for 2 turns.",
 			"basedOn": "[ATK]",
 			"name": "Vicious Strike",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +10%\n",
 			"multiplier": "4*ATK",
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Attacks all enemies.",
 			"basedOn": "[ATK]",
 			"name": "Frost Burst",
-			"maxcd": 4,
-			"mincd": 3,
+			"maxcd": "4",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\n",
 			"multiplier": "4.4*ATK",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Attacks 1 enemy. Places a 5% [Poison] debuff for 2 turns. Has a 75% chance of placing a [Stun] debuff for 1 turn.",
 			"basedOn": "[ATK]",
 			"name": "Debilitate",
-			"maxcd": 5,
-			"mincd": 4,
+			"maxcd": "5",
+			"mincd": "4",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\n",
 			"multiplier": "6.2*ATK",
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		}
 	],
 	"rarity": "Rare"

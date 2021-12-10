@@ -1,16 +1,17 @@
 {
 	"name": "Rockbeast",
-	"id": 1066,
+	"key": "l10n:hero-type/name?id=1060#static",
+	"id": "1066",
 	"avatar": "1060",
-	"hp": 19485,
-	"atk": 892,
-	"def": 837,
-	"spd": 95,
-	"res": 30,
-	"acc": 10,
-	"crate": 15,
-	"cdamage": 50,
-	"cheal": 50,
+	"hp": "19485",
+	"atk": "892",
+	"def": "837",
+	"spd": "95",
+	"res": "30",
+	"acc": "10",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Ogryn Tribes",
 	"aura": "Increase Ally C. RATE in Arena battles by 16",
 	"totalBooks": "12",
@@ -19,31 +20,31 @@
 			"desc": "Attacks 1 enemy. Has a 50% chance of placing a [Provoke] debuff for 1 turn. Damage increases according to this Champion's MAX HP.",
 			"basedOn": "[ATK][HP]",
 			"name": "Club",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Damage +10%\nLvl. 6 Buff/Debuff Chance +10%\n",
 			"multiplier": "1.5*ATK+0.15*HP",
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Fills the Turn Meter by 50%. Places a 60% [Increase DEF] buff on this Champion for 3 turns.",
 			"basedOn": "",
 			"name": "Hunker Down",
-			"maxcd": 4,
-			"mincd": 3,
+			"maxcd": "4",
+			"mincd": "3",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 1
+			"numBooksToMax": "1"
 		},
 		{
 			"desc": "Attacks all enemies. Has a 75% chance of placing a 30% [Decrease SPD] debuff for 1 turn.",
 			"basedOn": "[ATK]",
 			"name": "Bellow",
-			"maxcd": 6,
-			"mincd": 4,
+			"maxcd": "6",
+			"mincd": "4",
 			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
 			"multiplier": "4.5*ATK",
-			"numBooksToMax": 6
+			"numBooksToMax": "6"
 		}
 	],
 	"rarity": "Rare"

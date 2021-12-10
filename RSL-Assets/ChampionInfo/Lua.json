@@ -1,16 +1,17 @@
 {
 	"name": "Lua",
-	"id": 626,
+	"key": "l10n:hero-type/name?id=620#static",
+	"id": "626",
 	"avatar": "620",
-	"hp": 14535,
-	"atk": 1564,
-	"def": 771,
-	"spd": 97,
-	"res": 30,
-	"acc": 0,
-	"crate": 15,
-	"cdamage": 60,
-	"cheal": 50,
+	"hp": "14535",
+	"atk": "1564",
+	"def": "771",
+	"spd": "97",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "60",
+	"cheal": "50",
 	"faction": "Dark Elves",
 	"aura": "",
 	"totalBooks": "13",
@@ -19,31 +20,31 @@
 			"desc": "Attacks 1 enemy. Deals 50% of the inflicted damage to all enemies if this attack is critical.",
 			"basedOn": "[ATK]",
 			"name": "Splinter Arrow",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
 			"multiplier": "2.7*ATK",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Attacks all enemies 3 times. Each critical hit heals this Champion by 2.5% HP.",
 			"basedOn": "[ATK]",
 			"name": "Hail of Arrows",
-			"maxcd": 4,
-			"mincd": 3,
+			"maxcd": "4",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\n",
 			"multiplier": "1.4*ATK",
-			"numBooksToMax": 4
+			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Attacks 1 enemy. Decreases the target's Turn Meter by 100%. Will ignore [Shield] and [Block Damage] buffs.",
 			"basedOn": "[ATK]",
 			"name": "Lucky Shot",
-			"maxcd": 5,
-			"mincd": 4,
+			"maxcd": "5",
+			"mincd": "4",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
 			"multiplier": "6*ATK",
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		}
 	],
 	"rarity": "Epic"

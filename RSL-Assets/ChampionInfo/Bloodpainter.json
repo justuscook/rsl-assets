@@ -1,16 +1,17 @@
 {
 	"name": "Bloodpainter",
-	"id": 1276,
+	"key": "l10n:hero-type/name?id=1270#static",
+	"id": "1276",
 	"avatar": "1270",
-	"hp": 15855,
-	"atk": 1134,
-	"def": 837,
-	"spd": 102,
-	"res": 30,
-	"acc": 0,
-	"crate": 15,
-	"cdamage": 50,
-	"cheal": 50,
+	"hp": "15855",
+	"atk": "1134",
+	"def": "837",
+	"spd": "102",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Skinwalkers",
 	"aura": "",
 	"totalBooks": "13",
@@ -19,31 +20,31 @@
 			"desc": "Attacks 1 enemy 2 times. Has a 15% chance of placing a 5% [Poison] debuff for 1 turn.",
 			"basedOn": "[ATK]",
 			"name": "Throwing Spear",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +10%\nLvl. 5 Damage +10%\nLvl. 6 Buff/Debuff Chance +5%\n",
 			"multiplier": "1.9*ATK",
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Attacks all enemies. Has a 30% chance of placing a 50% [Decrease ACC] debuff for 2 turns.",
 			"basedOn": "[ATK]",
 			"name": "Embers",
-			"maxcd": 5,
-			"mincd": 3,
+			"maxcd": "5",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
 			"multiplier": "4.3*ATK",
-			"numBooksToMax": 6
+			"numBooksToMax": "6"
 		},
 		{
 			"desc": "Fills the Turn Meters of all allies except this Champion by 20%. Places a 25% [Increase ATK] buff on all allies for 2 turns.",
 			"basedOn": "",
 			"name": "Shaman Drum",
-			"maxcd": 6,
-			"mincd": 4,
+			"maxcd": "6",
+			"mincd": "4",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 2
+			"numBooksToMax": "2"
 		}
 	],
 	"rarity": "Rare"

@@ -1,16 +1,17 @@
 {
 	"name": "Shieldguard",
-	"id": 1856,
+	"key": "l10n:hero-type/name?id=1850#static",
+	"id": "1856",
 	"avatar": "1850",
-	"hp": 15360,
-	"atk": 705,
-	"def": 1024,
-	"spd": 89,
-	"res": 30,
-	"acc": 0,
-	"crate": 15,
-	"cdamage": 50,
-	"cheal": 50,
+	"hp": "15360",
+	"atk": "705",
+	"def": "1024",
+	"spd": "89",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Barbarians",
 	"aura": "",
 	"totalBooks": "11",
@@ -19,31 +20,31 @@
 			"desc": "Attacks 1 enemy. Has a 30% chance of placing a 15% [Decrease SPD] debuff for 2 turns. Damage inflicted is proportional to DEF.",
 			"basedOn": "[DEF]",
 			"name": "Uppercut",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Damage +10%\n",
 			"multiplier": "4*DEF",
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Attacks all enemies. Fills this Champion's Turn Meter by 20% on each critical hit. Damage inflicted is proportional to DEF.",
 			"basedOn": "[DEF]",
 			"name": "Battle Stance",
-			"maxcd": 4,
-			"mincd": 2,
+			"maxcd": "4",
+			"mincd": "2",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
 			"multiplier": "3.4*DEF",
-			"numBooksToMax": 6
+			"numBooksToMax": "6"
 		},
 		{
 			"desc": "Removes one debuff from this Champion each turn.",
 			"basedOn": "",
 			"name": "Mighty Soul [Passive]",
-			"maxcd": 1,
-			"mincd": 1,
+			"maxcd": "1",
+			"mincd": "1",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 0
+			"numBooksToMax": "0"
 		}
 	],
 	"rarity": "Uncommon"

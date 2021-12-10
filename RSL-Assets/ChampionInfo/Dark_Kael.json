@@ -1,16 +1,17 @@
 {
 	"name": "Dark Kael",
-	"id": 6326,
+	"key": "l10n:hero-type/name?id=6320#static",
+	"id": "6326",
 	"avatar": "6320",
-	"hp": 14205,
-	"atk": 1343,
-	"def": 1013,
-	"spd": 96,
-	"res": 30,
-	"acc": 15,
-	"crate": 15,
-	"cdamage": 50,
-	"cheal": 50,
+	"hp": "14205",
+	"atk": "1343",
+	"def": "1013",
+	"spd": "96",
+	"res": "30",
+	"acc": "15",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Dark Elves",
 	"aura": "",
 	"totalBooks": "11",
@@ -19,41 +20,41 @@
 			"desc": "Attacks 1 enemy 3 times. Each hit has a 25% chance to instantly activate 2 [Poison] debuffs or 1 [Poison] debuff and 1 [HP Burn] debuffs.",
 			"basedOn": "[ATK]",
 			"name": "Weaver of Woes",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\n",
 			"multiplier": "1.35*ATK",
-			"numBooksToMax": 3
+			"numBooksToMax": "3"
 		},
 		{
 			"desc": "Attacks all enemies. Has a 75% chance of placing a 50% [Decrease ATK] debuff for 2 turns. Each critical hit also has a 75% chance of increasing the duration of all debuffs on the target by 1 turn.",
 			"basedOn": "[ATK]",
 			"name": "Binding Darkness",
-			"maxcd": 4,
-			"mincd": 3,
+			"maxcd": "4",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\n",
 			"multiplier": "4*ATK",
-			"numBooksToMax": 5
+			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Has a 75% chance of placing three 5% [Poison] debuffs and a 25% [Poison Sensitivity] debuff on the target for 2 turns.",
 			"basedOn": "",
 			"name": "Reality Acid",
-			"maxcd": 4,
-			"mincd": 3,
+			"maxcd": "4",
+			"mincd": "3",
 			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Buff/Debuff Chance +15%\n",
 			"multiplier": "",
-			"numBooksToMax": 3
+			"numBooksToMax": "3"
 		},
 		{
 			"desc": "Decreases the C. RATE of enemies under 2 or more [Poison] debuffs by 15%.\r\n\r\nIf there are multiple Champions on the team with this Skill, only one will activate.",
 			"basedOn": "",
 			"name": "Delerium [P]",
-			"maxcd": 0,
-			"mincd": 0,
+			"maxcd": "0",
+			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": 0
+			"numBooksToMax": "0"
 		}
 	],
 	"rarity": "Epic"
