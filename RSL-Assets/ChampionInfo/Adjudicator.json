@@ -1,7 +1,7 @@
 {
 	"name": "Adjudicator",
 	"key": "l10n:hero-type/name?id=3360#static",
-	"id": "3366",
+	"id": 3366,
 	"avatar": "3360",
 	"hp": "13545",
 	"atk": "1255",

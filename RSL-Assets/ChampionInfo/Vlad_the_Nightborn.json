@@ -1,7 +1,7 @@
 {
 	"name": "Vlad the Nightborn",
 	"key": "l10n:hero-type/name?id=6650#static",
-	"id": "6656",
+	"id": 6656,
 	"avatar": "6650",
 	"hp": "15030",
 	"atk": "1443",

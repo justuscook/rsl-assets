@@ -1,7 +1,7 @@
 {
 	"name": "Bloodfeather",
 	"key": "l10n:hero-type/name?id=1870#static",
-	"id": "1876",
+	"id": 1876,
 	"avatar": "1870",
 	"hp": "13875",
 	"atk": "1542",

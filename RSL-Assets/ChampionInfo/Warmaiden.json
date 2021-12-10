@@ -1,7 +1,7 @@
 {
 	"name": "Warmaiden",
 	"key": "l10n:hero-type/name?id=820#static",
-	"id": "826",
+	"id": 826,
 	"avatar": "820",
 	"hp": "14700",
 	"atk": "1321",

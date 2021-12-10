@@ -1,7 +1,7 @@
 {
 	"name": "Mordecai",
 	"key": "l10n:hero-type/name?id=4940#static",
-	"id": "4946",
+	"id": 4946,
 	"avatar": "4940",
 	"hp": "13545",
 	"atk": "1244",

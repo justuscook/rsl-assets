@@ -1,7 +1,7 @@
 {
 	"name": "Executioner",
 	"key": "l10n:hero-type/name?id=340#static",
-	"id": "346",
+	"id": 346,
 	"avatar": "340",
 	"hp": "14865",
 	"atk": "782",

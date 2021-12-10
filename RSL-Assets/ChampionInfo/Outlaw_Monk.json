@@ -1,7 +1,7 @@
 {
 	"name": "Outlaw Monk",
 	"key": "l10n:hero-type/name?id=230#static",
-	"id": "236",
+	"id": 236,
 	"avatar": "230",
 	"hp": "12225",
 	"atk": "1244",

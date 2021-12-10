@@ -1,7 +1,7 @@
 {
 	"name": "Battle Sister",
 	"key": "l10n:hero-type/name?id=1420#static",
-	"id": "1426",
+	"id": 1426,
 	"avatar": "1420",
 	"hp": "14205",
 	"atk": "1090",

@@ -1,7 +1,7 @@
 {
 	"name": "Line Infantry",
 	"key": "l10n:hero-type/name?id=4230#static",
-	"id": "4236",
+	"id": 4236,
 	"avatar": "4230",
 	"hp": "13380",
 	"atk": "738",

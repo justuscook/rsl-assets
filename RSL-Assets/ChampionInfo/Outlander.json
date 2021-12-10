@@ -1,7 +1,7 @@
 {
 	"name": "Outlander",
 	"key": "l10n:hero-type/name?id=840#static",
-	"id": "846",
+	"id": 846,
 	"avatar": "840",
 	"hp": "9255",
 	"atk": "1299",

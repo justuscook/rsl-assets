@@ -1,7 +1,7 @@
 {
 	"name": "Drake",
 	"key": "l10n:hero-type/name?id=1350#static",
-	"id": "1356",
+	"id": 1356,
 	"avatar": "1350",
 	"hp": "14040",
 	"atk": "1487",

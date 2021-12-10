@@ -1,7 +1,7 @@
 {
 	"name": "Oboro",
 	"key": "l10n:hero-type/name?id=5850#static",
-	"id": "5856",
+	"id": 5856,
 	"avatar": "5850",
 	"hp": "15360",
 	"atk": "1454",

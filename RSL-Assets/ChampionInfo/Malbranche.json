@@ -1,7 +1,7 @@
 {
 	"name": "Malbranche",
 	"key": "l10n:hero-type/name?id=3070#static",
-	"id": "3076",
+	"id": 3076,
 	"avatar": "3070",
 	"hp": "14865",
 	"atk": "1321",

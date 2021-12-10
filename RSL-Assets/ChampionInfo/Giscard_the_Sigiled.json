@@ -1,7 +1,7 @@
 {
 	"name": "Giscard the Sigiled",
 	"key": "l10n:hero-type/name?id=5960#static",
-	"id": "5966",
+	"id": 5966,
 	"avatar": "5960",
 	"hp": "17505",
 	"atk": "683",

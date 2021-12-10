@@ -1,7 +1,7 @@
 {
 	"name": "Judge",
 	"key": "l10n:hero-type/name?id=310#static",
-	"id": "316",
+	"id": 316,
 	"avatar": "310",
 	"hp": "12225",
 	"atk": "1476",

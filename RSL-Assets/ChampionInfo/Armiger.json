@@ -1,7 +1,7 @@
 {
 	"name": "Armiger",
 	"key": "l10n:hero-type/name?id=1050#static",
-	"id": "1056",
+	"id": 1056,
 	"avatar": "1050",
 	"hp": "15195",
 	"atk": "793",

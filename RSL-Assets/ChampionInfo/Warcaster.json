@@ -1,7 +1,7 @@
 {
 	"name": "Warcaster",
 	"key": "l10n:hero-type/name?id=2400#static",
-	"id": "2406",
+	"id": 2406,
 	"avatar": "2400",
 	"hp": "20145",
 	"atk": "1013",

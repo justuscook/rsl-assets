@@ -1,7 +1,7 @@
 {
 	"name": "Coffin Smasher",
 	"key": "l10n:hero-type/name?id=4470#static",
-	"id": "4476",
+	"id": 4476,
 	"avatar": "4470",
 	"hp": "21135",
 	"atk": "683",

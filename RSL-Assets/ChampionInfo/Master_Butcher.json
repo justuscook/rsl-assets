@@ -1,7 +1,7 @@
 {
 	"name": "Master Butcher",
 	"key": "l10n:hero-type/name?id=4310#static",
-	"id": "4316",
+	"id": 4316,
 	"avatar": "4310",
 	"hp": "18495",
 	"atk": "848",

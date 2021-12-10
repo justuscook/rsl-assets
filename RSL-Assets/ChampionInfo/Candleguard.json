@@ -1,7 +1,7 @@
 {
 	"name": "Candleguard",
 	"key": "l10n:hero-type/name?id=6390#static",
-	"id": "6396",
+	"id": 6396,
 	"avatar": "6390",
 	"hp": "15195",
 	"atk": "1233",

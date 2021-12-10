@@ -1,7 +1,7 @@
 {
 	"name": "Seneschal",
 	"key": "l10n:hero-type/name?id=4140#static",
-	"id": "4146",
+	"id": 4146,
 	"avatar": "4140",
 	"hp": "19980",
 	"atk": "705",

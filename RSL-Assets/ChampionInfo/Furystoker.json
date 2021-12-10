@@ -1,7 +1,7 @@
 {
 	"name": "Furystoker",
 	"key": "l10n:hero-type/name?id=640#static",
-	"id": "646",
+	"id": 646,
 	"avatar": "640",
 	"hp": "14865",
 	"atk": "1024",

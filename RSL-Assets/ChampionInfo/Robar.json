@@ -1,7 +1,7 @@
 {
 	"name": "Robar",
 	"key": "l10n:hero-type/name?id=2330#static",
-	"id": "2336",
+	"id": 2336,
 	"avatar": "2330",
 	"hp": "18990",
 	"atk": "1619",

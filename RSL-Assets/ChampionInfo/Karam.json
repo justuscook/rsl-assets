@@ -1,7 +1,7 @@
 {
 	"name": "Karam",
 	"key": "l10n:hero-type/name?id=1810#static",
-	"id": "1816",
+	"id": 1816,
 	"avatar": "1810",
 	"hp": "13215",
 	"atk": "1354",

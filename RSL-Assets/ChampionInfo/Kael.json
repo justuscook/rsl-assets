@@ -1,7 +1,7 @@
 {
 	"name": "Kael",
 	"key": "l10n:hero-type/name?id=1510#static",
-	"id": "1516",
+	"id": 1516,
 	"avatar": "1510",
 	"hp": "13710",
 	"atk": "1200",

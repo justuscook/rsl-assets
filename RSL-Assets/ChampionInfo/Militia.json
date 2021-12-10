@@ -1,7 +1,7 @@
 {
 	"name": "Militia",
 	"key": "l10n:hero-type/name?id=80#static",
-	"id": "86",
+	"id": 86,
 	"avatar": "80",
 	"hp": "13215",
 	"atk": "1178",

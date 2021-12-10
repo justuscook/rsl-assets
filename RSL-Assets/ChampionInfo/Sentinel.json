@@ -1,7 +1,7 @@
 {
 	"name": "Sentinel",
 	"key": "l10n:hero-type/name?id=550#static",
-	"id": "556",
+	"id": 556,
 	"avatar": "550",
 	"hp": "18825",
 	"atk": "914",

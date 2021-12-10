@@ -1,7 +1,7 @@
 {
 	"name": "Galek",
 	"key": "l10n:hero-type/name?id=1480#static",
-	"id": "1486",
+	"id": 1486,
 	"avatar": "1480",
 	"hp": "13710",
 	"atk": "1200",

@@ -1,7 +1,7 @@
 {
 	"name": "Spiritwalker",
 	"key": "l10n:hero-type/name?id=810#static",
-	"id": "816",
+	"id": 816,
 	"avatar": "810",
 	"hp": "10740",
 	"atk": "1288",

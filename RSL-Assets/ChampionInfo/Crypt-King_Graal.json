@@ -1,7 +1,7 @@
 {
 	"name": "Crypt-King Graal",
 	"key": "l10n:hero-type/name?id=3190#static",
-	"id": "3196",
+	"id": 3196,
 	"avatar": "3190",
 	"hp": "19320",
 	"atk": "1145",

@@ -1,7 +1,7 @@
 {
 	"name": "Inithwe Bloodtwin",
 	"key": "l10n:hero-type/name?id=3180#static",
-	"id": "3186",
+	"id": 3186,
 	"avatar": "3180",
 	"hp": "14370",
 	"atk": "1729",

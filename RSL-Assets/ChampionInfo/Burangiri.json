@@ -1,7 +1,7 @@
 {
 	"name": "Burangiri",
 	"key": "l10n:hero-type/name?id=6050#static",
-	"id": "6056",
+	"id": 6056,
 	"avatar": "6050",
 	"hp": "16680",
 	"atk": "804",

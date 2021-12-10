@@ -1,7 +1,7 @@
 {
 	"name": "Bogwalker",
 	"key": "l10n:hero-type/name?id=870#static",
-	"id": "876",
+	"id": 876,
 	"avatar": "870",
 	"hp": "16020",
 	"atk": "848",

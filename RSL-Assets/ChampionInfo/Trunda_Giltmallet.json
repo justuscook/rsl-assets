@@ -1,7 +1,7 @@
 {
 	"name": "Trunda Giltmallet",
 	"key": "l10n:hero-type/name?id=4260#static",
-	"id": "4266",
+	"id": 4266,
 	"avatar": "4260",
 	"hp": "22800",
 	"atk": "1608",

@@ -1,7 +1,7 @@
 {
 	"name": "Valla",
 	"key": "l10n:hero-type/name?id=4610#static",
-	"id": "4616",
+	"id": 4616,
 	"avatar": "4610",
 	"hp": "16845",
 	"atk": "771",

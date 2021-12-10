@@ -1,7 +1,7 @@
 {
 	"name": "Shaman",
 	"key": "l10n:hero-type/name?id=2560#static",
-	"id": "2566",
+	"id": 2566,
 	"avatar": "2560",
 	"hp": "17505",
 	"atk": "1112",

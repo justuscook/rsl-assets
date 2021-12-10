@@ -1,7 +1,7 @@
 {
 	"name": "Marauder",
 	"key": "l10n:hero-type/name?id=6060#static",
-	"id": "6066",
+	"id": 6066,
 	"avatar": "6060",
 	"hp": "21810",
 	"atk": "749",

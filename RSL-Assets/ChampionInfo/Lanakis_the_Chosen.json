@@ -1,7 +1,7 @@
 {
 	"name": "Lanakis the Chosen",
 	"key": "l10n:hero-type/name?id=3830#static",
-	"id": "3836",
+	"id": 3836,
 	"avatar": "3830",
 	"hp": "20145",
 	"atk": "1255",

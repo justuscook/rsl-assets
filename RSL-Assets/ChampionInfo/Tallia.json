@@ -1,7 +1,7 @@
 {
 	"name": "Tallia",
 	"key": "l10n:hero-type/name?id=3420#static",
-	"id": "3426",
+	"id": 3426,
 	"avatar": "3420",
 	"hp": "12390",
 	"atk": "1343",

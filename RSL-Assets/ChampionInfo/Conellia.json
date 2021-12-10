@@ -1,7 +1,7 @@
 {
 	"name": "Conellia",
 	"key": "l10n:hero-type/name?id=6350#static",
-	"id": "6356",
+	"id": 6356,
 	"avatar": "6350",
 	"hp": "19650",
 	"atk": "826",

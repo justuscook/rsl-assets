@@ -1,7 +1,7 @@
 {
 	"name": "Raglin",
 	"key": "l10n:hero-type/name?id=160#static",
-	"id": "166",
+	"id": 166,
 	"avatar": "160",
 	"hp": "20310",
 	"atk": "1156",

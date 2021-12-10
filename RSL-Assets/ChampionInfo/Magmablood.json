@@ -1,7 +1,7 @@
 {
 	"name": "Magmablood",
 	"key": "l10n:hero-type/name?id=670#static",
-	"id": "676",
+	"id": 676,
 	"avatar": "670",
 	"hp": "13710",
 	"atk": "1387",

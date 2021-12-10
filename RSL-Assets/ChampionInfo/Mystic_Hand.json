@@ -1,7 +1,7 @@
 {
 	"name": "Mystic Hand",
 	"key": "l10n:hero-type/name?id=60#static",
-	"id": "66",
+	"id": 66,
 	"avatar": "60",
 	"hp": "16515",
 	"atk": "804",

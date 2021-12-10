@@ -1,7 +1,7 @@
 {
 	"name": "Ba Satha",
 	"key": "l10n:hero-type/name?id=6260#static",
-	"id": "6266",
+	"id": 6266,
 	"avatar": "6260",
 	"hp": "20310",
 	"atk": "837",

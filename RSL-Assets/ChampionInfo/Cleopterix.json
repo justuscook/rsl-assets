@@ -1,7 +1,7 @@
 {
 	"name": "Cleopterix",
 	"key": "l10n:hero-type/name?id=6230#static",
-	"id": "6236",
+	"id": 6236,
 	"avatar": "6230",
 	"hp": "14535",
 	"atk": "1531",

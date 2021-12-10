@@ -1,7 +1,7 @@
 {
 	"name": "Thenasil",
 	"key": "l10n:hero-type/name?id=300#static",
-	"id": "306",
+	"id": 306,
 	"avatar": "300",
 	"hp": "17835",
 	"atk": "991",

@@ -1,7 +1,7 @@
 {
 	"name": "Ripperfist",
 	"key": "l10n:hero-type/name?id=5160#static",
-	"id": "5166",
+	"id": 5166,
 	"avatar": "5160",
 	"hp": "13380",
 	"atk": "1398",

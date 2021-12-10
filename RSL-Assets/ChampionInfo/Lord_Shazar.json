@@ -1,7 +1,7 @@
 {
 	"name": "Lord Shazar",
 	"key": "l10n:hero-type/name?id=1430#static",
-	"id": "1436",
+	"id": 1436,
 	"avatar": "1430",
 	"hp": "15690",
 	"atk": "1343",

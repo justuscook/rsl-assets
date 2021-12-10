@@ -1,7 +1,7 @@
 {
 	"name": "Stout Axeman",
 	"key": "l10n:hero-type/name?id=4330#static",
-	"id": "4336",
+	"id": 4336,
 	"avatar": "4330",
 	"hp": "19155",
 	"atk": "859",

@@ -1,7 +1,7 @@
 {
 	"name": "Underpriest Brogni",
 	"key": "l10n:hero-type/name?id=5930#static",
-	"id": "5936",
+	"id": 5936,
 	"avatar": "5930",
 	"hp": "22965",
 	"atk": "782",

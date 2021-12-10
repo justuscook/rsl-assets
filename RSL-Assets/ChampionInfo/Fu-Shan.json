@@ -1,7 +1,7 @@
 {
 	"name": "Fu-Shan",
 	"key": "l10n:hero-type/name?id=920#static",
-	"id": "926",
+	"id": 926,
 	"avatar": "920",
 	"hp": "16680",
 	"atk": "1443",

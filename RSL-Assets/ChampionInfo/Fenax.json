@@ -1,7 +1,7 @@
 {
 	"name": "Fenax",
 	"key": "l10n:hero-type/name?id=3430#static",
-	"id": "3436",
+	"id": 3436,
 	"avatar": "3430",
 	"hp": "13875",
 	"atk": "1454",

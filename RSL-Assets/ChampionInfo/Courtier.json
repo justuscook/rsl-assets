@@ -1,7 +1,7 @@
 {
 	"name": "Courtier",
 	"key": "l10n:hero-type/name?id=2040#static",
-	"id": "2046",
+	"id": 2046,
 	"avatar": "2040",
 	"hp": "12720",
 	"atk": "1277",

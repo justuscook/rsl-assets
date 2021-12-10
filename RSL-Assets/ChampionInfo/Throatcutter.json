@@ -1,7 +1,7 @@
 {
 	"name": "Throatcutter",
 	"key": "l10n:hero-type/name?id=1670#static",
-	"id": "1676",
+	"id": 1676,
 	"avatar": "1670",
 	"hp": "12225",
 	"atk": "1189",

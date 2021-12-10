@@ -1,7 +1,7 @@
 {
 	"name": "Yakarl the Scourge",
 	"key": "l10n:hero-type/name?id=5510#static",
-	"id": "5516",
+	"id": 5516,
 	"avatar": "5510",
 	"hp": "16350",
 	"atk": "1597",

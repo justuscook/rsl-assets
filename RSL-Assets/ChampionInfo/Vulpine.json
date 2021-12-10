@@ -1,7 +1,7 @@
 {
 	"name": "Vulpine",
 	"key": "l10n:hero-type/name?id=1190#static",
-	"id": "1196",
+	"id": 1196,
 	"avatar": "1190temp",
 	"hp": "11070",
 	"atk": "1189",

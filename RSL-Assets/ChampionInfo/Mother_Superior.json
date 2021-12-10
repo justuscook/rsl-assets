@@ -1,7 +1,7 @@
 {
 	"name": "Mother Superior",
 	"key": "l10n:hero-type/name?id=4370#static",
-	"id": "4376",
+	"id": 4376,
 	"avatar": "4370",
 	"hp": "16350",
 	"atk": "991",

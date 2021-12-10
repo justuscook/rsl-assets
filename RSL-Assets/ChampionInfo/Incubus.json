@@ -1,7 +1,7 @@
 {
 	"name": "Incubus",
 	"key": "l10n:hero-type/name?id=1450#static",
-	"id": "1456",
+	"id": 1456,
 	"avatar": "1450",
 	"hp": "11235",
 	"atk": "1145",

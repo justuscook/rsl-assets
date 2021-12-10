@@ -1,7 +1,7 @@
 {
 	"name": "Pharsalas Gravedirt",
 	"key": "l10n:hero-type/name?id=6270#static",
-	"id": "6276",
+	"id": 6276,
 	"avatar": "6270",
 	"hp": "18660",
 	"atk": "892",

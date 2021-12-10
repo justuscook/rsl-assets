@@ -1,7 +1,7 @@
 {
 	"name": "Kurzad Deepheart",
 	"key": "l10n:hero-type/name?id=5440#static",
-	"id": "5446",
+	"id": 5446,
 	"avatar": "5440",
 	"hp": "12225",
 	"atk": "1343",

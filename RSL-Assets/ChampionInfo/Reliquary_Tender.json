@@ -1,7 +1,7 @@
 {
 	"name": "Reliquary Tender",
 	"key": "l10n:hero-type/name?id=3620#static",
-	"id": "3626",
+	"id": 3626,
 	"avatar": "3620",
 	"hp": "18165",
 	"atk": "859",

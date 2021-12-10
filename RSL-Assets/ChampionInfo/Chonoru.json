@@ -1,7 +1,7 @@
 {
 	"name": "Chonoru",
 	"key": "l10n:hero-type/name?id=5880#static",
-	"id": "5886",
+	"id": 5886,
 	"avatar": "5880",
 	"hp": "12555",
 	"atk": "1509",

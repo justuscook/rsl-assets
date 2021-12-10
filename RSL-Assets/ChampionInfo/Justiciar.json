@@ -1,7 +1,7 @@
 {
 	"name": "Justiciar",
 	"key": "l10n:hero-type/name?id=2220#static",
-	"id": "2226",
+	"id": 2226,
 	"avatar": "2220",
 	"hp": "14700",
 	"atk": "914",

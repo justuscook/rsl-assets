@@ -1,7 +1,7 @@
 {
 	"name": "Rian the Conjurer",
 	"key": "l10n:hero-type/name?id=5060#static",
-	"id": "5066",
+	"id": 5066,
 	"avatar": "5060",
 	"hp": "17010",
 	"atk": "1002",

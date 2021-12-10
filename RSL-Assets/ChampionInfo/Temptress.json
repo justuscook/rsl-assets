@@ -1,7 +1,7 @@
 {
 	"name": "Temptress",
 	"key": "l10n:hero-type/name?id=3380#static",
-	"id": "3386",
+	"id": 3386,
 	"avatar": "3380",
 	"hp": "11565",
 	"atk": "1343",

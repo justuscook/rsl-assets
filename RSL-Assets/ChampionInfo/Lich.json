@@ -1,7 +1,7 @@
 {
 	"name": "Lich",
 	"key": "l10n:hero-type/name?id=1840#static",
-	"id": "1846",
+	"id": 1846,
 	"avatar": "1840",
 	"hp": "18495",
 	"atk": "694",

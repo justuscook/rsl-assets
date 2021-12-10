@@ -1,7 +1,7 @@
 {
 	"name": "Luria",
 	"key": "l10n:hero-type/name?id=260#static",
-	"id": "266",
+	"id": 266,
 	"avatar": "260",
 	"hp": "13050",
 	"atk": "1487",

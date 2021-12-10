@@ -1,7 +1,7 @@
 {
 	"name": "Ragemonger",
 	"key": "l10n:hero-type/name?id=3710#static",
-	"id": "3716",
+	"id": 3716,
 	"avatar": "3710",
 	"hp": "12720",
 	"atk": "1211",

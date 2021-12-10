@@ -1,7 +1,7 @@
 {
 	"name": "Gamuran",
 	"key": "l10n:hero-type/name?id=6700#static",
-	"id": "6706",
+	"id": 6706,
 	"avatar": "6700",
 	"hp": "19650",
 	"atk": "1002",

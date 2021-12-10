@@ -1,7 +1,7 @@
 {
 	"name": "Heiress",
 	"key": "l10n:hero-type/name?id=390#static",
-	"id": "396",
+	"id": 396,
 	"avatar": "390",
 	"hp": "12390",
 	"atk": "1167",

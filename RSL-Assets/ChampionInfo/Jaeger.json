@@ -1,7 +1,7 @@
 {
 	"name": "Jaeger",
 	"key": "l10n:hero-type/name?id=1250#static",
-	"id": "1256",
+	"id": 1256,
 	"avatar": "1250",
 	"hp": "14370",
 	"atk": "1200",

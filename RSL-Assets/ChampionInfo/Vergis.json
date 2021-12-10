@@ -1,7 +1,7 @@
 {
 	"name": "Vergis",
 	"key": "l10n:hero-type/name?id=10#static",
-	"id": "16",
+	"id": 16,
 	"avatar": "10",
 	"hp": "16020",
 	"atk": "925",

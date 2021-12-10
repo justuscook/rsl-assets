@@ -1,7 +1,7 @@
 {
 	"name": "Penitent",
 	"key": "l10n:hero-type/name?id=1980#static",
-	"id": "1986",
+	"id": 1986,
 	"avatar": "1980",
 	"hp": "14865",
 	"atk": "793",

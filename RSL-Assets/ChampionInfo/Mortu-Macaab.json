@@ -1,7 +1,7 @@
 {
 	"name": "Mortu-Macaab",
 	"key": "l10n:hero-type/name?id=990#static",
-	"id": "996",
+	"id": 996,
 	"avatar": "21120",
 	"hp": "23130",
 	"atk": "1145",

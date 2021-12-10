@@ -1,7 +1,7 @@
 {
 	"name": "Old Hermit Jorrg",
 	"key": "l10n:hero-type/name?id=5700#static",
-	"id": "5706",
+	"id": 5706,
 	"avatar": "5700",
 	"hp": "16350",
 	"atk": "1134",

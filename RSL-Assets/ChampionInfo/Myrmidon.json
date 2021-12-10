@@ -1,7 +1,7 @@
 {
 	"name": "Myrmidon",
 	"key": "l10n:hero-type/name?id=4660#static",
-	"id": "4666",
+	"id": 4666,
 	"avatar": "4660",
 	"hp": "15030",
 	"atk": "804",

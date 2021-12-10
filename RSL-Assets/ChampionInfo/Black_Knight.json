@@ -1,7 +1,7 @@
 {
 	"name": "Black Knight",
 	"key": "l10n:hero-type/name?id=370#static",
-	"id": "376",
+	"id": 376,
 	"avatar": "370",
 	"hp": "22470",
 	"atk": "914",

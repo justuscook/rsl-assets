@@ -1,7 +1,7 @@
 {
 	"name": "Soulless",
 	"key": "l10n:hero-type/name?id=2350#static",
-	"id": "2356",
+	"id": 2356,
 	"avatar": "2350",
 	"hp": "19650",
 	"atk": "848",

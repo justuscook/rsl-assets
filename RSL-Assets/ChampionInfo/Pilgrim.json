@@ -1,7 +1,7 @@
 {
 	"name": "Pilgrim",
 	"key": "l10n:hero-type/name?id=1950#static",
-	"id": "1956",
+	"id": 1956,
 	"avatar": "1950",
 	"hp": "14865",
 	"atk": "793",

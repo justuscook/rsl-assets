@@ -1,7 +1,7 @@
 {
 	"name": "Basilisk",
 	"key": "l10n:hero-type/name?id=2960#static",
-	"id": "2966",
+	"id": 2966,
 	"avatar": "2960",
 	"hp": "15525",
 	"atk": "1365",

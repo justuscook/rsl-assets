@@ -1,7 +1,7 @@
 {
 	"name": "Tomb Lord",
 	"key": "l10n:hero-type/name?id=350#static",
-	"id": "356",
+	"id": 356,
 	"avatar": "350",
 	"hp": "18165",
 	"atk": "1387",

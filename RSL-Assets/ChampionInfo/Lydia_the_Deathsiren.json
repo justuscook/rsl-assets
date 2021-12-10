@@ -1,7 +1,7 @@
 {
 	"name": "Lydia the Deathsiren",
 	"key": "l10n:hero-type/name?id=4710#static",
-	"id": "4716",
+	"id": 4716,
 	"avatar": "4710",
 	"hp": "20805",
 	"atk": "903",

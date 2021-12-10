@@ -1,7 +1,7 @@
 {
 	"name": "Hound Spawn",
 	"key": "l10n:hero-type/name?id=1460#static",
-	"id": "1466",
+	"id": 1466,
 	"avatar": "1460",
 	"hp": "13050",
 	"atk": "1398",

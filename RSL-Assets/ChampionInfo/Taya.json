@@ -1,7 +1,7 @@
 {
 	"name": "Taya",
 	"key": "l10n:hero-type/name?id=6110#static",
-	"id": "6116",
+	"id": 6116,
 	"avatar": "6110",
 	"hp": "12885",
 	"atk": "1465",

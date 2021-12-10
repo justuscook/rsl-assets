@@ -1,7 +1,7 @@
 {
 	"name": "Wagonbane",
 	"key": "l10n:hero-type/name?id=5170#static",
-	"id": "5176",
+	"id": 5176,
 	"avatar": "5170",
 	"hp": "17175",
 	"atk": "947",

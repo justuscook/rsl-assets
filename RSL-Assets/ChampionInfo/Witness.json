@@ -1,7 +1,7 @@
 {
 	"name": "Witness",
 	"key": "l10n:hero-type/name?id=3040#static",
-	"id": "3046",
+	"id": 3046,
 	"avatar": "3040",
 	"hp": "14865",
 	"atk": "1134",

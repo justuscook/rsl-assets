@@ -1,7 +1,7 @@
 {
 	"name": "Psylar",
 	"key": "l10n:hero-type/name?id=1920#static",
-	"id": "1926",
+	"id": 1926,
 	"avatar": "1920",
 	"hp": "18165",
 	"atk": "1123",

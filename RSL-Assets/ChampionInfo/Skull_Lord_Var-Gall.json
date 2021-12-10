@@ -1,7 +1,7 @@
 {
 	"name": "Skull Lord Var-Gall",
 	"key": "l10n:hero-type/name?id=5020#static",
-	"id": "5026",
+	"id": 5026,
 	"avatar": "5020",
 	"hp": "27420",
 	"atk": "1112",

@@ -1,7 +1,7 @@
 {
 	"name": "Baerdal Fellhammer",
 	"key": "l10n:hero-type/name?id=4290#static",
-	"id": "4296",
+	"id": 4296,
 	"avatar": "4290",
 	"hp": "16185",
 	"atk": "1398",

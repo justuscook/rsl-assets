@@ -1,7 +1,7 @@
 {
 	"name": "Crimson Slayer",
 	"key": "l10n:hero-type/name?id=3120#static",
-	"id": "3126",
+	"id": 3126,
 	"avatar": "3120",
 	"hp": "13710",
 	"atk": "1134",

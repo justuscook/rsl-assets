@@ -1,7 +1,7 @@
 {
 	"name": "Bushi",
 	"key": "l10n:hero-type/name?id=2500#static",
-	"id": "2506",
+	"id": 2506,
 	"avatar": "2500",
 	"hp": "15690",
 	"atk": "1476",

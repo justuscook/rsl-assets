@@ -1,7 +1,7 @@
 {
 	"name": "Tayrel",
 	"key": "l10n:hero-type/name?id=190#static",
-	"id": "196",
+	"id": 196,
 	"avatar": "190",
 	"hp": "16185",
 	"atk": "881",

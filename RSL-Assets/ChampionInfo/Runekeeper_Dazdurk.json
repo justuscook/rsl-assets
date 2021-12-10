@@ -1,7 +1,7 @@
 {
 	"name": "Runekeeper Dazdurk",
 	"key": "l10n:hero-type/name?id=4200#static",
-	"id": "4206",
+	"id": 4206,
 	"avatar": "4200",
 	"hp": "20310",
 	"atk": "694",

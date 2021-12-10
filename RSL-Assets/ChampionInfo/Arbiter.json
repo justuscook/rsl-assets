@@ -1,7 +1,7 @@
 {
 	"name": "Arbiter",
 	"key": "l10n:hero-type/name?id=3560#static",
-	"id": "3566",
+	"id": 3566,
 	"avatar": "3560",
 	"hp": "21135",
 	"atk": "1068",

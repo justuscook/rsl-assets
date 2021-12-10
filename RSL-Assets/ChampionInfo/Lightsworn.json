@@ -1,7 +1,7 @@
 {
 	"name": "Lightsworn",
 	"key": "l10n:hero-type/name?id=2490#static",
-	"id": "2496",
+	"id": 2496,
 	"avatar": "2490",
 	"hp": "16350",
 	"atk": "738",

@@ -1,7 +1,7 @@
 {
 	"name": "Golden Reaper",
 	"key": "l10n:hero-type/name?id=3280#static",
-	"id": "3286",
+	"id": 3286,
 	"avatar": "3280",
 	"hp": "18495",
 	"atk": "1134",

@@ -1,7 +1,7 @@
 {
 	"name": "Frontline Warrior",
 	"key": "l10n:hero-type/name?id=3810#static",
-	"id": "3816",
+	"id": 3816,
 	"avatar": "3810",
 	"hp": "12885",
 	"atk": "595",

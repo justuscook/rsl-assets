@@ -1,7 +1,7 @@
 {
 	"name": "Gladiator",
 	"key": "l10n:hero-type/name?id=1580#static",
-	"id": "1586",
+	"id": 1586,
 	"avatar": "1580_temp",
 	"hp": "14040",
 	"atk": "1156",

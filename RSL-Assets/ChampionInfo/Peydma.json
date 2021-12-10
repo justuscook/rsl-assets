@@ -1,7 +1,7 @@
 {
 	"name": "Peydma",
 	"key": "l10n:hero-type/name?id=2230#static",
-	"id": "2236",
+	"id": 2236,
 	"avatar": "2230",
 	"hp": "17670",
 	"atk": "826",

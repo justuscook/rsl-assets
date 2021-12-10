@@ -1,7 +1,7 @@
 {
 	"name": "Hexweaver",
 	"key": "l10n:hero-type/name?id=1970#static",
-	"id": "1976",
+	"id": 1976,
 	"avatar": "1970",
 	"hp": "16515",
 	"atk": "914",

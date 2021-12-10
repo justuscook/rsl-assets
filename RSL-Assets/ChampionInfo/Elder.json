@@ -1,7 +1,7 @@
 {
 	"name": "Elder",
 	"key": "l10n:hero-type/name?id=2030#static",
-	"id": "2036",
+	"id": 2036,
 	"avatar": "2030",
 	"hp": "14865",
 	"atk": "914",

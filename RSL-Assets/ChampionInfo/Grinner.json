@@ -1,7 +1,7 @@
 {
 	"name": "Grinner",
 	"key": "l10n:hero-type/name?id=1200#static",
-	"id": "1206",
+	"id": 1206,
 	"avatar": "1200",
 	"hp": "14370",
 	"atk": "936",

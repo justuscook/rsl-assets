@@ -1,7 +1,7 @@
 {
 	"name": "Skirmisher",
 	"key": "l10n:hero-type/name?id=2620#static",
-	"id": "2626",
+	"id": 2626,
 	"avatar": "2620",
 	"hp": "15360",
 	"atk": "1211",

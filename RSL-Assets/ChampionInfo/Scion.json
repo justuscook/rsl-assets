@@ -1,7 +1,7 @@
 {
 	"name": "Scion",
 	"key": "l10n:hero-type/name?id=6730#static",
-	"id": "6736",
+	"id": 6736,
 	"avatar": "6730",
 	"hp": "13875",
 	"atk": "1409",

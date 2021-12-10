@@ -1,7 +1,7 @@
 {
 	"name": "Nethril",
 	"key": "l10n:hero-type/name?id=1830#static",
-	"id": "1836",
+	"id": 1836,
 	"avatar": "1830",
 	"hp": "17010",
 	"atk": "1454",

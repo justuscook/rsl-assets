@@ -1,7 +1,7 @@
 {
 	"name": "Huntress",
 	"key": "l10n:hero-type/name?id=1760#static",
-	"id": "1766",
+	"id": 1766,
 	"avatar": "1760",
 	"hp": "11895",
 	"atk": "1310",

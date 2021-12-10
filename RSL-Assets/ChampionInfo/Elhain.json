@@ -1,7 +1,7 @@
 {
 	"name": "Elhain",
 	"key": "l10n:hero-type/name?id=1490#static",
-	"id": "1496",
+	"id": 1496,
 	"avatar": "1490",
 	"hp": "14370",
 	"atk": "1233",

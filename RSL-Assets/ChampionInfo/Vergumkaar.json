@@ -1,7 +1,7 @@
 {
 	"name": "Vergumkaar",
 	"key": "l10n:hero-type/name?id=5320#static",
-	"id": "5326",
+	"id": 5326,
 	"avatar": "5320",
 	"hp": "22140",
 	"atk": "914",

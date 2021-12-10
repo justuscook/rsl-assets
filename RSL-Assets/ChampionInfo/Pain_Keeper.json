@@ -1,7 +1,7 @@
 {
 	"name": "Pain Keeper",
 	"key": "l10n:hero-type/name?id=3140#static",
-	"id": "3146",
+	"id": 3146,
 	"avatar": "3140",
 	"hp": "19320",
 	"atk": "969",

@@ -1,7 +1,7 @@
 {
 	"name": "Dagger",
 	"key": "l10n:hero-type/name?id=5460#static",
-	"id": "5466",
+	"id": 5466,
 	"avatar": "5460",
 	"hp": "12720",
 	"atk": "1387",

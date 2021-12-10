@@ -1,7 +1,7 @@
 {
 	"name": "Cardiel",
 	"key": "l10n:hero-type/name?id=5760#static",
-	"id": "5766",
+	"id": 5766,
 	"avatar": "5760",
 	"hp": "19650",
 	"atk": "1013",

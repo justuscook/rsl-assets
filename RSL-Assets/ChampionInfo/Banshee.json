@@ -1,7 +1,7 @@
 {
 	"name": "Banshee",
 	"key": "l10n:hero-type/name?id=20#static",
-	"id": "26",
+	"id": 26,
 	"avatar": "20",
 	"hp": "16515",
 	"atk": "980",

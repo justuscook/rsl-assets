@@ -1,7 +1,7 @@
 {
 	"name": "Sachi",
 	"key": "l10n:hero-type/name?id=5840#static",
-	"id": "5846",
+	"id": 5846,
 	"avatar": "5840",
 	"hp": "14865",
 	"atk": "1222",

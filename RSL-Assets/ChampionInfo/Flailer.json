@@ -1,7 +1,7 @@
 {
 	"name": "Flailer",
 	"key": "l10n:hero-type/name?id=5450#static",
-	"id": "5456",
+	"id": 5456,
 	"avatar": "5450",
 	"hp": "15525",
 	"atk": "958",

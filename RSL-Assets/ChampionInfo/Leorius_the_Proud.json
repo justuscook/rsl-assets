@@ -1,7 +1,7 @@
 {
 	"name": "Leorius the Proud",
 	"key": "l10n:hero-type/name?id=6290#static",
-	"id": "6296",
+	"id": 6296,
 	"avatar": "6290",
 	"hp": "18495",
 	"atk": "1409",

@@ -1,7 +1,7 @@
 {
 	"name": "Hakkorhn Smashlord",
 	"key": "l10n:hero-type/name?id=2720#static",
-	"id": "2726",
+	"id": 2726,
 	"avatar": "2720",
 	"hp": "23790",
 	"atk": "848",

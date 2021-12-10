@@ -1,7 +1,7 @@
 {
 	"name": "Defiled Sinner",
 	"key": "l10n:hero-type/name?id=3650#static",
-	"id": "3656",
+	"id": 3656,
 	"avatar": "3650",
 	"hp": "17670",
 	"atk": "1222",

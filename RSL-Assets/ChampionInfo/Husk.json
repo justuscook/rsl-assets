@@ -1,7 +1,7 @@
 {
 	"name": "Husk",
 	"key": "l10n:hero-type/name?id=1210#static",
-	"id": "1216",
+	"id": 1216,
 	"avatar": "1210",
 	"hp": "20970",
 	"atk": "969",

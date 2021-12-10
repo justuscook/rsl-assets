@@ -1,7 +1,7 @@
 {
 	"name": "Dracomorph",
 	"key": "l10n:hero-type/name?id=1360#static",
-	"id": "1366",
+	"id": 1366,
 	"avatar": "1360",
 	"hp": "15195",
 	"atk": "1520",

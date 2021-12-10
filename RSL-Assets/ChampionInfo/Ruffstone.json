@@ -1,7 +1,7 @@
 {
 	"name": "Ruffstone",
 	"key": "l10n:hero-type/name?id=3920#static",
-	"id": "3926",
+	"id": 3926,
 	"avatar": "3920",
 	"hp": "15525",
 	"atk": "1354",

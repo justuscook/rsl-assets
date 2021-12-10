@@ -1,7 +1,7 @@
 {
 	"name": "Skimfos the Consumed",
 	"key": "l10n:hero-type/name?id=5970#static",
-	"id": "5976",
+	"id": 5976,
 	"avatar": "5970",
 	"hp": "13050",
 	"atk": "1432",

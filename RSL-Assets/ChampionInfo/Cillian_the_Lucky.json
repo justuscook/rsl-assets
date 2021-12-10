@@ -1,7 +1,7 @@
 {
 	"name": "Cillian the Lucky",
 	"key": "l10n:hero-type/name?id=4970#static",
-	"id": "4976",
+	"id": 4976,
 	"avatar": "4970",
 	"hp": "13215",
 	"atk": "1432",

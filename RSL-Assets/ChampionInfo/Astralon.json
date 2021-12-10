@@ -1,7 +1,7 @@
 {
 	"name": "Astralon",
 	"key": "l10n:hero-type/name?id=5780#static",
-	"id": "5786",
+	"id": 5786,
 	"avatar": "5780",
 	"hp": "16845",
 	"atk": "1619",

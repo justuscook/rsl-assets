@@ -1,7 +1,7 @@
 {
 	"name": "Canoness",
 	"key": "l10n:hero-type/name?id=2140#static",
-	"id": "2146",
+	"id": 2146,
 	"avatar": "2140",
 	"hp": "17670",
 	"atk": "804",

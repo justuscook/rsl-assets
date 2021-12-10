@@ -1,7 +1,7 @@
 {
 	"name": "Geargrinder",
 	"key": "l10n:hero-type/name?id=5400#static",
-	"id": "5406",
+	"id": 5406,
 	"avatar": "5400",
 	"hp": "19320",
 	"atk": "826",

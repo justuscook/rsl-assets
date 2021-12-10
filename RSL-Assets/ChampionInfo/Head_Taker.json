@@ -1,7 +1,7 @@
 {
 	"name": "Head Taker",
 	"key": "l10n:hero-type/name?id=3730#static",
-	"id": "3736",
+	"id": 3736,
 	"avatar": "3730",
 	"hp": "14535",
 	"atk": "980",

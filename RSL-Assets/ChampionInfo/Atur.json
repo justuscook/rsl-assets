@@ -1,7 +1,7 @@
 {
 	"name": "Atur",
 	"key": "l10n:hero-type/name?id=3470#static",
-	"id": "3476",
+	"id": 3476,
 	"avatar": "3470",
 	"hp": "19980",
 	"atk": "826",

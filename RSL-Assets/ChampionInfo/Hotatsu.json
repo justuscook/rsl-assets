@@ -1,7 +1,7 @@
 {
 	"name": "Hotatsu",
 	"key": "l10n:hero-type/name?id=6020#static",
-	"id": "6026",
+	"id": 6026,
 	"avatar": "6020",
 	"hp": "17505",
 	"atk": "760",

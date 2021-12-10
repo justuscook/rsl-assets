@@ -1,7 +1,7 @@
 {
 	"name": "Dhukk the Pierced",
 	"key": "l10n:hero-type/name?id=5680#static",
-	"id": "5686",
+	"id": 5686,
 	"avatar": "5680",
 	"hp": "15855",
 	"atk": "870",

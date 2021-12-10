@@ -1,7 +1,7 @@
 {
 	"name": "Totem",
 	"key": "l10n:hero-type/name?id=2430#static",
-	"id": "2436",
+	"id": 2436,
 	"avatar": "2430",
 	"hp": "14700",
 	"atk": "1002",

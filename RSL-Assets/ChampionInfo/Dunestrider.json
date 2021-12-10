@@ -1,7 +1,7 @@
 {
 	"name": "Dunestrider",
 	"key": "l10n:hero-type/name?id=5140#static",
-	"id": "5146",
+	"id": 5146,
 	"avatar": "5140",
 	"hp": "14865",
 	"atk": "1354",

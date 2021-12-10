@@ -1,7 +1,7 @@
 {
 	"name": "Minaya",
 	"key": "l10n:hero-type/name?id=4780#static",
-	"id": "4786",
+	"id": 4786,
 	"avatar": "4780",
 	"hp": "21645",
 	"atk": "1002",

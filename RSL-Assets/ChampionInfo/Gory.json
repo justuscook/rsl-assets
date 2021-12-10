@@ -1,7 +1,7 @@
 {
 	"name": "Gory",
 	"key": "l10n:hero-type/name?id=6130#static",
-	"id": "6136",
+	"id": 6136,
 	"avatar": "6130",
 	"hp": "14535",
 	"atk": "1476",

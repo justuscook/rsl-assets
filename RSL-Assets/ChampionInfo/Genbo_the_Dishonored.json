@@ -1,7 +1,7 @@
 {
 	"name": "Genbo the Dishonored",
 	"key": "l10n:hero-type/name?id=6040#static",
-	"id": "6046",
+	"id": 6046,
 	"avatar": "6040",
 	"hp": "14040",
 	"atk": "1409",

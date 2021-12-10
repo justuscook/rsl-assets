@@ -1,7 +1,7 @@
 {
 	"name": "Foli",
 	"key": "l10n:hero-type/name?id=4040#static",
-	"id": "4046",
+	"id": 4046,
 	"avatar": "4040",
 	"hp": "15030",
 	"atk": "1476",

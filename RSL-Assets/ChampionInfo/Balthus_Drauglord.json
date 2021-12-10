@@ -1,7 +1,7 @@
 {
 	"name": "Balthus Drauglord",
 	"key": "l10n:hero-type/name?id=5490#static",
-	"id": "5496",
+	"id": 5496,
 	"avatar": "5490",
 	"hp": "18000",
 	"atk": "848",

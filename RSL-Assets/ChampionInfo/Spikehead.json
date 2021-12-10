@@ -1,7 +1,7 @@
 {
 	"name": "Spikehead",
 	"key": "l10n:hero-type/name?id=1650#static",
-	"id": "1656",
+	"id": 1656,
 	"avatar": "1650",
 	"hp": "11895",
 	"atk": "1465",

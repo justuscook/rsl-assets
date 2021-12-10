@@ -1,7 +1,7 @@
 {
 	"name": "Coldheart",
 	"key": "l10n:hero-type/name?id=40#static",
-	"id": "46",
+	"id": 46,
 	"avatar": "40",
 	"hp": "13710",
 	"atk": "1376",

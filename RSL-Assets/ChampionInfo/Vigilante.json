@@ -1,7 +1,7 @@
 {
 	"name": "Vigilante",
 	"key": "l10n:hero-type/name?id=860#static",
-	"id": "866",
+	"id": 866,
 	"avatar": "860",
 	"hp": "17505",
 	"atk": "760",

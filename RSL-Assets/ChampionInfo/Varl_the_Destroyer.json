@@ -1,7 +1,7 @@
 {
 	"name": "Varl the Destroyer",
 	"key": "l10n:hero-type/name?id=6210#static",
-	"id": "6216",
+	"id": 6216,
 	"avatar": "6210",
 	"hp": "15030",
 	"atk": "1476",

@@ -1,7 +1,7 @@
 {
 	"name": "Tormin the Cold",
 	"key": "l10n:hero-type/name?id=4630#static",
-	"id": "4636",
+	"id": 4636,
 	"avatar": "4630",
 	"hp": "20145",
 	"atk": "815",

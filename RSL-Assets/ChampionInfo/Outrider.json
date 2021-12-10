@@ -1,7 +1,7 @@
 {
 	"name": "Outrider",
 	"key": "l10n:hero-type/name?id=1990#static",
-	"id": "1996",
+	"id": 1996,
 	"avatar": "1990",
 	"hp": "12390",
 	"atk": "1112",

@@ -1,7 +1,7 @@
 {
 	"name": "Mother Cybele",
 	"key": "l10n:hero-type/name?id=6300#static",
-	"id": "6306",
+	"id": 6306,
 	"avatar": "6300",
 	"hp": "18990",
 	"atk": "969",

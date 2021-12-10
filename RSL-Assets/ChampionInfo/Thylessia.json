@@ -1,7 +1,7 @@
 {
 	"name": "Thylessia",
 	"key": "l10n:hero-type/name?id=6490#static",
-	"id": "6496",
+	"id": 6496,
 	"avatar": "6490",
 	"hp": "12720",
 	"atk": "1454",

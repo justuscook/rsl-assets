@@ -1,7 +1,7 @@
 {
 	"name": "Drexthar Bloodtwin",
 	"key": "l10n:hero-type/name?id=3170#static",
-	"id": "3176",
+	"id": 3176,
 	"avatar": "3170",
 	"hp": "18990",
 	"atk": "914",

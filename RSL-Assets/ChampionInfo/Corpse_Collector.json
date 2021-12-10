@@ -1,7 +1,7 @@
 {
 	"name": "Corpse Collector",
 	"key": "l10n:hero-type/name?id=3960#static",
-	"id": "3966",
+	"id": 3966,
 	"avatar": "3960",
 	"hp": "17175",
 	"atk": "1167",

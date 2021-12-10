@@ -1,7 +1,7 @@
 {
 	"name": "Deathchanter",
 	"key": "l10n:hero-type/name?id=1290#static",
-	"id": "1296",
+	"id": 1296,
 	"avatar": "1290",
 	"hp": "19650",
 	"atk": "815",

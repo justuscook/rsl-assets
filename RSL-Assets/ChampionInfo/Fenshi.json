@@ -1,7 +1,7 @@
 {
 	"name": "Fenshi",
 	"key": "l10n:hero-type/name?id=5950#static",
-	"id": "5956",
+	"id": 5956,
 	"avatar": "5950",
 	"hp": "16515",
 	"atk": "1465",

@@ -1,7 +1,7 @@
 {
 	"name": "Venomage",
 	"key": "l10n:hero-type/name?id=6280#static",
-	"id": "6286",
+	"id": 6286,
 	"avatar": "6280",
 	"hp": "17175",
 	"atk": "1002",

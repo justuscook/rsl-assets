@@ -1,7 +1,7 @@
 {
 	"name": "Galkut",
 	"key": "l10n:hero-type/name?id=2450#static",
-	"id": "2456",
+	"id": 2456,
 	"avatar": "2450",
 	"hp": "11400",
 	"atk": "1321",

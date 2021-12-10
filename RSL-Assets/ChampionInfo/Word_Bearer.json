@@ -1,7 +1,7 @@
 {
 	"name": "Word Bearer",
 	"key": "l10n:hero-type/name?id=3780#static",
-	"id": "3786",
+	"id": 3786,
 	"avatar": "3780",
 	"hp": "14535",
 	"atk": "958",

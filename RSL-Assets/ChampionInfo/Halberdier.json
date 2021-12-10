@@ -1,7 +1,7 @@
 {
 	"name": "Halberdier",
 	"key": "l10n:hero-type/name?id=1860#static",
-	"id": "1866",
+	"id": 1866,
 	"avatar": "1860",
 	"hp": "12060",
 	"atk": "1178",

@@ -1,7 +1,7 @@
 {
 	"name": "Bloodbraid",
 	"key": "l10n:hero-type/name?id=2090#static",
-	"id": "2096",
+	"id": 2096,
 	"avatar": "2090",
 	"hp": "19650",
 	"atk": "892",

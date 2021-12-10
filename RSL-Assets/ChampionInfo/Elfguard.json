@@ -1,7 +1,7 @@
 {
 	"name": "Elfguard",
 	"key": "l10n:hero-type/name?id=1720#static",
-	"id": "1726",
+	"id": 1726,
 	"avatar": "1720",
 	"hp": "13215",
 	"atk": "1156",

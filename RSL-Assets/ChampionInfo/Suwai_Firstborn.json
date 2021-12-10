@@ -1,7 +1,7 @@
 {
 	"name": "Suwai Firstborn",
 	"key": "l10n:hero-type/name?id=3740#static",
-	"id": "3746",
+	"id": 3746,
 	"avatar": "3740",
 	"hp": "14040",
 	"atk": "1343",

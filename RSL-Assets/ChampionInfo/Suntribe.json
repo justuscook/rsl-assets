@@ -1,7 +1,7 @@
 {
 	"name": "Suntribe",
 	"key": "l10n:hero-type/name?id=4360#static",
-	"id": "4366",
+	"id": 4366,
 	"avatar": "4360",
 	"hp": "16515",
 	"atk": "782",

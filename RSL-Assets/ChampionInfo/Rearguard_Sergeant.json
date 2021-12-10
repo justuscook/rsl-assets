@@ -1,7 +1,7 @@
 {
 	"name": "Rearguard Sergeant",
 	"key": "l10n:hero-type/name?id=4210#static",
-	"id": "4216",
+	"id": 4216,
 	"avatar": "4210",
 	"hp": "18495",
 	"atk": "859",

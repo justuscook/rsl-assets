@@ -1,7 +1,7 @@
 {
 	"name": "Headsman",
 	"key": "l10n:hero-type/name?id=5220#static",
-	"id": "5226",
+	"id": 5226,
 	"avatar": "5220",
 	"hp": "10740",
 	"atk": "1354",

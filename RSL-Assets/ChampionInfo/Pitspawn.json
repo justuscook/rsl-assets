@@ -1,7 +1,7 @@
 {
 	"name": "Pitspawn",
 	"key": "l10n:hero-type/name?id=2540#static",
-	"id": "2546",
+	"id": 2546,
 	"avatar": "2540",
 	"hp": "13545",
 	"atk": "881",

@@ -1,7 +1,7 @@
 {
 	"name": "Vagabond",
 	"key": "l10n:hero-type/name?id=6070#static",
-	"id": "6076",
+	"id": 6076,
 	"avatar": "6070",
 	"hp": "12555",
 	"atk": "1200",

@@ -1,7 +1,7 @@
 {
 	"name": "Quargan the Crowned",
 	"key": "l10n:hero-type/name?id=4650#static",
-	"id": "4656",
+	"id": 4656,
 	"avatar": "4650",
 	"hp": "17670",
 	"atk": "903",

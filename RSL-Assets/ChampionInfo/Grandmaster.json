@@ -1,7 +1,7 @@
 {
 	"name": "Grandmaster",
 	"key": "l10n:hero-type/name?id=2510#static",
-	"id": "2516",
+	"id": 2516,
 	"avatar": "2510",
 	"hp": "16185",
 	"atk": "892",

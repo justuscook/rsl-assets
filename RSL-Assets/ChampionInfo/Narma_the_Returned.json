@@ -1,7 +1,7 @@
 {
 	"name": "Narma the Returned",
 	"key": "l10n:hero-type/name?id=5350#static",
-	"id": "5356",
+	"id": 5356,
 	"avatar": "5350",
 	"hp": "19815",
 	"atk": "1002",

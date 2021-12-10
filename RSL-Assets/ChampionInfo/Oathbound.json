@@ -1,7 +1,7 @@
 {
 	"name": "Oathbound",
 	"key": "l10n:hero-type/name?id=360#static",
-	"id": "366",
+	"id": 366,
 	"avatar": "360",
 	"hp": "18330",
 	"atk": "782",

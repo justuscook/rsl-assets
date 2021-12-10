@@ -1,7 +1,7 @@
 {
 	"name": "Tracker",
 	"key": "l10n:hero-type/name?id=3330#static",
-	"id": "3336",
+	"id": 3336,
 	"avatar": "3330",
 	"hp": "14700",
 	"atk": "1134",

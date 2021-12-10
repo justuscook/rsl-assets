@@ -1,7 +1,7 @@
 {
 	"name": "Skartorsis",
 	"key": "l10n:hero-type/name?id=410#static",
-	"id": "416",
+	"id": 416,
 	"avatar": "410",
 	"hp": "20145",
 	"atk": "859",

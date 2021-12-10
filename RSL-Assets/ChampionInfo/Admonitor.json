@@ -1,7 +1,7 @@
 {
 	"name": "Admonitor",
 	"key": "l10n:hero-type/name?id=1390#static",
-	"id": "1396",
+	"id": 1396,
 	"avatar": "1390",
 	"hp": "18990",
 	"atk": "617",

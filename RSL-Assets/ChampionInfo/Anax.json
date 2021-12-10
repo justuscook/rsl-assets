@@ -1,7 +1,7 @@
 {
 	"name": "Anax",
 	"key": "l10n:hero-type/name?id=5650#static",
-	"id": "5656",
+	"id": 5656,
 	"avatar": "5650",
 	"hp": "14205",
 	"atk": "1542",

@@ -1,7 +1,7 @@
 {
 	"name": "Shatterbones",
 	"key": "l10n:hero-type/name?id=1010#static",
-	"id": "1016",
+	"id": 1016,
 	"avatar": "1010",
 	"hp": "13875",
 	"atk": "1498",

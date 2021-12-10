@@ -1,7 +1,7 @@
 {
 	"name": "Toragi the Frog",
 	"key": "l10n:hero-type/name?id=5860#static",
-	"id": "5866",
+	"id": 5866,
 	"avatar": "5860",
 	"hp": "21810",
 	"atk": "892",

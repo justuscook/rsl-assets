@@ -1,7 +1,7 @@
 {
 	"name": "Kallia",
 	"key": "l10n:hero-type/name?id=3460#static",
-	"id": "3466",
+	"id": 3466,
 	"avatar": "3460",
 	"hp": "12885",
 	"atk": "1597",

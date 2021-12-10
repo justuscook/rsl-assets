@@ -1,7 +1,7 @@
 {
 	"name": "Battlesage",
 	"key": "l10n:hero-type/name?id=120#static",
-	"id": "126",
+	"id": 126,
 	"avatar": "120",
 	"hp": "18000",
 	"atk": "980",

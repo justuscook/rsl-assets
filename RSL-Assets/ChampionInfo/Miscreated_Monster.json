@@ -1,7 +1,7 @@
 {
 	"name": "Miscreated Monster",
 	"key": "l10n:hero-type/name?id=4580#static",
-	"id": "4586",
+	"id": 4586,
 	"avatar": "4580",
 	"hp": "22965",
 	"atk": "958",

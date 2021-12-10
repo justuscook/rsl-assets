@@ -1,7 +1,7 @@
 {
 	"name": "Crossbowman",
 	"key": "l10n:hero-type/name?id=150#static",
-	"id": "156",
+	"id": 156,
 	"avatar": "150",
 	"hp": "13875",
 	"atk": "1167",

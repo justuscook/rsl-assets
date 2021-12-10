@@ -1,7 +1,7 @@
 {
 	"name": "Cardinal",
 	"key": "l10n:hero-type/name?id=2000#static",
-	"id": "2006",
+	"id": 2006,
 	"avatar": "2000",
 	"hp": "17340",
 	"atk": "1002",

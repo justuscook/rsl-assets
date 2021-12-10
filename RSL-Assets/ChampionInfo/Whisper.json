@@ -1,7 +1,7 @@
 {
 	"name": "Whisper",
 	"key": "l10n:hero-type/name?id=4620#static",
-	"id": "4626",
+	"id": 4626,
 	"avatar": "4620",
 	"hp": "16020",
 	"atk": "1443",

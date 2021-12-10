@@ -1,7 +1,7 @@
 {
 	"name": "Zargala",
 	"key": "l10n:hero-type/name?id=1740#static",
-	"id": "1746",
+	"id": 1746,
 	"avatar": "1740",
 	"hp": "16680",
 	"atk": "1398",

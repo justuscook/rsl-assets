@@ -1,7 +1,7 @@
 {
 	"name": "Lifetaker",
 	"key": "l10n:hero-type/name?id=5890#static",
-	"id": "5896",
+	"id": 5896,
 	"avatar": "5890",
 	"hp": "17340",
 	"atk": "1145",

@@ -1,7 +1,7 @@
 {
 	"name": "Doomscreech",
 	"key": "l10n:hero-type/name?id=1110#static",
-	"id": "1116",
+	"id": 1116,
 	"avatar": "1110",
 	"hp": "20310",
 	"atk": "925",

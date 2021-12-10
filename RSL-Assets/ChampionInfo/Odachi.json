@@ -1,7 +1,7 @@
 {
 	"name": "Odachi",
 	"key": "l10n:hero-type/name?id=6180#static",
-	"id": "6186",
+	"id": 6186,
 	"avatar": "6180",
 	"hp": "15195",
 	"atk": "848",

@@ -1,7 +1,7 @@
 {
 	"name": "Geomancer",
 	"key": "l10n:hero-type/name?id=4880#static",
-	"id": "4886",
+	"id": 4886,
 	"avatar": "4880",
 	"hp": "15525",
 	"atk": "1343",

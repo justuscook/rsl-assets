@@ -1,7 +1,7 @@
 {
 	"name": "Armina",
 	"key": "l10n:hero-type/name?id=5500#static",
-	"id": "5506",
+	"id": 5506,
 	"avatar": "5500",
 	"hp": "18990",
 	"atk": "1354",

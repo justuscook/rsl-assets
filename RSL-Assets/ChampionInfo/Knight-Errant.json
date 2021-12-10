@@ -1,7 +1,7 @@
 {
 	"name": "Knight-Errant",
 	"key": "l10n:hero-type/name?id=460#static",
-	"id": "466",
+	"id": 466,
 	"avatar": "460",
 	"hp": "18660",
 	"atk": "1387",

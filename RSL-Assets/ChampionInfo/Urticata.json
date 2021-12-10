@@ -1,7 +1,7 @@
 {
 	"name": "Urticata",
 	"key": "l10n:hero-type/name?id=6520#static",
-	"id": "6526",
+	"id": 6526,
 	"avatar": "6520",
 	"hp": "12555",
 	"atk": "1409",

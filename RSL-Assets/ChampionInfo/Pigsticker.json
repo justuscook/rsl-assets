@@ -1,7 +1,7 @@
 {
 	"name": "Pigsticker",
 	"key": "l10n:hero-type/name?id=4100#static",
-	"id": "4106",
+	"id": 4106,
 	"avatar": "4100",
 	"hp": "13380",
 	"atk": "1332",

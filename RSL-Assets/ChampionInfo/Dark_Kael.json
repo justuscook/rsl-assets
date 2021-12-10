@@ -1,7 +1,7 @@
 {
 	"name": "Dark Kael",
 	"key": "l10n:hero-type/name?id=6320#static",
-	"id": "6326",
+	"id": 6326,
 	"avatar": "6320",
 	"hp": "14205",
 	"atk": "1343",

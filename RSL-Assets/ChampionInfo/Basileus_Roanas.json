@@ -1,7 +1,7 @@
 {
 	"name": "Basileus Roanas",
 	"key": "l10n:hero-type/name?id=3610#static",
-	"id": "3616",
+	"id": 3616,
 	"avatar": "3610",
 	"hp": "15525",
 	"atk": "1542",

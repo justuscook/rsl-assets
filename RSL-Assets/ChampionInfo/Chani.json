@@ -1,7 +1,7 @@
 {
 	"name": "Chani",
 	"key": "l10n:hero-type/name?id=6030#static",
-	"id": "6036",
+	"id": 6036,
 	"avatar": "6030",
 	"hp": "13875",
 	"atk": "1432",

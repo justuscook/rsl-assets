@@ -1,7 +1,7 @@
 {
 	"name": "Akoth the Seared",
 	"key": "l10n:hero-type/name?id=5070#static",
-	"id": "5076",
+	"id": 5076,
 	"avatar": "5070",
 	"hp": "16680",
 	"atk": "892",

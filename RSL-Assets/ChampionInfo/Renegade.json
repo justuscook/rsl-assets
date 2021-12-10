@@ -1,7 +1,7 @@
 {
 	"name": "Renegade",
 	"key": "l10n:hero-type/name?id=420#static",
-	"id": "426",
+	"id": 426,
 	"avatar": "420",
 	"hp": "18495",
 	"atk": "1046",

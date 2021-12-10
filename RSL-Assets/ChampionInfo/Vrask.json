@@ -1,7 +1,7 @@
 {
 	"name": "Vrask",
 	"key": "l10n:hero-type/name?id=1660#static",
-	"id": "1666",
+	"id": 1666,
 	"avatar": "1660",
 	"hp": "23460",
 	"atk": "870",

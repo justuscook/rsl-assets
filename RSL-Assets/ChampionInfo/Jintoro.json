@@ -1,7 +1,7 @@
 {
 	"name": "Jintoro",
 	"key": "l10n:hero-type/name?id=5830#static",
-	"id": "5836",
+	"id": 5836,
 	"avatar": "5830",
 	"hp": "15360",
 	"atk": "1487",

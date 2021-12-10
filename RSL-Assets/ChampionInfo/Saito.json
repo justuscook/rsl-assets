@@ -1,7 +1,7 @@
 {
 	"name": "Saito",
 	"key": "l10n:hero-type/name?id=4980#static",
-	"id": "4986",
+	"id": 4986,
 	"avatar": "4980",
 	"hp": "16185",
 	"atk": "1321",

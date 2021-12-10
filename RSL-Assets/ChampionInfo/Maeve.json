@@ -1,7 +1,7 @@
 {
 	"name": "Maeve",
 	"key": "l10n:hero-type/name?id=3690#static",
-	"id": "3696",
+	"id": 3696,
 	"avatar": "3690",
 	"hp": "15195",
 	"atk": "1354",

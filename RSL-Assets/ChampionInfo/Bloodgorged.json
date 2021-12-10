@@ -1,7 +1,7 @@
 {
 	"name": "Bloodgorged",
 	"key": "l10n:hero-type/name?id=1820#static",
-	"id": "1826",
+	"id": 1826,
 	"avatar": "1820",
 	"hp": "18990",
 	"atk": "1465",

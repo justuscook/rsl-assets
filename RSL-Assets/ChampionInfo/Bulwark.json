@@ -1,7 +1,7 @@
 {
 	"name": "Bulwark",
 	"key": "l10n:hero-type/name?id=4180#static",
-	"id": "4186",
+	"id": 4186,
 	"avatar": "4180",
 	"hp": "13875",
 	"atk": "837",

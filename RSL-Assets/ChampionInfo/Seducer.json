@@ -1,7 +1,7 @@
 {
 	"name": "Seducer",
 	"key": "l10n:hero-type/name?id=3390#static",
-	"id": "3396",
+	"id": 3396,
 	"avatar": "3390",
 	"hp": "16185",
 	"atk": "628",

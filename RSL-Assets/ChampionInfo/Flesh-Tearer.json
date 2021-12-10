@@ -1,7 +1,7 @@
 {
 	"name": "Flesh-Tearer",
 	"key": "l10n:hero-type/name?id=2670#static",
-	"id": "2676",
+	"id": 2676,
 	"avatar": "2670",
 	"hp": "18495",
 	"atk": "991",

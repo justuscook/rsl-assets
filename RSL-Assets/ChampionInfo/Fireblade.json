@@ -1,7 +1,7 @@
 {
 	"name": "Fireblade",
 	"key": "l10n:hero-type/name?id=480#static",
-	"id": "486",
+	"id": 486,
 	"avatar": "480",
 	"hp": "10080",
 	"atk": "1178",

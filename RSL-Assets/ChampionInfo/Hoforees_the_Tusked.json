@@ -1,7 +1,7 @@
 {
 	"name": "Hoforees the Tusked",
 	"key": "l10n:hero-type/name?id=6150#static",
-	"id": "6156",
+	"id": 6156,
 	"avatar": "6150",
 	"hp": "20475",
 	"atk": "903",

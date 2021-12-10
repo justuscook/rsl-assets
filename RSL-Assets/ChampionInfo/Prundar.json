@@ -1,7 +1,7 @@
 {
 	"name": "Prundar",
 	"key": "l10n:hero-type/name?id=5570#static",
-	"id": "5576",
+	"id": 5576,
 	"avatar": "5570",
 	"hp": "18165",
 	"atk": "683",

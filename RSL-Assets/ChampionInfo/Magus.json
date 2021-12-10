@@ -1,7 +1,7 @@
 {
 	"name": "Magus",
 	"key": "l10n:hero-type/name?id=1910#static",
-	"id": "1916",
+	"id": 1916,
 	"avatar": "1910",
 	"hp": "13875",
 	"atk": "1299",

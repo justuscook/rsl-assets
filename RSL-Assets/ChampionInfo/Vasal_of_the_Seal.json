@@ -1,7 +1,7 @@
 {
 	"name": "Vasal of the Seal",
 	"key": "l10n:hero-type/name?id=6310#static",
-	"id": "6316",
+	"id": 6316,
 	"avatar": "6310",
 	"hp": "21315",
 	"atk": "870",

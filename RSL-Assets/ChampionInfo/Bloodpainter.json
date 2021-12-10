@@ -1,7 +1,7 @@
 {
 	"name": "Bloodpainter",
 	"key": "l10n:hero-type/name?id=1270#static",
-	"id": "1276",
+	"id": 1276,
 	"avatar": "1270",
 	"hp": "15855",
 	"atk": "1134",

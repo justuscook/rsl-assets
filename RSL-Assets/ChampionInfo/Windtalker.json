@@ -1,7 +1,7 @@
 {
 	"name": "Windtalker",
 	"key": "l10n:hero-type/name?id=1240#static",
-	"id": "1246",
+	"id": 1246,
 	"avatar": "1240",
 	"hp": "13710",
 	"atk": "903",

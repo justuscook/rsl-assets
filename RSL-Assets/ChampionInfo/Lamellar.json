@@ -1,7 +1,7 @@
 {
 	"name": "Lamellar",
 	"key": "l10n:hero-type/name?id=2190#static",
-	"id": "2196",
+	"id": 2196,
 	"avatar": "2190",
 	"hp": "19650",
 	"atk": "837",

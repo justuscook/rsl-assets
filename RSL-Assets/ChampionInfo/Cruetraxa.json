@@ -1,7 +1,7 @@
 {
 	"name": "Cruetraxa",
 	"key": "l10n:hero-type/name?id=2950#static",
-	"id": "2956",
+	"id": 2956,
 	"avatar": "2950",
 	"hp": "18330",
 	"atk": "1498",

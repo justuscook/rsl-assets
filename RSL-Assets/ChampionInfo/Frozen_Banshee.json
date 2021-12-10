@@ -1,7 +1,7 @@
 {
 	"name": "Frozen Banshee",
 	"key": "l10n:hero-type/name?id=4500#static",
-	"id": "4506",
+	"id": 4506,
 	"avatar": "4500",
 	"hp": "14700",
 	"atk": "1046",

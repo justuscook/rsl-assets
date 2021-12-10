@@ -1,7 +1,7 @@
 {
 	"name": "Cataphract",
 	"key": "l10n:hero-type/name?id=140#static",
-	"id": "146",
+	"id": 146,
 	"avatar": "140",
 	"hp": "18330",
 	"atk": "991",

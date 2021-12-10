@@ -1,7 +1,7 @@
 {
 	"name": "Sigmund the Highshield",
 	"key": "l10n:hero-type/name?id=6540#static",
-	"id": "6546",
+	"id": 6546,
 	"avatar": "6540",
 	"hp": "20640",
 	"atk": "848",

@@ -1,7 +1,7 @@
 {
 	"name": "Centurion",
 	"key": "l10n:hero-type/name?id=3110#static",
-	"id": "3116",
+	"id": 3116,
 	"avatar": "3110",
 	"hp": "15690",
 	"atk": "793",

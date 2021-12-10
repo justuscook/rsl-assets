@@ -1,7 +1,7 @@
 {
 	"name": "Teumesia",
 	"key": "l10n:hero-type/name?id=6240#static",
-	"id": "6246",
+	"id": 6246,
 	"avatar": "6240",
 	"hp": "16020",
 	"atk": "1476",

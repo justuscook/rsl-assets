@@ -1,7 +1,7 @@
 {
 	"name": "Slicer",
 	"key": "l10n:hero-type/name?id=4220#static",
-	"id": "4226",
+	"id": 4226,
 	"avatar": "4220",
 	"hp": "14370",
 	"atk": "1090",

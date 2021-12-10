@@ -1,7 +1,7 @@
 {
 	"name": "Riho Bonespear",
 	"key": "l10n:hero-type/name?id=5940#static",
-	"id": "5946",
+	"id": 5946,
 	"avatar": "5940",
 	"hp": "18660",
 	"atk": "1189",

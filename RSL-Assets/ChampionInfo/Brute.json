@@ -1,7 +1,7 @@
 {
 	"name": "Brute",
 	"key": "l10n:hero-type/name?id=700#static",
-	"id": "706",
+	"id": 706,
 	"avatar": "700",
 	"hp": "14535",
 	"atk": "1079",

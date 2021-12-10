@@ -1,7 +1,7 @@
 {
 	"name": "Tuhanarak",
 	"key": "l10n:hero-type/name?id=6250#static",
-	"id": "6256",
+	"id": 6256,
 	"avatar": "6250",
 	"hp": "21645",
 	"atk": "859",

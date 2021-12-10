@@ -1,7 +1,7 @@
 {
 	"name": "Duelist",
 	"key": "l10n:hero-type/name?id=530#static",
-	"id": "536",
+	"id": 536,
 	"avatar": "530",
 	"hp": "11400",
 	"atk": "1200",

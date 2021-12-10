@@ -1,7 +1,7 @@
 {
 	"name": "Tigersoul",
 	"key": "l10n:hero-type/name?id=5380#static",
-	"id": "5386",
+	"id": 5386,
 	"avatar": "5380",
 	"hp": "11070",
 	"atk": "1255",

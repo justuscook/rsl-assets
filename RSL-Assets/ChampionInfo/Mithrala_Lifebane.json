@@ -1,7 +1,7 @@
 {
 	"name": "Mithrala Lifebane",
 	"key": "l10n:hero-type/name?id=6740#static",
-	"id": "6746",
+	"id": 6746,
 	"avatar": "6740",
 	"hp": "20310",
 	"atk": "870",

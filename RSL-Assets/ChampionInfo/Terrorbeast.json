@@ -1,7 +1,7 @@
 {
 	"name": "Terrorbeast",
 	"key": "l10n:hero-type/name?id=1310#static",
-	"id": "1316",
+	"id": 1316,
 	"avatar": "1310",
 	"hp": "20970",
 	"atk": "1057",

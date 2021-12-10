@@ -1,7 +1,7 @@
 {
 	"name": "Grunch Killjoy",
 	"key": "l10n:hero-type/name?id=5520#static",
-	"id": "5526",
+	"id": 5526,
 	"avatar": "5520",
 	"hp": "18000",
 	"atk": "969",

@@ -1,7 +1,7 @@
 {
 	"name": "Rhazin Scarhide",
 	"key": "l10n:hero-type/name?id=1160#static",
-	"id": "1166",
+	"id": 1166,
 	"avatar": "1160",
 	"hp": "18330",
 	"atk": "1046",

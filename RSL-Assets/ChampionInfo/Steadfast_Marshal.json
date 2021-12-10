@@ -1,7 +1,7 @@
 {
 	"name": "Steadfast Marshal",
 	"key": "l10n:hero-type/name?id=3950#static",
-	"id": "3956",
+	"id": 3956,
 	"avatar": "3950",
 	"hp": "20640",
 	"atk": "870",

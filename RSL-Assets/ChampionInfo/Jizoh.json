@@ -1,7 +1,7 @@
 {
 	"name": "Jizoh",
 	"key": "l10n:hero-type/name?id=3240#static",
-	"id": "3246",
+	"id": 3246,
 	"avatar": "3240",
 	"hp": "16515",
 	"atk": "815",

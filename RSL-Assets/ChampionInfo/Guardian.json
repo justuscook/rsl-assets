@@ -1,7 +1,7 @@
 {
 	"name": "Guardian",
 	"key": "l10n:hero-type/name?id=900#static",
-	"id": "906",
+	"id": 906,
 	"avatar": "900",
 	"hp": "19155",
 	"atk": "826",

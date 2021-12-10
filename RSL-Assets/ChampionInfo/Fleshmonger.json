@@ -1,7 +1,7 @@
 {
 	"name": "Fleshmonger",
 	"key": "l10n:hero-type/name?id=4690#static",
-	"id": "4696",
+	"id": 4696,
 	"avatar": "4690",
 	"hp": "13050",
 	"atk": "1288",

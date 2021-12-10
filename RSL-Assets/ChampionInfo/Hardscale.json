@@ -1,7 +1,7 @@
 {
 	"name": "Hardscale",
 	"key": "l10n:hero-type/name?id=1680#static",
-	"id": "1686",
+	"id": 1686,
 	"avatar": "1680",
 	"hp": "13050",
 	"atk": "716",

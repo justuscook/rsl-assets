@@ -1,7 +1,7 @@
 {
 	"name": "Catacomb Councilor",
 	"key": "l10n:hero-type/name?id=3640#static",
-	"id": "3646",
+	"id": 3646,
 	"avatar": "3640",
 	"hp": "14040",
 	"atk": "1454",

@@ -1,7 +1,7 @@
 {
 	"name": "Gravechill Killer",
 	"key": "l10n:hero-type/name?id=4730#static",
-	"id": "4736",
+	"id": 4736,
 	"avatar": "4730",
 	"hp": "13545",
 	"atk": "1233",

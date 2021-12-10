@@ -1,7 +1,7 @@
 {
 	"name": "Aristocrat",
 	"key": "l10n:hero-type/name?id=3310#static",
-	"id": "3316",
+	"id": 3316,
 	"avatar": "3310",
 	"hp": "11070",
 	"atk": "1211",

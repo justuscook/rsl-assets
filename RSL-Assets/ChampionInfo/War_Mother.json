@@ -1,7 +1,7 @@
 {
 	"name": "War Mother",
 	"key": "l10n:hero-type/name?id=2530#static",
-	"id": "2536",
+	"id": 2536,
 	"avatar": "2530",
 	"hp": "17505",
 	"atk": "1509",

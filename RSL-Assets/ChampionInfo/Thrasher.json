@@ -1,7 +1,7 @@
 {
 	"name": "Thrasher",
 	"key": "l10n:hero-type/name?id=3340#static",
-	"id": "3346",
+	"id": 3346,
 	"avatar": "3340",
 	"hp": "11400",
 	"atk": "1156",

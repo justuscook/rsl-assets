@@ -1,7 +1,7 @@
 {
 	"name": "Alika",
 	"key": "l10n:hero-type/name?id=3250#static",
-	"id": "3256",
+	"id": 3256,
 	"avatar": "3250",
 	"hp": "15855",
 	"atk": "1354",

@@ -1,7 +1,7 @@
 {
 	"name": "Tyrant Ixlimor",
 	"key": "l10n:hero-type/name?id=3530#static",
-	"id": "3536",
+	"id": 3536,
 	"avatar": "3530",
 	"hp": "21975",
 	"atk": "771",

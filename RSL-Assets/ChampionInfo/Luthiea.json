@@ -1,7 +1,7 @@
 {
 	"name": "Luthiea",
 	"key": "l10n:hero-type/name?id=1730#static",
-	"id": "1736",
+	"id": 1736,
 	"avatar": "1730",
 	"hp": "14370",
 	"atk": "1277",

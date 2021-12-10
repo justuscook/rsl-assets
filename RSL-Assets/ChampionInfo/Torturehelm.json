@@ -1,7 +1,7 @@
 {
 	"name": "Torturehelm",
 	"key": "l10n:hero-type/name?id=630#static",
-	"id": "636",
+	"id": 636,
 	"avatar": "630",
 	"hp": "19980",
 	"atk": "881",

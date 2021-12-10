@@ -1,7 +1,7 @@
 {
 	"name": "Urost the Soulcage",
 	"key": "l10n:hero-type/name?id=5080#static",
-	"id": "5086",
+	"id": 5086,
 	"avatar": "5080",
 	"hp": "24450",
 	"atk": "782",

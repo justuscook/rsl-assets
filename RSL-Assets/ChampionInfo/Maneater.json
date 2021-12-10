@@ -1,7 +1,7 @@
 {
 	"name": "Maneater",
 	"key": "l10n:hero-type/name?id=1070#static",
-	"id": "1076",
+	"id": 1076,
 	"avatar": "1070",
 	"hp": "20310",
 	"atk": "837",

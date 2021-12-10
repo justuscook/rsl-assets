@@ -1,7 +1,7 @@
 {
 	"name": "Sepulcher Sentinel",
 	"key": "l10n:hero-type/name?id=3880#static",
-	"id": "3886",
+	"id": 3886,
 	"avatar": "3880",
 	"hp": "16185",
 	"atk": "903",

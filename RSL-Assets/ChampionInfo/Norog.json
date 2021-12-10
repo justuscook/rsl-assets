@@ -1,7 +1,7 @@
 {
 	"name": "Norog",
 	"key": "l10n:hero-type/name?id=1790#static",
-	"id": "1796",
+	"id": 1796,
 	"avatar": "1790",
 	"hp": "16845",
 	"atk": "1156",

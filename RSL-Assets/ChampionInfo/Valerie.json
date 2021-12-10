@@ -1,7 +1,7 @@
 {
 	"name": "Valerie",
 	"key": "l10n:hero-type/name?id=450#static",
-	"id": "456",
+	"id": 456,
 	"avatar": "450",
 	"hp": "15855",
 	"atk": "969",

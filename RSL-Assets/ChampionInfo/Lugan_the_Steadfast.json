@@ -1,7 +1,7 @@
 {
 	"name": "Lugan the Steadfast",
 	"key": "l10n:hero-type/name?id=240#static",
-	"id": "246",
+	"id": 246,
 	"avatar": "240",
 	"hp": "22140",
 	"atk": "1013",

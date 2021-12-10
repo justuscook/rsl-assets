@@ -1,7 +1,7 @@
 {
 	"name": "Fanatic",
 	"key": "l10n:hero-type/name?id=5870#static",
-	"id": "5876",
+	"id": 5876,
 	"avatar": "5870",
 	"hp": "14865",
 	"atk": "1013",

@@ -1,7 +1,7 @@
 {
 	"name": "Gerhard the Stone",
 	"key": "l10n:hero-type/name?id=5410#static",
-	"id": "5416",
+	"id": 5416,
 	"avatar": "5410",
 	"hp": "12555",
 	"atk": "1387",

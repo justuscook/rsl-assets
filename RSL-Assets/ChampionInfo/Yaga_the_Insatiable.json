@@ -1,7 +1,7 @@
 {
 	"name": "Yaga the Insatiable",
 	"key": "l10n:hero-type/name?id=4020#static",
-	"id": "4026",
+	"id": 4026,
 	"avatar": "4020",
 	"hp": "15195",
 	"atk": "1365",

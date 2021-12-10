@@ -1,7 +1,7 @@
 {
 	"name": "Chevalier",
 	"key": "l10n:hero-type/name?id=2650#static",
-	"id": "2656",
+	"id": 2656,
 	"avatar": "2650",
 	"hp": "16680",
 	"atk": "804",

@@ -1,7 +1,7 @@
 {
 	"name": "Kyoku",
 	"key": "l10n:hero-type/name?id=6430#static",
-	"id": "6436",
+	"id": 6436,
 	"avatar": "6430",
 	"hp": "19320",
 	"atk": "804",

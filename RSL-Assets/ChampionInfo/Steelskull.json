@@ -1,7 +1,7 @@
 {
 	"name": "Steelskull",
 	"key": "l10n:hero-type/name?id=1800#static",
-	"id": "1806",
+	"id": 1806,
 	"avatar": "1800",
 	"hp": "16020",
 	"atk": "1277",

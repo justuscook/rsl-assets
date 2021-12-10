@@ -1,7 +1,7 @@
 {
 	"name": "Metalshaper",
 	"key": "l10n:hero-type/name?id=2300#static",
-	"id": "2306",
+	"id": 2306,
 	"avatar": "2300",
 	"hp": "16350",
 	"atk": "859",

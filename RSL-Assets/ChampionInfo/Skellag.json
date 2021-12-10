@@ -1,7 +1,7 @@
 {
 	"name": "Skellag",
 	"key": "l10n:hero-type/name?id=560#static",
-	"id": "566",
+	"id": 566,
 	"avatar": "560",
 	"hp": "12555",
 	"atk": "859",

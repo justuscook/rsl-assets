@@ -1,7 +1,7 @@
 {
 	"name": "Helior",
 	"key": "l10n:hero-type/name?id=5990#static",
-	"id": "5996",
+	"id": 5996,
 	"avatar": "5990",
 	"hp": "18495",
 	"atk": "804",

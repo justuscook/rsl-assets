@@ -1,7 +1,7 @@
 {
 	"name": "Gator",
 	"key": "l10n:hero-type/name?id=2740#static",
-	"id": "2746",
+	"id": 2746,
 	"avatar": "2740",
 	"hp": "16515",
 	"atk": "881",

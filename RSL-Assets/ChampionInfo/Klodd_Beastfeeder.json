@@ -1,7 +1,7 @@
 {
 	"name": "Klodd Beastfeeder",
 	"key": "l10n:hero-type/name?id=5640#static",
-	"id": "5646",
+	"id": 5646,
 	"avatar": "5640",
 	"hp": "21645",
 	"atk": "815",

@@ -1,7 +1,7 @@
 {
 	"name": "Belanor",
 	"key": "l10n:hero-type/name?id=3490#static",
-	"id": "3496",
+	"id": 3496,
 	"avatar": "3490",
 	"hp": "15195",
 	"atk": "1520",

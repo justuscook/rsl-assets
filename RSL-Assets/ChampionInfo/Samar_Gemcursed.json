@@ -1,7 +1,7 @@
 {
 	"name": "Samar Gemcursed",
 	"key": "l10n:hero-type/name?id=5590#static",
-	"id": "5596",
+	"id": 5596,
 	"avatar": "5590",
 	"hp": "21480",
 	"atk": "936",

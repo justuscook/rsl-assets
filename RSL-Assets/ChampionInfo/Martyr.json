@@ -1,7 +1,7 @@
 {
 	"name": "Martyr",
 	"key": "l10n:hero-type/name?id=1780#static",
-	"id": "1786",
+	"id": 1786,
 	"avatar": "1780_temp",
 	"hp": "20145",
 	"atk": "826",

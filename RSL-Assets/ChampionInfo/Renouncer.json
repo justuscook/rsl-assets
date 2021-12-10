@@ -1,7 +1,7 @@
 {
 	"name": "Renouncer",
 	"key": "l10n:hero-type/name?id=5230#static",
-	"id": "5236",
+	"id": 5236,
 	"avatar": "5230",
 	"hp": "12885",
 	"atk": "1255",

@@ -1,7 +1,7 @@
 {
 	"name": "Wretch",
 	"key": "l10n:hero-type/name?id=2380#static",
-	"id": "2386",
+	"id": 2386,
 	"avatar": "2380",
 	"hp": "13215",
 	"atk": "1432",

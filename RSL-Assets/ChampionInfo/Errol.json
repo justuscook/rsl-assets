@@ -1,7 +1,7 @@
 {
 	"name": "Errol",
 	"key": "l10n:hero-type/name?id=1770#static",
-	"id": "1776",
+	"id": 1776,
 	"avatar": "1770_temp",
 	"hp": "16020",
 	"atk": "1674",

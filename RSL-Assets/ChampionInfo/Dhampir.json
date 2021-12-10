@@ -1,7 +1,7 @@
 {
 	"name": "Dhampir",
 	"key": "l10n:hero-type/name?id=500#static",
-	"id": "506",
+	"id": 506,
 	"avatar": "500",
 	"hp": "10410",
 	"atk": "1068",

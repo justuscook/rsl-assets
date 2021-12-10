@@ -1,7 +1,7 @@
 {
 	"name": "Grumbler",
 	"key": "l10n:hero-type/name?id=4150#static",
-	"id": "4156",
+	"id": 4156,
 	"avatar": "4150",
 	"hp": "19485",
 	"atk": "804",

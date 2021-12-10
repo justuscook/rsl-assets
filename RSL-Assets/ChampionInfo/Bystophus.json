@@ -1,7 +1,7 @@
 {
 	"name": "Bystophus",
 	"key": "l10n:hero-type/name?id=980#static",
-	"id": "986",
+	"id": 986,
 	"avatar": "21110",
 	"hp": "14700",
 	"atk": "1795",

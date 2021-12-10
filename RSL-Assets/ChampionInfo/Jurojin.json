@@ -1,7 +1,7 @@
 {
 	"name": "Jurojin",
 	"key": "l10n:hero-type/name?id=6360#static",
-	"id": "6366",
+	"id": 6366,
 	"avatar": "6360",
 	"hp": "20970",
 	"atk": "738",

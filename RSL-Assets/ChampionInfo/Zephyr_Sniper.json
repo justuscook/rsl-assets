@@ -1,7 +1,7 @@
 {
 	"name": "Zephyr Sniper",
 	"key": "l10n:hero-type/name?id=2970#static",
-	"id": "2976",
+	"id": 2976,
 	"avatar": "2970",
 	"hp": "13380",
 	"atk": "617",

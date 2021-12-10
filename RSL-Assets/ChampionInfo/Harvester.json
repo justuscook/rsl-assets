@@ -1,7 +1,7 @@
 {
 	"name": "Harvester",
 	"key": "l10n:hero-type/name?id=3150#static",
-	"id": "3156",
+	"id": 3156,
 	"avatar": "3150",
 	"hp": "13710",
 	"atk": "1156",

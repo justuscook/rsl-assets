@@ -1,7 +1,7 @@
 {
 	"name": "Steel Bowyer",
 	"key": "l10n:hero-type/name?id=3130#static",
-	"id": "3136",
+	"id": 3136,
 	"avatar": "3130",
 	"hp": "12720",
 	"atk": "1365",

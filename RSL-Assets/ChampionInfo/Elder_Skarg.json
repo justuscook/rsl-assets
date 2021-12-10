@@ -1,7 +1,7 @@
 {
 	"name": "Elder Skarg",
 	"key": "l10n:hero-type/name?id=3860#static",
-	"id": "3866",
+	"id": 3866,
 	"avatar": "3860",
 	"hp": "16185",
 	"atk": "1630",

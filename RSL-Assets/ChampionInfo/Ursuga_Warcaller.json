@@ -1,7 +1,7 @@
 {
 	"name": "Ursuga Warcaller",
 	"key": "l10n:hero-type/name?id=5330#static",
-	"id": "5336",
+	"id": 5336,
 	"avatar": "5330",
 	"hp": "23460",
 	"atk": "485",

@@ -1,7 +1,7 @@
 {
 	"name": "Royal Huntsman",
 	"key": "l10n:hero-type/name?id=2440#static",
-	"id": "2446",
+	"id": 2446,
 	"avatar": "2440",
 	"hp": "16350",
 	"atk": "1553",

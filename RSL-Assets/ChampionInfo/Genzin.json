@@ -1,7 +1,7 @@
 {
 	"name": "Genzin",
 	"key": "l10n:hero-type/name?id=5810#static",
-	"id": "5816",
+	"id": 5816,
 	"avatar": "5810",
 	"hp": "17505",
 	"atk": "1553",

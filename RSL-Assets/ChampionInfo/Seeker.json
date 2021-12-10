@@ -1,7 +1,7 @@
 {
 	"name": "Seeker",
 	"key": "l10n:hero-type/name?id=1120#static",
-	"id": "1126",
+	"id": 1126,
 	"avatar": "1120",
 	"hp": "16845",
 	"atk": "1002",

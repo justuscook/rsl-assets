@@ -1,7 +1,7 @@
 {
 	"name": "Ultimate Galek",
 	"key": "l10n:hero-type/name?id=4600#static",
-	"id": "4606",
+	"id": 4606,
 	"avatar": "4600",
 	"hp": "15195",
 	"atk": "1332",

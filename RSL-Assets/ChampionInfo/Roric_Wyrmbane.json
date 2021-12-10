@@ -1,7 +1,7 @@
 {
 	"name": "Roric Wyrmbane",
 	"key": "l10n:hero-type/name?id=6460#static",
-	"id": "6466",
+	"id": 6466,
 	"avatar": "6460",
 	"hp": "14535",
 	"atk": "1641",

@@ -1,7 +1,7 @@
 {
 	"name": "Purgator",
 	"key": "l10n:hero-type/name?id=5210#static",
-	"id": "5216",
+	"id": 5216,
 	"avatar": "5210",
 	"hp": "13380",
 	"atk": "1409",

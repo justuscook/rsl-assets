@@ -1,7 +1,7 @@
 {
 	"name": "Scabrius",
 	"key": "l10n:hero-type/name?id=6500#static",
-	"id": "6506",
+	"id": 6506,
 	"avatar": "6500",
 	"hp": "13215",
 	"atk": "1365",

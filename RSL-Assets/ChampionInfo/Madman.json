@@ -1,7 +1,7 @@
 {
 	"name": "Madman",
 	"key": "l10n:hero-type/name?id=4190#static",
-	"id": "4196",
+	"id": 4196,
 	"avatar": "4190",
 	"hp": "14040",
 	"atk": "1343",

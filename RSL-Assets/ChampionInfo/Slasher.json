@@ -1,7 +1,7 @@
 {
 	"name": "Slasher",
 	"key": "l10n:hero-type/name?id=2240#static",
-	"id": "2246",
+	"id": 2246,
 	"avatar": "2240",
 	"hp": "13050",
 	"atk": "1332",

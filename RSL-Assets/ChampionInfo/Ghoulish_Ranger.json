@@ -1,7 +1,7 @@
 {
 	"name": "Ghoulish Ranger",
 	"key": "l10n:hero-type/name?id=4070#static",
-	"id": "4076",
+	"id": 4076,
 	"avatar": "4070",
 	"hp": "12390",
 	"atk": "1443",

@@ -1,7 +1,7 @@
 {
 	"name": "Hill Nomad",
 	"key": "l10n:hero-type/name?id=3940#static",
-	"id": "3946",
+	"id": 3946,
 	"avatar": "3940",
 	"hp": "13875",
 	"atk": "1145",

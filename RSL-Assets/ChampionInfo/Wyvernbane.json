@@ -1,7 +1,7 @@
 {
 	"name": "Wyvernbane",
 	"key": "l10n:hero-type/name?id=5180#static",
-	"id": "5186",
+	"id": 5186,
 	"avatar": "5180",
 	"hp": "12555",
 	"atk": "1288",

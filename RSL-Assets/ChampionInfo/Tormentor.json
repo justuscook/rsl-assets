@@ -1,7 +1,7 @@
 {
 	"name": "Tormentor",
 	"key": "l10n:hero-type/name?id=3350#static",
-	"id": "3356",
+	"id": 3356,
 	"avatar": "3350",
 	"hp": "13875",
 	"atk": "1156",

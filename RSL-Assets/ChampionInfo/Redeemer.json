@@ -1,7 +1,7 @@
 {
 	"name": "Redeemer",
 	"key": "l10n:hero-type/name?id=1220#static",
-	"id": "1226",
+	"id": 1226,
 	"avatar": "1220",
 	"hp": "12225",
 	"atk": "1123",

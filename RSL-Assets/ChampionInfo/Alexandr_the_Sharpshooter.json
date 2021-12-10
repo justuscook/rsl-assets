@@ -1,7 +1,7 @@
 {
 	"name": "Aleksandr the Sharpshooter",
 	"key": "l10n:hero-type/name?id=6550#static",
-	"id": "6556",
+	"id": 6556,
 	"avatar": "6550",
 	"hp": "17505",
 	"atk": "1432",

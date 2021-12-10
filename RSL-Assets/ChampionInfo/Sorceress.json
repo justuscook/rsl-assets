@@ -1,7 +1,7 @@
 {
 	"name": "Sorceress",
 	"key": "l10n:hero-type/name?id=750#static",
-	"id": "756",
+	"id": 756,
 	"avatar": "750",
 	"hp": "12555",
 	"atk": "1321",

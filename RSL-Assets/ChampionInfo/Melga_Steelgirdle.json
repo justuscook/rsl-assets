@@ -1,7 +1,7 @@
 {
 	"name": "Melga Steelgirdle",
 	"key": "l10n:hero-type/name?id=5390#static",
-	"id": "5396",
+	"id": 5396,
 	"avatar": "5390",
 	"hp": "20475",
 	"atk": "947",

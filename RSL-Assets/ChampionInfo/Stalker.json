@@ -1,7 +1,7 @@
 {
 	"name": "Stalker",
 	"key": "l10n:hero-type/name?id=1690#static",
-	"id": "1696",
+	"id": 1696,
 	"avatar": "1690",
 	"hp": "16185",
 	"atk": "749",

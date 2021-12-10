@@ -1,7 +1,7 @@
 {
 	"name": "Snorting Thug",
 	"key": "l10n:hero-type/name?id=3540#static",
-	"id": "3546",
+	"id": 3546,
 	"avatar": "3540",
 	"hp": "20640",
 	"atk": "870",

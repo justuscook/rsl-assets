@@ -1,7 +1,7 @@
 {
 	"name": "Ninja",
 	"key": "l10n:hero-type/name?id=6200#static",
-	"id": "6206",
+	"id": 6206,
 	"avatar": "6200",
 	"hp": "16845",
 	"atk": "1509",

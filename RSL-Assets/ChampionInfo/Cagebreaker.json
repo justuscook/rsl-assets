@@ -1,7 +1,7 @@
 {
 	"name": "Cagebreaker",
 	"key": "l10n:hero-type/name?id=3220#static",
-	"id": "3226",
+	"id": 3226,
 	"avatar": "3220",
 	"hp": "16020",
 	"atk": "1409",

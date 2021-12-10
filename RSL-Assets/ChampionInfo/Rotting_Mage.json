@@ -1,7 +1,7 @@
 {
 	"name": "Rotting Mage",
 	"key": "l10n:hero-type/name?id=3060#static",
-	"id": "3066",
+	"id": 3066,
 	"avatar": "3060",
 	"hp": "16350",
 	"atk": "1068",

@@ -1,7 +1,7 @@
 {
 	"name": "Occult Brawler",
 	"key": "l10n:hero-type/name?id=3300#static",
-	"id": "3306",
+	"id": 3306,
 	"avatar": "3300",
 	"hp": "20640",
 	"atk": "1101",

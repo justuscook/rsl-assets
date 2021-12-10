@@ -1,7 +1,7 @@
 {
 	"name": "Sicia Flametongue",
 	"key": "l10n:hero-type/name?id=5770#static",
-	"id": "5776",
+	"id": 5776,
 	"avatar": "5770",
 	"hp": "13050",
 	"atk": "1586",

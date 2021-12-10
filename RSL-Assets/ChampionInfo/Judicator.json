@@ -1,7 +1,7 @@
 {
 	"name": "Judicator",
 	"key": "l10n:hero-type/name?id=2200#static",
-	"id": "2206",
+	"id": 2206,
 	"avatar": "2200",
 	"hp": "11895",
 	"atk": "1398",

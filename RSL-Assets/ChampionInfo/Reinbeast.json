@@ -1,7 +1,7 @@
 {
 	"name": "Reinbeast",
 	"key": "l10n:hero-type/name?id=3010#static",
-	"id": "3016",
+	"id": 3016,
 	"avatar": "3010",
 	"hp": "18660",
 	"atk": "826",

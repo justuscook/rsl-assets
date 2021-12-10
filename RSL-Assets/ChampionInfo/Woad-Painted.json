@@ -1,7 +1,7 @@
 {
 	"name": "Woad-Painted",
 	"key": "l10n:hero-type/name?id=2260#static",
-	"id": "2266",
+	"id": 2266,
 	"avatar": "2260",
 	"hp": "19815",
 	"atk": "1013",

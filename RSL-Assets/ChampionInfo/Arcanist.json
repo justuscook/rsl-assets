@@ -1,7 +1,7 @@
 {
 	"name": "Arcanist",
 	"key": "l10n:hero-type/name?id=250#static",
-	"id": "256",
+	"id": 256,
 	"avatar": "250",
 	"hp": "17835",
 	"atk": "991",

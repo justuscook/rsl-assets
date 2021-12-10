@@ -1,7 +1,7 @@
 {
 	"name": "Flesheater",
 	"key": "l10n:hero-type/name?id=2410#static",
-	"id": "2416",
+	"id": 2416,
 	"avatar": "2410",
 	"hp": "14535",
 	"atk": "1024",

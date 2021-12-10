@@ -1,7 +1,7 @@
 {
 	"name": "Chaplain",
 	"key": "l10n:hero-type/name?id=2180#static",
-	"id": "2186",
+	"id": 2186,
 	"avatar": "2180",
 	"hp": "15855",
 	"atk": "1079",

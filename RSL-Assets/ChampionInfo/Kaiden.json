@@ -1,7 +1,7 @@
 {
 	"name": "Kaiden",
 	"key": "l10n:hero-type/name?id=5290#static",
-	"id": "5296",
+	"id": 5296,
 	"avatar": "5290",
 	"hp": "16350",
 	"atk": "837",

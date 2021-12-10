@@ -1,7 +1,7 @@
 {
 	"name": "Honor Guard",
 	"key": "l10n:hero-type/name?id=4320#static",
-	"id": "4326",
+	"id": 4326,
 	"avatar": "4320",
 	"hp": "15525",
 	"atk": "760",

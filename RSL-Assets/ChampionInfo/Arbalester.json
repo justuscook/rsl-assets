@@ -1,7 +1,7 @@
 {
 	"name": "Arbalester",
 	"key": "l10n:hero-type/name?id=430#static",
-	"id": "436",
+	"id": 436,
 	"avatar": "430",
 	"hp": "14205",
 	"atk": "1421",

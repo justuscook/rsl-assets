@@ -1,7 +1,7 @@
 {
 	"name": "Doompriest",
 	"key": "l10n:hero-type/name?id=2800#static",
-	"id": "2806",
+	"id": 2806,
 	"avatar": "2800",
 	"hp": "19320",
 	"atk": "980",

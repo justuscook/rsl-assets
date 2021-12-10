@@ -1,7 +1,7 @@
 {
 	"name": "Goremask",
 	"key": "l10n:hero-type/name?id=1260#static",
-	"id": "1266",
+	"id": 1266,
 	"avatar": "1260",
 	"hp": "12225",
 	"atk": "1509",

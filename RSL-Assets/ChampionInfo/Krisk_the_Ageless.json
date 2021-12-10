@@ -1,7 +1,7 @@
 {
 	"name": "Krisk the Ageless",
 	"key": "l10n:hero-type/name?id=3670#static",
-	"id": "3676",
+	"id": 3676,
 	"avatar": "3670",
 	"hp": "19485",
 	"atk": "760",

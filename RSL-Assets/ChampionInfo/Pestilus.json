@@ -1,7 +1,7 @@
 {
 	"name": "Pestilus",
 	"key": "l10n:hero-type/name?id=5750#static",
-	"id": "5756",
+	"id": 5756,
 	"avatar": "5750",
 	"hp": "20145",
 	"atk": "848",

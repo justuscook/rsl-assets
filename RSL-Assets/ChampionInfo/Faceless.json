@@ -1,7 +1,7 @@
 {
 	"name": "Faceless",
 	"key": "l10n:hero-type/name?id=280#static",
-	"id": "286",
+	"id": 286,
 	"avatar": "280",
 	"hp": "17505",
 	"atk": "1398",

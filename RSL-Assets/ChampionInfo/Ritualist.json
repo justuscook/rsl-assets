@@ -1,7 +1,7 @@
 {
 	"name": "Ritualist",
 	"key": "l10n:hero-type/name?id=1550#static",
-	"id": "1556",
+	"id": 1556,
 	"avatar": "1550",
 	"hp": "13545",
 	"atk": "1068",

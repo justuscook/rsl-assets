@@ -1,7 +1,7 @@
 {
 	"name": "Rock Breaker",
 	"key": "l10n:hero-type/name?id=4160#static",
-	"id": "4166",
+	"id": 4166,
 	"avatar": "4160",
 	"hp": "18495",
 	"atk": "716",

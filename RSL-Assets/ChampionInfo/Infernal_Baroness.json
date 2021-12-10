@@ -1,7 +1,7 @@
 {
 	"name": "Infernal Baroness",
 	"key": "l10n:hero-type/name?id=2470#static",
-	"id": "2476",
+	"id": 2476,
 	"avatar": "2470",
 	"hp": "17670",
 	"atk": "914",

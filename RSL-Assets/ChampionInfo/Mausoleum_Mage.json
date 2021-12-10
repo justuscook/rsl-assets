@@ -1,7 +1,7 @@
 {
 	"name": "Mausoleum Mage",
 	"key": "l10n:hero-type/name?id=4060#static",
-	"id": "4066",
+	"id": 4066,
 	"avatar": "4060",
 	"hp": "19485",
 	"atk": "1057",

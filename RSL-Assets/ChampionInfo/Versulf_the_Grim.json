@@ -1,7 +1,7 @@
 {
 	"name": "Versulf the Grim",
 	"key": "l10n:hero-type/name?id=6220#static",
-	"id": "6226",
+	"id": 6226,
 	"avatar": "6220",
 	"hp": "22635",
 	"atk": "870",

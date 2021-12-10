@@ -1,7 +1,7 @@
 {
 	"name": "High Khatun",
 	"key": "l10n:hero-type/name?id=4010#static",
-	"id": "4016",
+	"id": 4016,
 	"avatar": "4010",
 	"hp": "16350",
 	"atk": "1024",

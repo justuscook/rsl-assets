@@ -1,7 +1,7 @@
 {
 	"name": "Archer",
 	"key": "l10n:hero-type/name?id=790#static",
-	"id": "796",
+	"id": 796,
 	"avatar": "790",
 	"hp": "13050",
 	"atk": "1156",

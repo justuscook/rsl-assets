@@ -1,7 +1,7 @@
 {
 	"name": "Pit Fighter",
 	"key": "l10n:hero-type/name?id=1540#static",
-	"id": "1546",
+	"id": 1546,
 	"avatar": "1540",
 	"hp": "16185",
 	"atk": "892",

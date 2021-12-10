@@ -1,7 +1,7 @@
 {
 	"name": "Prince Kymar",
 	"key": "l10n:hero-type/name?id=1440#static",
-	"id": "1446",
+	"id": 1446,
 	"avatar": "1440",
 	"hp": "18990",
 	"atk": "1046",

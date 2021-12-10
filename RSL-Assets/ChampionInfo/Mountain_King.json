@@ -1,7 +1,7 @@
 {
 	"name": "Mountain King",
 	"key": "l10n:hero-type/name?id=4270#static",
-	"id": "4276",
+	"id": 4276,
 	"avatar": "4270",
 	"hp": "31050",
 	"atk": "1432",

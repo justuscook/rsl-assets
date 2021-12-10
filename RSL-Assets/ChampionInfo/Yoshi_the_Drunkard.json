@@ -1,7 +1,7 @@
 {
 	"name": "Yoshi the Drunkard",
 	"key": "l10n:hero-type/name?id=5820#static",
-	"id": "5826",
+	"id": 5826,
 	"avatar": "5820 ",
 	"hp": "19650",
 	"atk": "1299",

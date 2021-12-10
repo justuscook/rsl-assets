@@ -1,7 +1,7 @@
 {
 	"name": "Seer",
 	"key": "l10n:hero-type/name?id=1330#static",
-	"id": "1336",
+	"id": 1336,
 	"avatar": "1330",
 	"hp": "19320",
 	"atk": "1145",

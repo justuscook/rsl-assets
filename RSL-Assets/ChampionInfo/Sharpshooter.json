@@ -1,7 +1,7 @@
 {
 	"name": "Drillmaster",
 	"key": "l10n:hero-type/name?id=290#static",
-	"id": "296",
+	"id": 296,
 	"avatar": "290",
 	"hp": "10575",
 	"atk": "1255",

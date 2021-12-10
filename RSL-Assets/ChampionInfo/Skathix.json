@@ -1,7 +1,7 @@
 {
 	"name": "Skathix",
 	"key": "l10n:hero-type/name?id=6140#static",
-	"id": "6146",
+	"id": 6146,
 	"avatar": "6140",
 	"hp": "18165",
 	"atk": "1035",

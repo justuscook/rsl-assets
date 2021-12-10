@@ -1,7 +1,7 @@
 {
 	"name": "Vilespawn",
 	"key": "l10n:hero-type/name?id=4350#static",
-	"id": "4356",
+	"id": 4356,
 	"avatar": "4350",
 	"hp": "13875",
 	"atk": "925",

@@ -1,7 +1,7 @@
 {
 	"name": "Crusher",
 	"key": "l10n:hero-type/name?id=2420#static",
-	"id": "2426",
+	"id": 2426,
 	"avatar": "2420",
 	"hp": "14370",
 	"atk": "870",

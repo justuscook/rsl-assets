@@ -1,7 +1,7 @@
 {
 	"name": "Nobel",
 	"key": "l10n:hero-type/name?id=6100#static",
-	"id": "6106",
+	"id": 6106,
 	"avatar": "6100",
 	"hp": "14865",
 	"atk": "1553",

@@ -1,7 +1,7 @@
 {
 	"name": "Captain Temila",
 	"key": "l10n:hero-type/name?id=3770#static",
-	"id": "3776",
+	"id": 3776,
 	"avatar": "3770",
 	"hp": "18825",
 	"atk": "936",

@@ -1,7 +1,7 @@
 {
 	"name": "Rocktooth",
 	"key": "l10n:hero-type/name?id=1000#static",
-	"id": "1006",
+	"id": 1006,
 	"avatar": "1000",
 	"hp": "15525",
 	"atk": "1211",

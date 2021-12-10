@@ -1,7 +1,7 @@
 {
 	"name": "Zelotah",
 	"key": "l10n:hero-type/name?id=610#static",
-	"id": "616",
+	"id": 616,
 	"avatar": "610",
 	"hp": "20640",
 	"atk": "826",

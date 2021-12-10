@@ -1,7 +1,7 @@
 {
 	"name": "Blind Seer",
 	"key": "l10n:hero-type/name?id=70#static",
-	"id": "76",
+	"id": 76,
 	"avatar": "70",
 	"hp": "18165",
 	"atk": "1332",

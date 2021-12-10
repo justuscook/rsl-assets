@@ -1,7 +1,7 @@
 {
 	"name": "Templar",
 	"key": "l10n:hero-type/name?id=510#static",
-	"id": "516",
+	"id": 516,
 	"avatar": "510",
 	"hp": "15855",
 	"atk": "881",

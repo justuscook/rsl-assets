@@ -1,7 +1,7 @@
 {
 	"name": "Rotos the Lost Groom",
 	"key": "l10n:hero-type/name?id=4760#static",
-	"id": "4766",
+	"id": 4766,
 	"avatar": "4760",
 	"hp": "11895",
 	"atk": "1520",

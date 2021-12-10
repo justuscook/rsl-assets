@@ -1,7 +1,7 @@
 {
 	"name": "Royal Guard",
 	"key": "l10n:hero-type/name?id=130#static",
-	"id": "136",
+	"id": 136,
 	"avatar": "130",
 	"hp": "15030",
 	"atk": "1531",

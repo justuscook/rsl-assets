@@ -1,7 +1,7 @@
 {
 	"name": "Cudgeler",
 	"key": "l10n:hero-type/name?id=4670#static",
-	"id": "4676",
+	"id": 4676,
 	"avatar": "4670",
 	"hp": "14205",
 	"atk": "1178",

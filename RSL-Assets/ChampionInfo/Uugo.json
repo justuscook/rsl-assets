@@ -1,7 +1,7 @@
 {
 	"name": "Uugo",
 	"key": "l10n:hero-type/name?id=5600#static",
-	"id": "5606",
+	"id": 5606,
 	"avatar": "5600",
 	"hp": "19650",
 	"atk": "738",

@@ -1,7 +1,7 @@
 {
 	"name": "Skytouched Shaman",
 	"key": "l10n:hero-type/name?id=4530#static",
-	"id": "4536",
+	"id": 4536,
 	"avatar": "4530",
 	"hp": "18330",
 	"atk": "958",

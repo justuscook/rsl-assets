@@ -1,7 +1,7 @@
 {
 	"name": "Frostskin",
 	"key": "l10n:hero-type/name?id=2830#static",
-	"id": "2836",
+	"id": 2836,
 	"avatar": "2830",
 	"hp": "14865",
 	"atk": "1046",

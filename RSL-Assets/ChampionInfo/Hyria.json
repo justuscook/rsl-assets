@@ -1,7 +1,7 @@
 {
 	"name": "Hyria",
 	"key": "l10n:hero-type/name?id=100#static",
-	"id": "106",
+	"id": 106,
 	"avatar": "100",
 	"hp": "12060",
 	"atk": "1476",

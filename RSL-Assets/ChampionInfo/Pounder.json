@@ -1,7 +1,7 @@
 {
 	"name": "Pounder",
 	"key": "l10n:hero-type/name?id=2820#static",
-	"id": "2826",
+	"id": 2826,
 	"avatar": "2820",
 	"hp": "14535",
 	"atk": "859",

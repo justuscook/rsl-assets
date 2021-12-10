@@ -1,7 +1,7 @@
 {
 	"name": "Candraphon",
 	"key": "l10n:hero-type/name?id=3990#static",
-	"id": "3996",
+	"id": 3996,
 	"avatar": "3990",
 	"hp": "17505",
 	"atk": "1509",

@@ -1,7 +1,7 @@
 {
 	"name": "Oldbeard",
 	"key": "l10n:hero-type/name?id=2840#static",
-	"id": "2846",
+	"id": 2846,
 	"avatar": "2840",
 	"hp": "14040",
 	"atk": "716",

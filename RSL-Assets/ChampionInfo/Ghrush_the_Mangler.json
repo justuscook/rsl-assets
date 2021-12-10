@@ -1,7 +1,7 @@
 {
 	"name": "Ghrush the Mangler",
 	"key": "l10n:hero-type/name?id=5100#static",
-	"id": "5106",
+	"id": 5106,
 	"avatar": "5100",
 	"hp": "19320",
 	"atk": "694",

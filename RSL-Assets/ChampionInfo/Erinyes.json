@@ -1,7 +1,7 @@
 {
 	"name": "Erinyes",
 	"key": "l10n:hero-type/name?id=1020#static",
-	"id": "1026",
+	"id": 1026,
 	"avatar": "1020",
 	"hp": "13050",
 	"atk": "1553",

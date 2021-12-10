@@ -1,7 +1,7 @@
 {
 	"name": "Excruciator",
 	"key": "l10n:hero-type/name?id=4000#static",
-	"id": "4006",
+	"id": 4006,
 	"avatar": "4000",
 	"hp": "12720",
 	"atk": "1597",

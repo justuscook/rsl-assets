@@ -1,7 +1,7 @@
 {
 	"name": "Wanderer",
 	"key": "l10n:hero-type/name?id=2900#static",
-	"id": "2906",
+	"id": 2906,
 	"avatar": "2900",
 	"hp": "13050",
 	"atk": "1443",

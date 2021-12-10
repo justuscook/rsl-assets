@@ -1,7 +1,7 @@
 {
 	"name": "Chemist",
 	"key": "l10n:hero-type/name?id=4280#static",
-	"id": "4286",
+	"id": 4286,
 	"avatar": "4280",
 	"hp": "12555",
 	"atk": "1046",

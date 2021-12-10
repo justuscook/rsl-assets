@@ -1,7 +1,7 @@
 {
 	"name": "Squire",
 	"key": "l10n:hero-type/name?id=1880#static",
-	"id": "1886",
+	"id": 1886,
 	"avatar": "1880",
 	"hp": "15690",
 	"atk": "760",

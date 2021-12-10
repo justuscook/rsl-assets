@@ -1,7 +1,7 @@
 {
 	"name": "Gwynneth",
 	"key": "l10n:hero-type/name?id=6330#static",
-	"id": "6336",
+	"id": 6336,
 	"avatar": "6330",
 	"hp": "14370",
 	"atk": "1421",

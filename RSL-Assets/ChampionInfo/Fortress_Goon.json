@@ -1,7 +1,7 @@
 {
 	"name": "Fortress Goon",
 	"key": "l10n:hero-type/name?id=3100#static",
-	"id": "3106",
+	"id": 3106,
 	"avatar": "3100",
 	"hp": "15525",
 	"atk": "859",

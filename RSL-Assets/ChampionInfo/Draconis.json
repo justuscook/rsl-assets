@@ -1,7 +1,7 @@
 {
 	"name": "Draconis",
 	"key": "l10n:hero-type/name?id=5270#static",
-	"id": "5276",
+	"id": 5276,
 	"avatar": "5270",
 	"hp": "17835",
 	"atk": "914",

@@ -1,7 +1,7 @@
 {
 	"name": "Rector Drath",
 	"key": "l10n:hero-type/name?id=4810#static",
-	"id": "4816",
+	"id": 4816,
 	"avatar": "4810",
 	"hp": "17010",
 	"atk": "1035",

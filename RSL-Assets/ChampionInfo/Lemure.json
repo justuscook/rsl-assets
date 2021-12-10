@@ -1,7 +1,7 @@
 {
 	"name": "Lemure",
 	"key": "l10n:hero-type/name?id=2150#static",
-	"id": "2156",
+	"id": 2156,
 	"avatar": "2150",
 	"hp": "18165",
 	"atk": "639",

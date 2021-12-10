@@ -1,7 +1,7 @@
 {
 	"name": "Warchief",
 	"key": "l10n:hero-type/name?id=940#static",
-	"id": "946",
+	"id": 946,
 	"avatar": "21050",
 	"hp": "18990",
 	"atk": "848",

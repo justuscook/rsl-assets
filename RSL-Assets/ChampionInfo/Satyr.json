@@ -1,7 +1,7 @@
 {
 	"name": "Satyr",
 	"key": "l10n:hero-type/name?id=770#static",
-	"id": "776",
+	"id": 776,
 	"avatar": "770",
 	"hp": "15195",
 	"atk": "892",

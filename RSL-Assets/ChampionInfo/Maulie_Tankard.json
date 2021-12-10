@@ -1,7 +1,7 @@
 {
 	"name": "Maulie Tankard",
 	"key": "l10n:hero-type/name?id=4520#static",
-	"id": "4526",
+	"id": 4526,
 	"avatar": "4520",
 	"hp": "18495",
 	"atk": "881",

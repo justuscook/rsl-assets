@@ -1,7 +1,7 @@
 {
 	"name": "Baroth the Bloodsoaked",
 	"key": "l10n:hero-type/name?id=5310#static",
-	"id": "5316",
+	"id": 5316,
 	"avatar": "5310",
 	"hp": "20475",
 	"atk": "826",

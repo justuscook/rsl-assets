@@ -1,7 +1,7 @@
 {
 	"name": "Skullsworn",
 	"key": "l10n:hero-type/name?id=890#static",
-	"id": "896",
+	"id": 896,
 	"avatar": "890",
 	"hp": "12720",
 	"atk": "1365",

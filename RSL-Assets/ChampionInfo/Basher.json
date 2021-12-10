@@ -1,7 +1,7 @@
 {
 	"name": "Basher",
 	"key": "l10n:hero-type/name?id=2660#static",
-	"id": "2666",
+	"id": 2666,
 	"avatar": "2660",
 	"hp": "13545",
 	"atk": "1498",

@@ -1,7 +1,7 @@
 {
 	"name": "Turvold",
 	"key": "l10n:hero-type/name?id=2370#static",
-	"id": "2376",
+	"id": 2376,
 	"avatar": "2370",
 	"hp": "17505",
 	"atk": "1498",

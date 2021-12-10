@@ -1,7 +1,7 @@
 {
 	"name": "Hellfreak",
 	"key": "l10n:hero-type/name?id=6410#static",
-	"id": "6416",
+	"id": 6416,
 	"avatar": "6410",
 	"hp": "15195",
 	"atk": "1365",

@@ -1,7 +1,7 @@
 {
 	"name": "Iron Brago",
 	"key": "l10n:hero-type/name?id=5670#static",
-	"id": "5676",
+	"id": 5676,
 	"avatar": "5670",
 	"hp": "18165",
 	"atk": "881",

@@ -1,7 +1,7 @@
 {
 	"name": "Fayne",
 	"key": "l10n:hero-type/name?id=5300#static",
-	"id": "5306",
+	"id": 5306,
 	"avatar": "5300",
 	"hp": "13710",
 	"atk": "1663",

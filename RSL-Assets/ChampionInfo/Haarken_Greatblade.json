@@ -1,7 +1,7 @@
 {
 	"name": "Haarken Greatblade",
 	"key": "l10n:hero-type/name?id=3700#static",
-	"id": "3706",
+	"id": 3706,
 	"avatar": "3700",
 	"hp": "14865",
 	"atk": "1487",

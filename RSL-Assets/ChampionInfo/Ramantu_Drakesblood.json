@@ -1,7 +1,7 @@
 {
 	"name": "Ramantu Drakesblood",
 	"key": "l10n:hero-type/name?id=6000#static",
-	"id": "6006",
+	"id": 6006,
 	"avatar": "6000",
 	"hp": "15690",
 	"atk": "1487",

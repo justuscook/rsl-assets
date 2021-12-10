@@ -1,7 +1,7 @@
 {
 	"name": "Scyl of the Drakes",
 	"key": "l10n:hero-type/name?id=5010#static",
-	"id": "5016",
+	"id": 5016,
 	"avatar": "5010",
 	"hp": "19980",
 	"atk": "859",

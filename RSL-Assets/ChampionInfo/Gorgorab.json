@@ -1,7 +1,7 @@
 {
 	"name": "Gorgorab",
 	"key": "l10n:hero-type/name?id=320#static",
-	"id": "326",
+	"id": 326,
 	"avatar": "320",
 	"hp": "17670",
 	"atk": "1057",

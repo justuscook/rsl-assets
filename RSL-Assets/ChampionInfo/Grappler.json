@@ -1,7 +1,7 @@
 {
 	"name": "Grappler",
 	"key": "l10n:hero-type/name?id=2690#static",
-	"id": "2696",
+	"id": 2696,
 	"avatar": "2690",
 	"hp": "14700",
 	"atk": "859",

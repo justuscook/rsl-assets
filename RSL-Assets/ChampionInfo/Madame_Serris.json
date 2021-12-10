@@ -1,7 +1,7 @@
 {
 	"name": "Madame Serris",
 	"key": "l10n:hero-type/name?id=4570#static",
-	"id": "4576",
+	"id": 4576,
 	"avatar": "4570",
 	"hp": "19650",
 	"atk": "826",

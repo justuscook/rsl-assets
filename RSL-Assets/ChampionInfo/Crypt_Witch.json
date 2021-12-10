@@ -1,7 +1,7 @@
 {
 	"name": "Crypt Witch",
 	"key": "l10n:hero-type/name?id=2780#static",
-	"id": "2786",
+	"id": 2786,
 	"avatar": "2780",
 	"hp": "14865",
 	"atk": "1421",

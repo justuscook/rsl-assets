@@ -1,7 +1,7 @@
 {
 	"name": "Rowan",
 	"key": "l10n:hero-type/name?id=180#static",
-	"id": "186",
+	"id": 186,
 	"avatar": "180",
 	"hp": "16845",
 	"atk": "1487",

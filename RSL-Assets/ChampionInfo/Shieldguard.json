@@ -1,7 +1,7 @@
 {
 	"name": "Shieldguard",
 	"key": "l10n:hero-type/name?id=1850#static",
-	"id": "1856",
+	"id": 1856,
 	"avatar": "1850",
 	"hp": "15360",
 	"atk": "705",

@@ -1,7 +1,7 @@
 {
 	"name": "Preserver",
 	"key": "l10n:hero-type/name?id=1940#static",
-	"id": "1946",
+	"id": 1946,
 	"avatar": "1940",
 	"hp": "16350",
 	"atk": "771",

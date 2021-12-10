@@ -1,7 +1,7 @@
 {
 	"name": "Nogdar the Headhunter",
 	"key": "l10n:hero-type/name?id=3910#static",
-	"id": "3916",
+	"id": 3916,
 	"avatar": "3910",
 	"hp": "12060",
 	"atk": "1696",

@@ -1,7 +1,7 @@
 {
 	"name": "Sethallia",
 	"key": "l10n:hero-type/name?id=2390#static",
-	"id": "2396",
+	"id": 2396,
 	"avatar": "2390",
 	"hp": "18000",
 	"atk": "1024",

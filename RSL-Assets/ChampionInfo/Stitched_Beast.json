@@ -1,7 +1,7 @@
 {
 	"name": "Stitched Beast",
 	"key": "l10n:hero-type/name?id=3580#static",
-	"id": "3586",
+	"id": 3586,
 	"avatar": "3580",
 	"hp": "13545",
 	"atk": "1343",

@@ -1,7 +1,7 @@
 {
 	"name": "Marquis",
 	"key": "l10n:hero-type/name?id=2760#static",
-	"id": "2766",
+	"id": 2766,
 	"avatar": "2760",
 	"hp": "16845",
 	"atk": "892",

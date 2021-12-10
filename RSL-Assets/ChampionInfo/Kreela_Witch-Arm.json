@@ -1,7 +1,7 @@
 {
 	"name": "Kreela Witch-Arm",
 	"key": "l10n:hero-type/name?id=3930#static",
-	"id": "3936",
+	"id": 3936,
 	"avatar": "3930",
 	"hp": "16680",
 	"atk": "1244",

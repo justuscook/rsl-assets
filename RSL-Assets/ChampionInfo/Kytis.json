@@ -1,7 +1,7 @@
 {
 	"name": "Kytis",
 	"key": "l10n:hero-type/name?id=1600#static",
-	"id": "1606",
+	"id": 1606,
 	"avatar": "1600",
 	"hp": "14865",
 	"atk": "1222",

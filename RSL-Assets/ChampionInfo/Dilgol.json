@@ -1,7 +1,7 @@
 {
 	"name": "Dilgol",
 	"key": "l10n:hero-type/name?id=5120#static",
-	"id": "5126",
+	"id": 5126,
 	"avatar": "5120",
 	"hp": "15525",
 	"atk": "1046",

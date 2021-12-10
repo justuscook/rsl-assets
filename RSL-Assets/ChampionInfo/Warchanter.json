@@ -1,7 +1,7 @@
 {
 	"name": "Warchanter",
 	"key": "l10n:hero-type/name?id=730#static",
-	"id": "736",
+	"id": 736,
 	"avatar": "730",
 	"hp": "18990",
 	"atk": "716",

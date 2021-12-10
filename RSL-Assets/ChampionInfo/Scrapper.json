@@ -1,7 +1,7 @@
 {
 	"name": "Scrapper",
 	"key": "l10n:hero-type/name?id=5720#static",
-	"id": "5726",
+	"id": 5726,
 	"avatar": "5720",
 	"hp": "14370",
 	"atk": "1233",

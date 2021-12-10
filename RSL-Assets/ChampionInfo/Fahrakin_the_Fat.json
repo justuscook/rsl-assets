@@ -1,7 +1,7 @@
 {
 	"name": "Fahrakin the Fat",
 	"key": "l10n:hero-type/name?id=5660#static",
-	"id": "5666",
+	"id": 5666,
 	"avatar": "5660",
 	"hp": "14535",
 	"atk": "1244",

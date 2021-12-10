@@ -1,7 +1,7 @@
 {
 	"name": "Vanguard",
 	"key": "l10n:hero-type/name?id=3160#static",
-	"id": "3166",
+	"id": 3166,
 	"avatar": "3160",
 	"hp": "14700",
 	"atk": "958",

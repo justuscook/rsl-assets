@@ -1,7 +1,7 @@
 {
 	"name": "Confessor",
 	"key": "l10n:hero-type/name?id=2070#static",
-	"id": "2076",
+	"id": 2076,
 	"avatar": "2070",
 	"hp": "12060",
 	"atk": "1409",

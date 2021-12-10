@@ -1,7 +1,7 @@
 {
 	"name": "Towering Titan",
 	"key": "l10n:hero-type/name?id=3230#static",
-	"id": "3236",
+	"id": 3236,
 	"avatar": "3230",
 	"hp": "23790",
 	"atk": "760",

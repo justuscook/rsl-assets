@@ -1,7 +1,7 @@
 {
 	"name": "Crusader",
 	"key": "l10n:hero-type/name?id=2110#static",
-	"id": "2116",
+	"id": 2116,
 	"avatar": "2110",
 	"hp": "12390",
 	"atk": "1123",

@@ -1,7 +1,7 @@
 {
 	"name": "Masked Fearmonger",
 	"key": "l10n:hero-type/name?id=5360#static",
-	"id": "5366",
+	"id": 5366,
 	"avatar": "5360",
 	"hp": "13215",
 	"atk": "1398",

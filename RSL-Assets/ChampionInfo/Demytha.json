@@ -1,7 +1,7 @@
 {
 	"name": "Demytha",
 	"key": "l10n:hero-type/name?id=6510#static",
-	"id": "6516",
+	"id": 6516,
 	"avatar": "6510",
 	"hp": "18990",
 	"atk": "749",

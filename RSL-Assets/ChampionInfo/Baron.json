@@ -1,7 +1,7 @@
 {
 	"name": "Baron",
 	"key": "l10n:hero-type/name?id=380#static",
-	"id": "386",
+	"id": 386,
 	"avatar": "380",
 	"hp": "15030",
 	"atk": "1575",

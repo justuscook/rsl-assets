@@ -1,7 +1,7 @@
 {
 	"name": "Warlord",
 	"key": "l10n:hero-type/name?id=660#static",
-	"id": "666",
+	"id": 666,
 	"avatar": "660",
 	"hp": "22305",
 	"atk": "914",

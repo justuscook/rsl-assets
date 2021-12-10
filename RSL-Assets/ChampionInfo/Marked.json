@@ -1,7 +1,7 @@
 {
 	"name": "Marked",
 	"key": "l10n:hero-type/name?id=1530#static",
-	"id": "1536",
+	"id": 1536,
 	"avatar": "1530",
 	"hp": "19320",
 	"atk": "892",

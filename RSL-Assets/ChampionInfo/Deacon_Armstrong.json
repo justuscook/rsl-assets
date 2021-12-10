@@ -1,7 +1,7 @@
 {
 	"name": "Deacon Armstrong",
 	"key": "l10n:hero-type/name?id=3870#static",
-	"id": "3876",
+	"id": 3876,
 	"avatar": "3870",
 	"hp": "17835",
 	"atk": "947",

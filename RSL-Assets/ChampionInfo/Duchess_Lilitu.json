@@ -1,7 +1,7 @@
 {
 	"name": "Duchess Lilitu",
 	"key": "l10n:hero-type/name?id=4420#static",
-	"id": "4426",
+	"id": 4426,
 	"avatar": "4420",
 	"hp": "22470",
 	"atk": "793",

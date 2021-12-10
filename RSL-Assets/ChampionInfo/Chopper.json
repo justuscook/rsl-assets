@@ -1,7 +1,7 @@
 {
 	"name": "Chopper",
 	"key": "l10n:hero-type/name?id=1320#static",
-	"id": "1326",
+	"id": 1326,
 	"avatar": "1320",
 	"hp": "15855",
 	"atk": "1046",

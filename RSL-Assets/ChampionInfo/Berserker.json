@@ -1,7 +1,7 @@
 {
 	"name": "Berserker",
 	"key": "l10n:hero-type/name?id=830#static",
-	"id": "836",
+	"id": 836,
 	"avatar": "830",
 	"hp": "14535",
 	"atk": "1266",

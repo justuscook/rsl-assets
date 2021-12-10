@@ -1,7 +1,7 @@
 {
 	"name": "Vildrax",
 	"key": "l10n:hero-type/name?id=6720#static",
-	"id": "6726",
+	"id": 6726,
 	"avatar": "6720",
 	"hp": "19650",
 	"atk": "738",

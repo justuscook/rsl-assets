@@ -1,7 +1,7 @@
 {
 	"name": "Roxam",
 	"key": "l10n:hero-type/name?id=5560#static",
-	"id": "5566",
+	"id": 5566,
 	"avatar": "5560",
 	"hp": "16020",
 	"atk": "1553",

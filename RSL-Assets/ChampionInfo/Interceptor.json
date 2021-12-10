@@ -1,7 +1,7 @@
 {
 	"name": "Interceptor",
 	"key": "l10n:hero-type/name?id=3050#static",
-	"id": "3056",
+	"id": 3056,
 	"avatar": "3050",
 	"hp": "15360",
 	"atk": "881",

@@ -1,7 +1,7 @@
 {
 	"name": "Teela Goremane",
 	"key": "l10n:hero-type/name?id=4110#static",
-	"id": "4116",
+	"id": 4116,
 	"avatar": "4110",
 	"hp": "21975",
 	"atk": "892",

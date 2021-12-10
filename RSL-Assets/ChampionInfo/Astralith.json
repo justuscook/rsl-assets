@@ -1,7 +1,7 @@
 {
 	"name": "Astralith",
 	"key": "l10n:hero-type/name?id=90#static",
-	"id": "96",
+	"id": 96,
 	"avatar": "90",
 	"hp": "17175",
 	"atk": "1487",

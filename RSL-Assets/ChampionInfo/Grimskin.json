@@ -1,7 +1,7 @@
 {
 	"name": "Grimskin",
 	"key": "l10n:hero-type/name?id=2130#static",
-	"id": "2136",
+	"id": 2136,
 	"avatar": "2130",
 	"hp": "16350",
 	"atk": "793",

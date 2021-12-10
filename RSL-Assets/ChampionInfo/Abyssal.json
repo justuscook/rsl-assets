@@ -1,7 +1,7 @@
 {
 	"name": "Abyssal",
 	"key": "l10n:hero-type/name?id=5740#static",
-	"id": "5746",
+	"id": 5746,
 	"avatar": "5740",
 	"hp": "18330",
 	"atk": "815",

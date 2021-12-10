@@ -1,7 +1,7 @@
 {
 	"name": "Fodbor the Bard",
 	"key": "l10n:hero-type/name?id=5630#static",
-	"id": "5636",
+	"id": 5636,
 	"avatar": "5630",
 	"hp": "15360",
 	"atk": "1454",

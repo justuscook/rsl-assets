@@ -1,7 +1,7 @@
 {
 	"name": "Amarantine Skeleton",
 	"key": "l10n:hero-type/name?id=3630#static",
-	"id": "3636",
+	"id": 3636,
 	"avatar": "3630",
 	"hp": "17505",
 	"atk": "683",

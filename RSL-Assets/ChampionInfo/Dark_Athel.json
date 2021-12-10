@@ -1,7 +1,7 @@
 {
 	"name": "Dark Athel",
 	"key": "l10n:hero-type/name?id=4030#static",
-	"id": "4036",
+	"id": 4036,
 	"avatar": "4030",
 	"hp": "13710",
 	"atk": "1465",

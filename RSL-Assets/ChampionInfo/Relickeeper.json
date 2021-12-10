@@ -1,7 +1,7 @@
 {
 	"name": "Relickeeper",
 	"key": "l10n:hero-type/name?id=2910#static",
-	"id": "2916",
+	"id": 2916,
 	"avatar": "2910",
 	"hp": "14370",
 	"atk": "1365",

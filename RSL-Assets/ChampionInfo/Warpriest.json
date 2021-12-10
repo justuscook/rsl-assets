@@ -1,7 +1,7 @@
 {
 	"name": "Warpriest",
 	"key": "l10n:hero-type/name?id=2060#static",
-	"id": "2066",
+	"id": 2066,
 	"avatar": "2060",
 	"hp": "18165",
 	"atk": "683",

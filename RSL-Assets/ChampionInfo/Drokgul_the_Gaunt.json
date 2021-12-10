@@ -1,7 +1,7 @@
 {
 	"name": "Drokgul the Gaunt",
 	"key": "l10n:hero-type/name?id=4790#static",
-	"id": "4796",
+	"id": 4796,
 	"avatar": "4790",
 	"hp": "22965",
 	"atk": "991",

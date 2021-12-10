@@ -1,7 +1,7 @@
 {
 	"name": "Fellhound",
 	"key": "l10n:hero-type/name?id=2770#static",
-	"id": "2776",
+	"id": 2776,
 	"avatar": "2770",
 	"hp": "14865",
 	"atk": "958",

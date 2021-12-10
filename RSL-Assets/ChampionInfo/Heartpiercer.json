@@ -1,7 +1,7 @@
 {
 	"name": "Heartpiercer",
 	"key": "l10n:hero-type/name?id=2870#static",
-	"id": "2876",
+	"id": 2876,
 	"avatar": "2870",
 	"hp": "12555",
 	"atk": "1057",

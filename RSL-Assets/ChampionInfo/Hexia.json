@@ -1,7 +1,7 @@
 {
 	"name": "Hexia",
 	"key": "l10n:hero-type/name?id=2280#static",
-	"id": "2286",
+	"id": 2286,
 	"avatar": "2280",
 	"hp": "14205",
 	"atk": "1564",

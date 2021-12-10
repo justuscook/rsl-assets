@@ -1,7 +1,7 @@
 {
 	"name": "Thea the Tomb Angel",
 	"key": "l10n:hero-type/name?id=4430#static",
-	"id": "4436",
+	"id": 4436,
 	"avatar": "4430",
 	"hp": "16020",
 	"atk": "1542",

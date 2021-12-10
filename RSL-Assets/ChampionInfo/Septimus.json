@@ -1,7 +1,7 @@
 {
 	"name": "Septimus",
 	"key": "l10n:hero-type/name?id=440#static",
-	"id": "446",
+	"id": 446,
 	"avatar": "440",
 	"hp": "13710",
 	"atk": "1674",

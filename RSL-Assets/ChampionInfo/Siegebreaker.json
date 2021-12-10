@@ -1,7 +1,7 @@
 {
 	"name": "Siegebreaker",
 	"key": "l10n:hero-type/name?id=1610#static",
-	"id": "1616",
+	"id": 1616,
 	"avatar": "1610_temp",
 	"hp": "14040",
 	"atk": "1211",

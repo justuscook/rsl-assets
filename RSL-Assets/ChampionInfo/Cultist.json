@@ -1,7 +1,7 @@
 {
 	"name": "Cultist",
 	"key": "l10n:hero-type/name?id=1370#static",
-	"id": "1376",
+	"id": 1376,
 	"avatar": "1370",
 	"hp": "12390",
 	"atk": "1167",

@@ -1,7 +1,7 @@
 {
 	"name": "Wythir the Crowned",
 	"key": "l10n:hero-type/name?id=6470#static",
-	"id": "6476",
+	"id": 6476,
 	"avatar": "6470",
 	"hp": "24120",
 	"atk": "793",

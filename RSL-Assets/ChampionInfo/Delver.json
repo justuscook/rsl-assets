@@ -1,7 +1,7 @@
 {
 	"name": "Delver",
 	"key": "l10n:hero-type/name?id=2880#static",
-	"id": "2886",
+	"id": 2886,
 	"avatar": "2880",
 	"hp": "16350",
 	"atk": "1299",

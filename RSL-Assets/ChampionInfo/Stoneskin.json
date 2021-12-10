@@ -1,7 +1,7 @@
 {
 	"name": "Rockbeast",
 	"key": "l10n:hero-type/name?id=1060#static",
-	"id": "1066",
+	"id": 1066,
 	"avatar": "1060",
 	"hp": "19485",
 	"atk": "892",

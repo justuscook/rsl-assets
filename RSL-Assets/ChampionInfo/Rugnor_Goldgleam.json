@@ -1,7 +1,7 @@
 {
 	"name": "Rugnor Goldgleam",
 	"key": "l10n:hero-type/name?id=5430#static",
-	"id": "5436",
+	"id": 5436,
 	"avatar": "5430",
 	"hp": "16680",
 	"atk": "1409",

@@ -1,7 +1,7 @@
 {
 	"name": "Pit Cur",
 	"key": "l10n:hero-type/name?id=3080#static",
-	"id": "3086",
+	"id": 3086,
 	"avatar": "3080",
 	"hp": "15690",
 	"atk": "826",

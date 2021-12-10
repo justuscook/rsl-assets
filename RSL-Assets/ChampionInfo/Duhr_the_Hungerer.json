@@ -1,7 +1,7 @@
 {
 	"name": "Duhr the Hungerer",
 	"key": "l10n:hero-type/name?id=6480#static",
-	"id": "6486",
+	"id": 6486,
 	"avatar": "6480_avatar",
 	"hp": "17505",
 	"atk": "1068",

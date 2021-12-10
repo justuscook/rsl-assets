@@ -1,7 +1,7 @@
 {
 	"name": "Jinglehunter",
 	"key": "l10n:hero-type/name?id=3020#static",
-	"id": "3026",
+	"id": 3026,
 	"avatar": "3020",
 	"hp": "14700",
 	"atk": "1498",

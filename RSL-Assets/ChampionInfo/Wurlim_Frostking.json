@@ -1,7 +1,7 @@
 {
 	"name": "Wurlim Frostking",
 	"key": "l10n:hero-type/name?id=4510#static",
-	"id": "4516",
+	"id": 4516,
 	"avatar": "4510",
 	"hp": "19650",
 	"atk": "1035",

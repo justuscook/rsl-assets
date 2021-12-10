@@ -1,7 +1,7 @@
 {
 	"name": "Ursine Ironhide",
 	"key": "l10n:hero-type/name?id=4740#static",
-	"id": "4746",
+	"id": 4746,
 	"avatar": "4740",
 	"hp": "19320",
 	"atk": "793",

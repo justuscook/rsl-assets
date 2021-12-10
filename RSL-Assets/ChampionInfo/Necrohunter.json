@@ -1,7 +1,7 @@
 {
 	"name": "Necrohunter",
 	"key": "l10n:hero-type/name?id=4130#static",
-	"id": "4136",
+	"id": 4136,
 	"avatar": "4130",
 	"hp": "12555",
 	"atk": "1398",

@@ -1,7 +1,7 @@
 {
 	"name": "Big 'Un",
 	"key": "l10n:hero-type/name?id=970#static",
-	"id": "976",
+	"id": 976,
 	"avatar": "21090",
 	"hp": "17505",
 	"atk": "1575",

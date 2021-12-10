@@ -1,7 +1,7 @@
 {
 	"name": "Konstantin the Dayborn",
 	"key": "l10n:hero-type/name?id=6670#static",
-	"id": "6676",
+	"id": 6676,
 	"avatar": "6670",
 	"hp": "14700",
 	"atk": "1421",

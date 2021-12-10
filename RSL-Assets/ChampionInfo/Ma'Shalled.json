@@ -1,7 +1,7 @@
 {
 	"name": "Ma'Shalled",
 	"key": "l10n:hero-type/name?id=930#static",
-	"id": "936",
+	"id": 936,
 	"avatar": "21030",
 	"hp": "17835",
 	"atk": "1454",

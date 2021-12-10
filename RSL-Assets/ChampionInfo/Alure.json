@@ -1,7 +1,7 @@
 {
 	"name": "Alure",
 	"key": "l10n:hero-type/name?id=1030#static",
-	"id": "1036",
+	"id": 1036,
 	"avatar": "1030",
 	"hp": "14040",
 	"atk": "1575",

@@ -1,7 +1,7 @@
 {
 	"name": "Umbral Enchantress",
 	"key": "l10n:hero-type/name?id=3520#static",
-	"id": "3526",
+	"id": 3526,
 	"avatar": "3520",
 	"hp": "15360",
 	"atk": "925",

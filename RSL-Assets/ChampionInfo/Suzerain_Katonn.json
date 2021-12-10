@@ -1,7 +1,7 @@
 {
 	"name": "Suzerain Katonn",
 	"key": "l10n:hero-type/name?id=3800#static",
-	"id": "3806",
+	"id": 3806,
 	"avatar": "3800",
 	"hp": "15030",
 	"atk": "1564",

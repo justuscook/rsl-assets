@@ -1,7 +1,7 @@
 {
 	"name": "Bergoth the Malformed",
 	"key": "l10n:hero-type/name?id=4120#static",
-	"id": "4126",
+	"id": 4126,
 	"avatar": "4120",
 	"hp": "21810",
 	"atk": "716",

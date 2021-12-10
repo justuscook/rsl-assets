@@ -1,7 +1,7 @@
 {
 	"name": "Hellborn Sprite",
 	"key": "l10n:hero-type/name?id=6170#static",
-	"id": "6176",
+	"id": 6176,
 	"avatar": "6170",
 	"hp": "15360",
 	"atk": "1145",

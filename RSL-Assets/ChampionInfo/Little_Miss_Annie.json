@@ -1,7 +1,7 @@
 {
 	"name": "Little Miss Annie",
 	"key": "l10n:hero-type/name?id=5340#static",
-	"id": "5346",
+	"id": 5346,
 	"avatar": "5340",
 	"hp": "17835",
 	"atk": "1597",

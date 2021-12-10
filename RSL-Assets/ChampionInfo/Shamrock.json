@@ -1,7 +1,7 @@
 {
 	"name": "Shamrock",
 	"key": "l10n:hero-type/name?id=3570#static",
-	"id": "3576",
+	"id": 3576,
 	"avatar": "3570",
 	"hp": "20805",
 	"atk": "1002",

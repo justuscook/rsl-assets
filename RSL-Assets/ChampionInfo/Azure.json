@@ -1,7 +1,7 @@
 {
 	"name": "Azure",
 	"key": "l10n:hero-type/name?id=1180#static",
-	"id": "1186",
+	"id": 1186,
 	"avatar": "1180",
 	"hp": "19320",
 	"atk": "958",

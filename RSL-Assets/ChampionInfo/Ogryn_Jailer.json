@@ -1,7 +1,7 @@
 {
 	"name": "Ogryn Jailer",
 	"key": "l10n:hero-type/name?id=4050#static",
-	"id": "4056",
+	"id": 4056,
 	"avatar": "4050",
 	"hp": "11235",
 	"atk": "1299",

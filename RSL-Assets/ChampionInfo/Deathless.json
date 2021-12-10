@@ -1,7 +1,7 @@
 {
 	"name": "Deathless",
 	"key": "l10n:hero-type/name?id=1590#static",
-	"id": "1596",
+	"id": 1596,
 	"avatar": "1590",
 	"hp": "18990",
 	"atk": "881",

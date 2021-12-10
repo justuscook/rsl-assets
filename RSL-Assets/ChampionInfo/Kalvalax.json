@@ -1,7 +1,7 @@
 {
 	"name": "Kalvalax",
 	"key": "l10n:hero-type/name?id=6640#static",
-	"id": "6646",
+	"id": 6646,
 	"avatar": "6640",
 	"hp": "12720",
 	"atk": "1663",

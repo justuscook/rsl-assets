@@ -1,7 +1,7 @@
 {
 	"name": "Alaric the Hooded",
 	"key": "l10n:hero-type/name?id=5480#static",
-	"id": "5486",
+	"id": 5486,
 	"avatar": "5480",
 	"hp": "15855",
 	"atk": "1454",

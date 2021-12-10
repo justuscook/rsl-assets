@@ -1,7 +1,7 @@
 {
 	"name": "Hungerer",
 	"key": "l10n:hero-type/name?id=3320#static",
-	"id": "3326",
+	"id": 3326,
 	"avatar": "3320",
 	"hp": "18000",
 	"atk": "683",

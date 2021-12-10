@@ -1,7 +1,7 @@
 {
 	"name": "Conquerer",
 	"key": "l10n:hero-type/name?id=800#static",
-	"id": "806",
+	"id": 806,
 	"avatar": "800",
 	"hp": "12225",
 	"atk": "1421",

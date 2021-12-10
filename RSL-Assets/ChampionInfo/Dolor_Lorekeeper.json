@@ -1,7 +1,7 @@
 {
 	"name": "Dolor Lorekeeper",
 	"key": "l10n:hero-type/name?id=5150#static",
-	"id": "5156",
+	"id": 5156,
 	"avatar": "5150",
 	"hp": "16845",
 	"atk": "1035",

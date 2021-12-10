@@ -1,7 +1,7 @@
 {
 	"name": "Jotun",
 	"key": "l10n:hero-type/name?id=2580#static",
-	"id": "2586",
+	"id": 2586,
 	"avatar": "2580",
 	"hp": "16680",
 	"atk": "991",

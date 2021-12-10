@@ -1,7 +1,7 @@
 {
 	"name": "Avenger",
 	"key": "l10n:hero-type/name?id=330#static",
-	"id": "336",
+	"id": 336,
 	"avatar": "330",
 	"hp": "12225",
 	"atk": "1398",

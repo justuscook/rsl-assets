@@ -1,7 +1,7 @@
 {
 	"name": "Quaestor",
 	"key": "l10n:hero-type/name?id=5240#static",
-	"id": "5246",
+	"id": 5246,
 	"avatar": "5240",
 	"hp": "13215",
 	"atk": "1288",

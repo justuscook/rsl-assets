@@ -1,7 +1,7 @@
 {
 	"name": "Conscript",
 	"key": "l10n:hero-type/name?id=5910#static",
-	"id": "5916",
+	"id": 5916,
 	"avatar": "5910",
 	"hp": "11565",
 	"atk": "1156",

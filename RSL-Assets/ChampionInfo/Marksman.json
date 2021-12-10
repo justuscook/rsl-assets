@@ -1,7 +1,7 @@
 {
 	"name": "Marksman",
 	"key": "l10n:hero-type/name?id=110#static",
-	"id": "116",
+	"id": 116,
 	"avatar": "110",
 	"hp": "14700",
 	"atk": "1432",
