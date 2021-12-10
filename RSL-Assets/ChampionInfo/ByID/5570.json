@@ -1,0 +1,40 @@
+{
+	"typeId": 5576,
+	"name": {
+		"key": "l10n:hero-type/name?id=5570#static",
+		"defaultValue": "Prundar",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "OgrynTribes",
+	"role": "Defense",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "496_Ogre_id5570",
+	"avatarKey": "5570",
+	"leaderSkill": {
+		"area": "DoomTower",
+		"affinity": null,
+		"kind": "Defence",
+		"absolute": false,
+		"value": 0.3
+	},
+	"skillTypeIds": [
+		55701,
+		55702,
+		55703,
+		55704
+	],
+	"unscaledStats": {
+		"Health": 110,
+		"Attack": 62,
+		"Defense": 128,
+		"Speed": 95,
+		"Resistance": 30,
+		"Accuracy": 15,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

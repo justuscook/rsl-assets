@@ -1,0 +1,33 @@
+{
+	"typeId": 3016,
+	"name": {
+		"key": "l10n:hero-type/name?id=3010#static",
+		"defaultValue": "Reinbeast",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "Skinwalkers",
+	"role": "Defense",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "355_skinwalkers_id3010",
+	"avatarKey": "3010",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		30104,
+		30102,
+		30103
+	],
+	"unscaledStats": {
+		"Health": 113,
+		"Attack": 75,
+		"Defense": 112,
+		"Speed": 94,
+		"Resistance": 45,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

@@ -1,0 +1,59 @@
+{
+	"name": "Cupidus",
+	"id": 3516,
+	"avatar": "3510",
+	"hp": 18825,
+	"atk": 1520,
+	"def": 804,
+	"spd": 107,
+	"res": 30,
+	"acc": 10,
+	"crate": 15,
+	"cdamage": 63,
+	"cheal": 50,
+	"faction": "Sacred Order",
+	"type": "Increase Ally ATK in in all Battles by 33",
+	"totalBooks": "10",
+	"skills": [
+		{
+			"desc": "Attacks all enemies. Damage increases by 15% if the target has any debuffs.",
+			"basedOn": "[ATK]",
+			"name": "Heartbreaker",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\n",
+			"multiplier": "2.5*ATK",
+			"numBooksToMax": 3
+		},
+		{
+			"desc": "Attacks 3 times at random. Each hit has a 50% chance of placing a [HP Burn] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Flames of Passion",
+			"maxcd": 4,
+			"mincd": 4,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +10%\n",
+			"multiplier": "2.1*ATK",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Places a 50% [Increase ATK] buff on this Champion for 2 turns, then attacks 1 enemy.\r\n\r\nHas a 50% chance of placing a [HP Burn] debuff on all enemies for 2 turns if this attack kills an enemy. This debuff cannot be resisted.",
+			"basedOn": "",
+			"name": "Flameout",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +10%\n",
+			"multiplier": null,
+			"numBooksToMax": 2
+		},
+		{
+			"desc": "Attacks inflict 25% more damage to targets under debuffs.\r\n\r\n[Only available when Venus is on the same team.]",
+			"basedOn": "",
+			"name": "Punishing Partner [P]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		}
+	]
+}

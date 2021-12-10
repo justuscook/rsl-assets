@@ -1,0 +1,49 @@
+{
+	"name": "Astralith",
+	"id": 96,
+	"avatar": "90",
+	"hp": 17175,
+	"atk": 1487,
+	"def": 947,
+	"spd": 102,
+	"res": 30,
+	"acc": 10,
+	"crate": 15,
+	"cdamage": 63,
+	"cheal": 50,
+	"faction": "Dark Elves",
+	"type": "Increase Ally SPD in Arena battles by 28.000000000000004",
+	"totalBooks": "10",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Fills the Turn Meter of a random ally by 15%. Fills the Turn Meter of all allies by a further 15% if this attack is critical.",
+			"basedOn": "[ATK]",
+			"name": "Assault Leader",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
+			"multiplier": "ATK*3.6",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 1 enemy. Places two [Bomb] debuffs that detonate after 1 turn. This debuff cannot be resisted.",
+			"basedOn": "[ATK]",
+			"name": "Heart Rot",
+			"maxcd": 5,
+			"mincd": 4,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Damage +10%\n",
+			"multiplier": "ATK*5.6",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "[Active Effect]\r\n\r\nExchanges remaining HP levels with a target enemy, then attacks with the default skill. Cannot be used on a boss.\r\n\r\n[Passive Effect]\r\n\r\nGains an Extra Turn and decreases the cooldown of this Skill by 3 turns if this Champion's HP drops below 20% when attacked.",
+			"basedOn": "",
+			"name": "Judgement",
+			"maxcd": 7,
+			"mincd": 5,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 2
+		}
+	]
+}

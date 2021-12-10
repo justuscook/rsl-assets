@@ -1,0 +1,39 @@
+{
+	"typeId": 5726,
+	"name": {
+		"key": "l10n:hero-type/name?id=5720#static",
+		"defaultValue": "Scrapper",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "Barbarians",
+	"role": "Attack",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0338_hot_man",
+	"avatarKey": "5720",
+	"leaderSkill": {
+		"area": "DoomTower",
+		"affinity": null,
+		"kind": "Attack",
+		"absolute": false,
+		"value": 0.25
+	},
+	"skillTypeIds": [
+		57201,
+		57202,
+		57203
+	],
+	"unscaledStats": {
+		"Health": 87,
+		"Attack": 112,
+		"Defense": 76,
+		"Speed": 102,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 57,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

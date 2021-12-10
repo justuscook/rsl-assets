@@ -1,0 +1,59 @@
+{
+	"name": "Teshada",
+	"id": 3296,
+	"avatar": "3290",
+	"hp": 16350,
+	"atk": 826,
+	"def": 1387,
+	"spd": 96,
+	"res": 45,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Barbarians",
+	"type": "Increase Ally SPD in Faction Crypts by 20",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Places a 50% [Increase ATK] buff on this Champion for 2 turns if this attack is critical.",
+			"basedOn": "[DEF][ATK]",
+			"name": "Savage Fury",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Damage +10%\n",
+			"multiplier": "2*DEF+1.8*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 3 times at random. Each hit has a 50% chance of placing a 25% [Weaken] debuff for 2 turns. The chance of placing the [Weaken] debuff increases to 100% on critical hits.",
+			"basedOn": "[DEF][ATK]",
+			"name": "Maximum Carnage",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"multiplier": "1.4*DEF+1*ATK",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Attacks 1 enemy. Revives a random ally with 40% HP if this attack kills the target.\r\n\r\n[Only available when an ally is dead.]",
+			"basedOn": "[DEF][ATK]",
+			"name": "Spirit Appeasement",
+			"maxcd": 3,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\n",
+			"multiplier": "4.5*DEF+1.4*ATK",
+			"numBooksToMax": 3
+		},
+		{
+			"desc": "Show skill 32903",
+			"basedOn": "",
+			"name": "Skill 1000004 name",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		}
+	]
+}

@@ -1,0 +1,39 @@
+{
+	"name": "Hungerer",
+	"id": 3326,
+	"avatar": "3320",
+	"hp": 18000,
+	"atk": 683,
+	"def": 870,
+	"spd": 92,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Ogryn Tribes",
+	"type": "",
+	"totalBooks": "8",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 10% chance of placing a [Stun] debuff for 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Meat Masher",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +10%\n",
+			"multiplier": "3.8*ATK",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Places a [Shield] buff on all allies equal to 10% of this Champion's MAX HP for 2 turns.",
+			"basedOn": "[HP]",
+			"name": "Massive Bulk",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 3
+		}
+	]
+}

@@ -1,0 +1,39 @@
+{
+	"name": "Dhampir",
+	"id": 506,
+	"avatar": "500",
+	"hp": 10410,
+	"atk": 1068,
+	"def": 991,
+	"spd": 98,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Undead Hordes",
+	"type": "",
+	"totalBooks": "8",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Grants an Extra Turn if the target is killed.",
+			"basedOn": "[ATK]",
+			"name": "Deathblow",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "3.5*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks all enemies. Heals by 20% of the damage inflicted.",
+			"basedOn": "[ATK]",
+			"name": "Bloody Feast",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\n",
+			"multiplier": "3*ATK",
+			"numBooksToMax": 4
+		}
+	]
+}

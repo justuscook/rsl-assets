@@ -1,0 +1,40 @@
+{
+	"typeId": 3996,
+	"name": {
+		"key": "l10n:hero-type/name?id=3990#static",
+		"defaultValue": "Candraphon",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "Demonspawn",
+	"role": "Attack",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0317_Demons",
+	"avatarKey": "3990",
+	"leaderSkill": {
+		"area": "Arena",
+		"affinity": null,
+		"kind": "Attack",
+		"absolute": false,
+		"value": 0.33
+	},
+	"skillTypeIds": [
+		39901,
+		39904,
+		39905,
+		39903
+	],
+	"unscaledStats": {
+		"Health": 106,
+		"Attack": 137,
+		"Defense": 82,
+		"Speed": 96,
+		"Resistance": 30,
+		"Accuracy": 10,
+		"CriticalChance": 15,
+		"CriticalDamage": 63,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

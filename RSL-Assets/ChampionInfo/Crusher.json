@@ -1,0 +1,39 @@
+{
+	"name": "Crusher",
+	"id": 2426,
+	"avatar": "2420",
+	"hp": 14370,
+	"atk": 870,
+	"def": 925,
+	"spd": 96,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Barbarians",
+	"type": "",
+	"totalBooks": "8",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 25% chance of placing a 25% [Decrease ATK] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Scythe",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
+			"multiplier": "4*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 1 enemy. Places a [Counterattack] buff on this Champion for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Savage Swipe",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\n",
+			"multiplier": "6.2*ATK",
+			"numBooksToMax": 4
+		}
+	]
+}

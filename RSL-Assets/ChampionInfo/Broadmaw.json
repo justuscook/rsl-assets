@@ -1,0 +1,49 @@
+{
+	"name": "Broadmaw",
+	"id": 1156,
+	"avatar": "1150",
+	"hp": 18660,
+	"atk": 1101,
+	"def": 958,
+	"spd": 104,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Lizard Men",
+	"type": "Increase Ally  in Faction Crypts by 33",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 35% chance of placing a [Freeze] debuff for 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Ice Blast",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +5%\n",
+			"multiplier": "ATK*3.8",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Places a 30% [Increase C. RATE] buff and a 15% [Increase SPD] buff on all allies for 2 turns. Also fills the Turn Meters of all allies by 15%.",
+			"basedOn": "",
+			"name": "Gift",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 1
+		},
+		{
+			"desc": "Revives 2 random dead allies with 25% HP. Places a [Block Damage] buff on the revived allies for 1 turn.",
+			"basedOn": "[Enemy MAX HP]",
+			"name": "Resurrect",
+			"maxcd": 6,
+			"mincd": 4,
+			"books": "Lvl. 2  Heal +5%\nLvl. 3  Heal +10%\nLvl. 4  Heal +15%\n",
+			"multiplier": "",
+			"numBooksToMax": 5
+		}
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"name": "Fortress Goon",
+	"id": 3106,
+	"avatar": "3100",
+	"hp": 15525,
+	"atk": 859,
+	"def": 1134,
+	"spd": 90,
+	"res": 40,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Ogryn Tribes",
+	"type": "Increase Ally  in Dungeons by 23",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 15% chance of placing a 15% [Decrease SPD] debuff for 2 turns.",
+			"basedOn": "[DEF][ATK]",
+			"name": "Cruel Trap",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +10%\n",
+			"multiplier": "3*DEF+1*ATK",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Attacks all enemies. Has a 40% chance of placing a 50% [Heal Reduction] debuff for 2 turns.",
+			"basedOn": "[DEF][ATK]",
+			"name": "Devastating Wounds",
+			"maxcd": 5,
+			"mincd": 4,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\nLvl. 6 Buff/Debuff Chance +10%\n",
+			"multiplier": "2*DEF+2*ATK",
+			"numBooksToMax": 6
+		},
+		{
+			"desc": "Heals all allies by 10% of their MAX HP. Places a 30% [Increase DEF] buff on all allies for 2 turns.",
+			"basedOn": "",
+			"name": "Mobile Fort",
+			"maxcd": 5,
+			"mincd": 4,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 1
+		}
+	]
+}

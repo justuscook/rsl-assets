@@ -1,0 +1,59 @@
+{
+	"name": "Gory",
+	"id": 6136,
+	"avatar": "6130",
+	"hp": 14535,
+	"atk": 1476,
+	"def": 859,
+	"spd": 90,
+	"res": 30,
+	"acc": 10,
+	"crate": 15,
+	"cdamage": 60,
+	"cheal": 50,
+	"faction": "Samurai",
+	"type": "",
+	"totalBooks": "14",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Places an extra hit if the target is under a [Freeze] debuff. Heals this Champion by 10% of the damage inflicted.",
+			"basedOn": "[ATK]",
+			"name": "Cold Comfort",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "1.8*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 3 times at random. Each hit has a 75% chance of placing a [Freeze] debuff for 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Frost Jutsu",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\n",
+			"multiplier": "2.1*ATK",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Attacks 1 enemy. Will ignore [Increase DEF] and [Shield] buffs. Will also ignore 50% of the target’s DEF if they are under a [Freeze] debuff. \r\n\r\nPlaces a [Counterattack] buff and a 50% [Increase ATK] buff on this Champion for 2 turns if this attack kills an enemy.",
+			"basedOn": "[ATK]",
+			"name": "Frost Breaker",
+			"maxcd": 5,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\n",
+			"multiplier": "5.6*ATK",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Counterattacks with the Cold Comfort skill whenever an enemy places a [Stun], [Sleep], [Freeze], [Provoke], [Fear], [True Fear], [Petrification] debuff on an ally.",
+			"basedOn": "",
+			"name": "Dignity [P]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		}
+	]
+}

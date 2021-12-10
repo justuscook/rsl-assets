@@ -1,0 +1,39 @@
+{
+	"typeId": 3856,
+	"name": {
+		"key": "l10n:hero-type/name?id=3850#static",
+		"defaultValue": "Bombardier",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "BannerLords",
+	"role": "Attack",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "127_Knight_id3850",
+	"avatarKey": "3850",
+	"leaderSkill": {
+		"area": null,
+		"affinity": null,
+		"kind": "CriticalChance",
+		"absolute": false,
+		"value": 0.12
+	},
+	"skillTypeIds": [
+		38504,
+		38502,
+		38503
+	],
+	"unscaledStats": {
+		"Health": 76,
+		"Attack": 119,
+		"Defense": 80,
+		"Speed": 98,
+		"Resistance": 30,
+		"Accuracy": 10,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

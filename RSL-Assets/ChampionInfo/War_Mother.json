@@ -1,0 +1,49 @@
+{
+	"name": "War Mother",
+	"id": 2536,
+	"avatar": "2530",
+	"hp": 17505,
+	"atk": 1509,
+	"def": 903,
+	"spd": 99,
+	"res": 30,
+	"acc": 10,
+	"crate": 15,
+	"cdamage": 63,
+	"cheal": 50,
+	"faction": "Ogryn Tribes",
+	"type": "Increase Ally ACC in Faction Crypts by 65",
+	"totalBooks": "9",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Each hit places a 50% [Decrease ATK] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Cry Havoc",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\n",
+			"multiplier": "1.9*ATK",
+			"numBooksToMax": 2
+		},
+		{
+			"desc": "Attacks all enemies. Places two [Bomb] debuffs that detonate after 2 turns. Bomb damage increases by 100% against Bosses.",
+			"basedOn": "[ATK]",
+			"name": "Special Brew",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\n",
+			"multiplier": "4.25*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks all enemies. Instantly detonates all [Bomb] debuffs if this Champion is under an [Increase ATK] buff.",
+			"basedOn": "[ATK]",
+			"name": "Mother's Touch",
+			"maxcd": 5,
+			"mincd": 4,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\n",
+			"multiplier": "4.5*ATK",
+			"numBooksToMax": 3
+		}
+	]
+}

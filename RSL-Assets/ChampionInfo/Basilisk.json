@@ -1,0 +1,49 @@
+{
+	"name": "Basilisk",
+	"id": 2966,
+	"avatar": "2960",
+	"hp": 15525,
+	"atk": 1365,
+	"def": 903,
+	"spd": 99,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 60,
+	"cheal": 50,
+	"faction": "Lizard Men",
+	"type": "",
+	"totalBooks": "10",
+	"skills": [
+		{
+			"desc": "Attack all enemies. Places a 25% [Increase ATK] buff on this Champion for 2 turns if this attack is critical.",
+			"basedOn": "[ATK]",
+			"name": "Whirling Axe",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "ATK*3",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 1 enemy. Places a [Stun] debuff for 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Skullclobber",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\n",
+			"multiplier": "ATK*6.5",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Revives this Champion to 30% HP when killed and places a [Block Damage] buff for 1 turn.",
+			"basedOn": "[HP]",
+			"name": "Withstand [Passive]",
+			"maxcd": 8,
+			"mincd": 6,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 2
+		}
+	]
+}

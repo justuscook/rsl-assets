@@ -1,0 +1,109 @@
+{
+	"name": "Sorath",
+	"id": 22386,
+	"avatar": "22380",
+	"hp": 2064690,
+	"atk": 1101,
+	"def": 1101,
+	"spd": 150,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Unknown",
+	"type": "",
+	"totalBooks": "0",
+	"skills": [
+		{
+			"desc": "Attacks all enemies. Places a 50% [Decrease ACC] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Whiteout",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "3*ATK",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "Attacks all enemies.\r\n\r\nPlaces a [Block Buffs] debuff and a 100% [Heal Reduction] debuff for 2 turns on enemies under [Freeze] debuffs.\r\n\r\nPlaces a 30% [Decrease SPD] debuff and a 50% [Decrease ATK] debuff for 2 turns on enemies that have no [Freeze] debuffs.",
+			"basedOn": "[ATK]",
+			"name": "Katabatic Winds",
+			"maxcd": 3,
+			"mincd": 3,
+			"books": "",
+			"multiplier": "3*ATK",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "Removes all buffs from enemies, then attacks them.\r\n\r\nHas a 100% chance of placing a [Freeze] debuff for 1 turn. The chance decreases to 50% instead if Sorath is under a [HP Burn] debuff.\r\n\r\nFills Sorath’s Turn Meter by 20% for each [Freeze] debuff placed by this skill.",
+			"basedOn": "",
+			"name": "Absolute Zero",
+			"maxcd": 3,
+			"mincd": 3,
+			"books": "",
+			"multiplier": null,
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "When attacked, has a 20% chance of placing a [Freeze] debuff on the attacker for 1 turn.\r\n\r\nIncreases Sorath’s DEF and RES if Sorath is not under a [HP Burn] debuff.",
+			"basedOn": "[ownersLevel]",
+			"name": "Frozen Lymph [P]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "Revives Sorath the Frost Spider with 50% HP, a full Turn Meter, and all skill cooldowns reset if Sorath is killed while not under a [HP Burn] debuff. Also spawns 2 Spiderlings.\r\n\r\n[Sorath can have a maximum of 2 Spiderlings in battle at any time]",
+			"basedOn": "[HP]",
+			"name": "Purge By Flame [P]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "Immune to [Stun], [Freeze], [Sleep], [Provoke], [Block Active Skills], [Block Passive Skills], [Fear], [True Fear], [Petrification] debuffs. Also immune to HP exchange effects, HP balancing effects, and cooldown increasing effects.",
+			"basedOn": "",
+			"name": "Almighty Immunity [Passive]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "Decreases the damage taken from Poison debuffs by 90%.",
+			"basedOn": "",
+			"name": "Almighty Tolerance [Passive]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "Damage from skills that scale based on enemy MAX HP cannot exceed 10% of the Boss' MAX HP when attacking the Boss.",
+			"basedOn": "[HP]",
+			"name": "Almighty Strength [Passive]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "All Turn Meter reduction effects are decreased by 50% when used against the Boss.",
+			"basedOn": "[BaseChangeStaminaMultiplier]",
+			"name": "Almighty Persistence [Passive]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		}
+	]
+}

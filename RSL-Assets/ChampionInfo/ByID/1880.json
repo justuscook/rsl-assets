@@ -1,0 +1,32 @@
+{
+	"typeId": 1886,
+	"name": {
+		"key": "l10n:hero-type/name?id=1880#static",
+		"defaultValue": "Squire",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "BannerLords",
+	"role": "Defense",
+	"rarity": "Uncommon",
+	"ascended": 6,
+	"modelName": "0016_Rusty",
+	"avatarKey": "1880",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		18801,
+		18802
+	],
+	"unscaledStats": {
+		"Health": 95,
+		"Attack": 69,
+		"Defense": 86,
+		"Speed": 96,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

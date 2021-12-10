@@ -1,0 +1,39 @@
+{
+	"typeId": 116,
+	"name": {
+		"key": "l10n:hero-type/name?id=110#static",
+		"defaultValue": "Marksman",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "HighElves",
+	"role": "Attack",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0096_Elf_combined",
+	"avatarKey": "110",
+	"leaderSkill": {
+		"area": "Arena",
+		"affinity": null,
+		"kind": "Defence",
+		"absolute": false,
+		"value": 0.32
+	},
+	"skillTypeIds": [
+		1101,
+		1104,
+		1103
+	],
+	"unscaledStats": {
+		"Health": 89,
+		"Attack": 130,
+		"Defense": 81,
+		"Speed": 92,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 60,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

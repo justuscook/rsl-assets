@@ -1,0 +1,49 @@
+{
+	"name": "Woad-Painted",
+	"id": 2266,
+	"avatar": "2260",
+	"hp": 19815,
+	"atk": 1013,
+	"def": 969,
+	"spd": 92,
+	"res": 45,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Barbarians",
+	"type": "",
+	"totalBooks": "10",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Has a 25% chance of placing a [Block Active Skills] debuff for 1 turn.",
+			"basedOn": "[ATK][HP]",
+			"name": "Crossup",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Damage +10%\n",
+			"multiplier": "0.8*ATK+0.08*HP",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Removes all debuffs from this Champion, then fully heals this Champion. Places a 30% [Reflect Damage] buff on this Champion for 2 turns.",
+			"basedOn": "",
+			"name": "Undying Fury",
+			"maxcd": 5,
+			"mincd": 4,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 1
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 75% chance of placing a [Block Active Skills] debuff for 2 turns. Damage inflicted is proportional to this Champion's MAX HP.",
+			"basedOn": "[ATK][HP]",
+			"name": "Overpower",
+			"maxcd": 5,
+			"mincd": 4,
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"multiplier": "2*ATK+0.35*HP",
+			"numBooksToMax": 5
+		}
+	]
+}

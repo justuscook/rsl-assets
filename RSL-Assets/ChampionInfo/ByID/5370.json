@@ -1,0 +1,34 @@
+{
+	"typeId": 5376,
+	"name": {
+		"key": "l10n:hero-type/name?id=5370#static",
+		"defaultValue": "Elegaius",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "UndeadHordes",
+	"role": "Support",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "583_halloween_nun_id5370",
+	"avatarKey": "5370",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		53701,
+		53702,
+		53703,
+		53704
+	],
+	"unscaledStats": {
+		"Health": 135,
+		"Attack": 80,
+		"Defense": 110,
+		"Speed": 106,
+		"Resistance": 30,
+		"Accuracy": 20,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

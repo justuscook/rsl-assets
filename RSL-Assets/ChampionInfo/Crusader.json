@@ -1,0 +1,39 @@
+{
+	"name": "Crusader",
+	"id": 2116,
+	"avatar": "2110",
+	"hp": 12390,
+	"atk": 1123,
+	"def": 804,
+	"spd": 92,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 57,
+	"cheal": 50,
+	"faction": "Sacred Order",
+	"type": "",
+	"totalBooks": "9",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times.",
+			"basedOn": "[ATK]",
+			"name": "Hack",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "2.3*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 1 enemy with 1 random ally. The ally joining the attack use their default skill.",
+			"basedOn": "",
+			"name": "Rally",
+			"maxcd": 3,
+			"mincd": 2,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Damage +10%\n",
+			"multiplier": "",
+			"numBooksToMax": 5
+		}
+	]
+}

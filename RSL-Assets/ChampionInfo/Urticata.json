@@ -1,0 +1,59 @@
+{
+	"name": "Urticata",
+	"id": 6526,
+	"avatar": "6520",
+	"hp": 12555,
+	"atk": 1409,
+	"def": 1057,
+	"spd": 97,
+	"res": 30,
+	"acc": 15,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Demonspawn",
+	"type": "Increase Ally SPD in in all Battles by 15",
+	"totalBooks": "15",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Each hit has a 30% chance of increasing the duration of 2 [Poison] debuffs by 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Mephitic Spines",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +5%\nLvl. 7 Buff/Debuff Chance +5%\nLvl. 8 Damage +5%\nLvl. 9 Buff/Debuff Chance +5%\n",
+			"multiplier": "1.6*ATK",
+			"numBooksToMax": 8
+		},
+		{
+			"desc": "Attacks 1 enemy 3 times. Each hit has a 30% chance of placing a 25% [Poison Sensitivity] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Poison Agonist",
+			"maxcd": 3,
+			"mincd": 3,
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +10%\n",
+			"multiplier": "1.8*ATK",
+			"numBooksToMax": 3
+		},
+		{
+			"desc": "Attacks 4 times at random. Each hit has a 50% chance of placing a [Hex] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Wretched Nexus",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "",
+			"multiplier": "1.7*ATK",
+			"numBooksToMax": 1
+		},
+		{
+			"desc": "Whenever either this Champion or an ally lands a critical hit on an enemy under a [Hex] debuff, has a 10% chance of placing a 5% [Poison] debuff on the enemy for 1 turn.",
+			"basedOn": "",
+			"name": "Blood Borne [P]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +5%\n",
+			"multiplier": "",
+			"numBooksToMax": 3
+		}
+	]
+}

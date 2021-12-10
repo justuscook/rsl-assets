@@ -1,0 +1,49 @@
+{
+	"name": "Grohak the Bloodied",
+	"id": 3686,
+	"avatar": "3680",
+	"hp": 15690,
+	"atk": 1487,
+	"def": 1046,
+	"spd": 96,
+	"res": 30,
+	"acc": 10,
+	"crate": 15,
+	"cdamage": 63,
+	"cheal": 50,
+	"faction": "Orcs",
+	"type": "Increase Ally SPD in Dungeons by 24",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 2 times at random. Each hit has a 35% chance of placing a 30% [Decrease SPD] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Sap Swiftness",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"multiplier": "1.9*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks all enemies. Each critical hit fills this Champion's Turn Meter by 20%.",
+			"basedOn": "[ATK]",
+			"name": "Unbound Anger",
+			"maxcd": 3,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Damage +10%\n",
+			"multiplier": "3.7*ATK",
+			"numBooksToMax": 3
+		},
+		{
+			"desc": "Attacks 1 enemy and steals the target's Turn Meter. Places a 25% [Weaken] debuff for 2 turns if this attack is critical.",
+			"basedOn": "[ATK]",
+			"name": "Lord of War",
+			"maxcd": 5,
+			"mincd": 4,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Damage +10%\n",
+			"multiplier": "5.9*ATK",
+			"numBooksToMax": 4
+		}
+	]
+}

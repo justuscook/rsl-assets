@@ -1,0 +1,59 @@
+{
+	"name": "Souldrinker",
+	"id": 1626,
+	"avatar": "1620",
+	"hp": 17340,
+	"atk": 1299,
+	"def": 848,
+	"spd": 97,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 60,
+	"cheal": 50,
+	"faction": "Demonspawn",
+	"type": "",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Decreases [Bomb] debuff detonation countdowns by 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Razing Hand",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "4.6*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 3 times at random. Decreases [Bomb] debuff detonation countdowns by 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Raining Fire",
+			"maxcd": 5,
+			"mincd": 5,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "2.3*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks all enemies 2 times. Each hit has a 75% chance of placing a [Bomb] that detonates after 3 turns.",
+			"basedOn": "[ATK]",
+			"name": "Magma Blast",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +15%\n",
+			"multiplier": "2.2*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Places two [Bomb] debuffs on each enemy that detonate after 2 turns when this Champion dies.",
+			"basedOn": "[ATK]",
+			"name": "Set Ablaze [Passive]",
+			"maxcd": 5,
+			"mincd": 5,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		}
+	]
+}

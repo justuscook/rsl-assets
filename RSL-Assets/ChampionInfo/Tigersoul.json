@@ -1,0 +1,49 @@
+{
+	"name": "Tigersoul",
+	"id": 5386,
+	"avatar": "5380",
+	"hp": 11070,
+	"atk": 1255,
+	"def": 1035,
+	"spd": 96,
+	"res": 30,
+	"acc": 10,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Barbarians",
+	"type": "",
+	"totalBooks": "19",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 40% chance of placing a 5% [Poison] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Scorpion Tips",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +5%\nLvl. 7 Buff/Debuff Chance +5%\nLvl. 8 Damage +5%\nLvl. 9 Buff/Debuff Chance +5%\n",
+			"multiplier": "2.77*ATK",
+			"numBooksToMax": 8
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 75% chance of placing a 15% [Weaken] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Wearying Tactics",
+			"maxcd": 4,
+			"mincd": 4,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +5%\nLvl. 7 Damage +10%\nLvl. 8 Buff/Debuff Chance +10%\nLvl. 9 Damage +10%\n",
+			"multiplier": "4.5*ATK",
+			"numBooksToMax": 8
+		},
+		{
+			"desc": "Places a [Block Debuffs] buff and a 60% [Increase DEF] buff on this Champion for 2 turns.",
+			"basedOn": "",
+			"name": "Tiger's Strength",
+			"maxcd": 6,
+			"mincd": 3,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 3
+		}
+	]
+}

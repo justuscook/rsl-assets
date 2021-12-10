@@ -1,0 +1,59 @@
+{
+	"name": "Candraphon",
+	"id": 3996,
+	"avatar": "3990",
+	"hp": 17505,
+	"atk": 1509,
+	"def": 903,
+	"spd": 96,
+	"res": 30,
+	"acc": 10,
+	"crate": 15,
+	"cdamage": 63,
+	"cheal": 50,
+	"faction": "Demonspawn",
+	"type": "Increase Ally ATK in Arena battles by 33",
+	"totalBooks": "9",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy.\r\n\r\nPlaces an extra hit if the target is under any buff.",
+			"basedOn": "[ATK]",
+			"name": "Punish Hubris",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Damage +10%\n",
+			"multiplier": "3*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks all enemies.\r\n\r\nGrants an Extra Turn and resets the cooldown of On the Hunt Skill if this attack kills an enemy.",
+			"basedOn": "[ATK]",
+			"name": "Butcher's Glee",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "3.7*ATK",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Places a [Perfect Veil] buff, a 50% [Increase ATK] buff, a 30% [Increase SPD] buff, and a 30% [Increase C. DMG] buff on this Champion for 2 turns.",
+			"basedOn": "",
+			"name": "On the Hunt",
+			"maxcd": 5,
+			"mincd": 5,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "[Passive Effect]\r\nDamage increases by 40% while attacking under a [Veil] or [Perfect Veil] buff.\r\nReceives 40% less damage while under a [Veil] or [Perfect Veil] buff. Also boosts this Champion's Turn Meter by 15% each time this Champion receives damage under a [Veil] or [Perfect Veil] buff.\r\nDoes not work if this Champion is the only alive ally on the team.\r\n\r\n[Active Effect]\r\nPlaces a [Perfect Veil] buff on this Champion for 1 turn each time an enemy's Turn Meter is filled. This buff cannot be removed.",
+			"basedOn": "",
+			"name": "From the Shadows [P]",
+			"maxcd": 3,
+			"mincd": 3,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		}
+	]
+}

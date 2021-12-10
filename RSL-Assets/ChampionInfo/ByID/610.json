@@ -1,0 +1,39 @@
+{
+	"typeId": 616,
+	"name": {
+		"key": "l10n:hero-type/name?id=610#static",
+		"defaultValue": "Zelotah",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "UndeadHordes",
+	"role": "Support",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0069_Undead_combined",
+	"avatarKey": "610",
+	"leaderSkill": {
+		"area": "Arena",
+		"affinity": null,
+		"kind": "Resistance",
+		"absolute": true,
+		"value": 70
+	},
+	"skillTypeIds": [
+		6101,
+		6102,
+		6103
+	],
+	"unscaledStats": {
+		"Health": 125,
+		"Attack": 75,
+		"Defense": 100,
+		"Speed": 95,
+		"Resistance": 30,
+		"Accuracy": 15,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

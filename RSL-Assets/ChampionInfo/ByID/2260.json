@@ -1,0 +1,33 @@
+{
+	"typeId": 2266,
+	"name": {
+		"key": "l10n:hero-type/name?id=2260#static",
+		"defaultValue": "Woad-Painted",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "Barbarians",
+	"role": "Health",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0267_barbarians_id2260",
+	"avatarKey": "2260",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		22601,
+		22604,
+		22603
+	],
+	"unscaledStats": {
+		"Health": 120,
+		"Attack": 92,
+		"Defense": 88,
+		"Speed": 92,
+		"Resistance": 45,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

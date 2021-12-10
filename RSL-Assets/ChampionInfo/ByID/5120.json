@@ -1,0 +1,33 @@
+{
+	"typeId": 5126,
+	"name": {
+		"key": "l10n:hero-type/name?id=5120#static",
+		"defaultValue": "Dilgol",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "Dwarves",
+	"role": "Attack",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0394_Dwarf_id5120",
+	"avatarKey": "5120",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		51201,
+		51204,
+		51203
+	],
+	"unscaledStats": {
+		"Health": 94,
+		"Attack": 95,
+		"Defense": 86,
+		"Speed": 96,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 57,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

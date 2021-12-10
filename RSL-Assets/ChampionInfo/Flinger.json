@@ -1,0 +1,49 @@
+{
+	"name": "Flinger",
+	"id": 1136,
+	"avatar": "1130",
+	"hp": 13050,
+	"atk": 1266,
+	"def": 892,
+	"spd": 104,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 57,
+	"cheal": 50,
+	"faction": "Lizard Men",
+	"type": "Increase Ally  in Faction Crypts by 30",
+	"totalBooks": "13",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 40% chance of placing a 30% [Decrease DEF] debuff for 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Axe Throw",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Damage +10%\n",
+			"multiplier": "ATK*3",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Attacks all enemies.",
+			"basedOn": "[ATK]",
+			"name": "Meteor",
+			"maxcd": 3,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
+			"multiplier": "ATK*3",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 1 enemy. This skill always inflicts a critical hit.",
+			"basedOn": "[ATK]",
+			"name": "Burn",
+			"maxcd": 4,
+			"mincd": 4,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
+			"multiplier": "ATK*5.2",
+			"numBooksToMax": 4
+		}
+	]
+}

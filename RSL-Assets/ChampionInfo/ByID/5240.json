@@ -1,0 +1,33 @@
+{
+	"typeId": 5246,
+	"name": {
+		"key": "l10n:hero-type/name?id=5240#static",
+		"defaultValue": "Quaestor",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "BannerLords",
+	"role": "Attack",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0006_Knight_id5240",
+	"avatarKey": "5240",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		52401,
+		52402,
+		52403
+	],
+	"unscaledStats": {
+		"Health": 80,
+		"Attack": 117,
+		"Defense": 78,
+		"Speed": 95,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 57,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

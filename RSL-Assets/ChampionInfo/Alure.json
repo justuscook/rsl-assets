@@ -1,0 +1,49 @@
+{
+	"name": "Alure",
+	"id": 1036,
+	"avatar": "1030",
+	"hp": 14040,
+	"atk": 1575,
+	"def": 793,
+	"spd": 96,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 60,
+	"cheal": 50,
+	"faction": "Demonspawn",
+	"type": "Increase Ally ACC in Faction Crypts by 50",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 3 times at random. Decreases the target's Turn Meter by 25% on each critical hit.",
+			"basedOn": "[ATK]",
+			"name": "Psychic Whip",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "1*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks all enemies 2 times. Each hit has a 30% chance of placing a 30% [Decrease DEF] debuff for 1 turn. Places a [Sleep] debuff for 1 turn on targets under [Decrease DEF] debuffs.",
+			"basedOn": "[ATK]",
+			"name": "Temptation",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 7 Buff/Debuff Chance +10%\n",
+			"multiplier": "1.7*ATK",
+			"numBooksToMax": 6
+		},
+		{
+			"desc": "Attacks 1 enemy. Has an extra 30% chance of inflicting a critical hit. Will ignore 50% of the target's DEF.",
+			"basedOn": "[ATK]",
+			"name": "Hellish Blaze",
+			"maxcd": 6,
+			"mincd": 6,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\n",
+			"multiplier": "4.6*ATK",
+			"numBooksToMax": 2
+		}
+	]
+}

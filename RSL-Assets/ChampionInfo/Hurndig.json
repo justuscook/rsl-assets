@@ -1,0 +1,59 @@
+{
+	"name": "Hurndig",
+	"id": 6086,
+	"avatar": "6080",
+	"hp": 16020,
+	"atk": 1409,
+	"def": 1101,
+	"spd": 98,
+	"res": 30,
+	"acc": 10,
+	"crate": 15,
+	"cdamage": 63,
+	"cheal": 50,
+	"faction": "Dwarves",
+	"type": "Increase Ally ATK in Arena battles by 35",
+	"totalBooks": "15",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Grants an Extra Turn and decreases the cooldown of the Stasis Strike skill by 2 turns if this attack kills an enemy.",
+			"basedOn": "[ATK]",
+			"name": "Lethal Lust",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "4*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks all enemies. Has a 75% chance of placing a 60% [Decrease DEF] debuff and a 50% [Decrease ACC] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Arcane Tempest",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +15%\n",
+			"multiplier": "4.4*ATK",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Attacks 1 enemy. Fully depletes the target’s Turn Meter. \r\n\r\nWill also attack all enemies if the first attack is critical. This AoE attack has a 75% chance of placing a 25% [Weaken] debuff for 2 turns. Will also place a [HP Burn] debuff for 2 turns after the attack on the enemies whose Turn Meters are below 30%.",
+			"basedOn": "[ATK]",
+			"name": "Stasis Strike",
+			"maxcd": 6,
+			"mincd": 4,
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +15%\n",
+			"multiplier": "6.2*ATK",
+			"numBooksToMax": 6
+		},
+		{
+			"desc": "Fills this Champion's Turn Meter by 10% every time they are hit. Occurs once per hit. \r\n\r\nAlso fills this Champion's Turn Meter by 20% whenever an ally dies.",
+			"basedOn": "",
+			"name": "Staid [P]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		}
+	]
+}

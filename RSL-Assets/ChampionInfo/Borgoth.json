@@ -1,0 +1,79 @@
+{
+	"name": "Borgoth",
+	"id": 22506,
+	"avatar": "22360",
+	"hp": 165180,
+	"atk": 1652,
+	"def": 1101,
+	"spd": 150,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Unknown",
+	"type": "",
+	"totalBooks": "0",
+	"skills": [
+		{
+			"desc": "Attacks all enemies. Places a 50% [Decrease ATK] debuff and a 30% [Decrease SPD] debuff for 2 turns. \r\n\r\nPlaces an extra hit on enemies that have no [Shield] buffs. The extra hit places a [Provoke] debuff for 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Madness Fog",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "3*ATK",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "Attacks all enemies. Places an extra hit on each enemy for each buff on the target. \r\n\r\nEach extra hit steals one random buff from enemies that have no [Shield] buffs and removes one random buff from enemies under [Shield] buffs.\r\n\r\nPlaces a [True Fear] debuff for 1 turn on enemies who have buffs stolen, and a [Fear] debuff for 1 turn on enemies who have buffs removed.",
+			"basedOn": "[ATK]",
+			"name": "Vile Absorption",
+			"maxcd": 3,
+			"mincd": 3,
+			"books": "",
+			"multiplier": "3*ATK",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "Decreases the damage received according to how much Borgoth’s MAX HP has been decreased by.\r\n\r\nDamage received is decreased by:\r\n- 90% if Borgoth’s MAX HP has been decreased by less than 10%.\r\n- 60% if Borgoth’s MAX HP has been decreased by between 10% and 20%.\r\n- 30% if Borgoth’s MAX HP has been decreased by between 20% and 30%.\r\n- 0% if Borgoth’s MAX HP has been decreased by more than 30%.",
+			"basedOn": "[relatedEffectsBaseDestroyHp]",
+			"name": "Spectral Horror [P]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "Counterattacks when attacked by an enemy that has no [Shield] buff.",
+			"basedOn": "",
+			"name": "Easy Prey [P]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "Immune to [Stun], [Freeze], [Sleep], [Provoke], [Block Active Skills], [Block Passive Skills], [Fear], [True Fear], [Petrification] debuffs. Also immune to HP exchange effects, HP balancing effects, and cooldown increasing effects.",
+			"basedOn": "",
+			"name": "Almighty Immunity [Passive]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "Decreases the damage taken from Poison debuffs by 90%.",
+			"basedOn": "",
+			"name": "Almighty Tolerance [Passive]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		}
+	]
+}

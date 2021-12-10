@@ -1,0 +1,49 @@
+{
+	"name": "Catacomb Councilor",
+	"id": 3646,
+	"avatar": "3640",
+	"hp": 14040,
+	"atk": 1454,
+	"def": 914,
+	"spd": 92,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 60,
+	"cheal": 50,
+	"faction": "Undead Hordes",
+	"type": "",
+	"totalBooks": "10",
+	"skills": [
+		{
+			"desc": "Has a 50% chance of placing a 25% [Increase ATK] buff on this Champion for 2 turns, then attacks 1 enemy.",
+			"basedOn": "[ATK]",
+			"name": "Grotesque Strength",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
+			"multiplier": "3.5*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 1 enemy 3 times. Heals this Champion by 20% of the damage inflicted.",
+			"basedOn": "[ATK]",
+			"name": "Ghoulish Feeding",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
+			"multiplier": "1.8*ATK",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Teams up with 3 random allies to attack a single enemy. The allies joining the attack will use their default skills.",
+			"basedOn": "",
+			"name": "Army of Death",
+			"maxcd": 5,
+			"mincd": 4,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 1
+		}
+	]
+}

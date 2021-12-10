@@ -1,0 +1,33 @@
+{
+	"typeId": 366,
+	"name": {
+		"key": "l10n:hero-type/name?id=360#static",
+		"defaultValue": "Oathbound",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "BannerLords",
+	"role": "Defense",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0014_Knight",
+	"avatarKey": "360",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		3601,
+		3604,
+		3603
+	],
+	"unscaledStats": {
+		"Health": 111,
+		"Attack": 71,
+		"Defense": 118,
+		"Speed": 95,
+		"Resistance": 40,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

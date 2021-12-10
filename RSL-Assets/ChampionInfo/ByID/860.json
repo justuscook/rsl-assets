@@ -1,0 +1,32 @@
+{
+	"typeId": 866,
+	"name": {
+		"key": "l10n:hero-type/name?id=860#static",
+		"defaultValue": "Vigilante",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "SacredOrder",
+	"role": "Health",
+	"rarity": "Uncommon",
+	"ascended": 6,
+	"modelName": "0013_Knight",
+	"avatarKey": "860",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		8601,
+		8602
+	],
+	"unscaledStats": {
+		"Health": 106,
+		"Attack": 69,
+		"Defense": 75,
+		"Speed": 98,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

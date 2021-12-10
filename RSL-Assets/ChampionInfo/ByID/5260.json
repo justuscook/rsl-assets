@@ -1,0 +1,33 @@
+{
+	"typeId": 5266,
+	"name": {
+		"key": "l10n:hero-type/name?id=5260#static",
+		"defaultValue": "Sanctum Protector",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "SacredOrder",
+	"role": "Defense",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0386_order_id5260",
+	"avatarKey": "5260",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		52601,
+		52604,
+		52603
+	],
+	"unscaledStats": {
+		"Health": 93,
+		"Attack": 73,
+		"Defense": 109,
+		"Speed": 97,
+		"Resistance": 40,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

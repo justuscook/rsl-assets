@@ -1,0 +1,39 @@
+{
+	"typeId": 3036,
+	"name": {
+		"key": "l10n:hero-type/name?id=3030#static",
+		"defaultValue": "Frostbringer",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "SacredOrder",
+	"role": "Support",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0364_Frostbringer_id3030",
+	"avatarKey": "3030",
+	"leaderSkill": {
+		"area": "Dungeon",
+		"affinity": null,
+		"kind": "Defence",
+		"absolute": false,
+		"value": 0.33
+	},
+	"skillTypeIds": [
+		30301,
+		30302,
+		30304
+	],
+	"unscaledStats": {
+		"Health": 123,
+		"Attack": 79,
+		"Defense": 98,
+		"Speed": 110,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

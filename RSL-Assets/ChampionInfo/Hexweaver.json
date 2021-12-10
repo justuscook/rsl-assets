@@ -1,0 +1,49 @@
+{
+	"name": "Hexweaver",
+	"id": 1976,
+	"avatar": "1970",
+	"hp": 16515,
+	"atk": 914,
+	"def": 1013,
+	"spd": 101,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Dark Elves",
+	"type": "Increase Ally SPD in Faction Crypts by 13",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 50% chance of placing a 25% [Decrease ACC] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Curse",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +10%\n",
+			"multiplier": "4.3*ATK",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Heals all allies by 15% of their MAX HP.",
+			"basedOn": "[Enemy MAX HP]",
+			"name": "Dark Embrace",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2  Heal +10%\nLvl. 3  Heal +10%\nLvl. 4  Heal +10%\n",
+			"multiplier": "",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Places a 30% [Increase C. RATE] buff and a 15% [Increase SPD] buff on all allies for 2 turns.",
+			"basedOn": "",
+			"name": "Wings of Doom",
+			"maxcd": 5,
+			"mincd": 3,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 2
+		}
+	]
+}

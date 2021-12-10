@@ -1,0 +1,49 @@
+{
+	"name": "Bloodfeather",
+	"id": 1876,
+	"avatar": "1870",
+	"hp": 13875,
+	"atk": 1542,
+	"def": 837,
+	"spd": 102,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 60,
+	"cheal": 50,
+	"faction": "Orcs",
+	"type": "Increase Ally C. RATE in Faction Crypts by 20",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has an extra 20% chance of inflicting a critical hit.",
+			"basedOn": "[ATK]",
+			"name": "Hunt Down",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\n",
+			"multiplier": "3.8*ATK",
+			"numBooksToMax": 3
+		},
+		{
+			"desc": "Attacks 1 enemy. Has an extra 20% chance of inflicting a critical hit. Places a 60% [Decrease DEF] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Armor Breaker",
+			"maxcd": 5,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\n",
+			"multiplier": "5.3*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 1 enemy. Places a 30% [Decrease SPD] debuff for 2 turns. Decreases the target's Turn Meter by 30%. Has an extra 20% chance of inflicting a critical hit.",
+			"basedOn": "[ATK]",
+			"name": "Charged Shot",
+			"maxcd": 5,
+			"mincd": 4,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Damage +10%\n",
+			"multiplier": "6.1*ATK",
+			"numBooksToMax": 4
+		}
+	]
+}

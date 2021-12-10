@@ -1,0 +1,59 @@
+{
+	"name": "Arcane Guardian",
+	"id": 22016,
+	"avatar": "22010",
+	"hp": 165180,
+	"atk": 1321,
+	"def": 1101,
+	"spd": 100,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Unknown",
+	"type": "",
+	"totalBooks": "0",
+	"skills": [
+		{
+			"desc": "Attacks all enemies. Inflicts 75% less damage against targets who have active buffs.",
+			"basedOn": "[ATK][>]",
+			"name": "Wind Slash",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "ATK*(8-6*(TRG_BUFF_COUNT>0))",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "Places a 60% [Increase DEF] buff and a 30% [Increase SPD] buff on this Champion for 2 turns.",
+			"basedOn": "",
+			"name": "Last Stand",
+			"maxcd": 4,
+			"mincd": 4,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "Immune to [Stun], [Freeze], [Sleep], [Provoke], [Block Active Skills], [Block Passive Skills], [Fear], [True Fear], [Petrification] debuffs. Also immune to HP exchange effects, HP balancing effects, and cooldown increasing effects.",
+			"basedOn": "",
+			"name": "Almighty Immunity [Passive]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "Damage from Continuous Damage decreased by 60%.",
+			"basedOn": "",
+			"name": "Continuous Damage Resistance II",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		}
+	]
+}

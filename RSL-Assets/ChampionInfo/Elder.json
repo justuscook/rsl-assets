@@ -1,0 +1,49 @@
+{
+	"name": "Elder",
+	"id": 2036,
+	"avatar": "2030",
+	"hp": 14865,
+	"atk": 914,
+	"def": 1123,
+	"spd": 92,
+	"res": 40,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Barbarians",
+	"type": "",
+	"totalBooks": "6",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 25% chance of placing a [Provoke] debuff for 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Mocking Blow",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
+			"multiplier": "4*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Places a 50% [Ally Protection] on the most injured ally for 2 turns. Grants an Extra Turn.",
+			"basedOn": "",
+			"name": "Intercede",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 1
+		},
+		{
+			"desc": "Places a [Counterattack] buff on this Champion for 2 turns. Heals this Champion by 15%.",
+			"basedOn": "",
+			"name": "Take Vengeance",
+			"maxcd": 5,
+			"mincd": 4,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 1
+		}
+	]
+}

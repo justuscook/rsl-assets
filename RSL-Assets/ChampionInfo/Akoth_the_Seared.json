@@ -1,0 +1,69 @@
+{
+	"name": "Akoth the Seared",
+	"id": 5076,
+	"avatar": "5070",
+	"hp": 16680,
+	"atk": 892,
+	"def": 1299,
+	"spd": 95,
+	"res": 30,
+	"acc": 15,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Demonspawn",
+	"type": "Increase Ally HP in in all Battles by 25",
+	"totalBooks": "18",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 50% chance of placing a 30% [Decrease C. RATE] debuff for 2 turns.",
+			"basedOn": "[DEF]",
+			"name": "Molten Punch",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +10%\n",
+			"multiplier": "4*DEF",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Attacks all enemies. Has a 20% chance of placing a [HP Burn] debuff for 2 turns. The chance of placing the debuff increases by 20% for each alive enemy.",
+			"basedOn": "[DEF]",
+			"name": "Pyroclasm",
+			"maxcd": 3,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Damage +10%\n",
+			"multiplier": "3.5*DEF",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks all enemies. Has a 50% chance of increasing the cooldowns of all skills by 2 turns on enemies under [HP Burn] debuffs. Also places a [Shield] buff equal to 20% of this Champion's MAX HP on all allies for 2 turns.\r\n\r\n[Instantly activates this skill when this Champion is revived by Rian the Conjurer.]",
+			"basedOn": "[DEF]",
+			"name": "Pyretic Release",
+			"maxcd": 5,
+			"mincd": 4,
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +10%\n",
+			"multiplier": "3.5*DEF",
+			"numBooksToMax": 6
+		},
+		{
+			"desc": "Revives self when hero 5060 revives an ally and activates skill 50802",
+			"basedOn": "[HP]",
+			"name": "Skill 50705 name",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "Has a 10% chance of placing a [Fear] debuff on an enemy for 1 turn whenever they receive damage from a [HP Burn] debuff placed on themselves.",
+			"basedOn": "",
+			"name": "Fiery Swath [P]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +5%\n",
+			"multiplier": "",
+			"numBooksToMax": 3
+		}
+	]
+}

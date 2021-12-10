@@ -1,0 +1,39 @@
+{
+	"typeId": 106,
+	"name": {
+		"key": "l10n:hero-type/name?id=100#static",
+		"defaultValue": "Hyria",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "HighElves",
+	"role": "Attack",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0100_Elf_Warrior",
+	"avatarKey": "100",
+	"leaderSkill": {
+		"area": "Arena",
+		"affinity": null,
+		"kind": "CriticalChance",
+		"absolute": false,
+		"value": 0.16
+	},
+	"skillTypeIds": [
+		1001,
+		1004,
+		1003
+	],
+	"unscaledStats": {
+		"Health": 73,
+		"Attack": 134,
+		"Defense": 68,
+		"Speed": 101,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 57,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

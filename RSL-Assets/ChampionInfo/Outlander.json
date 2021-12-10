@@ -1,0 +1,39 @@
+{
+	"name": "Outlander",
+	"id": 846,
+	"avatar": "840",
+	"hp": 9255,
+	"atk": 1299,
+	"def": 837,
+	"spd": 96,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Barbarians",
+	"type": "",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times.",
+			"basedOn": "[ATK]",
+			"name": "Savage Strike",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
+			"multiplier": "2.1*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks all enemies. Has a 50% chance of decreasing the Turn Meter by 30%.",
+			"basedOn": "[ATK]",
+			"name": "Talisman of Power",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\nLvl. 6 Buff/Debuff Chance +5%\nLvl. 7 Buff/Debuff Chance +10%\n",
+			"multiplier": "3.8*ATK",
+			"numBooksToMax": 7
+		}
+	]
+}

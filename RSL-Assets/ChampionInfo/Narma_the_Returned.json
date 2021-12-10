@@ -1,0 +1,49 @@
+{
+	"name": "Narma the Returned",
+	"id": 5356,
+	"avatar": "5350",
+	"hp": 19815,
+	"atk": 1002,
+	"def": 1255,
+	"spd": 100,
+	"res": 30,
+	"acc": 20,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Knights Revenant",
+	"type": "Increase Ally ACC in Dungeons by 80",
+	"totalBooks": "16",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 40% chance of increasing the duration of 3 random debuffs on the target by 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Hell Crescent",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"multiplier": "4.9*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 75% chance of placing a 50% [Decrease ATK] debuff for 3 turns.\r\n\r\nAlso heals all allies by 15% of this Champion’s MAX HP. The heal increases by 2% for each [Poison] debuff on the target.",
+			"basedOn": "[ATK]",
+			"name": "Weirding Dance",
+			"maxcd": 5,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"multiplier": "6.5*ATK",
+			"numBooksToMax": 6
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 75% chance of placing three 5% [Poison] debuffs and a 25% [Poison Sensitivity] debuff for 3 turns.",
+			"basedOn": "[ATK]",
+			"name": "Toxin Trance",
+			"maxcd": 6,
+			"mincd": 4,
+			"books": "Lvl. 2 Damage +15%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"multiplier": "6.8*ATK",
+			"numBooksToMax": 6
+		}
+	]
+}

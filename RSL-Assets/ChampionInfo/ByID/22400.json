@@ -1,0 +1,37 @@
+{
+	"typeId": 22406,
+	"name": {
+		"key": "l10n:hero-type/name?id=22400#static",
+		"defaultValue": "Iragoth",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "Unknown",
+	"role": "Attack",
+	"rarity": "Common",
+	"ascended": 6,
+	"modelName": "22400_Dragon_2027",
+	"avatarKey": "22400",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		224001,
+		224002,
+		224003,
+		224004,
+		224005,
+		224006,
+		200009
+	],
+	"unscaledStats": {
+		"Health": 1250,
+		"Attack": 100,
+		"Defense": 100,
+		"Speed": 200,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

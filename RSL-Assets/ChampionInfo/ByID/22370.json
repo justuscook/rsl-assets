@@ -1,0 +1,38 @@
+{
+	"typeId": 22546,
+	"name": {
+		"key": "l10n:hero-type/name?id=22540#static",
+		"defaultValue": "Kuldath",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "Unknown",
+	"role": "Attack",
+	"rarity": "Common",
+	"ascended": 6,
+	"modelName": "2028_tower_dragon",
+	"avatarKey": "22370",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		223701,
+		223702,
+		223703,
+		223704,
+		223705,
+		200003,
+		220605,
+		200009
+	],
+	"unscaledStats": {
+		"Health": 1250,
+		"Attack": 150,
+		"Defense": 100,
+		"Speed": 100,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

@@ -1,0 +1,33 @@
+{
+	"typeId": 5306,
+	"name": {
+		"key": "l10n:hero-type/name?id=5300#static",
+		"defaultValue": "Fayne",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "Skinwalkers",
+	"role": "Attack",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0455_Mouse_id5300",
+	"avatarKey": "5300",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		53001,
+		53004,
+		53003
+	],
+	"unscaledStats": {
+		"Health": 83,
+		"Attack": 151,
+		"Defense": 66,
+		"Speed": 99,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 57,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

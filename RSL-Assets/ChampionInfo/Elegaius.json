@@ -1,0 +1,59 @@
+{
+	"name": "Elegaius",
+	"id": 5376,
+	"avatar": "5370",
+	"hp": 22305,
+	"atk": 881,
+	"def": 1211,
+	"spd": 106,
+	"res": 30,
+	"acc": 20,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Undead Hordes",
+	"type": "",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 25% chance of placing a [Block Active Skills] debuff for 1 turn. The chance increases by 0.75% for every 1% of HP this Champion loses.",
+			"basedOn": "[HP]",
+			"name": "Spirits of Spite",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
+			"multiplier": "0.18*HP",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 1 enemy. Puts the target’s skills on cooldown. \r\n\r\nIf the enemy team has any duplicates of the target Champion, will also put all their skills on cooldown.",
+			"basedOn": "[HP]",
+			"name": "Dead Stop",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\n",
+			"multiplier": "0.27*HP",
+			"numBooksToMax": 3
+		},
+		{
+			"desc": "Attacks all enemies. Has a 75% chance of removing 2 random buffs. Has a 75% chance of decreasing all enemies’ Turn Meters by 20%. Decreases enemy Turn Meters by a further 0.2% for every 1% of HP this Champion loses.",
+			"basedOn": "[HP]",
+			"name": "Ghost Rage",
+			"maxcd": 5,
+			"mincd": 4,
+			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +15%\n",
+			"multiplier": "0.2*HP",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Prevents this Champion’s death and keeps them alive on 1 HP when hit by a fatal hit.\r\n\r\nIf this skill prevents this Champion’s death, heals them by 10% of their MAX HP, fills their Turn Meter by 20%, and places a [Shield] buff on them equal to 30% of their MAX HP for 2 turns.\r\n\r\nWill not prevent this Champion’s death if they are under a [Heal Reduction] debuff.",
+			"basedOn": "[CUR_HP]",
+			"name": "Spurned by Death [P]",
+			"maxcd": 6,
+			"mincd": 5,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 1
+		}
+	]
+}

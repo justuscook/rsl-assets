@@ -1,0 +1,59 @@
+{
+	"name": "Pharsalas Gravedirt",
+	"id": 6276,
+	"avatar": "6270",
+	"hp": 18660,
+	"atk": 892,
+	"def": 1167,
+	"spd": 90,
+	"res": 45,
+	"acc": 10,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Knights Revenant",
+	"type": "Increase Ally  in Faction Crypts by 30",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 20% chance of placing a [Provoke] debuff for 1 turn. Places a 50% [Decrease ATK] debuff for 1 turn if the target is under a [Fear] or [True Fear] debuff.",
+			"basedOn": "[DEF]",
+			"name": "Grasp of the Grave",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"multiplier": "4.4*DEF",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks all enemies. Has a 75% chance of placing a 100% [Heal Reduction] debuff for 2 turns.",
+			"basedOn": "[DEF]",
+			"name": "Necrosis",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\n",
+			"multiplier": "4.65*DEF",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Places a [Shield] buff on all allies for 2 turns equal to 30% of their MAX HP. Also places a 15% [Strengthen] buff on all allies for 2 turns.",
+			"basedOn": "[Enemy MAX HP]",
+			"name": "Coffin Bulwark",
+			"maxcd": 5,
+			"mincd": 3,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 2
+		},
+		{
+			"desc": "Immune to [Fear] and [True Fear] debuffs. \r\n\r\nWhenever an ally’s HP drops below 50% from an enemy attack, has a 50% chance of placing a [Fear] debuff on the attacker for 1 turn. \r\n\r\nWhenever an ally dies, has a 75% chance of placing a [True Fear] debuff on all enemies for 1 turn.",
+			"basedOn": "",
+			"name": "Unhinged [P]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		}
+	]
+}

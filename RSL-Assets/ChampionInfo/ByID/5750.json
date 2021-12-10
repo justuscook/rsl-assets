@@ -1,0 +1,39 @@
+{
+	"typeId": 5756,
+	"name": {
+		"key": "l10n:hero-type/name?id=5750#static",
+		"defaultValue": "Pestilus",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "KnightsRevenant",
+	"role": "Support",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0617_Valentine_5750",
+	"avatarKey": "5750",
+	"leaderSkill": {
+		"area": "DoomTower",
+		"affinity": null,
+		"kind": "Accuracy",
+		"absolute": true,
+		"value": 50
+	},
+	"skillTypeIds": [
+		57501,
+		57502,
+		57503
+	],
+	"unscaledStats": {
+		"Health": 122,
+		"Attack": 77,
+		"Defense": 101,
+		"Speed": 94,
+		"Resistance": 30,
+		"Accuracy": 15,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

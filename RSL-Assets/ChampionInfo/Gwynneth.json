@@ -1,0 +1,49 @@
+{
+	"name": "Gwynneth",
+	"id": 6336,
+	"avatar": "6330",
+	"hp": 14370,
+	"atk": 1421,
+	"def": 925,
+	"spd": 99,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 60,
+	"cheal": 50,
+	"faction": "Dark Elves",
+	"type": "Increase Ally SPD in Doom Tower battles by 25",
+	"totalBooks": "16",
+	"skills": [
+		{
+			"desc": "Attacks all enemies. This attack will not trigger counterattacks.",
+			"basedOn": "[ATK]",
+			"name": "Infiltrator",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Damage +10%\n",
+			"multiplier": "2*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 1 enemy. Before attacking, has an 80% chance of placing a 25% [Weaken] debuff on the target for 2 turns. Heals this Champion by 30% of the damage inflicted, then heals all allies with any surplus heal.",
+			"basedOn": "",
+			"name": "Apathy",
+			"maxcd": 3,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +10%\nLvl. 7 Buff/Debuff Chance +10%\n",
+			"multiplier": null,
+			"numBooksToMax": 6
+		},
+		{
+			"desc": "Transfers all debuffs from this Champion to 1 target enemy, then attacks that enemy. Ignores 10% of the target’s DEF for each debuff they are under.",
+			"basedOn": "",
+			"name": "Flow of Malaise",
+			"maxcd": 5,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Damage +10%\n",
+			"multiplier": null,
+			"numBooksToMax": 6
+		}
+	]
+}

@@ -1,0 +1,33 @@
+{
+	"typeId": 3946,
+	"name": {
+		"key": "l10n:hero-type/name?id=3940#static",
+		"defaultValue": "Hill Nomad",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "Barbarians",
+	"role": "Support",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0291_barbarian",
+	"avatarKey": "3940",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		39404,
+		39402,
+		39403
+	],
+	"unscaledStats": {
+		"Health": 84,
+		"Attack": 104,
+		"Defense": 87,
+		"Speed": 103,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

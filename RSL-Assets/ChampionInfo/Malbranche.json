@@ -1,0 +1,49 @@
+{
+	"name": "Malbranche",
+	"id": 3076,
+	"avatar": "3070",
+	"hp": 14865,
+	"atk": 1321,
+	"def": 716,
+	"spd": 111,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Demonspawn",
+	"type": "Increase Ally SPD in Arena battles by 16",
+	"totalBooks": "14",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Decreases [Bomb] debuff detonation countdowns by 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Gathering Inferno",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\n",
+			"multiplier": "3.8*ATK",
+			"numBooksToMax": 3
+		},
+		{
+			"desc": "Attacks 1 enemy 2 times. Places a [Counterattack] buff on this Champion for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Bident Mastery",
+			"maxcd": 5,
+			"mincd": 4,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\n",
+			"multiplier": "2.3*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 60% chance of placing a [Bomb] debuff that detonates after 3 turns.",
+			"basedOn": "[ATK]",
+			"name": "Demonic Explosives",
+			"maxcd": 6,
+			"mincd": 4,
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +5%\n",
+			"multiplier": "6.6*ATK",
+			"numBooksToMax": 7
+		}
+	]
+}

@@ -1,0 +1,39 @@
+{
+	"typeId": 5686,
+	"name": {
+		"key": "l10n:hero-type/name?id=5680#static",
+		"defaultValue": "Dhukk the Pierced",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "Orcs",
+	"role": "Defense",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "517_orc_id5680",
+	"avatarKey": "5680",
+	"leaderSkill": {
+		"area": "Fractions",
+		"affinity": null,
+		"kind": "Defence",
+		"absolute": false,
+		"value": 0.31
+	},
+	"skillTypeIds": [
+		56801,
+		56802,
+		56803
+	],
+	"unscaledStats": {
+		"Health": 96,
+		"Attack": 79,
+		"Defense": 125,
+		"Speed": 97,
+		"Resistance": 45,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

@@ -1,0 +1,59 @@
+{
+	"name": "Samar Gemcursed",
+	"id": 5596,
+	"avatar": "5590",
+	"hp": 21480,
+	"atk": 936,
+	"def": 1211,
+	"spd": 98,
+	"res": 80,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 60,
+	"cheal": 50,
+	"faction": "Dwarves",
+	"type": "Increase Ally HP in in all Battles by 30",
+	"totalBooks": "15",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Heals by 15% of the damage inflicted if this Champion has 50% HP or less. Fills this Champion’s Turn Meter by 15% if he has more than 50% HP.",
+			"basedOn": "[HP]",
+			"name": "Crystal Flesh",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
+			"multiplier": "0.23*HP",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 1 enemy.\r\nInflicts bonus damage equal to the difference in HP percentage levels between this Champion and the target (+1% damage for every 1% difference).\r\nInflicts bonus damage equal to the difference in number of buffs on this Champion and the target (+10% damage per buff).",
+			"basedOn": "[HP]",
+			"name": "Emerald Curse",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\n",
+			"multiplier": "0.3*HP",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks all enemies. Has an 80% chance of stealing 2 random buffs before attacking. Places an extra hit on enemies that have any buffs left.",
+			"basedOn": "",
+			"name": "Boon Subversion",
+			"maxcd": 5,
+			"mincd": 4,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +10%\nLvl. 7 Buff/Debuff Chance +10%\n",
+			"multiplier": null,
+			"numBooksToMax": 7
+		},
+		{
+			"desc": "Passive Effect\r\n\r\nPlaces a [Block Damage] buff on this Champion for 1 turn at the start of each Round. \r\n\r\nActive Effect\r\n\r\nBlocks incoming damage and places a [Block Damage] buff on this Champion for 1 turn when they receive a hit that would drop their HP below 30%.",
+			"basedOn": "",
+			"name": "Diamond Skin [P]",
+			"maxcd": 4,
+			"mincd": 4,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		}
+	]
+}

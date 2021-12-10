@@ -1,0 +1,59 @@
+{
+	"name": "Rotos the Lost Groom",
+	"id": 4766,
+	"avatar": "4760",
+	"hp": 11895,
+	"atk": 1520,
+	"def": 1266,
+	"spd": 90,
+	"res": 40,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 63,
+	"cheal": 50,
+	"faction": "Undead Hordes",
+	"type": "",
+	"totalBooks": "13",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 75% chance of placing a 60% [Decrease DEF] debuff for 2 turns. Also has a 25% chance of granting an Extra Turn.",
+			"basedOn": "[ATK][HP]",
+			"name": "Terror Scourge",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "1.9*ATK+0.19*HP",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 1 enemy. Decreases the target's MAX HP by 20%, then adds that HP to this Champion's own MAX HP.\r\n\r\n[Cannot decrease a single Champion's MAX HP by more than 60% in one Battle. Cannot increase this Champion's MAX HP by more than 60,000. Does not decrease Boss' MAX HP. This Champion's MAX HP will be increased by 15,000 when this Skill is used against Bosses.]",
+			"basedOn": "[ATK][HP]",
+			"name": "Vitality Plunder",
+			"maxcd": 3,
+			"mincd": 2,
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Damage +10%\n",
+			"multiplier": "3.5*ATK+0.3*HP",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 1 enemy. Will ignore 60% of the target's DEF. Will also ignore [Unkillable] and [Block Damage] buffs. Enemies killed by this skill cannot be revived if this Champion has gained maximum amount of HP from the Vitality Plunder skill. Grants an Extra Turn if this skill kills an enemy.",
+			"basedOn": "[ATK][HP]",
+			"name": "Fated Destruction",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Damage +10%\nLvl. 5 Damage +10%\n",
+			"multiplier": "2.1*ATK+0.19*HP",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Will decrease damage from enemy hits so that incoming damage from any single hit will not exceed 50% of this Сhampion's MAX HP. Grants an Extra Turn if this damage reduction occurs. \r\n\r\n[Does not work against Bosses.] \r\n\r\nDecreases the damage taken from Bosses by 15%. Decreases the damage taken from Bosses by 30% if Siphi the Lost Bride is on the same team.",
+			"basedOn": "[HP]",
+			"name": "Spurn Oblivion [Passive]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		}
+	]
+}

@@ -1,0 +1,99 @@
+{
+	"name": "Klyssus",
+	"id": 22136,
+	"avatar": "22100",
+	"hp": 165180,
+	"atk": 1652,
+	"def": 1101,
+	"spd": 90,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Unknown",
+	"type": "",
+	"totalBooks": "0",
+	"skills": [
+		{
+			"desc": "Attacks all enemies.",
+			"basedOn": "[ATK]",
+			"name": "Frost Nova",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "4*ATK",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "Attacks all enemies. Places a 50% [Decrease ACC] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Numbing Chill",
+			"maxcd": 4,
+			"mincd": 4,
+			"books": "",
+			"multiplier": "6*ATK",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "Attacks all enemies 1 time whenever Klyssus's HP drops below 80%, 60%, 45%, 30% and 15%. This attack will revive any dead allies to 100% HP. This attack ignores 50% of each enemy's DEF for each alive ally. This attack also has a 20% chance of placing a [Freeze] debuff for 1 turn. The chance of placing a [Freeze] debuff increases by 40% for each alive ally.",
+			"basedOn": "",
+			"name": "Frigid Vengeance",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "",
+			"basedOn": "[ATK]",
+			"name": "Frigid Vengeance",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "6*ATK",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "Immune to [Stun], [Freeze], [Sleep], [Provoke], [Block Active Skills], [Block Passive Skills], [Fear], [True Fear], [Petrification] debuffs. Also immune to HP exchange effects, HP balancing effects, and cooldown increasing effects.",
+			"basedOn": "",
+			"name": "Almighty Immunity [Passive]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "Damage from Continuous Damage decreased by 60%.",
+			"basedOn": "",
+			"name": "Continuous Damage Resistance II",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "Damage from skills that scale based on enemy MAX HP cannot exceed 10% of the Boss' MAX HP when attacking the Boss.",
+			"basedOn": "[HP]",
+			"name": "Almighty Strength [Passive]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "All Turn Meter reduction effects are decreased by 50% when used against the Boss.",
+			"basedOn": "[BaseChangeStaminaMultiplier]",
+			"name": "Almighty Persistence [Passive]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		}
+	]
+}

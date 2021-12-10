@@ -1,0 +1,49 @@
+{
+	"name": "Shirimani",
+	"id": 2256,
+	"avatar": "2250",
+	"hp": 19980,
+	"atk": 1167,
+	"def": 1079,
+	"spd": 104,
+	"res": 40,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "High Elves",
+	"type": "Increase Ally  in Faction Crypts by 33",
+	"totalBooks": "10",
+	"skills": [
+		{
+			"desc": "Attacks 3 times at random. Has a 15% chance of placing a [Freeze] debuff for 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Bolts of Cold",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\n",
+			"multiplier": "1.4*ATK",
+			"numBooksToMax": 3
+		},
+		{
+			"desc": "Heals 1 ally by 50% and other allies by 20% of their MAX HP. Places a 15% [Continuous Heal] buff for 2 turns on targets with full HP.",
+			"basedOn": "[Enemy MAX HP]",
+			"name": "Rejuvenating Wave",
+			"maxcd": 5,
+			"mincd": 4,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 1
+		},
+		{
+			"desc": "Attacks all enemies. Has an 80% chance of placing a [Freeze] debuff for 1 turn. Fills this Champion's Turn Meter by 10% for each attacked enemy.",
+			"basedOn": "[ATK]",
+			"name": "Ice Storm",
+			"maxcd": 6,
+			"mincd": 5,
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Damage +5%\nLvl. 6 Buff/Debuff Chance +10%\n",
+			"multiplier": "4.1*ATK",
+			"numBooksToMax": 6
+		}
+	]
+}

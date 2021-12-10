@@ -1,0 +1,49 @@
+{
+	"name": "Jotun",
+	"id": 2586,
+	"avatar": "2580",
+	"hp": 16680,
+	"atk": 991,
+	"def": 1200,
+	"spd": 93,
+	"res": 45,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Barbarians",
+	"type": "Increase Ally HP in Faction Crypts by 28.999999999999996",
+	"totalBooks": "13",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 30% chance of placing a 30% [Decrease DEF] debuff for 2 turns.",
+			"basedOn": "[HP]",
+			"name": "Brute Strength",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
+			"multiplier": "0.22*HP",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 75% chance of placing a [HP Burn] debuff for 4 turns.",
+			"basedOn": "[HP]",
+			"name": "Burning Blade",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\n",
+			"multiplier": "0.4*HP",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Attacks 1 enemy. Decreases the target's MAX HP by 30% of the damage inflicted. Damage increases by 50% if the target is under a [HP Burn] debuff.",
+			"basedOn": "[HP]",
+			"name": "Sear Away",
+			"maxcd": 5,
+			"mincd": 4,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\n",
+			"multiplier": "0.43*HP",
+			"numBooksToMax": 4
+		}
+	]
+}

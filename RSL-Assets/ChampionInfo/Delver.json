@@ -1,0 +1,49 @@
+{
+	"name": "Delver",
+	"id": 2886,
+	"avatar": "2880",
+	"hp": 16350,
+	"atk": 1299,
+	"def": 914,
+	"spd": 91,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 60,
+	"cheal": 50,
+	"faction": "Dark Elves",
+	"type": "Increase Ally ATK in Faction Crypts by 27",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 45% chance of placing a 100% [Heal Reduction] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Necrotic Toxin",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"multiplier": "4*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 1 enemy. Places a 25% [Weaken] debuff on the target for 3 turns if the target has a [Heal Reduction] debuff. This debuff cannot be resisted.",
+			"basedOn": "[ATK]",
+			"name": "Mark for Death",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\n",
+			"multiplier": "6.2*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks all enemies. Places a 50% [Increase ATK] buff on this Champion for 2 turns before attacking. If the target has a [Weaken] debuff, places a 60% [Decrease DEF] debuff on the target for 2 turns.",
+			"basedOn": "",
+			"name": "Finisher",
+			"maxcd": 5,
+			"mincd": 4,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\n",
+			"multiplier": null,
+			"numBooksToMax": 4
+		}
+	]
+}

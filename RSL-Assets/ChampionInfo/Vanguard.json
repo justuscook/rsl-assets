@@ -1,0 +1,49 @@
+{
+	"name": "Vanguard",
+	"id": 3166,
+	"avatar": "3160",
+	"hp": 14700,
+	"atk": 958,
+	"def": 1090,
+	"spd": 96,
+	"res": 40,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Banner Lords",
+	"type": "Increase Ally  in in all Battles by 30",
+	"totalBooks": "9",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy.\r\n\r\nPlaces a 30% [Decrease DEF] debuff for 1 turn if the target’s DEF is lower than this Champion’s.",
+			"basedOn": "[ATK]",
+			"name": "Gathering Momentum",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "4.3*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 1 enemy.\r\n\r\nPlaces a [Provoke] debuff for 1 turn if the target is under a [Decrease DEF] debuff.",
+			"basedOn": "[ATK]",
+			"name": "Inescapable Wrath",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "6.3*ATK",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Decreases the duration of all buffs on the attacker when hit.",
+			"basedOn": "",
+			"name": "Dismay the Foe [P]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		}
+	]
+}

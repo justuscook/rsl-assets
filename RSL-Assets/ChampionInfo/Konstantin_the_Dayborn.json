@@ -1,0 +1,59 @@
+{
+	"name": "Konstantin the Dayborn",
+	"id": 6676,
+	"avatar": "6670",
+	"hp": 14700,
+	"atk": 1421,
+	"def": 1178,
+	"spd": 105,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 63,
+	"cheal": 50,
+	"faction": "Sacred Order",
+	"type": "Increase Ally ATK in Arena battles by 30",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Places an extra hit if the target is under any debuff.",
+			"basedOn": "[ATK]",
+			"name": "Sword of Suns",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "3.6*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks all enemies 2 times. Each hit ignores 10% of each target's DEF for every [Leech], [Decrease DEF], and [Block Active Skills] debuff they are under.",
+			"basedOn": "[ATK]",
+			"name": "Rune Shatter",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\n",
+			"multiplier": "2.5*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 1 enemy. Before attacking, steals all buffs from the target, then transfers all debuffs from this Champion to the target. \r\n\r\nDecreases the cooldown of the [Quietude] skill by 2 turns if this attack kills an enemy.",
+			"basedOn": "",
+			"name": "Quietude",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\n",
+			"multiplier": null,
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Enemies from the Undead Horde, Demonspawn, and Knights Revenant Factions killed by this Champion cannot be revived. \r\n\r\n[Only available when Vlad the Nightborn is on the same team.]",
+			"basedOn": "",
+			"name": "Exalted [P]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		}
+	]
+}

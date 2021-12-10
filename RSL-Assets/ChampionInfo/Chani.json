@@ -1,0 +1,59 @@
+{
+	"name": "Chani",
+	"id": 6036,
+	"avatar": "6030",
+	"hp": 13875,
+	"atk": 1432,
+	"def": 947,
+	"spd": 96,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 60,
+	"cheal": 50,
+	"faction": "Samurai",
+	"type": "Increase Ally ACC in in all Battles by 40",
+	"totalBooks": "15",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 40% chance of placing a 25% [Poison Sensitivity] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Insidious Arrow",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +10%\nLvl. 7 Buff/Debuff Chance +10%\n",
+			"multiplier": "3.4*ATK",
+			"numBooksToMax": 6
+		},
+		{
+			"desc": "Places a 50% [Increase ACC] buff and a 50% [Increase ATK] buff on this Champion for 2 turns, then attacks 1 enemy. Places a [HP Burn] debuff for 2 turns if this attack is critical.",
+			"basedOn": "",
+			"name": "Soul Fire",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Damage +10%\n",
+			"multiplier": null,
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Attacks all enemies. Has a 50% chance of increasing the duration of all debuffs by 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Shower of Misery",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +15%\n",
+			"multiplier": "4*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Immune to [Decrease ACC] debuffs.\r\n\r\nIncreases this Champion’s C. RATE by 0.05% for every point of ACC they have.",
+			"basedOn": "",
+			"name": "Sureshot [P]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		}
+	]
+}

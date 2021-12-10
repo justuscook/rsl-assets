@@ -1,0 +1,32 @@
+{
+	"typeId": 816,
+	"name": {
+		"key": "l10n:hero-type/name?id=810#static",
+		"defaultValue": "Spiritwalker",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "Barbarians",
+	"role": "Support",
+	"rarity": "Uncommon",
+	"ascended": 6,
+	"modelName": "0143_barbarian_f_combined",
+	"avatarKey": "810",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		8101,
+		8102
+	],
+	"unscaledStats": {
+		"Health": 65,
+		"Attack": 117,
+		"Defense": 68,
+		"Speed": 90,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

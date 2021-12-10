@@ -1,0 +1,39 @@
+{
+	"name": "Archer",
+	"id": 796,
+	"avatar": "790",
+	"hp": 13050,
+	"atk": 1156,
+	"def": 727,
+	"spd": 97,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Banner Lords",
+	"type": "",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Has an extra 15% chance of inflicting a critical hit. Fills this Champion's Turn Meter by 15% if this attack is critical.",
+			"basedOn": "[ATK]",
+			"name": "Double Shot",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
+			"multiplier": "2.2*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks all enemies 2 times. Has a 10% chance to place a 15% [Decrease SPD] debuff for 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Rain of Arrows",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Damage +10%\nLvl. 6 Buff/Debuff Chance +5%\nLvl. 7 Damage +15%\nLvl. 8 Buff/Debuff Chance +5%\n",
+			"multiplier": "1.9*ATK",
+			"numBooksToMax": 7
+		}
+	]
+}

@@ -1,0 +1,59 @@
+{
+	"name": "Vasal of the Seal",
+	"id": 6316,
+	"avatar": "6310",
+	"hp": 21315,
+	"atk": 870,
+	"def": 1288,
+	"spd": 98,
+	"res": 40,
+	"acc": 20,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Demonspawn",
+	"type": "Increase Ally HP in in all Battles by 33",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Places a [HP Burn] debuff on the target for 2 turns if they are under a [True Fear] debuff or a [Decrease ATK] debuff.\r\n\r\nAlso places a [Shield] buff on this Champion for 2 turns equal to 10% of their MAX HP.",
+			"basedOn": "[HP]",
+			"name": "Abyssal Seal",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "0.25*HP",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks all enemies. Has a 75% chance of placing a [True Fear] debuff and a 50% [Decrease ATK] debuff for 2 turns.",
+			"basedOn": "[HP]",
+			"name": "Infernal Darkness",
+			"maxcd": 5,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\n",
+			"multiplier": "0.27*HP",
+			"numBooksToMax": 6
+		},
+		{
+			"desc": "Balances the HP of all allies. The HP levels of all allies will be brought up to the level of the ally with the highest HP. After balancing HP, grants an Extra Turn.",
+			"basedOn": "",
+			"name": "Daemon Possession",
+			"maxcd": 6,
+			"mincd": 4,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 2
+		},
+		{
+			"desc": "Receives 20% less damage from Champions from the Bannerlord, High Elf, and Sacred Order Factions. \r\n\r\nIf there are 2 or more Demonspawn Champions on the team alongside this Champion, increases the C. DMG of all Demonspawn Champions on the team by 20%. \r\n[C. DMG increase only works when this Champion is alive.]",
+			"basedOn": "",
+			"name": "Legion of Doom [P]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		}
+	]
+}

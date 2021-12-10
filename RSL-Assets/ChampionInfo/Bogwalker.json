@@ -1,0 +1,49 @@
+{
+	"name": "Bogwalker",
+	"id": 876,
+	"avatar": "870",
+	"hp": 16020,
+	"atk": 848,
+	"def": 1112,
+	"spd": 93,
+	"res": 40,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Lizard Men",
+	"type": "Increase Ally HP in Dungeons by 25",
+	"totalBooks": "14",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 30% chance of placing a 50% [Decrease ATK] debuff for 2 turns.",
+			"basedOn": "[DEF]",
+			"name": "Bone Katars",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +10%\nLvl. 7 Buff/Debuff Chance +10%\n",
+			"multiplier": "3.8*DEF",
+			"numBooksToMax": 6
+		},
+		{
+			"desc": "Attacks all enemies. Places a 30% [Increase DEF] buff on all allies for 2 turns.",
+			"basedOn": "[ATK][DEF]",
+			"name": "Combo Attack",
+			"maxcd": 5,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Damage +5%\nLvl. 7 Damage +10%\n",
+			"multiplier": "2*ATK+2.3*DEF",
+			"numBooksToMax": 7
+		},
+		{
+			"desc": "Places a 30% [Reflect Damage] buff on all allies for 1 turn when attacked with a critical hit.",
+			"basedOn": "[DEALT_DMG]",
+			"name": "Scout [Passive]",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 1
+		}
+	]
+}

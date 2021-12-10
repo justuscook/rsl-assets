@@ -1,0 +1,49 @@
+{
+	"name": "Exemplar",
+	"id": 1716,
+	"avatar": "1710",
+	"hp": 13545,
+	"atk": 1509,
+	"def": 892,
+	"spd": 94,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 60,
+	"cheal": 50,
+	"faction": "High Elves",
+	"type": "Increase Ally C. RATE in Arena battles by 27",
+	"totalBooks": "13",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Places an extra hit if this attack is critical.\r\n\r\nPuts one of target's skills on full cooldown if the first hit is critical and the target is under a [Weaken] debuff.\r\n\r\nIncreases the cooldown of one of the target's skills by 2 turns if the first hit is critical and the target is not under a [Weaken] debuff.",
+			"basedOn": "[ATK]",
+			"name": "High Stance",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "1.7*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 3 times at random. Each hit has a 75% chance of placing a 25% [Weaken] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Pincer Attack",
+			"maxcd": 4,
+			"mincd": 2,
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +10%\n",
+			"multiplier": "2.1*ATK",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 75% chance of placing a [Freeze] debuff for 1 turn and a [Block Active Skills] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Capture",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +10%\n",
+			"multiplier": "6.4*ATK",
+			"numBooksToMax": 4
+		}
+	]
+}

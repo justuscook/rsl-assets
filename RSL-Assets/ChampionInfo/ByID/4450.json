@@ -1,0 +1,33 @@
+{
+	"typeId": 4456,
+	"name": {
+		"key": "l10n:hero-type/name?id=4450#static",
+		"defaultValue": "Perforator",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "Dwarves",
+	"role": "Attack",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0375_dwarf_marksman_id4450",
+	"avatarKey": "4450",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		44501,
+		44504,
+		44503
+	],
+	"unscaledStats": {
+		"Health": 86,
+		"Attack": 116,
+		"Defense": 73,
+		"Speed": 86,
+		"Resistance": 45,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 57,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

@@ -1,0 +1,32 @@
+{
+	"typeId": 1726,
+	"name": {
+		"key": "l10n:hero-type/name?id=1720#static",
+		"defaultValue": "Elfguard",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "HighElves",
+	"role": "Attack",
+	"rarity": "Uncommon",
+	"ascended": 6,
+	"modelName": "0098_HighElf_Support",
+	"avatarKey": "1720",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		17201,
+		17202
+	],
+	"unscaledStats": {
+		"Health": 80,
+		"Attack": 105,
+		"Defense": 65,
+		"Speed": 92,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

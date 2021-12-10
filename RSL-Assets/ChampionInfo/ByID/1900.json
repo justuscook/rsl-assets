@@ -1,0 +1,39 @@
+{
+	"typeId": 1906,
+	"name": {
+		"key": "l10n:hero-type/name?id=1900#static",
+		"defaultValue": "Ghostborn",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "DarkElves",
+	"role": "Support",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0084_DarkElfMage",
+	"avatarKey": "1900",
+	"leaderSkill": {
+		"area": "Fractions",
+		"affinity": null,
+		"kind": "Accuracy",
+		"absolute": true,
+		"value": 65
+	},
+	"skillTypeIds": [
+		19001,
+		19002,
+		19004
+	],
+	"unscaledStats": {
+		"Health": 114,
+		"Attack": 110,
+		"Defense": 101,
+		"Speed": 101,
+		"Resistance": 40,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

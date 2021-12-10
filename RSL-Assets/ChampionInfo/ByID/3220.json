@@ -1,0 +1,39 @@
+{
+	"typeId": 3226,
+	"name": {
+		"key": "l10n:hero-type/name?id=3220#static",
+		"defaultValue": "Cagebreaker",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "OgrynTribes",
+	"role": "Attack",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0274_Ogre_id3220",
+	"avatarKey": "3220",
+	"leaderSkill": {
+		"area": null,
+		"affinity": "Spirit",
+		"kind": "Attack",
+		"absolute": false,
+		"value": 0.4
+	},
+	"skillTypeIds": [
+		32201,
+		32202,
+		32204
+	],
+	"unscaledStats": {
+		"Health": 97,
+		"Attack": 128,
+		"Defense": 75,
+		"Speed": 98,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 60,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

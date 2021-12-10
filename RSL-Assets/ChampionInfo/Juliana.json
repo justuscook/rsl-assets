@@ -1,0 +1,49 @@
+{
+	"name": "Juliana",
+	"id": 3446,
+	"avatar": "3440",
+	"hp": 15360,
+	"atk": 1398,
+	"def": 881,
+	"spd": 103,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 60,
+	"cheal": 50,
+	"faction": "Sacred Order",
+	"type": "Increase Ally C. RATE in Arena battles by 20",
+	"totalBooks": "13",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Each critical hit fills this Champion's Turn Meter by 10%.",
+			"basedOn": "[ATK]",
+			"name": "Battledance",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\n",
+			"multiplier": "2.4*ATK",
+			"numBooksToMax": 3
+		},
+		{
+			"desc": "Places a 30% [Increase C. RATE] buff on this Champion, then attacks 1 enemy 2 times. Places a 5% [Poison] debuff on the target for 3 turns if this attack is critical.\r\n\r\n[Will ignore 50% of the target's DEF when Romero is on the same team.]",
+			"basedOn": "[ATK]",
+			"name": "Lethal Partner",
+			"maxcd": 5,
+			"mincd": 5,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\n",
+			"multiplier": "3*ATK",
+			"numBooksToMax": 3
+		},
+		{
+			"desc": "Attacks 1 enemy. Removes 1 random buff from the target. Has a 75% chance of placing a [HP Burn] debuff for 3 turns.",
+			"basedOn": "[ATK]",
+			"name": "Fire of Purgation",
+			"maxcd": 5,
+			"mincd": 5,
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +5%\nLvl. 7 Buff/Debuff Chance +5%\nLvl. 8 Buff/Debuff Chance +5%\n",
+			"multiplier": "6*ATK",
+			"numBooksToMax": 7
+		}
+	]
+}

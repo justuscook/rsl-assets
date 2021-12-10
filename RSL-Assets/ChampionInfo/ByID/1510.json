@@ -1,0 +1,39 @@
+{
+	"typeId": 1516,
+	"name": {
+		"key": "l10n:hero-type/name?id=1510#static",
+		"defaultValue": "Kael",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "DarkElves",
+	"role": "Attack",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "1510_BloodMage",
+	"avatarKey": "1510",
+	"leaderSkill": {
+		"area": null,
+		"affinity": null,
+		"kind": "Health",
+		"absolute": false,
+		"value": 0.15
+	},
+	"skillTypeIds": [
+		15101,
+		15104,
+		15103
+	],
+	"unscaledStats": {
+		"Health": 83,
+		"Attack": 109,
+		"Defense": 83,
+		"Speed": 103,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 57,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

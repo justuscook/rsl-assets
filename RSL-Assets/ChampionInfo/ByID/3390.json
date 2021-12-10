@@ -1,0 +1,40 @@
+{
+	"typeId": 3396,
+	"name": {
+		"key": "l10n:hero-type/name?id=3390#static",
+		"defaultValue": "Seducer",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "UndeadHordes",
+	"role": "Defense",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0334_Hot_man_id3390",
+	"avatarKey": "3390",
+	"leaderSkill": {
+		"area": null,
+		"affinity": null,
+		"kind": "Health",
+		"absolute": false,
+		"value": 0.25
+	},
+	"skillTypeIds": [
+		33901,
+		33902,
+		33905,
+		33904
+	],
+	"unscaledStats": {
+		"Health": 98,
+		"Attack": 57,
+		"Defense": 120,
+		"Speed": 95,
+		"Resistance": 40,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

@@ -1,0 +1,33 @@
+{
+	"typeId": 5256,
+	"name": {
+		"key": "l10n:hero-type/name?id=5250#static",
+		"defaultValue": "Avir the Alchemage",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "Dwarves",
+	"role": "Support",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0530_dwarf_id5250",
+	"avatarKey": "5250",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		52501,
+		52502,
+		52503
+	],
+	"unscaledStats": {
+		"Health": 101,
+		"Attack": 80,
+		"Defense": 94,
+		"Speed": 102,
+		"Resistance": 30,
+		"Accuracy": 10,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

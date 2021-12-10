@@ -1,0 +1,49 @@
+{
+	"name": "Taurus",
+	"id": 2596,
+	"avatar": "2590",
+	"hp": 17010,
+	"atk": 1310,
+	"def": 859,
+	"spd": 101,
+	"res": 30,
+	"acc": 15,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Skinwalkers",
+	"type": "Increase Ally ACC in Faction Crypts by 40",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Heals by 20% of the damage inflicted if the target has a [Poison] debuff.",
+			"basedOn": "[ATK]",
+			"name": "Metabolize",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
+			"multiplier": "4*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 75% chance of placing a 25% [Weaken] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Tendon Slash",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +15%\n",
+			"multiplier": "6.5*ATK",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "This Champion receives damage equal to 99% of their current HP. Places an [Unkillable] buff on this Champion for 2 turns. Has an 80% chance of placing four 5% [Poison] debuffs on all enemies for 2 turns.",
+			"basedOn": "[CUR_HP]",
+			"name": "Toxic Nova",
+			"maxcd": 5,
+			"mincd": 4,
+			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Buff/Debuff Chance +10%\n",
+			"multiplier": "0.99*CUR_HP",
+			"numBooksToMax": 3
+		}
+	]
+}

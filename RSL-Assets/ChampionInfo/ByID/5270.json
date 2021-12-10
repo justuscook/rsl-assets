@@ -1,0 +1,33 @@
+{
+	"typeId": 5276,
+	"name": {
+		"key": "l10n:hero-type/name?id=5270#static",
+		"defaultValue": "Draconis",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "SacredOrder",
+	"role": "Health",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0388_order_5270",
+	"avatarKey": "5270",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		52701,
+		52702,
+		52703
+	],
+	"unscaledStats": {
+		"Health": 108,
+		"Attack": 83,
+		"Defense": 84,
+		"Speed": 100,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

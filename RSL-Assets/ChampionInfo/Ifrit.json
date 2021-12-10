@@ -1,0 +1,49 @@
+{
+	"name": "Ifrit",
+	"id": 2646,
+	"avatar": "2640",
+	"hp": 18825,
+	"atk": 815,
+	"def": 958,
+	"spd": 95,
+	"res": 40,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Demonspawn",
+	"type": "Increase Ally HP in in all Battles by 15",
+	"totalBooks": "9",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Places a 15% [Weaken] debuff for 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Feebleness Curse",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
+			"multiplier": "5.1*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 1 enemy. Places a 25% [Decrease ATK] debuff for 2 turns. Damage increases according to this Champion's MAX HP.",
+			"basedOn": "[ATK][HP]",
+			"name": "Withering Bolt",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "2.5*ATK+0.2*HP",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Decreases the damage received by 50% if damage from a single hit exceeds 30% HP. Places a 30% [Decrease DEF] debuff for 2 turns on the attacker if the attack is critical.",
+			"basedOn": "",
+			"name": "Shadow Field [Passive]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		}
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"name": "Torturehelm",
+	"id": 636,
+	"avatar": "630",
+	"hp": 19980,
+	"atk": 881,
+	"def": 1090,
+	"spd": 96,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 60,
+	"cheal": 50,
+	"faction": "Orcs",
+	"type": "Increase Ally HP in Dungeons by 33",
+	"totalBooks": "8",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 30% chance of stealing 1 random buff from the target. Damage is proportional to ATK and DEF.",
+			"basedOn": "[ATK][DEF]",
+			"name": "Pillage",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"multiplier": "1.9*ATK+3*DEF",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 1 enemy. Damage is proportional to this Champion's MAX HP and increases according to the number of dead allies.",
+			"basedOn": "[HP]",
+			"name": "Bloodlust",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\n",
+			"multiplier": "0.3*HP*(1+deadAlliesCount)",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Revives this Champion with 50% HP when killed.",
+			"basedOn": "[HP]",
+			"name": "Unkillable [Passive]",
+			"maxcd": 3,
+			"mincd": 3,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		}
+	]
+}

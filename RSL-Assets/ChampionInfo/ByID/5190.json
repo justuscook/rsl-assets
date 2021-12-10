@@ -1,0 +1,33 @@
+{
+	"typeId": 5196,
+	"name": {
+		"key": "l10n:hero-type/name?id=5190#static",
+		"defaultValue": "Solaris",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "SacredOrder",
+	"role": "Attack",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0004_Knight_id5190",
+	"avatarKey": "5190",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		51901,
+		51902,
+		51903
+	],
+	"unscaledStats": {
+		"Health": 82,
+		"Attack": 113,
+		"Defense": 80,
+		"Speed": 92,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 57,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

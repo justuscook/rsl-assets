@@ -1,0 +1,59 @@
+{
+	"name": "Riho Bonespear",
+	"id": 5946,
+	"avatar": "5940",
+	"hp": 18660,
+	"atk": 1189,
+	"def": 1145,
+	"spd": 105,
+	"res": 40,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Samurai",
+	"type": "Increase Ally ATK in Faction Crypts by 42",
+	"totalBooks": "14",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. \r\n\r\nPlaces a 15% [Continuous Heal] buff on the ally with the lowest HP for 1 turn. Also places a 7.5% [Continuous Heal] buff on all allies with 30% HP or less for 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Absorbtion",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "4.3*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Places a [Stun] debuff on a target enemy for 1 turn, as well as a [HP Burn] debuff, a 60% [Decrease DEF] debuff, a 25% [Weaken] debuff, a 50% [Decrease ATK] debuff, and a 30% [Decrease C.RATE] debuff for 2 turns, then attacks the target.",
+			"basedOn": "",
+			"name": "Pressure Points",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
+			"multiplier": null,
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Removes all debuffs from all allies, then places a [Block Debuffs] buff on them for 2 turns. Also heals all allies by 35% of their MAX HP, and by a further 5% for each debuff removed from them.",
+			"basedOn": "",
+			"name": "Perfect Body",
+			"maxcd": 6,
+			"mincd": 3,
+			"books": "Lvl. 2  Heal +10%\nLvl. 3  Heal +10%\n",
+			"multiplier": "",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "When receiving any debuffs, instantly transfers them from this Champion to the attacker. \r\n\r\n[Will not transfer debuffs that cannot be removed.]",
+			"basedOn": "",
+			"name": "Reflect [P]",
+			"maxcd": 3,
+			"mincd": 3,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		}
+	]
+}

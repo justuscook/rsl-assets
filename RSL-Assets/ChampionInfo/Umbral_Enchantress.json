@@ -1,0 +1,49 @@
+{
+	"name": "Umbral Enchantress",
+	"id": 3526,
+	"avatar": "3520",
+	"hp": 15360,
+	"atk": 925,
+	"def": 1354,
+	"spd": 93,
+	"res": 45,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Demonspawn",
+	"type": "",
+	"totalBooks": "13",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Damage increases as current HP decreases.",
+			"basedOn": "[DEF]",
+			"name": "Essence Scepter",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "(3.3+(1-HP_PERC))*DEF",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks all enemies. Has an 80% chance of placing a [Block Buffs] debuff for 3 turns.",
+			"basedOn": "[DEF]",
+			"name": "Immolate",
+			"maxcd": 3,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +10%\n",
+			"multiplier": "3.6*DEF",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Attacks all enemies. Has an 80% chance of placing a [Provoke] debuff for 2 turns. Places an [Unkillable] buff on this Champion for 2 turns. Places a [Block Active Skills] debuff on this Champion for 5 turns. The [Block Active Skills] debuff cannot be resisted or blocked and cannot be removed.",
+			"basedOn": "[DEF]",
+			"name": "Undying Evil",
+			"maxcd": 5,
+			"mincd": 5,
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"multiplier": "4*DEF",
+			"numBooksToMax": 4
+		}
+	]
+}

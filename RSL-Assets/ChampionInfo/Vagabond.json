@@ -1,0 +1,49 @@
+{
+	"name": "Vagabond",
+	"id": 6076,
+	"avatar": "6070",
+	"hp": 12555,
+	"atk": 1200,
+	"def": 991,
+	"spd": 94,
+	"res": 30,
+	"acc": 10,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Samurai",
+	"type": "Increase Ally ACC in Arena battles by 30",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 20% chance of placing a [Sleep] debuff for 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Dreamer's Curse",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +10%\nLvl. 7 Damage +10%\n",
+			"multiplier": "3.8*ATK",
+			"numBooksToMax": 6
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 50% chance of placing a [Block Buffs] debuff for 1 turn.\r\n\r\nAlso fills this Champion’s Turn Meter by 15% and fills the Turn Meter of the ally with the highest Turn Meter by 15%.",
+			"basedOn": "[ATK]",
+			"name": "Ominous Visit",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\n",
+			"multiplier": "6*ATK",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Fills the Turn Meters of all allies by 15% and places a 25% [Increase ATK] buff on all allies for 2 turns.",
+			"basedOn": "",
+			"name": "Join the Troupe",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 1
+		}
+	]
+}

@@ -1,0 +1,39 @@
+{
+	"name": "Stalker",
+	"id": 1696,
+	"avatar": "1690",
+	"hp": 16185,
+	"atk": 749,
+	"def": 925,
+	"spd": 94,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Lizard Men",
+	"type": "",
+	"totalBooks": "9",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Heals this Champion by 10% of the damage dealt.",
+			"basedOn": "[ATK]",
+			"name": "Bloody Claws",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "4.3*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 1 enemy 2 times. Has a 15% chance of placing a 25% [Decrease ATK] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Tear Apart",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
+			"multiplier": "3.5*ATK",
+			"numBooksToMax": 5
+		}
+	]
+}

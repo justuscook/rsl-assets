@@ -1,0 +1,59 @@
+{
+	"name": "Ninja",
+	"id": 6206,
+	"avatar": "6200",
+	"hp": 16845,
+	"atk": 1509,
+	"def": 947,
+	"spd": 100,
+	"res": 30,
+	"acc": 10,
+	"crate": 15,
+	"cdamage": 63,
+	"cheal": 50,
+	"faction": "Samurai",
+	"type": "",
+	"totalBooks": "13",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 45% chance of placing a 60% [Decrease DEF] debuff for 2 turns. \r\n\r\nAlso fills this Champion's Turn Meter by 15% when used against Bosses.",
+			"basedOn": "[ATK]",
+			"name": "Shatterbolt",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"multiplier": "3.7*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 3 times at random. Each hit has a 75% chance of placing a [HP Burn] debuff for 3 turns. Also places a [Perfect Veil] buff on this Champion for 2 turns.\r\n\r\nWhen used against Bosses, will instantly activate any [HP Burn] debuffs, including [HP Burn] debuffs placed by this Skill.",
+			"basedOn": "[ATK]",
+			"name": "Hailburn",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\n",
+			"multiplier": "2*ATK",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Attacks all enemies. Has a 75% chance of placing a [Freeze] debuff for 1 turn.\r\n\r\nWhen targeting a Boss, will only attack the Boss (not all enemies) and will ignore 50% of the target's DEF. Will also decrease the cooldown of the Hailburn skill by 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Cyan Slash",
+			"maxcd": 5,
+			"mincd": 4,
+			"books": "Lvl. 2 Damage +15%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +15%\n",
+			"multiplier": "3*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Increases Ninja's ATK by 10% (up to 100%) and C. DMG by 5% (up to 25%) each time a single enemy is hit by all three of Ninja's Active Skills in a single Round. This effect can occur multiple times against the same enemy.\r\n\r\nWhen fighting Bosses, will increase Ninja's ATK by 20% (up to 100%) and C. DMG by 10% (up to 25%) instead.",
+			"basedOn": "",
+			"name": "Escalation [Passive]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		}
+	]
+}

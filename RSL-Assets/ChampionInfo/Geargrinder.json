@@ -1,0 +1,49 @@
+{
+	"name": "Geargrinder",
+	"id": 5406,
+	"avatar": "5400",
+	"hp": 19320,
+	"atk": 826,
+	"def": 914,
+	"spd": 95,
+	"res": 40,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Ogryn Tribes",
+	"type": "Increase Ally HP in Faction Crypts by 25",
+	"totalBooks": "13",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Places a 7.5% [Continuous Heal] buff on this Champion for 1 turn if this attack is critical.",
+			"basedOn": "[HP]",
+			"name": "Gears of Gore",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Damage +10%\n",
+			"multiplier": "0.15*HP",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Heals all allies by 15% of their MAX HP.",
+			"basedOn": "[Enemy MAX HP]",
+			"name": "Healing Splatter",
+			"maxcd": 5,
+			"mincd": 3,
+			"books": "Lvl. 2  Heal +5%\nLvl. 3  Heal +5%\nLvl. 4  Heal +5%\nLvl. 5  Heal +5%\n",
+			"multiplier": "",
+			"numBooksToMax": 6
+		},
+		{
+			"desc": "Revives a dead ally with 50% HP and 50% Turn Meter.",
+			"basedOn": "[Enemy MAX HP]",
+			"name": "Necrocogs",
+			"maxcd": 7,
+			"mincd": 5,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 2
+		}
+	]
+}

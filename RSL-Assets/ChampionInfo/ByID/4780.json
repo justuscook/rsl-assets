@@ -1,0 +1,40 @@
+{
+	"typeId": 4786,
+	"name": {
+		"key": "l10n:hero-type/name?id=4780#static",
+		"defaultValue": "Minaya",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "BannerLords",
+	"role": "Support",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0485_The_Beauty",
+	"avatarKey": "4780",
+	"leaderSkill": {
+		"area": null,
+		"affinity": null,
+		"kind": "Speed",
+		"absolute": false,
+		"value": 0.19
+	},
+	"skillTypeIds": [
+		47801,
+		47802,
+		47803,
+		47804
+	],
+	"unscaledStats": {
+		"Health": 131,
+		"Attack": 91,
+		"Defense": 103,
+		"Speed": 111,
+		"Resistance": 40,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

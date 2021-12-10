@@ -1,0 +1,49 @@
+{
+	"name": "Grimskin",
+	"id": 2136,
+	"avatar": "2130",
+	"hp": 16350,
+	"atk": 793,
+	"def": 1421,
+	"spd": 99,
+	"res": 45,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Ogryn Tribes",
+	"type": "",
+	"totalBooks": "14",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 40% chance of placing a 30% [Decrease SPD] debuff for 2 turns.",
+			"basedOn": "[DEF]",
+			"name": "Tarry Fist",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Damage +10%\nLvl. 6 Buff/Debuff Chance +5%\n",
+			"multiplier": "3.4*DEF",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Attacks 1 enemy 2 times. Each hit has a 50% chance of placing a [Provoke] debuff for 1 turn. Has a 40% chance of placing a [Provoke] debuff on all enemies for 1 turn if the first [Provoke] debuff is placed.",
+			"basedOn": "[DEF]",
+			"name": "Frustrating Muck",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"multiplier": "2.8*DEF",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Attacks all enemies. Has an 80% chance of removing 1 random buff from each target.",
+			"basedOn": "[DEF]",
+			"name": "Ichor Fling",
+			"maxcd": 5,
+			"mincd": 4,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +20%\n",
+			"multiplier": "3.9*DEF",
+			"numBooksToMax": 4
+		}
+	]
+}

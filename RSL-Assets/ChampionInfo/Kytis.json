@@ -1,0 +1,59 @@
+{
+	"name": "Kytis",
+	"id": 1606,
+	"avatar": "1600",
+	"hp": 14865,
+	"atk": 1222,
+	"def": 1090,
+	"spd": 95,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 60,
+	"cheal": 50,
+	"faction": "Knights Revenant",
+	"type": "Increase Ally HP in Arena battles by 33",
+	"totalBooks": "13",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has an 85% chance of placing a 100% [Heal Reduction] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Soul Reaper",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"multiplier": "4.1*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Places a 50% [Increase ATK] buff on this Champion for 2 turns, then attacks 4 times at random. The attacks will be critical if the target has any buffs.",
+			"basedOn": "",
+			"name": "Spikes",
+			"maxcd": 6,
+			"mincd": 4,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\n",
+			"multiplier": null,
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Attacks all enemies 2 times. Damage increases according to the amount of HP this Champion has lost.\r\n\r\nThis is a secret skill and only becomes available when this Champion has lost 50% of their HP.",
+			"basedOn": "[ATK]",
+			"name": "Bleeding Wounds",
+			"maxcd": 4,
+			"mincd": 4,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Damage +10%\n",
+			"multiplier": "(1.9+((1-HP_PERC)*100)/30)*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "",
+			"basedOn": "",
+			"name": "Activate Hidden Skill",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		}
+	]
+}

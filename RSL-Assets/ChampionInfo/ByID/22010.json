@@ -1,0 +1,34 @@
+{
+	"typeId": 22016,
+	"name": {
+		"key": "l10n:hero-type/name?id=22010#static",
+		"defaultValue": "Arcane Guardian",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "Unknown",
+	"role": "Attack",
+	"rarity": "Common",
+	"ascended": 6,
+	"modelName": "2010_Neutral_Boss",
+	"avatarKey": "22010",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		220103,
+		220102,
+		200000,
+		200002
+	],
+	"unscaledStats": {
+		"Health": 1000,
+		"Attack": 120,
+		"Defense": 100,
+		"Speed": 100,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

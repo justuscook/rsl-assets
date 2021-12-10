@@ -1,0 +1,49 @@
+{
+	"name": "Knight-Errant",
+	"id": 466,
+	"avatar": "460",
+	"hp": 18660,
+	"atk": 1387,
+	"def": 672,
+	"spd": 96,
+	"res": 30,
+	"acc": 15,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Banner Lords",
+	"type": "Increase Ally  in Dungeons by 32",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 30% chance of placing a [Leech] debuff for 2 turns. Will ignore 30% of the target's DEF.",
+			"basedOn": "[ATK]",
+			"name": "Half-Sword",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
+			"multiplier": "4.5*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 60% chance of placing a [Stun] debuff for 1 turn. Resets the cooldowns on each of this Champion's skills if the target is killed.",
+			"basedOn": "[ATK]",
+			"name": "Mordhau",
+			"maxcd": 4,
+			"mincd": 4,
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"multiplier": "6*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 60% chance of placing a 25% [Weaken] debuff for 2 turns. Damage is increased by 75% if this Champion has full HP.",
+			"basedOn": "[ATK]",
+			"name": "Death Warrant",
+			"maxcd": 6,
+			"mincd": 6,
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +20%\n",
+			"multiplier": "7*ATK",
+			"numBooksToMax": 4
+		}
+	]
+}

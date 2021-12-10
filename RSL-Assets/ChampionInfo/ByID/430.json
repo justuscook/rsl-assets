@@ -1,0 +1,33 @@
+{
+	"typeId": 436,
+	"name": {
+		"key": "l10n:hero-type/name?id=430#static",
+		"defaultValue": "Arbalester",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "UndeadHordes",
+	"role": "Attack",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0055_Vampire",
+	"avatarKey": "430",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		4304,
+		4302,
+		4303
+	],
+	"unscaledStats": {
+		"Health": 86,
+		"Attack": 129,
+		"Defense": 60,
+		"Speed": 96,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 57,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

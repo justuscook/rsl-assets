@@ -1,0 +1,49 @@
+{
+	"name": "Avenger",
+	"id": 336,
+	"avatar": "330",
+	"hp": 12225,
+	"atk": 1398,
+	"def": 815,
+	"spd": 104,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 57,
+	"cheal": 50,
+	"faction": "High Elves",
+	"type": "Increase Ally ATK in Faction Crypts by 17",
+	"totalBooks": "14",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 30% chance of placing a 30% [Decrease DEF] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Hunt",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Damage +10%\n",
+			"multiplier": "2.55*ATK",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Attacks at random 2 times. Has an extra 15% chance of inflicting a critical hit.",
+			"basedOn": "[ATK]",
+			"name": "Lethal Vortex",
+			"maxcd": 3,
+			"mincd": 2,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "2.4*ATK",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Attacks 1 enemy. This Skill always inflicts a critical hit.",
+			"basedOn": "[ATK]",
+			"name": "Fatal Blow",
+			"maxcd": 5,
+			"mincd": 5,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "5.2*ATK",
+			"numBooksToMax": 4
+		}
+	]
+}

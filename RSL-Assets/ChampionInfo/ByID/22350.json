@@ -1,0 +1,39 @@
+{
+	"typeId": 22486,
+	"name": {
+		"key": "l10n:hero-type/name?id=22480#static",
+		"defaultValue": "Agreth",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "Unknown",
+	"role": "Attack",
+	"rarity": "Common",
+	"ascended": 6,
+	"modelName": "2025_BlackWidow_22350",
+	"avatarKey": "22350",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		223501,
+		223506,
+		223503,
+		223504,
+		223505,
+		200003,
+		200000,
+		200009,
+		200010
+	],
+	"unscaledStats": {
+		"Health": 12500,
+		"Attack": 100,
+		"Defense": 100,
+		"Speed": 150,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

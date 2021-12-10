@@ -1,0 +1,49 @@
+{
+	"name": "Runic Warder",
+	"id": 4176,
+	"avatar": "4170",
+	"hp": 19155,
+	"atk": 848,
+	"def": 903,
+	"spd": 103,
+	"res": 55,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Dwarves",
+	"type": "",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times.",
+			"basedOn": "[HP]",
+			"name": "Twin Chops",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
+			"multiplier": "0.1*HP",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 1 enemy 2 times. Each hit has a 30% chance of placing a 50% [Decrease ATK] debuff for 2 turns.",
+			"basedOn": "[HP]",
+			"name": "Superior Steel",
+			"maxcd": 3,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +10%\nLvl. 7 Buff/Debuff Chance +10%\n",
+			"multiplier": "0.15*HP",
+			"numBooksToMax": 6
+		},
+		{
+			"desc": "Places a 15% [Reflect Damage] buff and a 7.5% [Continuous Heal] buff on all allies for 2 turns.",
+			"basedOn": "",
+			"name": "Rune of Outlasting",
+			"maxcd": 5,
+			"mincd": 3,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 2
+		}
+	]
+}

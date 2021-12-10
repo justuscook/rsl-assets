@@ -1,0 +1,49 @@
+{
+	"name": "Psylar",
+	"id": 1926,
+	"avatar": "1920",
+	"hp": 18165,
+	"atk": 1123,
+	"def": 969,
+	"spd": 105,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Dark Elves",
+	"type": "Increase Ally SPD in Faction Crypts by 22",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks all enemies.",
+			"basedOn": "[ATK]",
+			"name": "Surge",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "2*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks all enemies. Has an 80% chance of placing a 50% [Decrease ACC] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Toxic Cloud",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"multiplier": "3.8*ATK",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Places a 30% [Decrease SPD] debuff on all enemies for 2 turns. Decreases the Turn Meter of all enemies by 40%.",
+			"basedOn": "",
+			"name": "Leaden Legs",
+			"maxcd": 6,
+			"mincd": 4,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 2
+		}
+	]
+}

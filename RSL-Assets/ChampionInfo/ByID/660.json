@@ -1,0 +1,39 @@
+{
+	"typeId": 666,
+	"name": {
+		"key": "l10n:hero-type/name?id=660#static",
+		"defaultValue": "Warlord",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "Orcs",
+	"role": "Support",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "212_ork_support",
+	"avatarKey": "660",
+	"leaderSkill": {
+		"area": null,
+		"affinity": null,
+		"kind": "Resistance",
+		"absolute": true,
+		"value": 80
+	},
+	"skillTypeIds": [
+		6601,
+		6604,
+		6603
+	],
+	"unscaledStats": {
+		"Health": 135,
+		"Attack": 83,
+		"Defense": 107,
+		"Speed": 100,
+		"Resistance": 30,
+		"Accuracy": 20,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

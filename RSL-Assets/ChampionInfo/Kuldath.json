@@ -1,0 +1,99 @@
+{
+	"name": "Kuldath",
+	"id": 22546,
+	"avatar": "22370",
+	"hp": 206475,
+	"atk": 1652,
+	"def": 1101,
+	"spd": 100,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Unknown",
+	"type": "",
+	"totalBooks": "0",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Decreases the target’s Turn Meter by 50%.\r\n\r\nWill target enemies under [Hex] debuffs.",
+			"basedOn": "[ATK]",
+			"name": "Brand With Weakness",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "3*ATK",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "Attacks all enemies. Instantly activates any [HP Burn] debuffs on each target and decreases the duration of those [HP Burn] debuffs by 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Overburn",
+			"maxcd": 3,
+			"mincd": 3,
+			"books": "",
+			"multiplier": "3*ATK",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "Attacks all enemies. Places a [HP Burn] debuff for 3 turns, then steals 10% of the Turn Meter from each enemy under a [HP Burn] debuff. \r\nAlso places a [Hex] debuff for 4 turns on the enemy with the lowest HP. This debuff cannot be resisted or blocked.",
+			"basedOn": "[ATK]",
+			"name": "Stoke the Flames",
+			"maxcd": 3,
+			"mincd": 3,
+			"books": "",
+			"multiplier": "3*ATK",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "Instantly places a [Hex] debuff for 4 turns on an enemy whenever they remove a [Hex] debuff from themselves or an ally.\r\n\r\nWill ignore [Block Damage], [Shield], and [Unkillable] buffs and will ignore 100% of DEF when attacking enemies under [Hex] debuffs. \r\n\r\nInstantly removes any [HP Burn] debuffs placed on Kuldath the Magma Dragon and replaces them with a 15% [Continuous Heal] for 2 turns.",
+			"basedOn": "",
+			"name": "Lethal Lava [P]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "Immune to [Stun], [Freeze], [Sleep], [Block Active Skills], [Block Passive Skills], [Fear], [True Fear], [Decrease SPD], [Petrification] debuffs. Also immune to HP exchange effects, HP balancing effects, cooldown increasing effects, and Turn Meter reduction effects.",
+			"basedOn": "",
+			"name": "Invincible Scales [P]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "Decreases the damage taken from Poison debuffs by 90%.",
+			"basedOn": "",
+			"name": "Almighty Tolerance [Passive]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "Immune to [Decrease SPD] debuffs and Turn Meter reduction effects.",
+			"basedOn": "",
+			"name": "Mythic [Passive]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "Damage from skills that scale based on enemy MAX HP cannot exceed 10% of the Boss' MAX HP when attacking the Boss.",
+			"basedOn": "[HP]",
+			"name": "Almighty Strength [Passive]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		}
+	]
+}

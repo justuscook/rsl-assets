@@ -1,0 +1,33 @@
+{
+	"typeId": 3696,
+	"name": {
+		"key": "l10n:hero-type/name?id=3690#static",
+		"defaultValue": "Maeve",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "Barbarians",
+	"role": "Attack",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0298_barbarian_id3690",
+	"avatarKey": "3690",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		36904,
+		36902,
+		36903
+	],
+	"unscaledStats": {
+		"Health": 92,
+		"Attack": 123,
+		"Defense": 85,
+		"Speed": 100,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 60,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

@@ -1,0 +1,49 @@
+{
+	"name": "Crypt-King Graal",
+	"id": 3196,
+	"avatar": "3190",
+	"hp": 19320,
+	"atk": 1145,
+	"def": 1145,
+	"spd": 107,
+	"res": 30,
+	"acc": 10,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Undead Hordes",
+	"type": "Increase Ally HP in in all Battles by 33",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy.\r\n\r\nHas a 60% chance of placing a 50% [Decrease ATK] debuff for 2 turns.\r\n\r\nHas a 100% chance instead if the target is under a [HP Burn] debuff or a [Freeze] debuff.",
+			"basedOn": "[ATK]",
+			"name": "Brittleness Bane",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "3.7*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks all enemies. Has a 75% chance of placing a [HP Burn] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Death Fires",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\n",
+			"multiplier": "3.9*ATK",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Attacks all enemies. Places a [Freeze] debuff on each target for 1 turn if they are under a [HP Burn] debuff.\r\n\r\nAlso extends the duration of any [HP Burn] debuffs to 3 turns. This extension cannot be resisted.",
+			"basedOn": "[ATK]",
+			"name": "Elemental Unity",
+			"maxcd": 4,
+			"mincd": 4,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\n",
+			"multiplier": "3.6*ATK",
+			"numBooksToMax": 3
+		}
+	]
+}

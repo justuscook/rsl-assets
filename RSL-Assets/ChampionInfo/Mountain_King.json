@@ -1,0 +1,59 @@
+{
+	"name": "Mountain King",
+	"id": 4276,
+	"avatar": "4270",
+	"hp": 31050,
+	"atk": 1432,
+	"def": 1112,
+	"spd": 85,
+	"res": 90,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 63,
+	"cheal": 50,
+	"faction": "Dwarves",
+	"type": "",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy.",
+			"basedOn": "[HP][ATK]",
+			"name": "Thunder Cleave",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "0.27*HP+1*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 1 enemy.\r\n\r\nIgnores 50% of the target’s DEF.",
+			"basedOn": "[HP][ATK]",
+			"name": "Enchanted Axe",
+			"maxcd": 5,
+			"mincd": 4,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Damage +10%\n",
+			"multiplier": "0.3*HP+1.8*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 1 enemy.\r\n\r\nIgnores [Shield] and [Block Damage] buffs.",
+			"basedOn": "[HP][ATK]",
+			"name": "Regal Force",
+			"maxcd": 5,
+			"mincd": 4,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\n",
+			"multiplier": "0.35*HP+1.8*ATK",
+			"numBooksToMax": 3
+		},
+		{
+			"desc": "Increases this Champion's ATK by 50% each time this Champion kills an enemy. Stacks up to 100%. Resets each round.",
+			"basedOn": "[B_ATK][KILLED_ENEMIES_CURRENT_ROUND]",
+			"name": "Fabled Skill [P]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		}
+	]
+}

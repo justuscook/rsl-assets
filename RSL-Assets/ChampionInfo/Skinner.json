@@ -1,0 +1,39 @@
+{
+	"name": "Skinner",
+	"id": 1086,
+	"avatar": "1080",
+	"hp": 12885,
+	"atk": 1255,
+	"def": 639,
+	"spd": 89,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Lizard Men",
+	"type": "",
+	"totalBooks": "9",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 3 times.",
+			"basedOn": "[ATK]",
+			"name": "Sharpened Bone",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "1.3*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 1 enemy. Removes 2 random buffs from the target.",
+			"basedOn": "[ATK]",
+			"name": "Skinning Slice",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "6.3*ATK",
+			"numBooksToMax": 5
+		}
+	]
+}

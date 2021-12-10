@@ -1,0 +1,59 @@
+{
+	"name": "Tuhanarak",
+	"id": 6256,
+	"avatar": "6250",
+	"hp": 21645,
+	"atk": 859,
+	"def": 1277,
+	"spd": 106,
+	"res": 30,
+	"acc": 20,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Barbarians",
+	"type": "Increase Ally ACC in in all Battles by 70",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 30% chance of placing a 30% [Decrease SPD] debuff for 2 turns. \r\n\r\nPlaces a 15% [Continuous Heal] buff on this Champion for 1 turn. Also places a 15% [Continuous Heal] buff for 1 turn on the ally with the lowest HP.",
+			"basedOn": "[DEF]",
+			"name": "Sun's Kiss",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"multiplier": "4.1*DEF",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 75% chance of placing a 50% [Decrease ATK] debuff and a [Block Buffs] debuff for 2 turns. Also applies a [Debuff Spread] effect, taking 2 random debuffs from the target and placing them on all enemies.",
+			"basedOn": "[DEF]",
+			"name": "Radiant Suffering",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\n",
+			"multiplier": "5.6*DEF",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Places a 60% [Increase DEF] buff and a 30% [Increase SPD] buff on all allies for 2 turns.",
+			"basedOn": "",
+			"name": "Desert Fitness",
+			"maxcd": 5,
+			"mincd": 3,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 2
+		},
+		{
+			"desc": "Removes 1 random debuff from all allies at the start of each turn. \r\n\r\nRemoves 2 random debuffs instead from allies under [Continuous Heal] buffs.",
+			"basedOn": "",
+			"name": "Inviolable [P]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		}
+	]
+}

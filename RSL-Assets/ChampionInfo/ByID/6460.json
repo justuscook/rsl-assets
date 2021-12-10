@@ -1,0 +1,40 @@
+{
+	"typeId": 6466,
+	"name": {
+		"key": "l10n:hero-type/name?id=6460#static",
+		"defaultValue": "Roric Wyrmbane",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "Barbarians",
+	"role": "Attack",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0706_DragonSlayer_id6460",
+	"avatarKey": "6460",
+	"leaderSkill": {
+		"area": null,
+		"affinity": null,
+		"kind": "Speed",
+		"absolute": false,
+		"value": 0.19
+	},
+	"skillTypeIds": [
+		64601,
+		64602,
+		64605,
+		64604
+	],
+	"unscaledStats": {
+		"Health": 88,
+		"Attack": 149,
+		"Defense": 88,
+		"Speed": 101,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 63,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

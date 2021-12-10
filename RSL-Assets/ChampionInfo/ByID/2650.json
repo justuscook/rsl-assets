@@ -1,0 +1,39 @@
+{
+	"typeId": 2656,
+	"name": {
+		"key": "l10n:hero-type/name?id=2650#static",
+		"defaultValue": "Chevalier",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "BannerLords",
+	"role": "Defense",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0005_Greatshield_id2650",
+	"avatarKey": "2650",
+	"leaderSkill": {
+		"area": "Fractions",
+		"affinity": null,
+		"kind": "Defence",
+		"absolute": false,
+		"value": 0.19
+	},
+	"skillTypeIds": [
+		26504,
+		26502,
+		26503
+	],
+	"unscaledStats": {
+		"Health": 101,
+		"Attack": 73,
+		"Defense": 101,
+		"Speed": 98,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

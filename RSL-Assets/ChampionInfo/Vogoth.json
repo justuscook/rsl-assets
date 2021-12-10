@@ -1,0 +1,59 @@
+{
+	"name": "Vogoth",
+	"id": 4966,
+	"avatar": "4960",
+	"hp": 19320,
+	"atk": 804,
+	"def": 1211,
+	"spd": 89,
+	"res": 30,
+	"acc": 15,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Undead Hordes",
+	"type": "Increase Ally ACC in in all Battles by 40",
+	"totalBooks": "14",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 3 times. Each hit has a 30% chance of increasing the duration of 1 random debuff on the target by 1 turn.",
+			"basedOn": "[HP]",
+			"name": "Horrendous Strength",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +5%\n",
+			"multiplier": "0.07*HP",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Attacks all enemies. Has a 60% chance of placing a [Provoke] debuff on all enemies for 1 turn. Also has a 60% chance of placing a 50% [Decrease ATK] debuff for 2 turns on targets who receive the [Provoke] debuff from this skill.",
+			"basedOn": "[HP]",
+			"name": "Wave of Revulsion",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +5%\n",
+			"multiplier": "0.2*HP",
+			"numBooksToMax": 6
+		},
+		{
+			"desc": "Whenever this Champion is attacked, heals all allies by 50% of the damage received. \r\n\r\n[Only heals by 25% of the damage received from Boss attacks. This Champion only receives half of the heal that all other allies receive.]",
+			"basedOn": "[DEALT_DMG]",
+			"name": "Festering Dynamo [P]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "When attacked, places a [Leech] debuff on the attacker for 2 turns.\r\n\r\nIf the attacker is under a [Provoke] debuff placed by this Champion, also has a 70% chance of increasing the cooldown of a random skill on the attacker by 2 turns. Occurs once per attack.",
+			"basedOn": "",
+			"name": "Eerie Presence [P]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +10%\n",
+			"multiplier": "",
+			"numBooksToMax": 3
+		}
+	]
+}

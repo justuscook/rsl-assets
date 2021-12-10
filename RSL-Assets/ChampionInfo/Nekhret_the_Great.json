@@ -1,0 +1,79 @@
+{
+	"name": "Nekhret the Great",
+	"id": 4806,
+	"avatar": "4800",
+	"hp": 21480,
+	"atk": 793,
+	"def": 1354,
+	"spd": 97,
+	"res": 50,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Undead Hordes",
+	"type": "Increase Ally  in in all Battles by 60",
+	"totalBooks": "6",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 3 times. Each hit has a 20% chance of placing a 50% [Decrease ATK] debuff for 1 turn. This effect cannot be resisted.",
+			"basedOn": "[DEF]",
+			"name": "Tomb Glaive",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
+			"multiplier": "1.3*DEF",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Teams up with allies to attack 1 enemy. All allies under [Ally Protection] buffs placed by this Champion will join the attack. Allies joining the attack will use their default skills.\r\n\r\nGrants an Extra Turn if no enemies are killed during this attack.",
+			"basedOn": "",
+			"name": "Legion of the Damned",
+			"maxcd": 5,
+			"mincd": 4,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 1
+		},
+		{
+			"desc": "Places a [Block Debuffs] buff, a 50% [Ally Protection] buff, and a 25% [Strengthen] buff on an ally for 3 turns.\r\n\r\nThe [Ally Protection] buff cannot be removed.",
+			"basedOn": "",
+			"name": "Disturbing Infusion",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 1
+		},
+		{
+			"desc": "Whenever an ally is attacked while under an [Ally Protection] buff placed by this Champion, places a [Shield] buff on the ally equal to 30% of this Champion's MAX HP for 2 turns. Occurs only if the ally does not already have a [Shield] buff placed by this Champion.\r\n\r\nAlso decreases the cooldown of this Champion's Legion of the Damned Skill by 2 turns if the [Shield] buff is placed.",
+			"basedOn": "[HP]",
+			"name": "Unsleeping Aegis [P]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "Places a [Block Debuffs] buff and a 25% [Strengthen] buff for 3 turns on the ally with the lowest MAX HP at the start of each Round. Also places a 50% [Ally Protection] buff on them for 6 turns. \r\n\r\nThe [Ally Protection] buff cannot be removed.",
+			"basedOn": "",
+			"name": "Arise My Minions [P]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "Skill 48007 description",
+			"basedOn": "",
+			"name": "Skill 48007 name",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		}
+	]
+}

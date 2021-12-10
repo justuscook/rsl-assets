@@ -1,0 +1,59 @@
+{
+	"name": "Alika",
+	"id": 3256,
+	"avatar": "3250",
+	"hp": 15855,
+	"atk": 1354,
+	"def": 892,
+	"spd": 101,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 60,
+	"cheal": 50,
+	"faction": "Barbarians",
+	"type": "",
+	"totalBooks": "20",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 30% chance of placing an extra hit. This hit is always critical.",
+			"basedOn": "[ATK]",
+			"name": "Gap Shot",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Damage +5%\nLvl. 6 Damage +10%\nLvl. 7 Buff/Debuff Chance +5%\nLvl. 8 Buff/Debuff Chance +10%\n",
+			"multiplier": "4.2*ATK",
+			"numBooksToMax": 7
+		},
+		{
+			"desc": "Attacks 1 enemy. Ignores 50% of the target's DEF if their MAX HP is higher than this Champion's MAX HP.",
+			"basedOn": "[ATK]",
+			"name": "High Value Target",
+			"maxcd": 4,
+			"mincd": 2,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "6.3*ATK",
+			"numBooksToMax": 6
+		},
+		{
+			"desc": "Attacks all enemies. Has a 75% chance of increasing the cooldowns of all enemy skills by 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Disorient",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +10%\nLvl. 7 Buff/Debuff Chance +15%\n",
+			"multiplier": "4*ATK",
+			"numBooksToMax": 7
+		},
+		{
+			"desc": "Revives this Champion with 75% HP when killed.\r\n\r\n[Only available when Sikara is on the same team and alive.]",
+			"basedOn": "[HP]",
+			"name": "Devoted Sister [P]",
+			"maxcd": 7,
+			"mincd": 7,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		}
+	]
+}

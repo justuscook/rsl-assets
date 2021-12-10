@@ -1,0 +1,39 @@
+{
+	"typeId": 1336,
+	"name": {
+		"key": "l10n:hero-type/name?id=1330#static",
+		"defaultValue": "Seer",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "Orcs",
+	"role": "Support",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0179_orc_warrior_female",
+	"avatarKey": "1330",
+	"leaderSkill": {
+		"area": null,
+		"affinity": null,
+		"kind": "Resistance",
+		"absolute": true,
+		"value": 40
+	},
+	"skillTypeIds": [
+		13301,
+		13302,
+		13303
+	],
+	"unscaledStats": {
+		"Health": 117,
+		"Attack": 104,
+		"Defense": 79,
+		"Speed": 104,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

@@ -1,0 +1,49 @@
+{
+	"name": "Sentinel",
+	"id": 556,
+	"avatar": "550",
+	"hp": 18825,
+	"atk": 914,
+	"def": 859,
+	"spd": 86,
+	"res": 30,
+	"acc": 10,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Barbarians",
+	"type": "Increase Ally  in Faction Crypts by 30",
+	"totalBooks": "9",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 60% chance of placing a [Provoke] debuff for 1 turn if this attack is critical.",
+			"basedOn": "[ATK][DEF]",
+			"name": "Hook",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +15%\n",
+			"multiplier": "2.6*ATK+2*DEF",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks all enemies. Has a 50% chance of placing a 25% [Decrease ATK] debuff for 2 turns. Has a 50% chance of placing a 100% [Heal Reduction] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Glaive Swing",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"multiplier": "4.4*ATK",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Heals this Champion by 10% HP at the start of their turn. This Heal can be critical.",
+			"basedOn": "[HP]",
+			"name": "Regeneration [Passive]",
+			"maxcd": 2,
+			"mincd": 2,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		}
+	]
+}

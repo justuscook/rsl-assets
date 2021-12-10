@@ -1,0 +1,69 @@
+{
+	"name": "Spirit Guardian",
+	"id": 22056,
+	"avatar": "22050",
+	"hp": 107370,
+	"atk": 1321,
+	"def": 1101,
+	"spd": 100,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Unknown",
+	"type": "",
+	"totalBooks": "0",
+	"skills": [
+		{
+			"desc": "Attacks all enemies.\r\n\r\nDamage increases according to this Champion's current HP.",
+			"basedOn": "[ATK]",
+			"name": "Melt",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "3.6*ATK+2.4*ATK*HP_PERC",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "Removes all debuffs from this Champion. Places a [Block Debuffs] buff on this Champion for 2 turns.",
+			"basedOn": "",
+			"name": "Cleansing Spring",
+			"maxcd": 6,
+			"mincd": 6,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "Heals this Champion by 50% of their MAX HP at the start of each turn.",
+			"basedOn": "",
+			"name": "Revitalize [Passive]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "Immune to [Stun], [Freeze], [Sleep], [Provoke], [Block Active Skills], [Block Passive Skills], [Fear], [True Fear], [Petrification] debuffs. Also immune to HP exchange effects, HP balancing effects, and cooldown increasing effects.",
+			"basedOn": "",
+			"name": "Almighty Immunity [Passive]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "Damage from Continuous Damage decreased by 60%.",
+			"basedOn": "",
+			"name": "Continuous Damage Resistance II",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		}
+	]
+}

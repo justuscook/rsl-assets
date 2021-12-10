@@ -1,0 +1,49 @@
+{
+	"name": "Canoness",
+	"id": 2146,
+	"avatar": "2140",
+	"hp": 17670,
+	"atk": 804,
+	"def": 1321,
+	"spd": 89,
+	"res": 45,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Sacred Order",
+	"type": "Increase Ally SPD in Faction Crypts by 20",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 50% chance of placing a 50% [Increase ATK] buff on a random ally for 2 turns.",
+			"basedOn": "[DEF]",
+			"name": "Lead the Charge",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Damage +10%\nLvl. 6 Buff/Debuff Chance +5%\n",
+			"multiplier": "3.5*DEF",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Attacks 1 enemy. Has an 80% chance of placing a 50% [Decrease ACC] debuff and a [Leech] debuff on the target for 2 turns. This attack is always critical.",
+			"basedOn": "[DEF]",
+			"name": "Blinding Assault",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"multiplier": "5.7*DEF",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Places a 50% [Ally Protection] buff and a 60% [Increase DEF] buff on the target for 2 turns. Also places a 15% [Continuous Heal] buff on this Champion for 1 turn.",
+			"basedOn": "",
+			"name": "Stalwart Guardian",
+			"maxcd": 4,
+			"mincd": 2,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 2
+		}
+	]
+}

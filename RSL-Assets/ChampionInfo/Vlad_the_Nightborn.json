@@ -1,0 +1,59 @@
+{
+	"name": "Vlad the Nightborn",
+	"id": 6656,
+	"avatar": "6650",
+	"hp": 15030,
+	"atk": 1443,
+	"def": 1134,
+	"spd": 105,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 63,
+	"cheal": 50,
+	"faction": "Undead Hordes",
+	"type": "Increase Ally C. RATE in Arena battles by 30",
+	"totalBooks": "14",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Decreases the target’s MAX HP by 30% of the damage inflicted. Also heals this Champion by 30% of the damage inflicted.",
+			"basedOn": "[ATK]",
+			"name": "Thirsting Blade",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "4*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks all enemies. Has a 75% chance of placing a [Leech] debuff for 2 turns.\r\n\r\nAlso has a 75% chance of stealing 50% of the Turn Meter from Champions from the Bannerlord, Sacred Order, or High Elf Factions. Has a 75% chance of decreasing the Turn Meter by 50% instead against targets not from those Factions.",
+			"basedOn": "[ATK]",
+			"name": "Exsanguinate",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\n",
+			"multiplier": "4.7*ATK",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Attacks 1 enemy 2 times. The first hit has a 75% chance of placing a 60% [Decrease DEF] debuff for 2 turns. The second hit has a 75% chance of placing a [Block Active Skills] debuff for 2 turns. \r\n\r\nIf both debuffs are placed, places a [Perfect Veil] buff on this Champion for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Mind Shroud",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\n",
+			"multiplier": "3.3*ATK",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Places a [Revive On Death] buff on this Champion for 2 turns every time this Champion kills an enemy. \r\n\r\nAlso fully heals this Champion and fills their Turn Meter by 50% every time they kill an enemy. \r\n\r\n[Will only heal and fill this Champion’s Turn Meter when Konstantin the Dayborn is on the same team.]",
+			"basedOn": "",
+			"name": "Notorious [P]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		}
+	]
+}

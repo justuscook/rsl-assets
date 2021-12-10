@@ -1,0 +1,49 @@
+{
+	"name": "Baerdal Fellhammer",
+	"id": 4296,
+	"avatar": "4290",
+	"hp": 16185,
+	"atk": 1398,
+	"def": 826,
+	"spd": 94,
+	"res": 60,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 60,
+	"cheal": 50,
+	"faction": "Dwarves",
+	"type": "Increase Ally ATK in Dungeons by 32",
+	"totalBooks": "9",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Each hit has a 30% chance of placing a 100% [Heal Reduction] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Ensorcelled Axe",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"multiplier": "2.1*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 1 enemy 3 times. Each hit has a 75% chance of placing a 60% [Decrease DEF] debuff for 2 turns if the target is under a [Heal Reduction] debuff. Places a [Shield] buff on this Champion for 3 turns equal to 30% of the damage inflicted.",
+			"basedOn": "[ATK]",
+			"name": "Fey Protection",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
+			"multiplier": "1.8*ATK",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Places a [Counterattack] buff on this Champion for 1 turn at the start of each Round. Places a [Counterattack] buff on this Champion for 1 turn at the end of their turn.",
+			"basedOn": "",
+			"name": "Paranoia [P]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		}
+	]
+}

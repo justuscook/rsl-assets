@@ -1,0 +1,36 @@
+{
+	"typeId": 22506,
+	"name": {
+		"key": "l10n:hero-type/name?id=22500#static",
+		"defaultValue": "Borgoth",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "Unknown",
+	"role": "Attack",
+	"rarity": "Common",
+	"ascended": 6,
+	"modelName": "22360_Crab",
+	"avatarKey": "22360",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		223601,
+		223602,
+		223603,
+		223604,
+		200000,
+		200003
+	],
+	"unscaledStats": {
+		"Health": 1000,
+		"Attack": 150,
+		"Defense": 100,
+		"Speed": 150,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

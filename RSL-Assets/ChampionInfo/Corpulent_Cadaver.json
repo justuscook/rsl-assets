@@ -1,0 +1,49 @@
+{
+	"name": "Corpulent Cadaver",
+	"id": 4416,
+	"avatar": "4410",
+	"hp": 20640,
+	"atk": 617,
+	"def": 1035,
+	"spd": 96,
+	"res": 40,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Undead Hordes",
+	"type": "Increase Ally  in in all Battles by 15",
+	"totalBooks": "15",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Inflicts additional damage if this Champion is under a [Shield] buff. The damage is equal to 30% of the value of the [Shield].",
+			"basedOn": "[HP]",
+			"name": "Crushing Mass",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
+			"multiplier": "0.19*HP",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Places a [Shield] buff on this Champion equal to 20% of their MAX HP for 3 turns. Grants an Extra Turn.",
+			"basedOn": "[HP]",
+			"name": "Disgusting Display",
+			"maxcd": 4,
+			"mincd": 4,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 1 enemy. Has an 80% chance of placing a [Provoke] debuff for 1 turn.",
+			"basedOn": "[HP]",
+			"name": "Baleful Tenacity",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +10%\nLvl. 7 Buff/Debuff Chance +10%\n",
+			"multiplier": "0.3*HP",
+			"numBooksToMax": 7
+		}
+	]
+}

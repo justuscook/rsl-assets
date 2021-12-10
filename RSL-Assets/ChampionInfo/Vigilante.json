@@ -1,0 +1,39 @@
+{
+	"name": "Vigilante",
+	"id": 866,
+	"avatar": "860",
+	"hp": 17505,
+	"atk": 760,
+	"def": 826,
+	"spd": 98,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Sacred Order",
+	"type": "",
+	"totalBooks": "10",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times.",
+			"basedOn": "[ATK]",
+			"name": "Holy Blade",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
+			"multiplier": "2.1*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 3 times at random. Each hit has a 50% chance of placing a 15% [Weaken] debuff for 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Branding Iron",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Damage +10%\nLvl. 6 Buff/Debuff Chance +10%\n",
+			"multiplier": "2.1*ATK",
+			"numBooksToMax": 6
+		}
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"name": "Bloodmask",
+	"id": 5906,
+	"avatar": "5900",
+	"hp": 19980,
+	"atk": 694,
+	"def": 1002,
+	"spd": 93,
+	"res": 40,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Samurai",
+	"type": "",
+	"totalBooks": "18",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 35% chance of decreasing the target’s Turn Meter by 10%.",
+			"basedOn": "[HP]",
+			"name": "Bone Crunch",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
+			"multiplier": "0.19*HP",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 50% chance of placing a 15% [Decrease SPD] debuff for 2 turns.",
+			"basedOn": "[HP]",
+			"name": "Foot Stomp",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +10%\nLvl. 7 Buff/Debuff Chance +10%\n",
+			"multiplier": "0.27*HP",
+			"numBooksToMax": 7
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 75% chance of placing a [Stun] debuff for 1 turn.",
+			"basedOn": "[HP]",
+			"name": "Skull Fracture",
+			"maxcd": 5,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +15%\n",
+			"multiplier": "0.28*HP",
+			"numBooksToMax": 7
+		}
+	]
+}

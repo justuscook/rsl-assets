@@ -1,0 +1,49 @@
+{
+	"name": "Acolyte",
+	"id": 2016,
+	"avatar": "2010",
+	"hp": 15195,
+	"atk": 749,
+	"def": 1266,
+	"spd": 104,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Knights Revenant",
+	"type": "Increase Ally ATK in Arena battles by 30",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Fills this Champion's Turn Meter by 25%.",
+			"basedOn": "[ATK]",
+			"name": "Tireless Anger",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Damage +10%\n",
+			"multiplier": "4.6*ATK",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 75% chance of decreasing the target's Turn Meter by 50%.",
+			"basedOn": "[ATK]",
+			"name": "Dark Exhaustion",
+			"maxcd": 4,
+			"mincd": 4,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +15%\nLvl. 7 Buff/Debuff Chance +5%\n",
+			"multiplier": "6.3*ATK",
+			"numBooksToMax": 6
+		},
+		{
+			"desc": "Removes all debuffs on all allies.",
+			"basedOn": "",
+			"name": "Liberation",
+			"maxcd": 5,
+			"mincd": 4,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 1
+		}
+	]
+}

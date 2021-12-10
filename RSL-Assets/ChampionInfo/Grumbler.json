@@ -1,0 +1,49 @@
+{
+	"name": "Grumbler",
+	"id": 4156,
+	"avatar": "4150",
+	"hp": 19485,
+	"atk": 804,
+	"def": 925,
+	"spd": 95,
+	"res": 55,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Dwarves",
+	"type": "Increase Ally HP in Dungeons by 25",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy.\r\nPlaces a [Shield] buff on this Champion equal to 10% of their MAX HP for 2 turns.",
+			"basedOn": "[HP][DEF]",
+			"name": "Angry Mallet",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\n",
+			"multiplier": "0.1*HP+0.1*DEF",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Attacks 1 enemy.\r\nPlaces a 50% [Heal Reduction] debuff for 2 turns.",
+			"basedOn": "[HP][DEF]",
+			"name": "No Coming Back",
+			"maxcd": 3,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
+			"multiplier": "0.2*HP+1.5*DEF",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Places a 25% [Ally Protection] buff on all allies for 2 turns.\r\nPlaces a 30% [Increase DEF] buff on this Champion for 2 turns.",
+			"basedOn": "",
+			"name": "Shoulder the Weight",
+			"maxcd": 5,
+			"mincd": 3,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 2
+		}
+	]
+}

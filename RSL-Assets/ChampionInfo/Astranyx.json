@@ -1,0 +1,119 @@
+{
+	"name": "Astranyx",
+	"id": 22606,
+	"avatar": "22600",
+	"hp": 206475,
+	"atk": 1101,
+	"def": 1101,
+	"spd": 250,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Unknown",
+	"type": "",
+	"totalBooks": "0",
+	"skills": [
+		{
+			"desc": "Attacks all enemies. Has a 100% chance of placing a [Leech] debuff on each enemy for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Darklight Beams",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "3*ATK",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "Attacks all enemies.\r\nSteals 1 random buff from each enemy according to the number of Magic Champions on the enemy team (1 buff for each Magic Champion).\r\nSteals Turn Meter from each enemy according to the number of Force Champions on the enemy team (10% Turn Meter for each Force Champion).\r\nHas a 25% chance of placing a [True Fear] debuff on each enemy for 1 turn. The chance increases by 25% for each Void Champion on the enemy team.\r\nHeals Astranyx by 10% of her MAX HP for each Spirit Champion on the enemy team.",
+			"basedOn": "[ATK]",
+			"name": "Dark Tendrils",
+			"maxcd": 3,
+			"mincd": 3,
+			"books": "",
+			"multiplier": "3*ATK",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "Attacks all enemies. All living allies will team up and join this attack. Damage increases by 25% for each living ally.",
+			"basedOn": "[ATK][aliveAlliesCount]",
+			"name": "Faerie Storm",
+			"maxcd": 3,
+			"mincd": 3,
+			"books": "",
+			"multiplier": "(3*ATK)*(1+(0.25*aliveAlliesCount-0.25))",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "Banishes 1 enemy Champion and spawns a Mirror Copy of them onto Astranyx’s team. \r\n\r\nPlaces a [True Fear] debuff on all enemies for 1 turn. \r\n\r\nIncreases Astranyx’s Dark Energy counter by 1.",
+			"basedOn": "",
+			"name": "Dark Abduction",
+			"maxcd": 4,
+			"mincd": 4,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "Places a [Perfect Veil] buff on Astranyx the Dark Fae for 3 turns and spawns Mirror Copies of all enemies onto Astranyx’s team at the start of the battle. \r\n\r\nSpawns Mirror Copies of all enemies onto Astranyx’s team every time her Dark Energy counter reaches 5.\r\n\r\nAlso places a [Perfect Veil] buff on Astranyx the Dark Fae for 3 turns every time her Dark Energy counter reaches 5. \r\n\r\n[Astranyx’s Dark Energy counter resets after it reaches 5.]",
+			"basedOn": "",
+			"name": "Fae Mirror [Passive]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "Skill 6666618 description",
+			"basedOn": "",
+			"name": "Skill 226006 name",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "Immune to [Stun], [Freeze], [Sleep], [Provoke], [Block Active Skills], [Block Passive Skills], [Fear], [True Fear], [Petrification] debuffs. Also immune to HP exchange effects, HP balancing effects, and cooldown increasing effects.",
+			"basedOn": "",
+			"name": "Almighty Immunity [Passive]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "Decreases the damage taken from Poison debuffs by 90%.",
+			"basedOn": "",
+			"name": "Almighty Tolerance [Passive]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "Damage from skills that scale based on enemy MAX HP cannot exceed 10% of the Boss' MAX HP when attacking the Boss.",
+			"basedOn": "[HP]",
+			"name": "Almighty Strength [Passive]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "All Turn Meter reduction effects are decreased by 50% when used against the Boss.",
+			"basedOn": "[BaseChangeStaminaMultiplier]",
+			"name": "Almighty Persistence [Passive]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		}
+	]
+}

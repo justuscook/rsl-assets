@@ -1,0 +1,39 @@
+{
+	"name": "Chemist",
+	"id": 4286,
+	"avatar": "4280",
+	"hp": 12555,
+	"atk": 1046,
+	"def": 870,
+	"spd": 104,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Dwarves",
+	"type": "",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times.",
+			"basedOn": "[ATK]",
+			"name": "Trick Saws",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Damage +5%\n",
+			"multiplier": "2.35*ATK",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 15% chance of placing a [Stun] debuff for 1 turn.\r\nThis chance increases to 30% if the target's HP is below 50%.",
+			"basedOn": "[ATK]",
+			"name": "Alchemic Stunner",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +10%\nLvl. 7 Damage +10%\n",
+			"multiplier": "7*ATK",
+			"numBooksToMax": 7
+		}
+	]
+}

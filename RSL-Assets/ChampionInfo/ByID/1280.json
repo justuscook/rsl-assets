@@ -1,0 +1,39 @@
+{
+	"typeId": 1286,
+	"name": {
+		"key": "l10n:hero-type/name?id=1280#static",
+		"defaultValue": "Ithos",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "HighElves",
+	"role": "Attack",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0114_elf_combined_id1280",
+	"avatarKey": "1280",
+	"leaderSkill": {
+		"area": "Arena",
+		"affinity": null,
+		"kind": "CriticalChance",
+		"absolute": false,
+		"value": 0.33
+	},
+	"skillTypeIds": [
+		12801,
+		12802,
+		12804
+	],
+	"unscaledStats": {
+		"Health": 114,
+		"Attack": 146,
+		"Defense": 65,
+		"Speed": 99,
+		"Resistance": 30,
+		"Accuracy": 10,
+		"CriticalChance": 15,
+		"CriticalDamage": 63,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

@@ -1,0 +1,33 @@
+{
+	"typeId": 5216,
+	"name": {
+		"key": "l10n:hero-type/name?id=5210#static",
+		"defaultValue": "Purgator",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "SacredOrder",
+	"role": "Attack",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "5210_order_409",
+	"avatarKey": "5210",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		52101,
+		52102,
+		52103
+	],
+	"unscaledStats": {
+		"Health": 81,
+		"Attack": 128,
+		"Defense": 66,
+		"Speed": 94,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 57,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

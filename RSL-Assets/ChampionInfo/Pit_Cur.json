@@ -1,0 +1,39 @@
+{
+	"name": "Pit Cur",
+	"id": 3086,
+	"avatar": "3080",
+	"hp": 15690,
+	"atk": 826,
+	"def": 881,
+	"spd": 91,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Demonspawn",
+	"type": "",
+	"totalBooks": "7",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 25% chance of placing a 15% [Decrease SPD] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Hamstring Bite",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\n",
+			"multiplier": "4.7*ATK",
+			"numBooksToMax": 3
+		},
+		{
+			"desc": "Attacks all enemies. Has a 25% chance of placing a [Provoke] debuff for 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Rabid Infection",
+			"maxcd": 5,
+			"mincd": 5,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "4.8*ATK",
+			"numBooksToMax": 4
+		}
+	]
+}

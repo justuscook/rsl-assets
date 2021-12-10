@@ -1,0 +1,59 @@
+{
+	"name": "Harvest Jack",
+	"id": 4566,
+	"avatar": "4560",
+	"hp": 26925,
+	"atk": 859,
+	"def": 925,
+	"spd": 102,
+	"res": 40,
+	"acc": 20,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Undead Hordes",
+	"type": "",
+	"totalBooks": "14",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 3 times. Each hit has a 25% chance of stealing 1 random buff from the target.\r\nEach hit also has a 25% chance of placing a [Fear] debuff for 1 turn if the target has no active buffs.\r\nThis chance increases to 100% if all buffs were stolen from the target.",
+			"basedOn": "[HP]",
+			"name": "Harvest of Fear",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
+			"multiplier": "0.06*HP",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks all enemies. Places a [Block Buffs] debuff for 2 turns on targets under [Fear] debuffs.\r\n\r\nRemoves any [Increase ATK] buff from the target and replaces them with a 50% [Decrease ATK] debuff for 2 turns.\r\nRemoves any [Continuous Heal] buff from the target and replaces them with a 5% [Poison] debuff for 2 turns. The number of [Poison] debuffs is equal to the number of [Continuous Heal] buffs removed.",
+			"basedOn": "[HP]",
+			"name": "Dreams to Ash",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "0.16*HP",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Attacks all enemies. Has a 75% chance of placing a [True Fear] debuff for 1 turn.\r\nAlso places a 30% [Decrease SPD] debuff for 2 turns and decreases each target's Turn Meter by 15% if the [True Fear] debuff is placed. \r\n\r\nHas a 75% chance of placing a [Sleep] debuff for 1 turn if the [True Fear] debuff is not placed.",
+			"basedOn": "[HP]",
+			"name": "Lord of Terror",
+			"maxcd": 5,
+			"mincd": 4,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\n",
+			"multiplier": "0.21*HP",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "When attacked, decreases the duration of all buffs on the attacker by 1 turn.",
+			"basedOn": "",
+			"name": "Leering Grin [P]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		}
+	]
+}

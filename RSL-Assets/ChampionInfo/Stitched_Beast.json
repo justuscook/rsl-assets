@@ -1,0 +1,49 @@
+{
+	"name": "Stitched Beast",
+	"id": 3586,
+	"avatar": "3580",
+	"hp": 13545,
+	"atk": 1343,
+	"def": 782,
+	"spd": 101,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 57,
+	"cheal": 50,
+	"faction": "Undead Hordes",
+	"type": "",
+	"totalBooks": "15",
+	"skills": [
+		{
+			"desc": "Attack 1 enemy 2 times.",
+			"basedOn": "[ATK]",
+			"name": "Bestial Maw",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
+			"multiplier": "1.9*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 1 enemy 2 times. Each hit has a 25% chance of placing a 25% [Weaken] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Virulent Spittle",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Damage +10%\nLvl. 7 Buff/Debuff Chance +10%\n",
+			"multiplier": "2.5*ATK",
+			"numBooksToMax": 7
+		},
+		{
+			"desc": "Attacks 1 enemy. Decreases the target's Turn Meter by 100%.",
+			"basedOn": "[ATK]",
+			"name": "Pack Tactics",
+			"maxcd": 4,
+			"mincd": 4,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Damage +10%\n",
+			"multiplier": "5.4*ATK",
+			"numBooksToMax": 4
+		}
+	]
+}

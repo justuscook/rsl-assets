@@ -1,0 +1,33 @@
+{
+	"typeId": 156,
+	"name": {
+		"key": "l10n:hero-type/name?id=150#static",
+		"defaultValue": "Crossbowman",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "BannerLords",
+	"role": "Attack",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "127_Knight",
+	"avatarKey": "150",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		1504,
+		1502,
+		1503
+	],
+	"unscaledStats": {
+		"Health": 84,
+		"Attack": 106,
+		"Defense": 85,
+		"Speed": 95,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 57,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

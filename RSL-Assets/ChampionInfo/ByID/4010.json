@@ -1,0 +1,39 @@
+{
+	"typeId": 4016,
+	"name": {
+		"key": "l10n:hero-type/name?id=4010#static",
+		"defaultValue": "High Khatun",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "Barbarians",
+	"role": "Support",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0425_barbarian_f",
+	"avatarKey": "4010",
+	"leaderSkill": {
+		"area": null,
+		"affinity": null,
+		"kind": "Speed",
+		"absolute": false,
+		"value": 0.19
+	},
+	"skillTypeIds": [
+		40101,
+		40104,
+		40103
+	],
+	"unscaledStats": {
+		"Health": 99,
+		"Attack": 93,
+		"Defense": 108,
+		"Speed": 104,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

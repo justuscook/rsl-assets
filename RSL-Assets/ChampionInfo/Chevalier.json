@@ -1,0 +1,49 @@
+{
+	"name": "Chevalier",
+	"id": 2656,
+	"avatar": "2650",
+	"hp": 16680,
+	"atk": 804,
+	"def": 1112,
+	"spd": 98,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Banner Lords",
+	"type": "Increase Ally  in Faction Crypts by 19",
+	"totalBooks": "9",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Has a 20% chance of repeating the attack. Will ignore [Block Damage] and [Shield] buffs.",
+			"basedOn": "[DEF]",
+			"name": "Hack Through",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
+			"multiplier": "1.78*DEF",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 50% chance of placing a [Stun] debuff for 1 turn.",
+			"basedOn": "[DEF]",
+			"name": "Stern Rebuke",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +10%\n",
+			"multiplier": "7.1*DEF",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Places a 30% [Increase DEF] buff and a 7.5% [Continuous Heal] buff on all allies for 2 turns.",
+			"basedOn": "",
+			"name": "Lord Protector",
+			"maxcd": 5,
+			"mincd": 4,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 1
+		}
+	]
+}

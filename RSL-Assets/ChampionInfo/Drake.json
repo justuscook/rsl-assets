@@ -1,0 +1,49 @@
+{
+	"name": "Drake",
+	"id": 1356,
+	"avatar": "1350",
+	"hp": 14040,
+	"atk": 1487,
+	"def": 881,
+	"spd": 95,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 60,
+	"cheal": 50,
+	"faction": "Lizard Men",
+	"type": "Increase Ally ATK in Arena battles by 30",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Grants an Extra Turn if the target is killed.",
+			"basedOn": "[ATK]",
+			"name": "Death from Above",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
+			"multiplier": "4*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 1 enemy. If the target has less than 30% HP, this attack is always critical.",
+			"basedOn": "[ATK]",
+			"name": "Final Blow",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\n",
+			"multiplier": "5.5*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 1 enemy. Places a 30% [Decrease SPD] debuff and a 50% [Decrease ACC] debuff on all enemies except the target for 2 turns if this attack is critical.",
+			"basedOn": "[ATK]",
+			"name": "Decimate",
+			"maxcd": 6,
+			"mincd": 5,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\n",
+			"multiplier": "6*ATK",
+			"numBooksToMax": 4
+		}
+	]
+}

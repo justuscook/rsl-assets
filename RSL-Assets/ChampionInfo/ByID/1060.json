@@ -1,0 +1,39 @@
+{
+	"typeId": 1066,
+	"name": {
+		"key": "l10n:hero-type/name?id=1060#static",
+		"defaultValue": "Stoneskin",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "OgrynTribes",
+	"role": "Health",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0165_Ogre(1060)",
+	"avatarKey": "1060",
+	"leaderSkill": {
+		"area": "Arena",
+		"affinity": null,
+		"kind": "CriticalChance",
+		"absolute": false,
+		"value": 0.16
+	},
+	"skillTypeIds": [
+		10601,
+		10602,
+		10603
+	],
+	"unscaledStats": {
+		"Health": 118,
+		"Attack": 81,
+		"Defense": 76,
+		"Speed": 95,
+		"Resistance": 30,
+		"Accuracy": 10,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

@@ -1,0 +1,39 @@
+{
+	"typeId": 3706,
+	"name": {
+		"key": "l10n:hero-type/name?id=3700#static",
+		"defaultValue": "Haarken Greatblade",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "Barbarians",
+	"role": "Attack",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0267_barbarians_id3700",
+	"avatarKey": "3700",
+	"leaderSkill": {
+		"area": "DoomTower",
+		"affinity": null,
+		"kind": "Attack",
+		"absolute": false,
+		"value": 0.32
+	},
+	"skillTypeIds": [
+		37001,
+		37002,
+		37003
+	],
+	"unscaledStats": {
+		"Health": 90,
+		"Attack": 135,
+		"Defense": 75,
+		"Speed": 95,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 60,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

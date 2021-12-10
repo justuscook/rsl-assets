@@ -1,0 +1,49 @@
+{
+	"name": "Elhain",
+	"id": 1496,
+	"avatar": "1490",
+	"hp": 14370,
+	"atk": 1233,
+	"def": 837,
+	"spd": 107,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 57,
+	"cheal": 50,
+	"faction": "High Elves",
+	"type": "Increase Ally HP in in all Battles by 15",
+	"totalBooks": "13",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Places an extra hit if this attack is critical.",
+			"basedOn": "[ATK ][ ]",
+			"name": "Keen Shot",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
+			"multiplier": "2.2*ATK + 100",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 1 enemy, then all enemies. Has an extra 15% chance of inflicting a critical hit. Places a 30% [Increase C. RATE] buff on this Champion for 3 turns if a target is killed.",
+			"basedOn": "[ATK]",
+			"name": "Lightning Arrow",
+			"maxcd": 5,
+			"mincd": 4,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "4*ATK",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Attacks all enemies 2 times.",
+			"basedOn": "[ATK]",
+			"name": "Valley of Death",
+			"maxcd": 3,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
+			"multiplier": "2.2*ATK",
+			"numBooksToMax": 4
+		}
+	]
+}

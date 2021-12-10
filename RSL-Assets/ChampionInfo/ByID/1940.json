@@ -1,0 +1,39 @@
+{
+	"typeId": 1946,
+	"name": {
+		"key": "l10n:hero-type/name?id=1940#static",
+		"defaultValue": "Preserver",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "BannerLords",
+	"role": "Defense",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0043_Knight_id1940",
+	"avatarKey": "1940",
+	"leaderSkill": {
+		"area": null,
+		"affinity": null,
+		"kind": "Health",
+		"absolute": false,
+		"value": 0.17
+	},
+	"skillTypeIds": [
+		19401,
+		19402,
+		19403
+	],
+	"unscaledStats": {
+		"Health": 99,
+		"Attack": 70,
+		"Defense": 106,
+		"Speed": 102,
+		"Resistance": 40,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

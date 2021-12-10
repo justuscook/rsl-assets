@@ -1,0 +1,49 @@
+{
+	"name": "Gerhard the Stone",
+	"id": 5416,
+	"avatar": "5410",
+	"hp": 12555,
+	"atk": 1387,
+	"def": 1079,
+	"spd": 101,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 60,
+	"cheal": 50,
+	"faction": "Banner Lords",
+	"type": "Increase Ally  in Doom Tower battles by 50",
+	"totalBooks": "13",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 15% chance of placing a [Stun] debuff for 1 turn. Has a 40% chance of placing a [Stun] debuff for 1 turn instead if the target has more than 75% Turn Meter.",
+			"basedOn": "[ATK]",
+			"name": "Ringing Blow",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +5%\nLvl. 7 Damage +5%\n",
+			"multiplier": "3.5*ATK",
+			"numBooksToMax": 6
+		},
+		{
+			"desc": "Places a 30% [Increase C. RATE] buff and a 30% [Increase C. DMG] buff on this Champion for 2 turns, then attacks 1 enemy. \r\n\r\nWill ignore 25% of the target’s DEF. Will ignore 50% of the target’s DEF instead if the target is under an [Increase DEF] buff.",
+			"basedOn": "",
+			"name": "Show of Valor",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Damage +10%\n",
+			"multiplier": null,
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Immune to [Fear], [True Fear], [Freeze], [Provoke], [Sleep], [Stun], [Petrification] debuffs.",
+			"basedOn": "",
+			"name": "Exemplar [P]",
+			"maxcd": 5,
+			"mincd": 3,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 2
+		}
+	]
+}

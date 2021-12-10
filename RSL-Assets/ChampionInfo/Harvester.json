@@ -1,0 +1,49 @@
+{
+	"name": "Harvester",
+	"id": 3156,
+	"avatar": "3150",
+	"hp": 13710,
+	"atk": 1156,
+	"def": 958,
+	"spd": 100,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 57,
+	"cheal": 50,
+	"faction": "Dark Elves",
+	"type": "",
+	"totalBooks": "14",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times.\r\n\r\nHas a 35% chance of placing a 15% [Weaken] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Destabilize",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Damage +5%\nLvl. 6 Buff/Debuff Chance +10%\n",
+			"multiplier": "1.9*ATK",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Attacks 1 enemy.\r\n\r\nHas an 80% chance of placing a [Block Buffs] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Accursed Scythe",
+			"maxcd": 3,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +10%\n",
+			"multiplier": "6.5*ATK",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Attacks 1 enemy.\r\n\r\nHas a 90% chance of increasing the cooldown of one of the target’s Skills by 2 turns at random.",
+			"basedOn": "[ATK]",
+			"name": "Temporal Burst",
+			"maxcd": 5,
+			"mincd": 4,
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +5%\n",
+			"multiplier": "7.5*ATK",
+			"numBooksToMax": 4
+		}
+	]
+}

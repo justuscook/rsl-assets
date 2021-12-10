@@ -1,0 +1,49 @@
+{
+	"name": "Yaga the Insatiable",
+	"id": 4026,
+	"avatar": "4020",
+	"hp": 15195,
+	"atk": 1365,
+	"def": 925,
+	"spd": 95,
+	"res": 30,
+	"acc": 15,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Skinwalkers",
+	"type": "Increase Ally ACC in in all Battles by 40",
+	"totalBooks": "15",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 40% chance of placing a 5% [Poison] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Virulent Cleaver",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
+			"multiplier": "3.65*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 1 enemy 2 times. Each hit has a 50% chance of placing a 5% [Poison] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Hungering Plague",
+			"maxcd": 4,
+			"mincd": 4,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +10%\nLvl. 7 Buff/Debuff Chance +10%\n",
+			"multiplier": "3*ATK",
+			"numBooksToMax": 6
+		},
+		{
+			"desc": "Attacks 1 enemy. Damage increases by 25% against targets under [Poison] debuffs.",
+			"basedOn": "[ATK]",
+			"name": "Rot From Within",
+			"maxcd": 5,
+			"mincd": 4,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Damage +10%\n",
+			"multiplier": "5.9*ATK",
+			"numBooksToMax": 5
+		}
+	]
+}

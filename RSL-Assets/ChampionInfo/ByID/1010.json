@@ -1,0 +1,39 @@
+{
+	"typeId": 1016,
+	"name": {
+		"key": "l10n:hero-type/name?id=1010#static",
+		"defaultValue": "Shatterbones",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "OgrynTribes",
+	"role": "Attack",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0172_Ogre",
+	"avatarKey": "1010",
+	"leaderSkill": {
+		"area": "Arena",
+		"affinity": null,
+		"kind": "Accuracy",
+		"absolute": true,
+		"value": 70
+	},
+	"skillTypeIds": [
+		10101,
+		10102,
+		10103
+	],
+	"unscaledStats": {
+		"Health": 84,
+		"Attack": 136,
+		"Defense": 80,
+		"Speed": 97,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 60,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

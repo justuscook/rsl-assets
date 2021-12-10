@@ -1,0 +1,69 @@
+{
+	"name": "Minotaur",
+	"id": 22256,
+	"avatar": "22220",
+	"hp": 198210,
+	"atk": 826,
+	"def": 991,
+	"spd": 90,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Unknown",
+	"type": "",
+	"totalBooks": "0",
+	"skills": [
+		{
+			"desc": "Attacks all enemies. Deals double damage to enemies with Hex debuffs.",
+			"basedOn": "[ATK]",
+			"name": "Tremor Stomp",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "1.75*ATK",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "Attacks all enemies. Places a Hex debuff for 5 turns on 3 random targets. These debuffs cannot be resisted.",
+			"basedOn": "[ATK]",
+			"name": "Swift Doom",
+			"maxcd": 2,
+			"mincd": 2,
+			"books": "",
+			"multiplier": "2*ATK",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "Starts the battle with a Rage buff for 3 turns. While active, the Rage buff increases the damage the Minotaur deals by 400%. \r\n\r\nOnce the Rage buff expires, the Minotaur will become Dazed, and will receive a Dazed debuff for 1 turn. While active, the Dazed debuff increases the damage the Minotaur receives by 200%.\r\n\r\nOnce the Dazed debuff expires, the Minotaur will once again receive a Rage buff for 3 turns, starting the cycle over.\r\n\r\nThese buffs and debuffs cannot be blocked or removed by Skills that remove debuffs.",
+			"basedOn": "",
+			"name": "Raging Bull",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "Immune to [Stun], [Freeze], [Sleep], [Provoke], [Block Active Skills], [Block Passive Skills], [Fear], [True Fear], [Petrification] debuffs. Also immune to HP exchange effects, HP balancing effects, and cooldown increasing effects.",
+			"basedOn": "",
+			"name": "Almighty Immunity [Passive]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		},
+		{
+			"desc": "Damage from Continuous Damage decreased by 60%.",
+			"basedOn": "",
+			"name": "Continuous Damage Resistance II",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		}
+	]
+}

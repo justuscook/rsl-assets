@@ -1,0 +1,39 @@
+{
+	"name": "Word Bearer",
+	"id": 3786,
+	"avatar": "3780",
+	"hp": 14535,
+	"atk": 958,
+	"def": 826,
+	"spd": 96,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Banner Lords",
+	"type": "",
+	"totalBooks": "10",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 25% chance of placing a 25% [Decrease ACC] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Noble Authority",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +5%\nLvl. 7 Buff/Debuff Chance +5%\nLvl. 8 Damage +10%\nLvl. 9 Buff/Debuff Chance +10%\n",
+			"multiplier": "2.6*ATK",
+			"numBooksToMax": 8
+		},
+		{
+			"desc": "Places a 30% [Increase DEF] buff on all allies for 2 turns.",
+			"basedOn": "",
+			"name": "Royal Shield",
+			"maxcd": 4,
+			"mincd": 2,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 2
+		}
+	]
+}

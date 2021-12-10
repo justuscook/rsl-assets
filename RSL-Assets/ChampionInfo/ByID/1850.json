@@ -1,0 +1,33 @@
+{
+	"typeId": 1856,
+	"name": {
+		"key": "l10n:hero-type/name?id=1850#static",
+		"defaultValue": "Shieldguard",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "Barbarians",
+	"role": "Defense",
+	"rarity": "Uncommon",
+	"ascended": 6,
+	"modelName": "0230_Shiledbearer",
+	"avatarKey": "1850",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		18501,
+		18502,
+		18503
+	],
+	"unscaledStats": {
+		"Health": 93,
+		"Attack": 64,
+		"Defense": 93,
+		"Speed": 89,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

@@ -1,0 +1,59 @@
+{
+	"name": "Ramantu Drakesblood",
+	"id": 6006,
+	"avatar": "6000",
+	"hp": 15690,
+	"atk": 1487,
+	"def": 1046,
+	"spd": 105,
+	"res": 30,
+	"acc": 20,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Lizard Men",
+	"type": "Increase Ally ACC in in all Battles by 80",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 75% chance of increasing the cooldown of 1 of the target’s skills, at random, by 1 turn. Has a 25% chance of placing a [Stun] debuff on the target for 1 turn if a skill has its cooldown increased to the max.\r\n\r\nIf the cooldown increase is successful, will also decrease the cooldown of one random skill (by 1 turn) of the ally with the highest Turn Meter and a skill on cooldown.",
+			"basedOn": "[ATK]",
+			"name": "Psychic Overload",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +15%\n",
+			"multiplier": "3.2*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 1 enemy 4 times.\r\n\r\nThe first hit has a 75% chance of placing a 60% [Decrease DEF] debuff for 2 turns. The second hit has a 75% chance of placing a 25% [Weaken] debuff for 2 turns. The third hit has a 75% chance of placing a a 30% [Decrease SPD] debuff for 2 turns. The fourth hit has a 75% chance of placing a [Block Buffs] debuff for 2 turns.\r\n\r\nAlso has a 75% chance of placing a [True Fear] debuff on all enemies for 1 turn if the target has 4 or more debuffs after the attack.",
+			"basedOn": "[ATK]",
+			"name": "Drake's Fury",
+			"maxcd": 3,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +15%\n",
+			"multiplier": "1.8*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks all enemies. Has an 80% chance of removing all buffs from all enemies before attacking.\r\n\r\nAlso has an 80% chance of placing a [Block Active Skills] debuff for 2 turns on enemies without Passive skills.\r\n\r\nAlso has an 80% chance of placing a [Block Passive Skills] debuff for 2 turns on enemies with Passive skills.",
+			"basedOn": "",
+			"name": "Blood Wings",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Buff/Debuff Chance +10%\n",
+			"multiplier": null,
+			"numBooksToMax": 3
+		},
+		{
+			"desc": "Whenever an enemy places a [Stun], [Sleep], [Freeze], [Fear], [True Fear], or [Provoke] debuff on this Champion, will instantly fill this Champion’s Turn Meter by 30% and place a 30% [Increase SPD] buff and a [Shield] buff on them for 2 turns. The [Shield] buff is equal to 30% of this Champion’s MAX HP.",
+			"basedOn": "",
+			"name": "Arrogance [P]",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		}
+	]
+}

@@ -1,0 +1,59 @@
+{
+	"name": "Sinesha",
+	"id": 526,
+	"avatar": "520",
+	"hp": 17340,
+	"atk": 892,
+	"def": 1255,
+	"spd": 101,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Knights Revenant",
+	"type": "Increase Ally HP in Faction Crypts by 31",
+	"totalBooks": "13",
+	"skills": [
+		{
+			"desc": "Attacks all enemies. Places an extra hit on enemies with less than 50% HP.",
+			"basedOn": "[ATK]",
+			"name": "Burning Wave",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "3*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 1 enemy. Puts the target's skills on cooldown. Heals the ally with the lowest HP by 25%.",
+			"basedOn": "[ATK]",
+			"name": "Vaporize",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\n",
+			"multiplier": "6.9*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Equalizes the HP of all allies. The HP levels of all allies will be brought up to the level of the ally with the highest HP. Then heals the target ally by 10% of their MAX HP.",
+			"basedOn": "",
+			"name": "Immortality",
+			"maxcd": 6,
+			"mincd": 5,
+			"books": "Lvl. 2  Heal +10%\nLvl. 3  Heal +10%\nLvl. 4  Heal +15%\nLvl. 5  Heal +15%\n",
+			"multiplier": "",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "<Secret Skill - NOT VISIBLE TO PLAYERS - activates when 15704 is used.>",
+			"basedOn": "",
+			"name": "Activate Arcane Master",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 0
+		}
+	]
+}

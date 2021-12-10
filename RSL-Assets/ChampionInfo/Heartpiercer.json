@@ -1,0 +1,39 @@
+{
+	"name": "Heartpiercer",
+	"id": 2876,
+	"avatar": "2870",
+	"hp": 12555,
+	"atk": 1057,
+	"def": 859,
+	"spd": 89,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Dark Elves",
+	"type": "",
+	"totalBooks": "9",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy.",
+			"basedOn": "[ATK]",
+			"name": "Perforate",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "4.6*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Attacks 1 enemy. If the hit is critical, places a 25% [Increase ATK] buff on this Champion for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Sight In",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "7.6*ATK",
+			"numBooksToMax": 5
+		}
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"name": "Frostbringer",
+	"id": 3036,
+	"avatar": "3030",
+	"hp": 20310,
+	"atk": 870,
+	"def": 1079,
+	"spd": 110,
+	"res": 30,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Sacred Order",
+	"type": "Increase Ally  in Dungeons by 33",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 2 times at random. Has a 15% chance of placing a 100% [Heal Reduction] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Cones of Cold",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +10%\n",
+			"multiplier": "2*ATK",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Attacks 3 times at random. Places a 60% [Decrease DEF] debuff for 2 turns if the target has a [Heal Reduction] debuff.",
+			"basedOn": "[ATK]",
+			"name": "Snow Flurry",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "2.2*ATK",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Places a 30% [Increase SPD] and a 50% [Increase ATK] buff on all allies for 2 turns.",
+			"basedOn": "",
+			"name": "Arctic Winds",
+			"maxcd": 5,
+			"mincd": 4,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 1
+		}
+	]
+}

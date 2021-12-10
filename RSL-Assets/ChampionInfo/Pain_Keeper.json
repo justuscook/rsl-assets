@@ -1,0 +1,49 @@
+{
+	"name": "Pain Keeper",
+	"id": 3146,
+	"avatar": "3140",
+	"hp": 19320,
+	"atk": 969,
+	"def": 771,
+	"spd": 102,
+	"res": 40,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Dark Elves",
+	"type": "Increase Ally HP in Faction Crypts by 21",
+	"totalBooks": "15",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Fills this Champion's Turn Meter by 10%.",
+			"basedOn": "[DEF][ATK]",
+			"name": "Unflagging Advance",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\nLvl. 6 Damage +10%\n",
+			"multiplier": "DEF+ATK",
+			"numBooksToMax": 5
+		},
+		{
+			"desc": "Attacks all enemies, then heals all allies by 15% of this Champion's MAX HP.",
+			"basedOn": "[HP][ATK]",
+			"name": "Spectacular Sweep",
+			"maxcd": 5,
+			"mincd": 4,
+			"books": "Lvl. 2  Heal +5%\nLvl. 3  Heal +5%\nLvl. 4 Damage +5%\nLvl. 5  Heal +10%\nLvl. 6  Heal +15%\nLvl. 7 Damage +15%\n",
+			"multiplier": "0.12*HP+2*ATK",
+			"numBooksToMax": 7
+		},
+		{
+			"desc": "Decreases the cooldowns of all ally skills by 1 turn.",
+			"basedOn": "",
+			"name": "Combat Tactics",
+			"maxcd": 7,
+			"mincd": 4,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 3
+		}
+	]
+}

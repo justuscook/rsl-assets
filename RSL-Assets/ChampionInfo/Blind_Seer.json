@@ -1,0 +1,49 @@
+{
+	"name": "Blind Seer",
+	"id": 76,
+	"avatar": "70",
+	"hp": 18165,
+	"atk": 1332,
+	"def": 1035,
+	"spd": 115,
+	"res": 45,
+	"acc": 0,
+	"crate": 15,
+	"cdamage": 50,
+	"cheal": 50,
+	"faction": "Dark Elves",
+	"type": "Increase Ally  in in all Battles by 34",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 3 times at random. Each hit has a 30% chance of decreasing the Turn Meter by 15%.",
+			"basedOn": "[ATK]",
+			"name": "Visions of Death",
+			"maxcd": 0,
+			"mincd": 0,
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
+			"multiplier": "1.3*ATK",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Places a [Block Debuffs] buff on all allies for 2 turns, then places a [Shield] buff on all allies for equal to 30% of this Champion's MAX HP for 2 turns.",
+			"basedOn": "",
+			"name": "Dark Shroud",
+			"maxcd": 4,
+			"mincd": 3,
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": 4
+		},
+		{
+			"desc": "Revives all dead allies to 35% HP. Places a [Block Damage] buff on all allies except this Champion for 1 turn.",
+			"basedOn": "[Enemy MAX HP]",
+			"name": "Self Sacrifice",
+			"maxcd": 6,
+			"mincd": 5,
+			"books": "Lvl. 2  Heal +5%\nLvl. 3  Heal +5%\nLvl. 4  Heal +5%\n",
+			"multiplier": "",
+			"numBooksToMax": 4
+		}
+	]
+}

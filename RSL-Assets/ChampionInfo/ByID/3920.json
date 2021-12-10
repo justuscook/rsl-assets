@@ -1,0 +1,33 @@
+{
+	"typeId": 3926,
+	"name": {
+		"key": "l10n:hero-type/name?id=3920#static",
+		"defaultValue": "Ruffstone",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "OgrynTribes",
+	"role": "Attack",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0273_Butcher_id3920",
+	"avatarKey": "3920",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		39201,
+		39202,
+		39204
+	],
+	"unscaledStats": {
+		"Health": 94,
+		"Attack": 123,
+		"Defense": 58,
+		"Speed": 99,
+		"Resistance": 30,
+		"Accuracy": 10,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}
