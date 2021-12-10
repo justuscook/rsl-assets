@@ -12,7 +12,7 @@
 	"cdamage": 50,
 	"cheal": 50,
 	"faction": "Demonspawn",
-	"type": "Increase Ally SPD in Arena battles by 30",
+	"aura": "Increase Ally SPD in Arena battles by 30",
 	"totalBooks": "9",
 	"skills": [
 		{

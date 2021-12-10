@@ -12,7 +12,7 @@
 	"cdamage": 50,
 	"cheal": 50,
 	"faction": "Orcs",
-	"type": "Increase Ally  in Arena battles by 30",
+	"aura": "Increase Ally  in Arena battles by 30",
 	"totalBooks": "11",
 	"skills": [
 		{

@@ -12,7 +12,7 @@
 	"cdamage": 50,
 	"cheal": 50,
 	"faction": "Lizard Men",
-	"type": "Increase Ally  in Arena battles by 90",
+	"aura": "Increase Ally  in Arena battles by 90",
 	"totalBooks": "12",
 	"skills": [
 		{

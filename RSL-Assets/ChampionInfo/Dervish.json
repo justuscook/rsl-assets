@@ -12,7 +12,7 @@
 	"cdamage": 50,
 	"cheal": 50,
 	"faction": "Barbarians",
-	"type": "",
+	"aura": "",
 	"totalBooks": "9",
 	"skills": [
 		{

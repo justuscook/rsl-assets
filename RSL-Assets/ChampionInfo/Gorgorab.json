@@ -12,7 +12,7 @@
 	"cdamage": 50,
 	"cheal": 50,
 	"faction": "Undead Hordes",
-	"type": "Increase Ally SPD in Arena battles by 23",
+	"aura": "Increase Ally SPD in Arena battles by 23",
 	"totalBooks": "10",
 	"skills": [
 		{

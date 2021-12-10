@@ -12,7 +12,7 @@
 	"cdamage": 50,
 	"cheal": 50,
 	"faction": "Samurai",
-	"type": "Increase Ally ATK in Faction Crypts by 42",
+	"aura": "Increase Ally ATK in Faction Crypts by 42",
 	"totalBooks": "14",
 	"skills": [
 		{

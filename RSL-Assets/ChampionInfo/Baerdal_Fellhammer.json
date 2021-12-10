@@ -12,7 +12,7 @@
 	"cdamage": 60,
 	"cheal": 50,
 	"faction": "Dwarves",
-	"type": "Increase Ally ATK in Dungeons by 32",
+	"aura": "Increase Ally ATK in Dungeons by 32",
 	"totalBooks": "9",
 	"skills": [
 		{

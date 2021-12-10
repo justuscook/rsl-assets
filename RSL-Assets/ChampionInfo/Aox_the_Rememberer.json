@@ -12,7 +12,7 @@
 	"cdamage": 50,
 	"cheal": 50,
 	"faction": "Lizard Men",
-	"type": "Increase Ally ACC in Doom Tower battles by 60",
+	"aura": "Increase Ally ACC in Doom Tower battles by 60",
 	"totalBooks": "15",
 	"skills": [
 		{

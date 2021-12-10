@@ -12,7 +12,7 @@
 	"cdamage": 57,
 	"cheal": 50,
 	"faction": "Lizard Men",
-	"type": "Increase undefined Ally ATK in in all Battles by 30",
+	"aura": "Increase undefined Ally ATK in in all Battles by 30",
 	"totalBooks": "13",
 	"skills": [
 		{

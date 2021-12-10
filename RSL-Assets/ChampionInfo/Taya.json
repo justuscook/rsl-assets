@@ -12,7 +12,7 @@
 	"cdamage": 60,
 	"cheal": 50,
 	"faction": "Samurai",
-	"type": "Increase Ally ACC in in all Battles by 50",
+	"aura": "Increase Ally ACC in in all Battles by 50",
 	"totalBooks": "14",
 	"skills": [
 		{

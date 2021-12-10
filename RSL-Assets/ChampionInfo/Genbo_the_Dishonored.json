@@ -12,7 +12,7 @@
 	"cdamage": 60,
 	"cheal": 50,
 	"faction": "Samurai",
-	"type": "Increase Ally SPD in Arena battles by 20",
+	"aura": "Increase Ally SPD in Arena battles by 20",
 	"totalBooks": "15",
 	"skills": [
 		{

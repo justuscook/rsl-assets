@@ -12,7 +12,7 @@
 	"cdamage": 50,
 	"cheal": 50,
 	"faction": "Knights Revenant",
-	"type": "Increase Ally  in in all Battles by 17",
+	"aura": "Increase Ally  in in all Battles by 17",
 	"totalBooks": "12",
 	"skills": [
 		{

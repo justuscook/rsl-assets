@@ -12,7 +12,7 @@
 	"cdamage": 50,
 	"cheal": 50,
 	"faction": "Samurai",
-	"type": "Increase Ally  in in all Battles by 25",
+	"aura": "Increase Ally  in in all Battles by 25",
 	"totalBooks": "15",
 	"skills": [
 		{

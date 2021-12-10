@@ -12,7 +12,7 @@
 	"cdamage": 50,
 	"cheal": 50,
 	"faction": "Undead Hordes",
-	"type": "Increase Ally C. RATE in in all Battles by 25",
+	"aura": "Increase Ally C. RATE in in all Battles by 25",
 	"totalBooks": "7",
 	"skills": [
 		{

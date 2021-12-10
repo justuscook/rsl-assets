@@ -12,7 +12,7 @@
 	"cdamage": 50,
 	"cheal": 50,
 	"faction": "Lizard Men",
-	"type": "Increase Ally SPD in Arena battles by 15",
+	"aura": "Increase Ally SPD in Arena battles by 15",
 	"totalBooks": "9",
 	"skills": [
 		{

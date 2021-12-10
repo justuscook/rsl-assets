@@ -12,7 +12,7 @@
 	"cdamage": 50,
 	"cheal": 50,
 	"faction": "Lizard Men",
-	"type": "Increase Ally ATK in in all Battles by 18",
+	"aura": "Increase Ally ATK in in all Battles by 18",
 	"totalBooks": "12",
 	"skills": [
 		{

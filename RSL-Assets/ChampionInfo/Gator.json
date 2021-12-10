@@ -12,7 +12,7 @@
 	"cdamage": 50,
 	"cheal": 50,
 	"faction": "Lizard Men",
-	"type": "Increase undefined Ally C. RATE in in all Battles by 22",
+	"aura": "Increase undefined Ally C. RATE in in all Battles by 22",
 	"totalBooks": "6",
 	"skills": [
 		{

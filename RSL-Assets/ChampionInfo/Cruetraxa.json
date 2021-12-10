@@ -12,7 +12,7 @@
 	"cdamage": 63,
 	"cheal": 50,
 	"faction": "Demonspawn",
-	"type": "Increase Ally ATK in in all Battles by 24",
+	"aura": "Increase Ally ATK in in all Battles by 24",
 	"totalBooks": "8",
 	"skills": [
 		{

@@ -12,7 +12,7 @@
 	"cdamage": 60,
 	"cheal": 50,
 	"faction": "Knights Revenant",
-	"type": "Increase Ally SPD in Arena battles by 23",
+	"aura": "Increase Ally SPD in Arena battles by 23",
 	"totalBooks": "12",
 	"skills": [
 		{

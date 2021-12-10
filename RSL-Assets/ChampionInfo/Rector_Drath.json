@@ -12,7 +12,7 @@
 	"cdamage": 50,
 	"cheal": 50,
 	"faction": "Knights Revenant",
-	"type": "Increase Ally  in Doom Tower battles by 55",
+	"aura": "Increase Ally  in Doom Tower battles by 55",
 	"totalBooks": "11",
 	"skills": [
 		{

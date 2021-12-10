@@ -12,7 +12,7 @@
 	"cdamage": 60,
 	"cheal": 50,
 	"faction": "Dwarves",
-	"type": "Increase Ally ATK in Doom Tower battles by 35",
+	"aura": "Increase Ally ATK in Doom Tower battles by 35",
 	"totalBooks": "11",
 	"skills": [
 		{

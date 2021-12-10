@@ -12,7 +12,7 @@
 	"cdamage": 50,
 	"cheal": 50,
 	"faction": "Skinwalkers",
-	"type": "Increase Ally HP in Dungeons by 33",
+	"aura": "Increase Ally HP in Dungeons by 33",
 	"totalBooks": "9",
 	"skills": [
 		{

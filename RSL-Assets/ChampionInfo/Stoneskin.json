@@ -12,7 +12,7 @@
 	"cdamage": 50,
 	"cheal": 50,
 	"faction": "Ogryn Tribes",
-	"type": "Increase Ally C. RATE in Arena battles by 16",
+	"aura": "Increase Ally C. RATE in Arena battles by 16",
 	"totalBooks": "12",
 	"skills": [
 		{

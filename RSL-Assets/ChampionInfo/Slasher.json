@@ -12,7 +12,7 @@
 	"cdamage": 57,
 	"cheal": 50,
 	"faction": "Lizard Men",
-	"type": "Increase Ally ATK in Faction Crypts by 17",
+	"aura": "Increase Ally ATK in Faction Crypts by 17",
 	"totalBooks": "9",
 	"skills": [
 		{

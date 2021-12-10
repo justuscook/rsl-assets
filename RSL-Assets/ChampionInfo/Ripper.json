@@ -12,7 +12,7 @@
 	"cdamage": 60,
 	"cheal": 50,
 	"faction": "Skinwalkers",
-	"type": "Increase undefined Ally C. RATE in in all Battles by 23",
+	"aura": "Increase undefined Ally C. RATE in in all Battles by 23",
 	"totalBooks": "12",
 	"skills": [
 		{

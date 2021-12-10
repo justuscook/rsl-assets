@@ -12,7 +12,7 @@
 	"cdamage": 50,
 	"cheal": 50,
 	"faction": "Lizard Men",
-	"type": "Increase Ally ACC in in all Battles by 80",
+	"aura": "Increase Ally ACC in in all Battles by 80",
 	"totalBooks": "11",
 	"skills": [
 		{

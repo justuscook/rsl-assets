@@ -12,7 +12,7 @@
 	"cdamage": 63,
 	"cheal": 50,
 	"faction": "Barbarians",
-	"type": "Increase Ally C. RATE in Arena battles by 30",
+	"aura": "Increase Ally C. RATE in Arena battles by 30",
 	"totalBooks": "8",
 	"skills": [
 		{

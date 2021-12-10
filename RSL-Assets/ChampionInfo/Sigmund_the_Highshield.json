@@ -12,7 +12,7 @@
 	"cdamage": 50,
 	"cheal": 50,
 	"faction": "Banner Lords",
-	"type": "Increase Ally  in Doom Tower battles by 40",
+	"aura": "Increase Ally  in Doom Tower battles by 40",
 	"totalBooks": "12",
 	"skills": [
 		{

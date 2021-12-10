@@ -12,7 +12,7 @@
 	"cdamage": 60,
 	"cheal": 50,
 	"faction": "Orcs",
-	"type": "Increase Ally ATK in in all Battles by 22",
+	"aura": "Increase Ally ATK in in all Battles by 22",
 	"totalBooks": "15",
 	"skills": [
 		{

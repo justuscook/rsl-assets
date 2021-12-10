@@ -12,7 +12,7 @@
 	"cdamage": 57,
 	"cheal": 50,
 	"faction": "Dark Elves",
-	"type": "Increase Ally ACC in in all Battles by 30",
+	"aura": "Increase Ally ACC in in all Battles by 30",
 	"totalBooks": "8",
 	"skills": [
 		{

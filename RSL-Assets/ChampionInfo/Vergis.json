@@ -12,7 +12,7 @@
 	"cdamage": 50,
 	"cheal": 50,
 	"faction": "High Elves",
-	"type": "Increase Ally  in Dungeons by 33",
+	"aura": "Increase Ally  in Dungeons by 33",
 	"totalBooks": "7",
 	"skills": [
 		{

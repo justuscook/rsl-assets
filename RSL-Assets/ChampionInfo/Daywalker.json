@@ -12,7 +12,7 @@
 	"cdamage": 60,
 	"cheal": 50,
 	"faction": "Knights Revenant",
-	"type": "Increase Ally C. RATE in Arena battles by 21",
+	"aura": "Increase Ally C. RATE in Arena battles by 21",
 	"totalBooks": "5",
 	"skills": [
 		{

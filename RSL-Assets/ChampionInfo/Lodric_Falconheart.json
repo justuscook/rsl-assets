@@ -12,7 +12,7 @@
 	"cdamage": 50,
 	"cheal": 50,
 	"faction": "Sacred Order",
-	"type": "Increase Ally HP in Doom Tower battles by 25",
+	"aura": "Increase Ally HP in Doom Tower battles by 25",
 	"totalBooks": "13",
 	"skills": [
 		{

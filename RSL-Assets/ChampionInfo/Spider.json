@@ -12,7 +12,7 @@
 	"cdamage": 50,
 	"cheal": 50,
 	"faction": "Dark Elves",
-	"type": "Increase Ally SPD in Dungeons by 25",
+	"aura": "Increase Ally SPD in Dungeons by 25",
 	"totalBooks": "14",
 	"skills": [
 		{

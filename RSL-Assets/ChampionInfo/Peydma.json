@@ -12,7 +12,7 @@
 	"cdamage": 50,
 	"cheal": 50,
 	"faction": "Demonspawn",
-	"type": "",
+	"aura": "",
 	"totalBooks": "14",
 	"skills": [
 		{

@@ -12,7 +12,7 @@
 	"cdamage": 50,
 	"cheal": 50,
 	"faction": "Banner Lords",
-	"type": "",
+	"aura": "",
 	"totalBooks": "10",
 	"skills": [
 		{

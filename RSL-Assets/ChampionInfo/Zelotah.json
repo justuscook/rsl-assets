@@ -12,7 +12,7 @@
 	"cdamage": 50,
 	"cheal": 50,
 	"faction": "Undead Hordes",
-	"type": "Increase Ally  in Arena battles by 70",
+	"aura": "Increase Ally  in Arena battles by 70",
 	"totalBooks": "14",
 	"skills": [
 		{

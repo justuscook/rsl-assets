@@ -12,7 +12,7 @@
 	"cdamage": 50,
 	"cheal": 50,
 	"faction": "Banner Lords",
-	"type": "Increase Ally SPD in in all Battles by 20",
+	"aura": "Increase Ally SPD in in all Battles by 20",
 	"totalBooks": "12",
 	"skills": [
 		{

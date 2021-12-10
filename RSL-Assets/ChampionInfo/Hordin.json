@@ -12,7 +12,7 @@
 	"cdamage": 60,
 	"cheal": 50,
 	"faction": "Banner Lords",
-	"type": "Increase Ally SPD in Faction Crypts by 20",
+	"aura": "Increase Ally SPD in Faction Crypts by 20",
 	"totalBooks": "9",
 	"skills": [
 		{

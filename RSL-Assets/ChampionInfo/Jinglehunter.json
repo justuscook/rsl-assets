@@ -12,7 +12,7 @@
 	"cdamage": 60,
 	"cheal": 50,
 	"faction": "High Elves",
-	"type": "Increase Ally SPD in Arena battles by 24",
+	"aura": "Increase Ally SPD in Arena battles by 24",
 	"totalBooks": "14",
 	"skills": [
 		{

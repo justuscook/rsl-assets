@@ -12,7 +12,7 @@
 	"cdamage": 60,
 	"cheal": 50,
 	"faction": "Dwarves",
-	"type": "Increase Ally ATK in in all Battles by 25",
+	"aura": "Increase Ally ATK in in all Battles by 25",
 	"totalBooks": "11",
 	"skills": [
 		{

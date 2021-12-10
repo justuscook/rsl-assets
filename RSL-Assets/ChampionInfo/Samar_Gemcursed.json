@@ -12,7 +12,7 @@
 	"cdamage": 60,
 	"cheal": 50,
 	"faction": "Dwarves",
-	"type": "Increase Ally HP in in all Battles by 30",
+	"aura": "Increase Ally HP in in all Battles by 30",
 	"totalBooks": "15",
 	"skills": [
 		{

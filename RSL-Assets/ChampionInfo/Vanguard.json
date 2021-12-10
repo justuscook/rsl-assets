@@ -12,7 +12,7 @@
 	"cdamage": 50,
 	"cheal": 50,
 	"faction": "Banner Lords",
-	"type": "Increase Ally  in in all Battles by 30",
+	"aura": "Increase Ally  in in all Battles by 30",
 	"totalBooks": "9",
 	"skills": [
 		{

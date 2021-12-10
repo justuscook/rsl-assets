@@ -12,7 +12,7 @@
 	"cdamage": 60,
 	"cheal": 50,
 	"faction": "Samurai",
-	"type": "Increase Ally ATK in Dungeons by 33",
+	"aura": "Increase Ally ATK in Dungeons by 33",
 	"totalBooks": "15",
 	"skills": [
 		{

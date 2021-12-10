@@ -12,7 +12,7 @@
 	"cdamage": 50,
 	"cheal": 50,
 	"faction": "Sacred Order",
-	"type": "Increase Ally  in Dungeons by 33",
+	"aura": "Increase Ally  in Dungeons by 33",
 	"totalBooks": "11",
 	"skills": [
 		{

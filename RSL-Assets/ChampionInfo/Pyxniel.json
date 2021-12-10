@@ -12,7 +12,7 @@
 	"cdamage": 50,
 	"cheal": 50,
 	"faction": "High Elves",
-	"type": "Increase Ally  in Arena battles by 80",
+	"aura": "Increase Ally  in Arena battles by 80",
 	"totalBooks": "18",
 	"skills": [
 		{

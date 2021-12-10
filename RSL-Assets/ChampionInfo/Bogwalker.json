@@ -12,7 +12,7 @@
 	"cdamage": 50,
 	"cheal": 50,
 	"faction": "Lizard Men",
-	"type": "Increase Ally HP in Dungeons by 25",
+	"aura": "Increase Ally HP in Dungeons by 25",
 	"totalBooks": "14",
 	"skills": [
 		{

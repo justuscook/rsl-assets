@@ -12,7 +12,7 @@
 	"cdamage": 50,
 	"cheal": 50,
 	"faction": "Ogryn Tribes",
-	"type": "Increase Ally  in Faction Crypts by 30",
+	"aura": "Increase Ally  in Faction Crypts by 30",
 	"totalBooks": "18",
 	"skills": [
 		{

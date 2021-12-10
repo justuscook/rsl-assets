@@ -12,7 +12,7 @@
 	"cdamage": 50,
 	"cheal": 50,
 	"faction": "Skinwalkers",
-	"type": "Increase undefined Ally HP in in all Battles by 19",
+	"aura": "Increase undefined Ally HP in in all Battles by 19",
 	"totalBooks": "15",
 	"skills": [
 		{

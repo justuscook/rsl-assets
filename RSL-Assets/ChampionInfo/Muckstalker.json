@@ -12,7 +12,7 @@
 	"cdamage": 50,
 	"cheal": 50,
 	"faction": "Lizard Men",
-	"type": "Increase Ally HP in Faction Crypts by 22",
+	"aura": "Increase Ally HP in Faction Crypts by 22",
 	"totalBooks": "11",
 	"skills": [
 		{

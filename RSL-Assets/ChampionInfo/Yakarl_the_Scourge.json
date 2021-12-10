@@ -12,7 +12,7 @@
 	"cdamage": 63,
 	"cheal": 50,
 	"faction": "Barbarians",
-	"type": "Increase Ally ATK in Doom Tower battles by 43",
+	"aura": "Increase Ally ATK in Doom Tower battles by 43",
 	"totalBooks": "12",
 	"skills": [
 		{

@@ -12,7 +12,7 @@
 	"cdamage": 50,
 	"cheal": 50,
 	"faction": "Knights Revenant",
-	"type": "Increase Ally HP in Dungeons by 27",
+	"aura": "Increase Ally HP in Dungeons by 27",
 	"totalBooks": "12",
 	"skills": [
 		{

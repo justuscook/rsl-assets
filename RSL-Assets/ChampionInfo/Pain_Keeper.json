@@ -12,7 +12,7 @@
 	"cdamage": 50,
 	"cheal": 50,
 	"faction": "Dark Elves",
-	"type": "Increase Ally HP in Faction Crypts by 21",
+	"aura": "Increase Ally HP in Faction Crypts by 21",
 	"totalBooks": "15",
 	"skills": [
 		{

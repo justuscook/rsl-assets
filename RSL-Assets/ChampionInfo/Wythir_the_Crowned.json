@@ -12,7 +12,7 @@
 	"cdamage": 50,
 	"cheal": 50,
 	"faction": "Demonspawn",
-	"type": "Increase Ally  in in all Battles by 50",
+	"aura": "Increase Ally  in in all Battles by 50",
 	"totalBooks": "8",
 	"skills": [
 		{

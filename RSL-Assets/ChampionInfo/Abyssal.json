@@ -12,7 +12,7 @@
 	"cdamage": 50,
 	"cheal": 50,
 	"faction": "Demonspawn",
-	"type": "Increase Ally SPD in Faction Crypts by 16",
+	"aura": "Increase Ally SPD in Faction Crypts by 16",
 	"totalBooks": "11",
 	"skills": [
 		{

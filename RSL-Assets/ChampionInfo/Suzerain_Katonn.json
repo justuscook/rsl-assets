@@ -12,7 +12,7 @@
 	"cdamage": 57,
 	"cheal": 50,
 	"faction": "Undead Hordes",
-	"type": "Increase Ally ATK in in all Battles by 33",
+	"aura": "Increase Ally ATK in in all Battles by 33",
 	"totalBooks": "9",
 	"skills": [
 		{

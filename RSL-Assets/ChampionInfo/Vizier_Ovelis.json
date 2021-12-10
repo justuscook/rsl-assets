@@ -12,7 +12,7 @@
 	"cdamage": 63,
 	"cheal": 50,
 	"faction": "Dark Elves",
-	"type": "Increase Ally ATK in Dungeons by 34",
+	"aura": "Increase Ally ATK in Dungeons by 34",
 	"totalBooks": "12",
 	"skills": [
 		{

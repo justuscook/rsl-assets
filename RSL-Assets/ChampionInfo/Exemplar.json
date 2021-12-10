@@ -12,7 +12,7 @@
 	"cdamage": 60,
 	"cheal": 50,
 	"faction": "High Elves",
-	"type": "Increase Ally C. RATE in Arena battles by 27",
+	"aura": "Increase Ally C. RATE in Arena battles by 27",
 	"totalBooks": "13",
 	"skills": [
 		{

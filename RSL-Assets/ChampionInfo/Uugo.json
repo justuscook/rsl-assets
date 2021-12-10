@@ -12,7 +12,7 @@
 	"cdamage": 50,
 	"cheal": 50,
 	"faction": "Ogryn Tribes",
-	"type": "",
+	"aura": "",
 	"totalBooks": "16",
 	"skills": [
 		{

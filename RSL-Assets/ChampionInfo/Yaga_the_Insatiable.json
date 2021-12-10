@@ -12,7 +12,7 @@
 	"cdamage": 50,
 	"cheal": 50,
 	"faction": "Skinwalkers",
-	"type": "Increase Ally ACC in in all Battles by 40",
+	"aura": "Increase Ally ACC in in all Battles by 40",
 	"totalBooks": "15",
 	"skills": [
 		{

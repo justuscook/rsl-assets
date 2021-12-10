@@ -12,7 +12,7 @@
 	"cdamage": 50,
 	"cheal": 50,
 	"faction": "Banner Lords",
-	"type": "Increase Ally  in Faction Crypts by 27",
+	"aura": "Increase Ally  in Faction Crypts by 27",
 	"totalBooks": "12",
 	"skills": [
 		{

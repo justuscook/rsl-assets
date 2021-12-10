@@ -12,7 +12,7 @@
 	"cdamage": 60,
 	"cheal": 50,
 	"faction": "Dark Elves",
-	"type": "",
+	"aura": "",
 	"totalBooks": "13",
 	"skills": [
 		{

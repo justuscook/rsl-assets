@@ -12,7 +12,7 @@
 	"cdamage": 60,
 	"cheal": 50,
 	"faction": "Demonspawn",
-	"type": "Increase Ally ATK in Doom Tower battles by 30",
+	"aura": "Increase Ally ATK in Doom Tower battles by 30",
 	"totalBooks": "14",
 	"skills": [
 		{

@@ -12,7 +12,7 @@
 	"cdamage": 50,
 	"cheal": 50,
 	"faction": "Barbarians",
-	"type": "Increase Ally ACC in in all Battles by 70",
+	"aura": "Increase Ally ACC in in all Battles by 70",
 	"totalBooks": "11",
 	"skills": [
 		{

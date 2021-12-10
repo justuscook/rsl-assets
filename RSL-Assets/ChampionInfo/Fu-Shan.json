@@ -12,7 +12,7 @@
 	"cdamage": 63,
 	"cheal": 50,
 	"faction": "Lizard Men",
-	"type": "Increase Ally SPD in in all Battles by 24",
+	"aura": "Increase Ally SPD in in all Battles by 24",
 	"totalBooks": "11",
 	"skills": [
 		{

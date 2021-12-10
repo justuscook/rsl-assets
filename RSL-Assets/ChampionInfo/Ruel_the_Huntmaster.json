@@ -12,7 +12,7 @@
 	"cdamage": 63,
 	"cheal": 50,
 	"faction": "Dark Elves",
-	"type": "Increase Ally C. RATE in in all Battles by 20",
+	"aura": "Increase Ally C. RATE in in all Battles by 20",
 	"totalBooks": "11",
 	"skills": [
 		{

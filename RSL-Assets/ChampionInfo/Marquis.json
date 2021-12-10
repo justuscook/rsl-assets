@@ -12,7 +12,7 @@
 	"cdamage": 50,
 	"cheal": 50,
 	"faction": "Demonspawn",
-	"type": "Increase undefined Ally HP in in all Battles by 18",
+	"aura": "Increase undefined Ally HP in in all Battles by 18",
 	"totalBooks": "11",
 	"skills": [
 		{

@@ -12,7 +12,7 @@
 	"cdamage": 60,
 	"cheal": 50,
 	"faction": "Sacred Order",
-	"type": "Increase Ally C. RATE in Dungeons by 15",
+	"aura": "Increase Ally C. RATE in Dungeons by 15",
 	"totalBooks": "12",
 	"skills": [
 		{

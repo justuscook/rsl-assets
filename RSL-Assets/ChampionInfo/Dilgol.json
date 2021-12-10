@@ -12,7 +12,7 @@
 	"cdamage": 57,
 	"cheal": 50,
 	"faction": "Dwarves",
-	"type": "",
+	"aura": "",
 	"totalBooks": "15",
 	"skills": [
 		{

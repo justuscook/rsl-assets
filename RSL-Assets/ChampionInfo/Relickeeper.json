@@ -12,7 +12,7 @@
 	"cdamage": 60,
 	"cheal": 50,
 	"faction": "Sacred Order",
-	"type": "Increase Ally ATK in Campaign Battles by 40",
+	"aura": "Increase Ally ATK in Campaign Battles by 40",
 	"totalBooks": "8",
 	"skills": [
 		{
