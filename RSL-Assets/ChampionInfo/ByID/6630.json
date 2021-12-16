@@ -1,0 +1,33 @@
+{
+	"typeId": 6636,
+	"name": {
+		"key": "l10n:hero-type/name?id=6630#static",
+		"defaultValue": "Ordinator",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "DarkElves",
+	"role": "Attack",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0584_DarkElf_lvl3_id6630",
+	"avatarKey": "6630",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		66301,
+		66302,
+		66303
+	],
+	"unscaledStats": {
+		"Health": 83,
+		"Attack": 120,
+		"Defense": 72,
+		"Speed": 100,
+		"Resistance": 30,
+		"Accuracy": 10,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

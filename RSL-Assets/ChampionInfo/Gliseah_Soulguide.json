@@ -1,0 +1,63 @@
+{
+	"name": "Gliseah Soulguide",
+	"key": "l10n:hero-type/name?id=6750#static",
+	"id": 6756,
+	"avatar": "6750",
+	"affinity": "Force",
+	"hp": "18660",
+	"atk": "826",
+	"def": "1509",
+	"spd": "100",
+	"res": "40",
+	"acc": "20",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Sacred Order",
+	"aura": "Increase Ally  in in all Battles by 60",
+	"totalBooks": "10",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 30% chance of placing a [Freeze] debuff for 1 turn. Also applies a [Debuff Spread] effect, taking 1 random debuff from the target and placing it on all enemies under [Freeze] debuffs.",
+			"basedOn": "[DEF]",
+			"name": "Glittering Slash",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"multiplier": "3.2*DEF",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Places a 25% [Weaken] debuff for 2 turns. Also steals 1 random buff from each enemy under a [Freeze] debuff.",
+			"basedOn": "[DEF]",
+			"name": "Breath of Rime",
+			"maxcd": "3",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\n",
+			"multiplier": "3.3*DEF",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "Places a [Block Debuffs] buff on all allies for 2 turns. Also has a 60% chance of placing a [Freeze] debuff on all enemies for 1 turn. Fills this Champion’s Turn Meter by 15% for each [Freeze] debuff placed by this skill.",
+			"basedOn": "",
+			"name": "Everwinter",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Buff/Debuff Chance +10%\n",
+			"multiplier": "",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "This Champion’s skills cannot be put on cooldown. \r\n\r\nWhenever an enemy tries to put either this Champion’s skills or an ally's skills on cooldown, places a [Freeze] debuff on that enemy. Also has a 50% chance of denying the cooldown increase effect.\r\n\r\nThe [Freeze] debuff cannot be blocked or resisted. Will not deny cooldown increasing effects from Bosses.",
+			"basedOn": "",
+			"name": "Timeless [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Legendary",
+	"type": "Defense"
+}

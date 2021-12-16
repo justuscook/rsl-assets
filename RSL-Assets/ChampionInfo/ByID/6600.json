@@ -1,0 +1,33 @@
+{
+	"typeId": 6606,
+	"name": {
+		"key": "l10n:hero-type/name?id=6600#static",
+		"defaultValue": "Itinerant",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "Samurai",
+	"role": "Attack",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0622_samurai_id6600",
+	"avatarKey": "6600",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		66001,
+		66002,
+		66003
+	],
+	"unscaledStats": {
+		"Health": 83,
+		"Attack": 123,
+		"Defense": 69,
+		"Speed": 90,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 57,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

@@ -1,0 +1,40 @@
+{
+	"typeId": 6776,
+	"name": {
+		"key": "l10n:hero-type/name?id=6770#static",
+		"defaultValue": "Chaagur",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "LizardMen",
+	"role": "Attack",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0417_Draconid_id6770",
+	"avatarKey": "6770",
+	"leaderSkill": {
+		"area": null,
+		"affinity": null,
+		"kind": "Attack",
+		"absolute": false,
+		"value": 0.33
+	},
+	"skillTypeIds": [
+		67701,
+		67702,
+		67703,
+		67704
+	],
+	"unscaledStats": {
+		"Health": 82,
+		"Attack": 140,
+		"Defense": 103,
+		"Speed": 100,
+		"Resistance": 30,
+		"Accuracy": 20,
+		"CriticalChance": 15,
+		"CriticalDamage": 57,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

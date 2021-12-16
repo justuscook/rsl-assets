@@ -1,0 +1,40 @@
+{
+	"typeId": 6756,
+	"name": {
+		"key": "l10n:hero-type/name?id=6750#static",
+		"defaultValue": "Gliseah Soulguide",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "SacredOrder",
+	"role": "Defense",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0796_Christmas_id6750",
+	"avatarKey": "6750",
+	"leaderSkill": {
+		"area": null,
+		"affinity": null,
+		"kind": "Resistance",
+		"absolute": true,
+		"value": 60
+	},
+	"skillTypeIds": [
+		67501,
+		67502,
+		67503,
+		67504
+	],
+	"unscaledStats": {
+		"Health": 113,
+		"Attack": 75,
+		"Defense": 137,
+		"Speed": 100,
+		"Resistance": 40,
+		"Accuracy": 20,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}
