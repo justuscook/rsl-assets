@@ -43,7 +43,7 @@
 			"name": "Flameout",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +10%\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
 			"multiplier": null,
 			"numBooksToMax": "2"
 		},

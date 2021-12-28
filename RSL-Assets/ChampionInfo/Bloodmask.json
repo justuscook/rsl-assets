@@ -33,7 +33,7 @@
 			"name": "Foot Stomp",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +10%\nLvl. 7 Buff/Debuff Chance +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +10%\nLvl. 7 Buff/Debuff Chance +10%\nLvl. 8 Cooldown -1Lvl. 8 Buff/Debuff Chance +100%\n",
 			"multiplier": "0.27*HP",
 			"numBooksToMax": "7"
 		},
@@ -43,7 +43,7 @@
 			"name": "Skull Fracture",
 			"maxcd": "5",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +15%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +15%\nLvl. 7 Cooldown -1Lvl. 7 Buff/Debuff Chance +100%\nLvl. 8 Cooldown -1Lvl. 8 Buff/Debuff Chance +100%\n",
 			"multiplier": "0.28*HP",
 			"numBooksToMax": "7"
 		}

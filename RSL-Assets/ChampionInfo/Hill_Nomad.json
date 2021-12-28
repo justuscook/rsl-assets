@@ -33,7 +33,7 @@
 			"name": "Nomad's Endurance",
 			"maxcd": "3",
 			"mincd": "2",
-			"books": "",
+			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		},
@@ -43,7 +43,7 @@
 			"name": "Ambush Tactics",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "",
+			"books": "Lvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "5"
 		}

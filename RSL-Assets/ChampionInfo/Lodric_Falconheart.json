@@ -33,7 +33,7 @@
 			"name": "Hold Out",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "",
+			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		},
@@ -43,7 +43,7 @@
 			"name": "Falcon's Wings",
 			"maxcd": "4",
 			"mincd": "2",
-			"books": "",
+			"books": "Lvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\nLvl. 7 Cooldown -1Lvl. 7 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "6"
 		}

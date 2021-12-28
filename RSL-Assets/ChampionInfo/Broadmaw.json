@@ -33,7 +33,7 @@
 			"name": "Gift",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "",
+			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		},
@@ -43,7 +43,7 @@
 			"name": "Resurrect",
 			"maxcd": "6",
 			"mincd": "4",
-			"books": "Lvl. 2  Heal +5%\nLvl. 3  Heal +10%\nLvl. 4  Heal +15%\n",
+			"books": "Lvl. 2  Heal +5%\nLvl. 3  Heal +10%\nLvl. 4  Heal +15%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "5"
 		}

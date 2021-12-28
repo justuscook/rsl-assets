@@ -33,7 +33,7 @@
 			"name": "Shadow Strike",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 5 Damage +20%\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\nLvl. 5 Damage +20%\n",
 			"multiplier": "3.2*ATK",
 			"numBooksToMax": "4"
 		},

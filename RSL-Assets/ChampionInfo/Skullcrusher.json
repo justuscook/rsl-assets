@@ -33,7 +33,7 @@
 			"name": "Stonewall",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "",
+			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		},

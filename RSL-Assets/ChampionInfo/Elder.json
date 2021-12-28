@@ -33,7 +33,7 @@
 			"name": "Intercede",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "",
+			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		},
@@ -43,7 +43,7 @@
 			"name": "Take Vengeance",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "",
+			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		}

@@ -33,7 +33,7 @@
 			"name": "Kindle Soulfire",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +5%\nLvl. 7 Damage +5%\nLvl. 8 Buff/Debuff Chance +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +5%\nLvl. 7 Damage +5%\nLvl. 8 Buff/Debuff Chance +5%\nLvl. 9 Cooldown -1Lvl. 9 Buff/Debuff Chance +100%\n",
 			"multiplier": "4.2*ATK",
 			"numBooksToMax": "8"
 		},
@@ -43,7 +43,7 @@
 			"name": "Hex Eater",
 			"maxcd": "6",
 			"mincd": "4",
-			"books": "",
+			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		},

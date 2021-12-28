@@ -33,7 +33,7 @@
 			"name": "Somnolent Toxin",
 			"maxcd": "6",
 			"mincd": "5",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Buff/Debuff Chance +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Buff/Debuff Chance +5%\nLvl. 7 Cooldown -1Lvl. 7 Buff/Debuff Chance +100%\n",
 			"multiplier": "5.8*DEF",
 			"numBooksToMax": "6"
 		},
@@ -43,7 +43,7 @@
 			"name": "Ward Off",
 			"maxcd": "6",
 			"mincd": "5",
-			"books": "",
+			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		}

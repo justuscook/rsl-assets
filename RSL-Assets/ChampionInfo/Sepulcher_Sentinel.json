@@ -33,7 +33,7 @@
 			"name": "Sepulcher Shield",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "",
+			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		},
