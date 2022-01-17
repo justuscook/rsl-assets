@@ -1,0 +1,63 @@
+{
+	"name": "Holsring",
+	"key": "l10n:hero-type/name?id=6840#static",
+	"id": 6846,
+	"avatar": "6840",
+	"affinity": "Magic",
+	"hp": "15195",
+	"atk": "1509",
+	"def": "1057",
+	"spd": "105",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "63",
+	"cheal": "50",
+	"faction": "Sacred Order",
+	"aura": "",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 2 times at random. Places a 50% [Increase ATK] buff on this Champion for 2 turns if this attack is critical.",
+			"basedOn": "[ATK]",
+			"name": "Rampant Blows",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Damage +10%\n",
+			"multiplier": "1.7*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 3 times at random. Will ignore 25% of DEF against targets under [Hex] debuffs. Will ignore a further 25% of DEF against targets under [Hex] debuffs from the Banner Lord or Knights Revenant Factions.",
+			"basedOn": "[ATK]",
+			"name": "Overthrow",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
+			"multiplier": "1.95*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 4 times at random. \r\n\r\nEach hit has a 75% chance of placing a [Hex] debuff for 3 turns. Champions from the Banner Lord and Knights Revenant Factions cannot resist this debuff. \r\n\r\nEach hit also has a 75% chance of stealing 25% of the target’s Turn Meter. Steals 50% of the Turn Meter instead if the target is from the Banner Lord or Knights Revenant Factions. \r\n\r\nIf this Champion’s Turn Meter is at 75% or more after the steal, places a [Perfect Veil] buff on this Champion for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Witchfinder",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Buff/Debuff Chance +15%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\n",
+			"multiplier": "1.75*ATK",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "If this Champion attacks 2 targets under [Hex] debuffs during the same turn, places a [Perfect Veil] buff on this Champion for 1 turn. Will not count counterattacks. \r\n\r\nIncreases critical damage by 30% while attacking under a [Perfect Veil] buff.",
+			"basedOn": "",
+			"name": "Hunter's Guile [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Legendary",
+	"type": "Attack"
+}

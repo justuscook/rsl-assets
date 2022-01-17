@@ -1,0 +1,63 @@
+{
+	"name": "Jingwon",
+	"key": "l10n:hero-type/name?id=6820#static",
+	"id": 6826,
+	"avatar": "6820",
+	"affinity": "Void",
+	"hp": "22800",
+	"atk": "925",
+	"def": "1134",
+	"spd": "103",
+	"res": "30",
+	"acc": "20",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Samurai",
+	"aura": "Increase Ally HP in in all Battles by 33",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Transfers a random debuff from this Champion to the target.",
+			"basedOn": "[HP]",
+			"name": "Doom Exchange",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\n",
+			"multiplier": "0.23*HP",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 75% chance of increasing the duration of 2 random debuffs on the target by 1 turn. Also places a [Block Active skills] debuff for 1 turn if the target is under a [Decrease ACC] debuff or [Decrease C. DMG] debuff.",
+			"basedOn": "[HP]",
+			"name": "Compound Calamity",
+			"maxcd": "4",
+			"mincd": "2",
+			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Buff/Debuff Chance +15%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
+			"multiplier": "0.35*HP",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies 2 times. The first hit has an 80% chance of placing a 50% [Decrease ACC] debuff for 2 turns. The second hit has an 80% chance of placing a 30% [Decrease C. DMG] debuff for 2 turns. Also places a 25% [Strengthen] buff on this Champion for 2 turns.",
+			"basedOn": "[HP]",
+			"name": "Power Flare",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\n",
+			"multiplier": "0.14*HP",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "Immune to [Fear], [True Fear], [Freeze], [Provoke], [Sleep], [Stun], and [Petrification] debuffs. \r\n\r\nWhenever a [Fear], [True Fear], [Freeze], [Provoke], [Sleep], [Stun], or [Petrification] debuff is placed on an ally, removes it and places a [Block Debuffs] buff on that ally for 2 turns.",
+			"basedOn": "",
+			"name": "Unchained [P]",
+			"maxcd": "6",
+			"mincd": "4",
+			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
+		}
+	],
+	"rarity": "Legendary",
+	"type": "Health"
+}

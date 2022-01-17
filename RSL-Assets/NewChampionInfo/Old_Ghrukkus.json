@@ -1,0 +1,53 @@
+{
+	"name": "Old Ghrukkus",
+	"key": "l10n:hero-type/name?id=6860#static",
+	"id": 6866,
+	"avatar": "6860",
+	"affinity": "Force",
+	"hp": "17010",
+	"atk": "1079",
+	"def": "1090",
+	"spd": "98",
+	"res": "30",
+	"acc": "15",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Ogryn Tribes",
+	"aura": "Increase Ally SPD in Dungeons by 24",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 3 times. Each hit has a 15% chance of placing a [Leech] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Beating Staff",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +5%\n",
+			"multiplier": "1.3*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 60% chance of placing a 30% [Decrease SPD] debuff for 2 turns. Also has a 40% chance of decreasing the target’s Turn Meter by 30%.",
+			"basedOn": "[ATK]",
+			"name": "Toe the Line",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Buff/Debuff Chance +15%\nLvl. 4 Buff/Debuff Chance +15%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
+			"multiplier": "6.2*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Has an 80% chance of placing a 50% [Decrease ATK] debuff and a 100% [Heal Reduction] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Harsh Discipline",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\n",
+			"multiplier": "4.25*ATK",
+			"numBooksToMax": "3"
+		}
+	],
+	"rarity": "Epic",
+	"type": "Support"
+}
