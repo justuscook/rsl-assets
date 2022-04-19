@@ -38,7 +38,7 @@
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Removes all debuffs from an ally with the lowest HP, then heals this ally by 20% of this Champion MAX HP. Places a 25% [Increase DEF] buff on the target for 3 turns.",
+			"desc": "Removes all debuffs from the ally with the lowest HP, then heals them by 20% of this Champion's MAX HP. Also places a 25% [Increase DEF] buff on that ally for 3 turns.",
 			"basedOn": "[HP]",
 			"name": "Rescue",
 			"maxcd": "5",

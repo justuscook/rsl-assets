@@ -28,7 +28,7 @@
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Attacks 1 enemy 2 times. Each hit has a 75% chance of decreasing the Turn Meter by 5%. Decreases the Turn Meter by 10% instead if target is under a [Decrease ATK] debuff.",
+			"desc": "Attacks 1 enemy 2 times. Each hit has a 75% chance of decreasing the Turn Meter by 5%. Decreases the Turn Meter by 10% instead if the target is under a [Decrease ATK] debuff.",
 			"basedOn": "[DEF]",
 			"name": "Beat Back",
 			"maxcd": "4",

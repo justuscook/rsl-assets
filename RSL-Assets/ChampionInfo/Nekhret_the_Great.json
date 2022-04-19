@@ -48,7 +48,7 @@
 			"numBooksToMax": "1"
 		},
 		{
-			"desc": "Whenever an ally is attacked while under an [Ally Protection] buff placed by this Champion, places a [Shield] buff on the ally equal to 30% of this Champion's MAX HP for 2 turns. Occurs only if the ally does not already have a [Shield] buff placed by this Champion.\r\n\r\nAlso decreases the cooldown of this Champion's Legion of the Damned Skill by 2 turns if the [Shield] buff is placed.",
+			"desc": "Whenever an ally is attacked while under an [Ally Protection] buff placed by this Champion, places a [Shield] buff on the ally equal to 30% of this Champion's MAX HP for 2 turns. Occurs only if the ally does not already have a [Shield] buff placed by this Champion.\r\n\r\nAlso decreases the cooldown of this Champion's Legion of the Damned skill by 2 turns if the [Shield] buff is placed.",
 			"basedOn": "[HP]",
 			"name": "Unsleeping Aegis [P]",
 			"maxcd": "0",

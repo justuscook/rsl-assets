@@ -38,7 +38,7 @@
 			"numBooksToMax": "5"
 		},
 		{
-			"desc": "Fills this Champion's Turn Meter by 25% and instantly activates the Death's Majesty Skill whenever this Champion or an ally receives a [Freeze] debuff.",
+			"desc": "Fills this Champion's Turn Meter by 25% and instantly activates the Death's Majesty skill whenever this Champion or an ally receives a [Freeze] debuff.",
 			"basedOn": "",
 			"name": "Lethal Winter [P]",
 			"maxcd": "1",

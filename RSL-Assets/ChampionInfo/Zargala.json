@@ -28,7 +28,7 @@
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Attacks 1 enemy. Instantly activates the Crack Armor Skill if the target is killed by this attack.",
+			"desc": "Attacks 1 enemy. Instantly activates the Crack Armor skill if the target is killed by this attack.",
 			"basedOn": "[ATK]",
 			"name": "Devastate",
 			"maxcd": "4",

@@ -28,7 +28,7 @@
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Attacks all enemies.\r\n\r\nGrants an Extra Turn and resets the cooldown of On the Hunt Skill if this attack kills an enemy.",
+			"desc": "Attacks all enemies.\r\n\r\nGrants an Extra Turn and resets the cooldown of On the Hunt skill if this attack kills an enemy.",
 			"basedOn": "[ATK]",
 			"name": "Butcher's Glee",
 			"maxcd": "4",

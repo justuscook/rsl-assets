@@ -38,7 +38,7 @@
 			"numBooksToMax": "5"
 		},
 		{
-			"desc": "[While under a [Veil] or [Perfect Veil] buff]\r\n\r\nAttacks all enemies. Has a 75% chance of placing a 60% [Decrease DEF] debuff and a 25% [Weaken] debuff. Decreases the cooldown of the Jungle Ambush Skill by 2 turns.\r\n\r\n[While not under a [Veil] or [Perfect Veil] buff]\r\n\r\nAttacks 1 enemy. Has a 75% chance of placing a 60% [Decrease DEF] debuff and a 25% [Weaken] debuff on the target for 2 turns before attacking. Places a [Perfect Veil] buff on this Champion for 2 turns after attacking.",
+			"desc": "[While under a [Veil] or [Perfect Veil] buff]\r\n\r\nAttacks all enemies. Has a 75% chance of placing a 60% [Decrease DEF] debuff and a 25% [Weaken] debuff. Decreases the cooldown of the Jungle Ambush skill by 2 turns.\r\n\r\n[While not under a [Veil] or [Perfect Veil] buff]\r\n\r\nAttacks 1 enemy. Has a 75% chance of placing a 60% [Decrease DEF] debuff and a 25% [Weaken] debuff on the target for 2 turns before attacking. Places a [Perfect Veil] buff on this Champion for 2 turns after attacking.",
 			"basedOn": "",
 			"name": "Flicker Step",
 			"maxcd": "5",

@@ -38,7 +38,7 @@
 			"numBooksToMax": "5"
 		},
 		{
-			"desc": "Attacks 1 enemy 3 times. The first hit has a 75% chance of placing a 60% [Decrease DEF] debuff for 3 turns. The second hit has a 75% chance of placing a 25% [Weaken] debuff for 3 turns. The third hit heals this Champion by 4% of her MAX HP for every debuff on the target.",
+			"desc": "Attacks 1 enemy 3 times. The first hit has a 75% chance of placing a 60% [Decrease DEF] debuff for 3 turns. The second hit has a 75% chance of placing a 25% [Weaken] debuff for 3 turns. The third hit heals this Champion by 4% of their MAX HP for every debuff on the target.",
 			"basedOn": "[ATK]",
 			"name": "Flowing Style",
 			"maxcd": "5",
