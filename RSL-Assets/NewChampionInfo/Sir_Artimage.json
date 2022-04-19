@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=6910#static",
 	"name": "Sir Artimage",
+	"key": "l10n:hero-type/name?id=6910#static",
 	"id": 6916,
-	"acc": "0",
+	"avatar": "6910",
 	"affinity": "Force",
-	"atk": "1310",
-	"cdamage": "60",
-	"crate": "15",
-	"spd": "97",
-	"def": "1024",
 	"hp": "14535",
-	"cheal": "50",
+	"atk": "1310",
+	"def": "1024",
+	"spd": "97",
 	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "60",
+	"cheal": "50",
 	"faction": "Banner Lords",
-	"rarity": "Epic",
-	"type": "Attack",
-	"aura": "Increases Ally SPD in Arena Battles by 20.",
+	"aura": "Increase Ally SPD in Arena battles by 20",
 	"totalBooks": "8",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Nobleman's Mace",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +10%\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\n",
 			"multiplier": "2.1*ATK",
 			"numBooksToMax": "3"
 		},
@@ -34,8 +33,8 @@
 			"name": "Ring True",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Cooldown -1\n",
-			"multiplier": "",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\n",
+			"multiplier": null,
 			"numBooksToMax": "3"
 		},
 		{
@@ -44,9 +43,11 @@
 			"name": "Unshakable Valor",
 			"maxcd": "4",
 			"mincd": "4",
-			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\n",
 			"multiplier": "6.7*ATK",
 			"numBooksToMax": "2"
 		}
-	]
+	],
+	"rarity": "Epic",
+	"type": "Attack"
 }

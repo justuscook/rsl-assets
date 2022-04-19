@@ -13,11 +13,11 @@
 	"modelName": "602_ChristmasNord_ID5510",
 	"avatarKey": "5510",
 	"leaderSkill": {
-		"area": "DoomTower",
+		"area": null,
 		"affinity": null,
 		"kind": "Attack",
 		"absolute": false,
-		"value": 0.43
+		"value": 0.33
 	},
 	"skillTypeIds": [
 		55101,

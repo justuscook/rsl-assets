@@ -49,12 +49,12 @@
 		},
 		{
 			"desc": "Instantly attacks enemies with the default skill whenever they receive damage from [Poison] debuffs placed by this Champion. \r\n\r\nWhen hitting enemies under [Poison] debuffs, heals this Champion by 10% of the damage inflicted.",
-			"basedOn": "[ATK]",
+			"basedOn": "",
 			"name": "Constant Agony [P]",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",
-			"multiplier": "3.5*ATK",
+			"multiplier": "",
 			"numBooksToMax": "0"
 		}
 	],

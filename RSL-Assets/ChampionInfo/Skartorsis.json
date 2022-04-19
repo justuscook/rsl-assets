@@ -38,11 +38,11 @@
 			"numBooksToMax": "1"
 		},
 		{
-			"desc": "Heals all allies, then removes all debuffs from them. The amount by which each ally is healed increases according to the number of debuffs on them. The amount by which each ally's Turn Meter is filled increases according to the number of debuffs on them.",
-			"basedOn": "[Enemy MAX HP]",
+			"desc": "Removes all debuffs from all allies, then heals them and fills their Turn Meters. The amount by which each ally is healed increases according to the number of debuffs removed from them. The amount by which each ally's Turn Meter is filled increases according to the number of debuffs removed from them.",
+			"basedOn": "",
 			"name": "Rebirth",
-			"maxcd": "7",
-			"mincd": "5",
+			"maxcd": "6",
+			"mincd": "4",
 			"books": "Lvl. 2  Heal +5%\nLvl. 3  Heal +5%\nLvl. 4  Heal +5%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "5"

@@ -7,7 +7,7 @@
 	"hp": "14865",
 	"atk": "1553",
 	"def": "1035",
-	"spd": "92",
+	"spd": "98",
 	"res": "30",
 	"acc": "10",
 	"crate": "15",
@@ -38,7 +38,7 @@
 			"numBooksToMax": "3"
 		},
 		{
-			"desc": "Attacks all enemies. Has a 75% chance of decreasing each enemy's Turn Meter by 20%. If there are any enemies under [Fear] or [True Fear] debuffs, will also fill this Champion’s Turn Meter by the amount those enemies lose.",
+			"desc": "Attacks all enemies. Has a 75% chance of decreasing each enemy's Turn Meter by 50%. If there are any enemies under [Fear] or [True Fear] debuffs, will also fill this Champion’s Turn Meter by the amount those enemies lose.",
 			"basedOn": "[ATK]",
 			"name": "Dismay",
 			"maxcd": "4",
@@ -48,7 +48,7 @@
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Whenever an enemy’s Turn Meter is fully depleted by any Champion, has a 50% chance of placing a [True Fear] debuff on that enemy for 1 turn.",
+			"desc": "Whenever an enemy’s Turn Meter is fully depleted by any Champion, has a 75% chance of placing a [True Fear] debuff on that enemy for 1 turn.",
 			"basedOn": "",
 			"name": "Desolation [P]",
 			"maxcd": "0",

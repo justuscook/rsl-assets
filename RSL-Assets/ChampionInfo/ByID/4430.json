@@ -12,7 +12,13 @@
 	"ascended": 6,
 	"modelName": "0380_revenant_id4430",
 	"avatarKey": "4430",
-	"leaderSkill": null,
+	"leaderSkill": {
+		"area": null,
+		"affinity": null,
+		"kind": "Attack",
+		"absolute": false,
+		"value": 0.3
+	},
 	"skillTypeIds": [
 		44305,
 		44302,
@@ -23,7 +29,7 @@
 		"Health": 97,
 		"Attack": 140,
 		"Defense": 88,
-		"Speed": 90,
+		"Speed": 100,
 		"Resistance": 30,
 		"Accuracy": 0,
 		"CriticalChance": 15,
