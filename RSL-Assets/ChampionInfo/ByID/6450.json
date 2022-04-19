@@ -1,0 +1,40 @@
+{
+	"typeId": 6456,
+	"name": {
+		"key": "l10n:hero-type/name?id=6450#static",
+		"defaultValue": "Archbishop Pinthroy",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "SacredOrder",
+	"role": "Support",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0692_Archbishop_id6450",
+	"avatarKey": "6450",
+	"leaderSkill": {
+		"area": null,
+		"affinity": null,
+		"kind": "Accuracy",
+		"absolute": true,
+		"value": 50
+	},
+	"skillTypeIds": [
+		64501,
+		64502,
+		64503,
+		64504
+	],
+	"unscaledStats": {
+		"Health": 122,
+		"Attack": 96,
+		"Defense": 107,
+		"Speed": 101,
+		"Resistance": 40,
+		"Accuracy": 20,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}
