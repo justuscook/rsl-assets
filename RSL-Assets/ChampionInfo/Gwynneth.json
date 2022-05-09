@@ -38,7 +38,7 @@
 			"numBooksToMax": "6"
 		},
 		{
-			"desc": "Transfers all debuffs from this Champion to 1 target enemy, then attacks that enemy. Ignores 10% of the target’s DEF for each debuff they are under.",
+			"desc": "Transfers all debuffs from this Champion to 1 target enemy, then attacks that enemy. Will ignore 10% of the target’s DEF for each debuff they are under.",
 			"basedOn": "",
 			"name": "Flow of Malaise",
 			"maxcd": "5",

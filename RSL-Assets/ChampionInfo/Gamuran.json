@@ -48,7 +48,7 @@
 			"numBooksToMax": "2"
 		},
 		{
-			"desc": "Revives 1 random ally with 30% HP and 30% Turn Meter each time an enemy is killed.",
+			"desc": "Revives 1 random ally with 30% HP and 30% Turn Meter each time an enemy is killed. \r\n\r\nWill not revive an ally if an enemy is killed by damage from [Poison], [HP Burn], or [Bomb] debuffs, or from [Reflect Damage] buffs.",
 			"basedOn": "[Enemy MAX HP]",
 			"name": "Soul Charge [P]",
 			"maxcd": "2",

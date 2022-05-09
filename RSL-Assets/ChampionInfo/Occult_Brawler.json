@@ -28,7 +28,7 @@
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Attacks 1 enemy. If this Champion is under 1 or more debuffs, this attack ignores 30% of enemy DEF. If this Champion is under 2 or more debuffs, enemies killed by this Skill cannot be revived. If this Champion is under 3 or more debuffs, this attack is always critical. If this Champion is under 4 or more debuffs, this Champion heals by 30% of the damage inflicted. If this Champion is under 5 or more debuffs, grants an Extra Turn. Removes all debuffs from this Champion after the attack.",
+			"desc": "Attacks 1 enemy. If this Champion is under 1 or more debuffs, this attack will ignore 30% of enemy DEF. If this Champion is under 2 or more debuffs, enemies killed by this Skill cannot be revived. If this Champion is under 3 or more debuffs, this attack is always critical. If this Champion is under 4 or more debuffs, this Champion heals by 30% of the damage inflicted. If this Champion is under 5 or more debuffs, grants an Extra Turn. Removes all debuffs from this Champion after the attack.",
 			"basedOn": "[ATK]",
 			"name": "Curse Eater",
 			"maxcd": "4",

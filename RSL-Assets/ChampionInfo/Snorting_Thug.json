@@ -28,7 +28,7 @@
 			"numBooksToMax": "6"
 		},
 		{
-			"desc": "Attacks 1 enemy. Ignores the target's DEF if they have no active buffs. Steals 2 random buffs from the target.",
+			"desc": "Attacks 1 enemy. Will ignore the target's DEF if they have no active buffs. Steals 2 random buffs from the target.",
 			"basedOn": "[HP]",
 			"name": "Ruckus",
 			"maxcd": "4",

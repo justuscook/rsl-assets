@@ -28,7 +28,7 @@
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Attacks all enemies 3 times. Places a 15% [Weaken] debuff for 2 turns.",
+			"desc": "Attacks all enemies 3 times. Places a 25% [Weaken] debuff for 2 turns.",
 			"basedOn": "[ATK]",
 			"name": "Outburst",
 			"maxcd": "4",

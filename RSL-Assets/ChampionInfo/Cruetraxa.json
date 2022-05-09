@@ -18,7 +18,7 @@
 	"totalBooks": "8",
 	"skills": [
 		{
-			"desc": "Attacks 1 enemy 4 times. Ignores 50% of enemy DEF.",
+			"desc": "Attacks 1 enemy 4 times. Will ignore 50% of enemy DEF.",
 			"basedOn": "[ATK]",
 			"name": "Dire Perforation",
 			"maxcd": "0",

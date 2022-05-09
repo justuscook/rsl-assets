@@ -18,7 +18,7 @@
 	"totalBooks": "15",
 	"skills": [
 		{
-			"desc": "Attacks 1 enemy 2 times. Places a [Shield] buff for 2 turns, equal to 10% of this Champion’s MAX HP, on the ally with the lowest HP.",
+			"desc": "Attacks 1 enemy 2 times. Places a [Shield] buff for 2 turns, equal to 10% of this Champion's MAX HP, on the ally with the lowest HP (except this Champion).",
 			"basedOn": "[ATK]",
 			"name": "Fires of Old",
 			"maxcd": "0",

@@ -28,7 +28,7 @@
 			"numBooksToMax": "7"
 		},
 		{
-			"desc": "Attacks 1 enemy. Ignores 50% of the target's DEF if their MAX HP is higher than this Champion's MAX HP.",
+			"desc": "Attacks 1 enemy. Will ignore 50% of the target's DEF if their MAX HP is higher than this Champion's MAX HP.",
 			"basedOn": "[ATK]",
 			"name": "High Value Target",
 			"maxcd": "4",

@@ -18,7 +18,7 @@
 	"totalBooks": "11",
 	"skills": [
 		{
-			"desc": "Attacks 1 enemy 2 times. Each hit ignores 30% of the target's DEF. Places a [Shield] buff on this Champion for 2 turns. The value of the [Shield] is equal to 20% of the damage inflicted.",
+			"desc": "Attacks 1 enemy 2 times. Each hit will ignore 30% of the target's DEF. Places a [Shield] buff on this Champion for 2 turns. The value of the [Shield] is equal to 20% of the damage inflicted.",
 			"basedOn": "[ATK]",
 			"name": "Brutal Bludgeon",
 			"maxcd": "0",
@@ -28,7 +28,7 @@
 			"numBooksToMax": "3"
 		},
 		{
-			"desc": "Attacks 1 enemy. Ignores 50% of target's DEF when attacking under a [Shield] buff. Heals this Champion by 50% of the damage inflicted. Places a [Shield] buff on this Champion equal to any surplus heal for 3 turns.",
+			"desc": "Attacks 1 enemy. Will ignore 50% of target's DEF when attacking under a [Shield] buff. Heals this Champion by 50% of the damage inflicted. Places a [Shield] buff on this Champion equal to any surplus heal for 3 turns.",
 			"basedOn": "[ATK]",
 			"name": "Fearless Aggression",
 			"maxcd": "4",
@@ -38,7 +38,7 @@
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Attacks 1 enemy 3 times. Each hit ignores 25% of the target's DEF. Grants an Extra Turn if this Champion has full HP after using this Skill.",
+			"desc": "Attacks 1 enemy 3 times. Each hit will ignore 25% of the target's DEF. Grants an Extra Turn if this Champion has full HP after using this Skill.",
 			"basedOn": "[ATK]",
 			"name": "Sheer Swagger",
 			"maxcd": "4",

@@ -28,7 +28,7 @@
 			"numBooksToMax": "5"
 		},
 		{
-			"desc": "Attacks 1 enemy. Ignores 50% of the target's DEF. Grants an Extra Turn if this attack kills an enemy.",
+			"desc": "Attacks 1 enemy. Will ignore 50% of the target's DEF. Grants an Extra Turn if this attack kills an enemy.",
 			"basedOn": "[ATK]",
 			"name": "Hardened Tips",
 			"maxcd": "4",

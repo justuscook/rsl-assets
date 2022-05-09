@@ -38,7 +38,7 @@
 			"numBooksToMax": "5"
 		},
 		{
-			"desc": "Attacks 1 enemy. Will ignore 30% of the target's DEF. Ignores [Block Damage] and [Shield] buffs.",
+			"desc": "Attacks 1 enemy. Will ignore 30% of the target's DEF. Will ignore [Block Damage] and [Shield] buffs.",
 			"basedOn": "[ATK]",
 			"name": "Crazed Lunge",
 			"maxcd": "4",

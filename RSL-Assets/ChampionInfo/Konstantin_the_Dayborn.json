@@ -28,7 +28,7 @@
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Attacks all enemies 2 times. Each hit ignores 10% of each target's DEF for every [Leech], [Decrease DEF], and [Block Active Skills] debuff they are under.",
+			"desc": "Attacks all enemies 2 times. Each hit will ignore 10% of each target's DEF for every [Leech], [Decrease DEF], and [Block Active Skills] debuff they are under.",
 			"basedOn": "[ATK]",
 			"name": "Rune Shatter",
 			"maxcd": "4",

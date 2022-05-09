@@ -28,7 +28,7 @@
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Attacks 1 enemy.\r\n\r\nIgnores 50% of the target’s DEF.",
+			"desc": "Attacks 1 enemy.\r\n\r\nWill ignore 50% of the target’s DEF.",
 			"basedOn": "[HP][ATK]",
 			"name": "Enchanted Axe",
 			"maxcd": "5",
@@ -38,7 +38,7 @@
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Attacks 1 enemy.\r\n\r\nIgnores [Shield] and [Block Damage] buffs.",
+			"desc": "Attacks 1 enemy.\r\n\r\nWill ignore [Shield] and [Block Damage] buffs.",
 			"basedOn": "[HP][ATK]",
 			"name": "Regal Force",
 			"maxcd": "5",

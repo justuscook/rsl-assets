@@ -18,7 +18,7 @@
 	"totalBooks": "13",
 	"skills": [
 		{
-			"desc": "Attacks all enemies. Places an extra hit on enemies with less than 50% HP.",
+			"desc": "Attacks all enemies. Places an extra hit on enemies with less than 50% HP after the first hit.",
 			"basedOn": "[ATK]",
 			"name": "Burning Wave",
 			"maxcd": "0",

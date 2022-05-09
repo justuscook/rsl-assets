@@ -38,7 +38,7 @@
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Attacks all enemies. Damage inflicted is proportional to either this Champion's ATK or the target's DEF or ATK stat, whichever is highest. \r\n\r\nDeals an extra 30% C. DMG if the target's ATK is highest. Ignores 30% of the target's DEF if the target's DEF is highest.",
+			"desc": "Attacks all enemies. Damage inflicted is proportional to either this Champion's ATK or the target's DEF or ATK stat, whichever is highest. \r\n\r\nDeals an extra 30% C. DMG if the target's ATK is highest. Will ignore 30% of the target's DEF if the target's DEF is highest.",
 			"basedOn": "",
 			"name": "Divine Wrath",
 			"maxcd": "6",
