@@ -48,7 +48,7 @@
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Damage inflicted by this Champion cannot be decreased by enemy Passive skills or Masteries, except by the Passive skills of Bosses. \r\n\r\nDamage inflicted by this Champion cannot be increased by either this Champion's Masteries or ally Passive skills.\r\n\r\nWhenever Yumeko dies, instantly grants a turn to this Champion and resets the cooldowns of each of this Champion’s skills.",
+			"desc": "Damage inflicted by this Champion cannot be decreased by enemy Passive skills or Masteries, except by the Passive skills of Bosses. \r\n\r\nDamage inflicted by this Champion cannot be increased by either this Champion's Masteries or ally Passive skills, except when attacking Bosses.\r\n\r\nWhenever Yumeko dies, instantly grants a turn to this Champion and resets the cooldowns of each of this Champion’s skills.",
 			"basedOn": "",
 			"name": "Stoicism [P]",
 			"maxcd": "0",

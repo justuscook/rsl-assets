@@ -28,7 +28,7 @@
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Attacks 3 times at random. Each hit has a 75% chance to remove a buff. Places a [Provoke] debuff for 1 turn if a buff is removed.",
+			"desc": "Attacks 3 times at random. Each hit has a 75% chance to remove all buffs. \r\n\r\nAlso places a [Provoke] debuff for 1 turn. If a buff was removed by this skill, the [Provoke] debuff cannot be resisted.",
 			"basedOn": "[DEF]",
 			"name": "Wave of Despair",
 			"maxcd": "3",
