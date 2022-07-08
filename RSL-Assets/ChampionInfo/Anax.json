@@ -48,7 +48,7 @@
 			"numBooksToMax": "5"
 		},
 		{
-			"desc": "Passive Effect\r\n\r\nPlaces a 60% [Increase DEF] buff on this Champion for 2 turns when their HP drops below 75%.\r\n\r\nPlaces a 50% [Increase ATK] buff on this Champion for 2 turns when their HP drops below 50%.\r\n\r\nActive Effect\r\n\r\nGrants an Extra Turn when this Champion’s HP drops below 10%.",
+			"desc": "[Passive Effect]\r\n\r\nPlaces a 60% [Increase DEF] buff on this Champion for 2 turns when their HP drops below 75%.\r\n\r\nPlaces a 50% [Increase ATK] buff on this Champion for 2 turns when their HP drops below 50%.\r\n\r\n[Active Effect]\r\n\r\nGrants an Extra Turn when this Champion's HP drops below 10%.",
 			"basedOn": "",
 			"name": "Revenant [P]",
 			"maxcd": "5",

@@ -28,7 +28,7 @@
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Places a 60% [Decrease DEF] debuff and a 25% [Weaken] debuff for 2 turns on a target enemy, then attacks them. Then places a [Perfect Veil] buff on this Champion for 2 turns",
+			"desc": "Places a 60% [Decrease DEF] debuff and a 25% [Weaken] debuff for 2 turns on a target enemy, then attacks them. Then places a [Perfect Veil] buff on this Champion for 2 turns.",
 			"basedOn": "",
 			"name": "Insurmountable",
 			"maxcd": "3",

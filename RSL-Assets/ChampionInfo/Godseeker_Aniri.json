@@ -48,7 +48,7 @@
 			"numBooksToMax": "3"
 		},
 		{
-			"desc": "Passive Effect\r\n\r\nIncreases the amount of healing allies receive by 10%.\r\n\r\nActive Effect\r\n\r\nIf an ally is about to get killed by a fatal hit, preempts that hit and instantly places a [Revive On Death] buff on them for 1 turn before the damage is taken.",
+			"desc": "[Passive Effect]\r\n\r\nIncreases the amount of healing allies receive by 10%.\r\n\r\n[Active Effect]\r\n\r\nIf an ally is about to get killed by a fatal hit, preempts that hit and instantly places a [Revive On Death] buff on them for 1 turn before the damage is taken.",
 			"basedOn": "",
 			"name": "Guardian Angel [P]",
 			"maxcd": "7",

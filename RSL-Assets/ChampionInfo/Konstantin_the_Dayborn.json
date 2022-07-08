@@ -48,7 +48,7 @@
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Enemies from the Undead Horde, Demonspawn, and Knights Revenant Factions killed by this Champion cannot be revived. \r\n\r\n[Only available when Vlad the Nightborn is on the same team.]",
+			"desc": "Enemies from the Undead Horde, Demonspawn, and Knights Revenant Factions killed by this Champion cannot be revived. \r\n\r\n[All enemies killed by this Champion cannot be revived when Vlad the Nightborn is on the same team.]",
 			"basedOn": "",
 			"name": "Exalted [P]",
 			"maxcd": "0",

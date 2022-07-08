@@ -18,7 +18,7 @@
 	"totalBooks": "11",
 	"skills": [
 		{
-			"desc": "Attacks 1 enemy. Increases this Champion’s DEF by 5% if this attack is critical (Stacks up to 20%).\r\n\r\nWill also heal this Champion by 75% of their DEF after attacking if their DEF has already been increased by 20%",
+			"desc": "Attacks 1 enemy. Increases this Champion’s DEF by 5% if this attack is critical (Stacks up to 20%).\r\n\r\nWill also heal this Champion by 75% of their DEF after attacking if their DEF has already been increased by 20%.",
 			"basedOn": "[DEF]",
 			"name": "Sunshine Halberd",
 			"maxcd": "0",

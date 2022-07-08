@@ -38,7 +38,7 @@
 			"numBooksToMax": "2"
 		},
 		{
-			"desc": "[Active Effect]\r\nPlaces a [Shield] buff equal to 15% of this Champion's MAX HP on all allies for 3 turns. \r\n\r\n[Passive Effect]\r\nHeals each ally by 15% of this Champion's MAX HP whenever a [Shield] buff placed by this Skill expires, is removed, or is broken by an enemy attack. Allies whose [Shield] buffs are broken will also counterattack the enemy that breaks the [Shield]. When a [Shield] is broken, the heal occurs instantly before any remaining damage from the Shield-breaking attack is taken.",
+			"desc": "[Active Effect]\r\n\r\nPlaces a [Shield] buff equal to 15% of this Champion's MAX HP on all allies for 3 turns. \r\n\r\n[Passive Effect]\r\n\r\nHeals each ally by 15% of this Champion's MAX HP whenever a [Shield] buff placed by this Skill expires, is removed, or is broken by an enemy attack. Allies whose [Shield] buffs are broken will also counterattack the enemy that breaks the [Shield]. When a [Shield] is broken, the heal occurs instantly before any remaining damage from the Shield-breaking attack is taken.",
 			"basedOn": "[HP]",
 			"name": "Runestone Blessing",
 			"maxcd": "5",

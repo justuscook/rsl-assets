@@ -28,7 +28,7 @@
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Attacks all enemies. Has a 50% chance of placing a [Stun] debuff for 1 turn.\r\nPlaces a [Shield] buff on all allies for 3 turns equal to 25% of the damage inflicted .",
+			"desc": "Attacks all enemies. Has a 50% chance of placing a [Stun] debuff for 1 turn.\r\nPlaces a [Shield] buff on all allies for 3 turns equal to 25% of the damage inflicted.",
 			"basedOn": "[HP]",
 			"name": "Lightning Storm",
 			"maxcd": "4",

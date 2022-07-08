@@ -28,13 +28,13 @@
 			"numBooksToMax": "3"
 		},
 		{
-			"desc": "Attacks 3 times at random. Each hit has a 50% chance of placing a [HP Burn] debuff for 2 turns.",
+			"desc": "Attacks all enemies. Has a 75% chance of placing a [HP Burn] debuff for 2 turns.",
 			"basedOn": "[ATK]",
 			"name": "Flames of Passion",
 			"maxcd": "4",
 			"mincd": "4",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +10%\n",
-			"multiplier": "2.1*ATK",
+			"multiplier": "4*ATK",
 			"numBooksToMax": "5"
 		},
 		{
@@ -48,7 +48,7 @@
 			"numBooksToMax": "2"
 		},
 		{
-			"desc": "Attacks inflict 25% more damage to targets under debuffs.\r\n\r\n[Only available when Venus is on the same team.]",
+			"desc": "Attacks inflict 25% more damage.\r\n\r\nAlways counterattacks when attacked.\r\n\r\n[Only available when Venus is on the same team.]",
 			"basedOn": "",
 			"name": "Punishing Partner [P]",
 			"maxcd": "0",

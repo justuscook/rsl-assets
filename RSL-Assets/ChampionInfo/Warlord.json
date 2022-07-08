@@ -18,7 +18,7 @@
 	"totalBooks": "10",
 	"skills": [
 		{
-			"desc": "Attacks 1 enemy. Has a 25% chance of increasing the duration of all debuffs on the target by 1 turn",
+			"desc": "Attacks 1 enemy. Has a 25% chance of increasing the duration of all debuffs on the target by 1 turn.",
 			"basedOn": "[ATK]",
 			"name": "Bludgeon",
 			"maxcd": "0",

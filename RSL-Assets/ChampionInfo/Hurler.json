@@ -18,7 +18,7 @@
 	"totalBooks": "11",
 	"skills": [
 		{
-			"desc": "Attacks 1 enemy 2 times. Each hit has a 25% chance to Ignore DEF by 50%.",
+			"desc": "Attacks 1 enemy 2 times. Each hit has a 25% chance to ignore DEF by 50%.",
 			"basedOn": "[ATK]",
 			"name": "Spin Throw",
 			"maxcd": "0",

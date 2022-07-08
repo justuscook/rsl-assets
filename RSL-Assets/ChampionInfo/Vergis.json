@@ -38,7 +38,7 @@
 			"numBooksToMax": "1"
 		},
 		{
-			"desc": "[Passive Effect]\r\nPlaces a [Shield] buff on this Champion equal to 10% of their MAX HP for 2 turns whenever this Champion loses 10% or more of their MAX HP from a single hit.\r\n\r\n[Active Effect]\r\nPlaces a 15% [Continuous Heal] buff on this Champion for 2 turns every time their HP drops below 50%.",
+			"desc": "[Passive Effect]\r\n\r\nPlaces a [Shield] buff on this Champion equal to 10% of their MAX HP for 2 turns whenever this Champion loses 10% or more of their MAX HP from a single hit.\r\n\r\n[Active Effect]\r\n\r\nPlaces a 15% [Continuous Heal] buff on this Champion for 2 turns every time their HP drops below 50%.",
 			"basedOn": "",
 			"name": "Second Wind [Passive]",
 			"maxcd": "3",

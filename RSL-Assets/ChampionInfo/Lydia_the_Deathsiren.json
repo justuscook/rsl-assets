@@ -18,7 +18,7 @@
 	"totalBooks": "15",
 	"skills": [
 		{
-			"desc": "Attacks 1 enemy. Has a 75% chance of placing a [Fear] debuff for 1 turn. Has a 75% chance of increasing the duration of any [Poison Sensitivity] debuffs by 1 turn.\r\n\r\n[Passive Effect]\r\nAttacks enemy Champions with this Skill whenever they place a [Freeze], [Stun], [Fear], [True Fear], or [Petrification] debuff on an ally. The number of attacks increases according to how many debuffs are placed at that time; 1 attack for each [Freeze], [Stun], [Fear], [True Fear], or [Petrification] debuff placed. The first attack will target the attacker, while all extra hits will attack random enemies. Can only attack each enemy once.",
+			"desc": "Attacks 1 enemy. Has a 75% chance of placing a [Fear] debuff for 1 turn. Has a 75% chance of increasing the duration of any [Poison Sensitivity] debuffs by 1 turn.\r\n\r\n[Passive Effect]\r\n\r\nAttacks enemy Champions with this Skill whenever they place a [Freeze], [Stun], [Fear], [True Fear], or [Petrification] debuff on an ally. The number of attacks increases according to how many debuffs are placed at that time; 1 attack for each [Freeze], [Stun], [Fear], [True Fear], or [Petrification] debuff placed. The first attack will target the attacker, while all extra hits will attack random enemies. Can only attack each enemy once.",
 			"basedOn": "[ATK]",
 			"name": "Oppression",
 			"maxcd": "0",

@@ -48,7 +48,7 @@
 			"numBooksToMax": "3"
 		},
 		{
-			"desc": "Has a 10% chance of stealing the heal each time an enemy under a [Hex] debuff is about to be healed.\r\n \r\n[Does not work against Bosses. The amount healed will be the same as it would have been on the original target of the heal, except if the heal is based on the target's HP, in which it will scale off [Vildrax]'s HP]",
+			"desc": "Has a 10% chance of stealing the heal each time an enemy under a [Hex] debuff is about to be healed.\r\n \r\n[Does not work against Bosses. The amount healed will be the same as it would have been on the original target of the heal, except if the heal is based on the target's HP, in which it will scale off [Vildrax]'s HP.]",
 			"basedOn": "",
 			"name": "Pestiferous [P]",
 			"maxcd": "0",

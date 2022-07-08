@@ -48,7 +48,7 @@
 			"numBooksToMax": "7"
 		},
 		{
-			"desc": "Passive Effect\r\n\r\nPlaces a [Block Damage] buff on this Champion for 1 turn at the start of each Round. \r\n\r\nActive Effect\r\n\r\nBlocks incoming damage and places a [Block Damage] buff on this Champion for 1 turn when they receive a hit that would drop their HP below 30%.",
+			"desc": "[Passive Effect]\r\n\r\nPlaces a [Block Damage] buff on this Champion for 1 turn at the start of each Round. \r\n\r\n[Active Effect]\r\n\r\nBlocks incoming damage and places a [Block Damage] buff on this Champion for 1 turn when they receive a hit that would drop their HP below 30%.",
 			"basedOn": "",
 			"name": "Diamond Skin [P]",
 			"maxcd": "4",

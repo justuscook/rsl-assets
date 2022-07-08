@@ -38,7 +38,7 @@
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Attacks all enemies. Has a 50% chance of placing a [HP Burn] debuff for 2 turns.",
+			"desc": "Attacks all enemies. Has a 75% chance of placing a [HP Burn] debuff for 2 turns.",
 			"basedOn": "[ATK]",
 			"name": "Burning Passion",
 			"maxcd": "5",

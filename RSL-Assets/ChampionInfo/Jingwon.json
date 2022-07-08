@@ -18,7 +18,7 @@
 	"totalBooks": "12",
 	"skills": [
 		{
-			"desc": "Attacks 1 enemy. Transfers a random debuff from this Champion to the target.",
+			"desc": "Attacks 1 enemy. Transfers all debuffs from this Champion to the target.",
 			"basedOn": "[HP]",
 			"name": "Doom Exchange",
 			"maxcd": "0",
@@ -28,7 +28,7 @@
 			"numBooksToMax": "3"
 		},
 		{
-			"desc": "Attacks 1 enemy. Has a 75% chance of increasing the duration of 2 random debuffs on the target by 1 turn. Also places a [Block Active skills] debuff for 1 turn if the target is under a [Decrease ACC] debuff or [Decrease C. DMG] debuff.",
+			"desc": "Attacks 1 enemy. Has a 75% chance of increasing the duration of all debuffs on the target by 1 turn. Also places a [Block Active skills] debuff for 3 turns if the target is under a [Decrease ACC] debuff or [Decrease C. DMG] debuff.",
 			"basedOn": "[HP]",
 			"name": "Compound Calamity",
 			"maxcd": "4",
@@ -48,7 +48,7 @@
 			"numBooksToMax": "3"
 		},
 		{
-			"desc": "Immune to [Fear], [True Fear], [Freeze], [Provoke], [Sleep], [Stun], and [Petrification] debuffs. \r\n\r\nWhenever a [Fear], [True Fear], [Freeze], [Provoke], [Sleep], [Stun], or [Petrification] debuff is placed on an ally, removes it and places a [Block Debuffs] buff on that ally for 2 turns.",
+			"desc": "[Passive Effect]\r\n\r\nThis Champion is immune to [Fear], [True Fear], [Freeze], [Provoke], [Sleep], [Stun], and [Petrification] debuffs.\r\n\r\n[Active Effect]\r\n\r\nAt the end of each enemy or ally turn, removes all [Fear], [True Fear], [Freeze], [Provoke], [Sleep], [Stun], and [Petrification] debuffs from all allies and places a [Block Debuffs] buff for 1 turn on allies who have debuffs removed.",
 			"basedOn": "",
 			"name": "Unchained [P]",
 			"maxcd": "6",

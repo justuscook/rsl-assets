@@ -38,7 +38,7 @@
 			"numBooksToMax": "5"
 		},
 		{
-			"desc": "Attacks all enemies. Will Ignore DEF and [Block Damage] buffs if the target has a [Freeze] debuff.\r\n\r\n[Only available when Hellfang is on the same team.]",
+			"desc": "Attacks all enemies. Will ignore DEF and [Block Damage] buffs if the target has a [Freeze] debuff.\r\n\r\n[Only available when Hellfang is on the same team.]",
 			"basedOn": "[ATK]",
 			"name": "Shattering Strike",
 			"maxcd": "5",
