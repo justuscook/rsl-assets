@@ -1,0 +1,34 @@
+{
+	"typeId": 7086,
+	"name": {
+		"key": "l10n:hero-type/name?id=7080#static",
+		"defaultValue": "Truath",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "DarkElves",
+	"role": "Health",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0759_DarkElf_id7080",
+	"avatarKey": "7080",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		70801,
+		70802,
+		70803,
+		70804
+	],
+	"unscaledStats": {
+		"Health": 137,
+		"Attack": 84,
+		"Defense": 104,
+		"Speed": 101,
+		"Resistance": 50,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}
