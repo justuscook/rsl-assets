@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=6550#static",
+	"name": "Aleksandr the Sharpshooter",
+	"id": 6556,
+	"acc": "10",
+	"affinity": "Magic",
+	"atk": "1432",
+	"cdamage": "63",
+	"crate": "15",
+	"spd": "100",
+	"def": "980",
+	"hp": "17505",
+	"cheal": "50",
+	"res": "30",
+	"faction": "High Elves",
+	"rarity": "Legendary",
+	"type": "Attack",
+	"aura": "Increases Ally ACC in All Battles by 60.",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 50% chance of placing a [Freeze] debuff for 1 turn. The chance increases to 75% against enemies from the Orc and Ogryn Tribe Factions.",
+			"basedOn": "[ATK]",
+			"name": "Arctic Warfare",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\n",
+			"multiplier": "3.7*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 75% chance of placing a 60% [Decrease DEF] debuff for 2 turns. Also has a 75% chance of placing a 25% [Weaken] debuff against enemies from the Orc and Ogryn Tribe Factions for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Spraydown",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
+			"multiplier": "4.6*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks 1 enemy. Removes all buffs from the target.\r\n\r\nRemoves all buffs from the target before attacking when targeting enemies from the Orc and Ogryn Tribe Factions.",
+			"basedOn": "[ATK]",
+			"name": "Born to Win",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Cooldown -1\n",
+			"multiplier": "7*ATK",
+			"numBooksToMax": "3"
+		}
+	]
+}
