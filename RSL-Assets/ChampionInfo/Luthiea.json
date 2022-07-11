@@ -1,20 +1,21 @@
 {
-	"name": "Luthiea",
 	"key": "l10n:hero-type/name?id=1730#static",
+	"name": "Luthiea",
 	"id": 1736,
-	"avatar": "1730",
-	"affinity": "Force",
-	"hp": "14370",
-	"atk": "1277",
-	"def": "1068",
-	"spd": "93",
-	"res": "30",
 	"acc": "20",
-	"crate": "15",
+	"affinity": "Force",
+	"atk": "1277",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "93",
+	"def": "1068",
+	"hp": "14370",
 	"cheal": "50",
+	"res": "30",
 	"faction": "High Elves",
-	"aura": "Increase Ally C. RATE in Dungeons by 33",
+	"rarity": "Epic",
+	"type": "Attack",
+	"aura": "Increases Ally C. RATE in Dungeons by 33%.",
 	"totalBooks": "14",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Burning Arrow",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Buff/Debuff Chance +10%\n",
 			"multiplier": "4.6*ATK",
 			"numBooksToMax": "5"
 		},
@@ -33,7 +34,7 @@
 			"name": "Ice Shot",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Damage +10%\nLevel 5: Cooldown -1\n",
 			"multiplier": "2.6*ATK",
 			"numBooksToMax": "4"
 		},
@@ -43,11 +44,9 @@
 			"name": "Numbing Poison",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
 			"multiplier": "4.5*ATK",
 			"numBooksToMax": "5"
 		}
-	],
-	"rarity": "Epic",
-	"type": "Attack"
+	]
 }

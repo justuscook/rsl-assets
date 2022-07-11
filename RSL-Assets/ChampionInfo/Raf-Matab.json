@@ -1,20 +1,21 @@
 {
-	"name": "Raf-Matab",
 	"key": "l10n:hero-type/name?id=6690#static",
+	"name": "Raf-Matab",
 	"id": 6696,
-	"avatar": "6690",
-	"affinity": "Spirit",
-	"hp": "22965",
-	"atk": "870",
-	"def": "1178",
-	"spd": "97",
-	"res": "50",
 	"acc": "10",
-	"crate": "15",
+	"affinity": "Spirit",
+	"atk": "870",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "97",
+	"def": "1178",
+	"hp": "22965",
 	"cheal": "50",
+	"res": "50",
 	"faction": "Barbarians",
-	"aura": "Increase Ally  in in all Battles by 60",
+	"rarity": "Legendary",
+	"type": "HP",
+	"aura": "Increases Ally RES in All Battles by 60.",
 	"totalBooks": "8",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Elderspear",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\n",
+			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\n",
 			"multiplier": "0.22*HP",
 			"numBooksToMax": "2"
 		},
@@ -33,7 +34,7 @@
 			"name": "Stampede",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
 			"multiplier": "0.25*HP",
 			"numBooksToMax": "5"
 		},
@@ -43,7 +44,7 @@
 			"name": "Shield of the Clans",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		},
@@ -55,9 +56,7 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": "0"
+			"numBooksToMax": ""
 		}
-	],
-	"rarity": "Legendary",
-	"type": "Health"
+	]
 }

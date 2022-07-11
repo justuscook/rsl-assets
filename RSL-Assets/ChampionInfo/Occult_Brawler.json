@@ -1,19 +1,20 @@
 {
-	"name": "Occult Brawler",
 	"key": "l10n:hero-type/name?id=3300#static",
+	"name": "Occult Brawler",
 	"id": 3306,
-	"avatar": "3300",
-	"affinity": "Spirit",
-	"hp": "20640",
-	"atk": "1101",
-	"def": "826",
-	"spd": "98",
-	"res": "45",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Spirit",
+	"atk": "1101",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "98",
+	"def": "826",
+	"hp": "20640",
 	"cheal": "50",
+	"res": "45",
 	"faction": "Ogryn Tribes",
+	"rarity": "Epic",
+	"type": "HP",
 	"aura": "",
 	"totalBooks": "9",
 	"skills": [
@@ -23,7 +24,7 @@
 			"name": "Sorcerous Razor",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\n",
 			"multiplier": "4.5*ATK",
 			"numBooksToMax": "4"
 		},
@@ -33,7 +34,7 @@
 			"name": "Curse Eater",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\nLevel 6: Cooldown -1\n",
 			"multiplier": "6.2*ATK",
 			"numBooksToMax": "5"
 		},
@@ -45,9 +46,7 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": "0"
+			"numBooksToMax": ""
 		}
-	],
-	"rarity": "Epic",
-	"type": "Health"
+	]
 }

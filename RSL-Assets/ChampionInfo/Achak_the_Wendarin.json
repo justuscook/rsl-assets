@@ -1,20 +1,21 @@
 {
-	"name": "Achak the Wendarin",
 	"key": "l10n:hero-type/name?id=5540#static",
+	"name": "Achak the Wendarin",
 	"id": 5546,
-	"avatar": "5540",
-	"affinity": "Force",
-	"hp": "17505",
-	"atk": "947",
-	"def": "1189",
-	"spd": "94",
-	"res": "30",
 	"acc": "15",
-	"crate": "15",
+	"affinity": "Force",
+	"atk": "947",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "94",
+	"def": "1189",
+	"hp": "17505",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Demonspawn",
-	"aura": "Increase Ally  in in all Battles by 25",
+	"rarity": "Epic",
+	"type": "Support",
+	"aura": "Increases Ally DEF in All Battles by 25%.",
 	"totalBooks": "15",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Devour All Hope",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +5%\nLvl. 7 Buff/Debuff Chance +5%\nLvl. 8 Damage +5%\nLvl. 9 Buff/Debuff Chance +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Damage +5%\nLevel 7: Buff/Debuff Chance +5%\nLevel 8: Damage +5%\nLevel 9: Buff/Debuff Chance +5%\n",
 			"multiplier": "3.5*ATK",
 			"numBooksToMax": "8"
 		},
@@ -33,7 +34,7 @@
 			"name": "Cannibal Might",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		},
@@ -43,7 +44,7 @@
 			"name": "Frostfire Gale",
 			"maxcd": "5",
 			"mincd": "3",
-			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\nLvl. 7 Cooldown -1Lvl. 7 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Cooldown -1\nLevel 7: Cooldown -1\n",
 			"multiplier": "5.5*ATK",
 			"numBooksToMax": "6"
 		},
@@ -55,9 +56,7 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": "0"
+			"numBooksToMax": ""
 		}
-	],
-	"rarity": "Epic",
-	"type": "Support"
+	]
 }

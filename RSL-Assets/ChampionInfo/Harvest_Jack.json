@@ -1,19 +1,20 @@
 {
-	"name": "Harvest Jack",
 	"key": "l10n:hero-type/name?id=4560#static",
+	"name": "Harvest Jack",
 	"id": 4566,
-	"avatar": "4560",
-	"affinity": "Spirit",
-	"hp": "26925",
-	"atk": "859",
-	"def": "925",
-	"spd": "102",
-	"res": "40",
 	"acc": "20",
-	"crate": "15",
+	"affinity": "Spirit",
+	"atk": "859",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "102",
+	"def": "925",
+	"hp": "26925",
 	"cheal": "50",
+	"res": "40",
 	"faction": "Undead Hordes",
+	"rarity": "Legendary",
+	"type": "HP",
 	"aura": "",
 	"totalBooks": "14",
 	"skills": [
@@ -23,7 +24,7 @@
 			"name": "Harvest of Fear",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\n",
 			"multiplier": "0.06*HP",
 			"numBooksToMax": "4"
 		},
@@ -33,7 +34,7 @@
 			"name": "Dreams to Ash",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\nLevel 6: Cooldown -1\n",
 			"multiplier": "0.16*HP",
 			"numBooksToMax": "5"
 		},
@@ -43,7 +44,7 @@
 			"name": "Lord of Terror",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
 			"multiplier": "0.21*HP",
 			"numBooksToMax": "5"
 		},
@@ -55,9 +56,7 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": "0"
+			"numBooksToMax": ""
 		}
-	],
-	"rarity": "Legendary",
-	"type": "Health"
+	]
 }

@@ -1,20 +1,21 @@
 {
-	"name": "Battlesage",
 	"key": "l10n:hero-type/name?id=120#static",
+	"name": "Battlesage",
 	"id": 126,
-	"avatar": "120",
-	"affinity": "Void",
-	"hp": "18000",
-	"atk": "980",
-	"def": "1123",
-	"spd": "100",
-	"res": "30",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Void",
+	"atk": "980",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "100",
+	"def": "1123",
+	"hp": "18000",
 	"cheal": "50",
+	"res": "30",
 	"faction": "High Elves",
-	"aura": "Increase Ally SPD in in all Battles by 19",
+	"rarity": "Epic",
+	"type": "Support",
+	"aura": "Increases Ally SPD in All Battles by 19.",
 	"totalBooks": "7",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Lightning Slash",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\n",
 			"multiplier": "2.8*ATK",
 			"numBooksToMax": "4"
 		},
@@ -33,21 +34,19 @@
 			"name": "Nature's Touch",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		},
 		{
 			"desc": "Places a [Revive On Death] buff on a target ally for 3 turns. The ally will instantly revive if killed.",
-			"basedOn": "[Enemy MAX HP]",
+			"basedOn": "",
 			"name": "Mother's Embrace",
 			"maxcd": "6",
 			"mincd": "4",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		}
-	],
-	"rarity": "Epic",
-	"type": "Support"
+	]
 }

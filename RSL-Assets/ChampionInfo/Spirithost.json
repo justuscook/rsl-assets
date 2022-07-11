@@ -1,20 +1,21 @@
 {
-	"name": "Spirithost",
 	"key": "l10n:hero-type/name?id=580#static",
+	"name": "Spirithost",
 	"id": 586,
-	"avatar": "580",
-	"affinity": "Spirit",
-	"hp": "15360",
-	"atk": "1046",
-	"def": "958",
-	"spd": "103",
-	"res": "30",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Spirit",
+	"atk": "1046",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "103",
+	"def": "958",
+	"hp": "15360",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Dark Elves",
-	"aura": "Increase Ally SPD in in all Battles by 10",
+	"rarity": "Rare",
+	"type": "Support",
+	"aura": "Increases Ally SPD in All Battles by 10.",
 	"totalBooks": "6",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Reap",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\n",
 			"multiplier": "3.7*ATK",
 			"numBooksToMax": "4"
 		},
@@ -33,7 +34,7 @@
 			"name": "Strengthen",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		},
@@ -43,11 +44,9 @@
 			"name": "Dark Gift",
 			"maxcd": "6",
 			"mincd": "5",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		}
-	],
-	"rarity": "Rare",
-	"type": "Support"
+	]
 }

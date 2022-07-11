@@ -1,19 +1,20 @@
 {
-	"name": "Lemure",
 	"key": "l10n:hero-type/name?id=2150#static",
+	"name": "Lemure",
 	"id": 2156,
-	"avatar": "2150",
-	"affinity": "Magic",
-	"hp": "18165",
-	"atk": "639",
-	"def": "903",
-	"spd": "93",
-	"res": "30",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Magic",
+	"atk": "639",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "93",
+	"def": "903",
+	"hp": "18165",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Demonspawn",
+	"rarity": "Uncommon",
+	"type": "HP",
 	"aura": "",
 	"totalBooks": "7",
 	"skills": [
@@ -23,7 +24,7 @@
 			"name": "Vicious Swipes",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\n",
 			"multiplier": "2.7*ATK",
 			"numBooksToMax": "3"
 		},
@@ -33,11 +34,9 @@
 			"name": "Dark Burst",
 			"maxcd": "4",
 			"mincd": "4",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +10%\n",
 			"multiplier": "2.8*ATK+0.2*HP",
 			"numBooksToMax": "4"
 		}
-	],
-	"rarity": "Uncommon",
-	"type": "Health"
+	]
 }

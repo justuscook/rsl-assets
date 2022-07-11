@@ -1,19 +1,20 @@
 {
-	"name": "Dervish",
 	"key": "l10n:hero-type/name?id=2480#static",
+	"name": "Dervish",
 	"id": 2486,
-	"avatar": "2480",
-	"affinity": "Magic",
-	"hp": "10080",
-	"atk": "1112",
-	"def": "969",
-	"spd": "96",
-	"res": "30",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Magic",
+	"atk": "1112",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "96",
+	"def": "969",
+	"hp": "10080",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Barbarians",
+	"rarity": "Uncommon",
+	"type": "Attack",
 	"aura": "",
 	"totalBooks": "9",
 	"skills": [
@@ -23,7 +24,7 @@
 			"name": "Flurry",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\n",
 			"multiplier": "4.6*ATK",
 			"numBooksToMax": "4"
 		},
@@ -33,11 +34,9 @@
 			"name": "Sealing Arrow",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +20%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Buff/Debuff Chance +10%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +20%\nLevel 6: Cooldown -1\n",
 			"multiplier": "8.6*ATK",
 			"numBooksToMax": "5"
 		}
-	],
-	"rarity": "Uncommon",
-	"type": "Attack"
+	]
 }

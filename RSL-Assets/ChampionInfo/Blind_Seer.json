@@ -1,20 +1,21 @@
 {
-	"name": "Blind Seer",
 	"key": "l10n:hero-type/name?id=70#static",
+	"name": "Blind Seer",
 	"id": 76,
-	"avatar": "70",
-	"affinity": "Void",
-	"hp": "18165",
-	"atk": "1332",
-	"def": "1035",
-	"spd": "115",
-	"res": "45",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Void",
+	"atk": "1332",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "115",
+	"def": "1035",
+	"hp": "18165",
 	"cheal": "50",
+	"res": "45",
 	"faction": "Dark Elves",
-	"aura": "Increase Ally  in in all Battles by 34",
+	"rarity": "Legendary",
+	"type": "Support",
+	"aura": "Increases Ally DEF in All Battles by 34%.",
 	"totalBooks": "12",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Visions of Death",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\n",
 			"multiplier": "1.3*ATK",
 			"numBooksToMax": "4"
 		},
@@ -33,21 +34,19 @@
 			"name": "Dark Shroud",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Shield +5%\nLevel 3: Shield +5%\nLevel 4: Shield +5%\nLevel 5: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Revives all dead allies to 35% HP. Places a [Block Damage] buff on all allies except this Champion for 1 turn.",
-			"basedOn": "[Enemy MAX HP]",
+			"basedOn": "",
 			"name": "Self Sacrifice",
 			"maxcd": "6",
 			"mincd": "5",
-			"books": "Lvl. 2  Heal +5%\nLvl. 3  Heal +5%\nLvl. 4  Heal +5%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Heal +5%\nLevel 3: Heal +5%\nLevel 4: Heal +5%\nLevel 5: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "4"
 		}
-	],
-	"rarity": "Legendary",
-	"type": "Support"
+	]
 }

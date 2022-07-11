@@ -1,19 +1,20 @@
 {
-	"name": "Kaiden",
 	"key": "l10n:hero-type/name?id=5290#static",
+	"name": "Kaiden",
 	"id": 5296,
-	"avatar": "5290",
-	"affinity": "Magic",
-	"hp": "16350",
-	"atk": "837",
-	"def": "1376",
-	"spd": "95",
-	"res": "30",
 	"acc": "15",
-	"crate": "15",
+	"affinity": "Magic",
+	"atk": "837",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "95",
+	"def": "1376",
+	"hp": "16350",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Dark Elves",
+	"rarity": "Epic",
+	"type": "Defense",
 	"aura": "",
 	"totalBooks": "11",
 	"skills": [
@@ -23,7 +24,7 @@
 			"name": "Halberd's Fall",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +10%\n",
 			"multiplier": "3.7*DEF",
 			"numBooksToMax": "4"
 		},
@@ -33,21 +34,19 @@
 			"name": "Shatter Sweep",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
 			"multiplier": "3.4*DEF",
 			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Revives 2 random allies with 50% HP and places a 60% [Increase DEF] buff on them for 1 turn.",
-			"basedOn": "[Enemy MAX HP]",
+			"basedOn": "",
 			"name": "Favor of the Chamber",
 			"maxcd": "6",
 			"mincd": "4",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		}
-	],
-	"rarity": "Epic",
-	"type": "Defense"
+	]
 }

@@ -1,20 +1,21 @@
 {
-	"name": "Pestilus",
 	"key": "l10n:hero-type/name?id=5750#static",
+	"name": "Pestilus",
 	"id": 5756,
-	"avatar": "5750",
-	"affinity": "Spirit",
-	"hp": "20145",
-	"atk": "848",
-	"def": "1112",
-	"spd": "94",
-	"res": "30",
 	"acc": "15",
-	"crate": "15",
+	"affinity": "Spirit",
+	"atk": "848",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "94",
+	"def": "1112",
+	"hp": "20145",
 	"cheal": "50",
-	"faction": "Knights Revenant",
-	"aura": "Increase Ally ACC in Doom Tower battles by 50",
+	"res": "30",
+	"faction": "Knight Revenant",
+	"rarity": "Epic",
+	"type": "Support",
+	"aura": "Increases Ally ACC in Doom Tower Battles by 50.",
 	"totalBooks": "15",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Blood Call",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +5%\nLvl. 7 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Damage +5%\nLevel 7: Buff/Debuff Chance +10%\n",
 			"multiplier": "1.8*ATK",
 			"numBooksToMax": "6"
 		},
@@ -33,7 +34,7 @@
 			"name": "Flames Within",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Damage +5%\nLvl. 7 Buff/Debuff Chance +10%\nLvl. 8 Cooldown -1Lvl. 8 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Damage +5%\nLevel 7: Buff/Debuff Chance +10%\nLevel 8: Cooldown -1\n",
 			"multiplier": "5*ATK",
 			"numBooksToMax": "7"
 		},
@@ -43,11 +44,9 @@
 			"name": "Battle Weirding",
 			"maxcd": "5",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		}
-	],
-	"rarity": "Epic",
-	"type": "Support"
+	]
 }

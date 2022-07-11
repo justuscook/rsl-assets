@@ -1,19 +1,20 @@
 {
-	"name": "Klodd Beastfeeder",
 	"key": "l10n:hero-type/name?id=5640#static",
+	"name": "Klodd Beastfeeder",
 	"id": 5646,
-	"avatar": "5640",
-	"affinity": "Magic",
-	"hp": "21645",
-	"atk": "815",
-	"def": "1046",
-	"spd": "110",
-	"res": "30",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Magic",
+	"atk": "815",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "110",
+	"def": "1046",
+	"hp": "21645",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Ogryn Tribes",
+	"rarity": "Epic",
+	"type": "HP",
 	"aura": "",
 	"totalBooks": "10",
 	"skills": [
@@ -23,17 +24,17 @@
 			"name": "New Stabby Hand",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +10%\n",
 			"multiplier": "0.24*HP",
 			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Places a [Shield] buff on all allies equal to 20% of this Champion’s MAX HP for 2 turns.",
-			"basedOn": "[HP]",
+			"basedOn": "",
 			"name": "Get Behind Me",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Shield +5%\nLevel 3: Shield +10%\nLevel 4: Shield +10%\nLevel 5: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "4"
 		},
@@ -43,21 +44,19 @@
 			"name": "Beast Escape",
 			"maxcd": "5",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		},
 		{
 			"desc": "Heals the ally with the lowest HP by 10% of their MAX HP at the start of this Champion’s turn.",
-			"basedOn": "[Enemy MAX HP]",
+			"basedOn": "",
 			"name": "Delicious Giblets [P]",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": "0"
+			"numBooksToMax": ""
 		}
-	],
-	"rarity": "Epic",
-	"type": "Health"
+	]
 }

@@ -1,20 +1,21 @@
 {
-	"name": "Ruel the Huntmaster",
 	"key": "l10n:hero-type/name?id=5980#static",
+	"name": "Ruel the Huntmaster",
 	"id": 5986,
-	"avatar": "5980",
-	"affinity": "Spirit",
-	"hp": "13545",
-	"atk": "1696",
-	"def": "980",
-	"spd": "97",
-	"res": "30",
 	"acc": "10",
-	"crate": "15",
+	"affinity": "Spirit",
+	"atk": "1696",
 	"cdamage": "63",
+	"crate": "15",
+	"spd": "97",
+	"def": "980",
+	"hp": "13545",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Dark Elves",
-	"aura": "Increase Ally C. RATE in in all Battles by 20",
+	"rarity": "Legendary",
+	"type": "Attack",
+	"aura": "Increases Ally C. RATE in All Battles by 20%.",
 	"totalBooks": "11",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Vile Arrows",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +10%\n",
 			"multiplier": "3.2*ATK",
 			"numBooksToMax": "4"
 		},
@@ -33,7 +34,7 @@
 			"name": "Unleash the Hunt",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Damage +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Damage +10%\nLevel 6: Cooldown -1\n",
 			"multiplier": "3*ATK",
 			"numBooksToMax": "5"
 		},
@@ -43,21 +44,19 @@
 			"name": "Stalk Prey",
 			"maxcd": "6",
 			"mincd": "4",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		},
 		{
 			"desc": "Decreases the SPD of enemies under [Hex] debuffs by 5% and decreases the RES of those enemies by 10%.\r\n\r\nAlso increases the damage enemies under [Hex] debuffs receive by 10% and decreases the value of heals they receive by 30%.\r\n\r\nThese effects do not stack if there are multiple Ruels on the same team.",
-			"basedOn": "[B_SPD][TargetHasEffectOfKind][Mark_KindId]",
+			"basedOn": "",
 			"name": "Marked Quarry",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": "0"
+			"numBooksToMax": ""
 		}
-	],
-	"rarity": "Legendary",
-	"type": "Attack"
+	]
 }

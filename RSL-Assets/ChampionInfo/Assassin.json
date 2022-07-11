@@ -1,20 +1,21 @@
 {
-	"name": "Assassin",
 	"key": "l10n:hero-type/name?id=6190#static",
+	"name": "Assassin",
 	"id": 6196,
-	"avatar": "6190",
-	"affinity": "Magic",
-	"hp": "13380",
-	"atk": "1365",
-	"def": "771",
-	"spd": "89",
-	"res": "30",
 	"acc": "10",
-	"crate": "15",
+	"affinity": "Magic",
+	"atk": "1365",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "89",
+	"def": "771",
+	"hp": "13380",
 	"cheal": "50",
-	"faction": "Samurai",
-	"aura": "Increase Ally SPD in in all Battles by 10",
+	"res": "30",
+	"faction": "Shadowkin",
+	"rarity": "Rare",
+	"type": "Attack",
+	"aura": "Increases Ally SPD in All Battles by 10.",
 	"totalBooks": "16",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "King's End",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +15%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Buff/Debuff Chance +15%\n",
 			"multiplier": "3.3*ATK",
 			"numBooksToMax": "5"
 		},
@@ -33,7 +34,7 @@
 			"name": "Lingering Death",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
 			"multiplier": "5.9*ATK",
 			"numBooksToMax": "5"
 		},
@@ -43,11 +44,9 @@
 			"name": "Draught of Sleep",
 			"maxcd": "5",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\nLvl. 7 Cooldown -1Lvl. 7 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\nLevel 7: Cooldown -1\n",
 			"multiplier": "5.4*ATK",
 			"numBooksToMax": "6"
 		}
-	],
-	"rarity": "Rare",
-	"type": "Attack"
+	]
 }

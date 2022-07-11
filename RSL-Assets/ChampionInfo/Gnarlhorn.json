@@ -1,20 +1,21 @@
 {
-	"name": "Gnarlhorn",
 	"key": "l10n:hero-type/name?id=1100#static",
+	"name": "Gnarlhorn",
 	"id": 1106,
-	"avatar": "1100",
-	"affinity": "Spirit",
-	"hp": "17010",
-	"atk": "958",
-	"def": "936",
-	"spd": "96",
-	"res": "45",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Spirit",
+	"atk": "958",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "96",
+	"def": "936",
+	"hp": "17010",
 	"cheal": "50",
+	"res": "45",
 	"faction": "Skinwalkers",
-	"aura": "Increase Ally  in Dungeons by 27",
+	"rarity": "Rare",
+	"type": "HP",
+	"aura": "Increases Ally DEF in Dungeons by 27%.",
 	"totalBooks": "7",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Ram",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\n",
 			"multiplier": "ATK*(2.5+3*(1-HP_PERC))",
 			"numBooksToMax": "4"
 		},
@@ -33,7 +34,7 @@
 			"name": "War Drum",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		},
@@ -43,11 +44,9 @@
 			"name": "Determined",
 			"maxcd": "5",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		}
-	],
-	"rarity": "Rare",
-	"type": "Health"
+	]
 }

@@ -1,19 +1,20 @@
 {
-	"name": "Head Taker",
 	"key": "l10n:hero-type/name?id=3730#static",
+	"name": "Head Taker",
 	"id": 3736,
-	"avatar": "3730",
-	"affinity": "Magic",
-	"hp": "14535",
-	"atk": "980",
-	"def": "804",
-	"spd": "97",
-	"res": "30",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Magic",
+	"atk": "980",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "97",
+	"def": "804",
+	"hp": "14535",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Barbarians",
+	"rarity": "Uncommon",
+	"type": "Attack",
 	"aura": "",
 	"totalBooks": "10",
 	"skills": [
@@ -23,7 +24,7 @@
 			"name": "Carve Up",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\n",
 			"multiplier": "5.2*ATK",
 			"numBooksToMax": "4"
 		},
@@ -33,11 +34,9 @@
 			"name": "Weakling!",
 			"maxcd": "4",
 			"mincd": "4",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Damage +10%\nLvl. 6 Buff/Debuff Chance +10%\nLvl. 7 Buff/Debuff Chance +15%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Damage +10%\nLevel 6: Buff/Debuff Chance +10%\nLevel 7: Buff/Debuff Chance +15%\n",
 			"multiplier": "7.5*ATK",
 			"numBooksToMax": "6"
 		}
-	],
-	"rarity": "Uncommon",
-	"type": "Attack"
+	]
 }

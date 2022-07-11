@@ -1,20 +1,21 @@
 {
-	"name": "Slitherbrute",
 	"key": "l10n:hero-type/name?id=2930#static",
+	"name": "Slitherbrute",
 	"id": 2936,
-	"avatar": "2930",
-	"affinity": "Magic",
-	"hp": "12885",
-	"atk": "1310",
-	"def": "859",
-	"spd": "98",
-	"res": "30",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Magic",
+	"atk": "1310",
 	"cdamage": "57",
+	"crate": "15",
+	"spd": "98",
+	"def": "859",
+	"hp": "12885",
 	"cheal": "50",
-	"faction": "Lizard Men",
-	"aura": "Increase Ally ACC in Dungeons by 40",
+	"res": "30",
+	"faction": "Lizardmen",
+	"rarity": "Rare",
+	"type": "Attack",
+	"aura": "Increases Ally ACC in Dungeons by 40.",
 	"totalBooks": "11",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Rusty Gash",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Buff/Debuff Chance +10%\n",
 			"multiplier": "ATK*3.5",
 			"numBooksToMax": "5"
 		},
@@ -33,7 +34,7 @@
 			"name": "Essence Snatch",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\nLevel 6: Cooldown -1\n",
 			"multiplier": "ATK*5.5",
 			"numBooksToMax": "5"
 		},
@@ -43,11 +44,9 @@
 			"name": "Punish Hubris",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\n",
 			"multiplier": "ATK*5.9",
 			"numBooksToMax": "1"
 		}
-	],
-	"rarity": "Rare",
-	"type": "Attack"
+	]
 }

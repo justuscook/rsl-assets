@@ -1,20 +1,21 @@
 {
-	"name": "Templar",
 	"key": "l10n:hero-type/name?id=510#static",
+	"name": "Templar",
 	"id": 516,
-	"avatar": "510",
-	"affinity": "Spirit",
-	"hp": "15855",
-	"atk": "881",
-	"def": "1090",
-	"spd": "92",
-	"res": "40",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Spirit",
+	"atk": "881",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "92",
+	"def": "1090",
+	"hp": "15855",
 	"cheal": "50",
+	"res": "40",
 	"faction": "Sacred Order",
-	"aura": "Increase Ally  in Arena battles by 50",
+	"rarity": "Rare",
+	"type": "Defense",
+	"aura": "Increases Ally RES in Arena Battles by 50.",
 	"totalBooks": "10",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Charge",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Damage +10%\nLvl. 6 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Damage +10%\nLevel 6: Buff/Debuff Chance +10%\n",
 			"multiplier": "3.9*DEF",
 			"numBooksToMax": "5"
 		},
@@ -33,8 +34,8 @@
 			"name": "Taunt",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
-			"multiplier": null,
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Cooldown -1\n",
+			"multiplier": "",
 			"numBooksToMax": "5"
 		},
 		{
@@ -45,9 +46,7 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": "0"
+			"numBooksToMax": ""
 		}
-	],
-	"rarity": "Rare",
-	"type": "Defense"
+	]
 }

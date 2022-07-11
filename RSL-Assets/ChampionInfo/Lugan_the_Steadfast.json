@@ -1,20 +1,21 @@
 {
-	"name": "Lugan the Steadfast",
 	"key": "l10n:hero-type/name?id=240#static",
+	"name": "Lugan the Steadfast",
 	"id": 246,
-	"avatar": "240",
-	"affinity": "Spirit",
-	"hp": "22140",
-	"atk": "1013",
-	"def": "1090",
-	"spd": "103",
-	"res": "40",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Spirit",
+	"atk": "1013",
 	"cdamage": "63",
+	"crate": "15",
+	"spd": "103",
+	"def": "1090",
+	"hp": "22140",
 	"cheal": "50",
+	"res": "40",
 	"faction": "Banner Lords",
-	"aura": "Increase Ally HP in Faction Crypts by 38",
+	"rarity": "Legendary",
+	"type": "HP",
+	"aura": "Increases Ally HP in Faction Crypts by 38%.",
 	"totalBooks": "11",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Crushing Blow",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\n",
 			"multiplier": "0.23*HP",
 			"numBooksToMax": "4"
 		},
@@ -33,7 +34,7 @@
 			"name": "Bodyguard",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		},
@@ -43,11 +44,9 @@
 			"name": "Mark of Silence",
 			"maxcd": "4",
 			"mincd": "4",
-			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Damage +5%\nLvl. 6 Buff/Debuff Chance +10%\nLvl. 7 Damage +10%\n",
+			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Damage +5%\nLevel 6: Buff/Debuff Chance +10%\nLevel 7: Damage +10%\n",
 			"multiplier": "0.26*HP",
 			"numBooksToMax": "6"
 		}
-	],
-	"rarity": "Legendary",
-	"type": "Health"
+	]
 }

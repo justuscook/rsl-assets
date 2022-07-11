@@ -1,19 +1,20 @@
 {
-	"name": "Oldbeard",
 	"key": "l10n:hero-type/name?id=2840#static",
+	"name": "Oldbeard",
 	"id": 2846,
-	"avatar": "2840",
-	"affinity": "Force",
-	"hp": "14040",
-	"atk": "716",
-	"def": "1101",
-	"spd": "91",
-	"res": "30",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Force",
+	"atk": "716",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "91",
+	"def": "1101",
+	"hp": "14040",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Ogryn Tribes",
+	"rarity": "Uncommon",
+	"type": "Defense",
 	"aura": "",
 	"totalBooks": "10",
 	"skills": [
@@ -23,7 +24,7 @@
 			"name": "Gut Punch",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Damage +10%\n",
 			"multiplier": "5*ATK",
 			"numBooksToMax": "5"
 		},
@@ -33,11 +34,9 @@
 			"name": "Outlast",
 			"maxcd": "4",
 			"mincd": "4",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Buff/Debuff Chance +10%\n",
 			"multiplier": "7.5*ATK",
 			"numBooksToMax": "5"
 		}
-	],
-	"rarity": "Uncommon",
-	"type": "Defense"
+	]
 }

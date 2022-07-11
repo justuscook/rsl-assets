@@ -1,19 +1,20 @@
 {
-	"name": "Goffred Brassclad",
 	"key": "l10n:hero-type/name?id=7250#static",
+	"name": "Goffred Brassclad",
 	"id": 7256,
-	"avatar": "7250",
-	"affinity": "Magic",
-	"hp": "19485",
-	"atk": "848",
-	"def": "1432",
-	"spd": "102",
-	"res": "50",
 	"acc": "10",
-	"crate": "15",
+	"affinity": "Magic",
+	"atk": "848",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "102",
+	"def": "1432",
+	"hp": "19485",
 	"cheal": "50",
+	"res": "50",
 	"faction": "Dwarves",
+	"rarity": "Legendary",
+	"type": "Defense",
 	"aura": "",
 	"totalBooks": "13",
 	"skills": [
@@ -23,7 +24,7 @@
 			"name": "Mete Punishment",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\n",
 			"multiplier": "1.8*DEF",
 			"numBooksToMax": "4"
 		},
@@ -33,7 +34,7 @@
 			"name": "Concuss",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
 			"multiplier": "3.7*DEF",
 			"numBooksToMax": "5"
 		},
@@ -43,7 +44,7 @@
 			"name": "Vow of the Dwarves",
 			"maxcd": "5",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		},
@@ -53,11 +54,9 @@
 			"name": "Brass Clad [P]",
 			"maxcd": "4",
 			"mincd": "4",
-			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Buff/Debuff Chance +15%\n",
+			"books": "Level 2: Buff/Debuff Chance +10%\nLevel 3: Buff/Debuff Chance +15%\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		}
-	],
-	"rarity": "Legendary",
-	"type": "Defense"
+	]
 }

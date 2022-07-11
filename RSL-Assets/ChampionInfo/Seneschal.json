@@ -1,19 +1,20 @@
 {
-	"name": "Seneschal",
 	"key": "l10n:hero-type/name?id=4140#static",
+	"name": "Seneschal",
 	"id": 4146,
-	"avatar": "4140",
-	"affinity": "Force",
-	"hp": "19980",
-	"atk": "705",
-	"def": "1266",
-	"spd": "105",
-	"res": "45",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Force",
+	"atk": "705",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "105",
+	"def": "1266",
+	"hp": "19980",
 	"cheal": "50",
+	"res": "45",
 	"faction": "Banner Lords",
+	"rarity": "Epic",
+	"type": "Defense",
 	"aura": "",
 	"totalBooks": "12",
 	"skills": [
@@ -23,7 +24,7 @@
 			"name": "Bloodied Mace",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +10%\n",
 			"multiplier": "2.6*DEF+2*ATK",
 			"numBooksToMax": "4"
 		},
@@ -33,7 +34,7 @@
 			"name": "Misdirect",
 			"maxcd": "4",
 			"mincd": "2",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		},
@@ -43,11 +44,9 @@
 			"name": "Lordly Challenge",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +10%\nLvl. 7 Cooldown -1Lvl. 7 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Buff/Debuff Chance +10%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Buff/Debuff Chance +10%\nLevel 7: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "6"
 		}
-	],
-	"rarity": "Epic",
-	"type": "Defense"
+	]
 }

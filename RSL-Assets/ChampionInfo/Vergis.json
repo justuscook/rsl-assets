@@ -1,20 +1,21 @@
 {
-	"name": "Vergis",
 	"key": "l10n:hero-type/name?id=10#static",
+	"name": "Vergis",
 	"id": 16,
-	"avatar": "10",
-	"affinity": "Spirit",
-	"hp": "16020",
-	"atk": "925",
-	"def": "1310",
-	"spd": "98",
-	"res": "45",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Spirit",
+	"atk": "925",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "98",
+	"def": "1310",
+	"hp": "16020",
 	"cheal": "50",
+	"res": "45",
 	"faction": "High Elves",
-	"aura": "Increase Ally  in Dungeons by 33",
+	"rarity": "Epic",
+	"type": "Defense",
+	"aura": "Increases Ally DEF in Dungeons by 33%.",
 	"totalBooks": "7",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Pierce",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\n",
 			"multiplier": "3.9*DEF",
 			"numBooksToMax": "4"
 		},
@@ -33,7 +34,7 @@
 			"name": "Aegis",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		},
@@ -43,11 +44,9 @@
 			"name": "Second Wind [Passive]",
 			"maxcd": "3",
 			"mincd": "1",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		}
-	],
-	"rarity": "Epic",
-	"type": "Defense"
+	]
 }

@@ -1,20 +1,21 @@
 {
-	"name": "Corpse Collector",
 	"key": "l10n:hero-type/name?id=3960#static",
+	"name": "Corpse Collector",
 	"id": 3966,
-	"avatar": "3960",
-	"affinity": "Force",
-	"hp": "17175",
-	"atk": "1167",
-	"def": "991",
-	"spd": "106",
-	"res": "30",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Force",
+	"atk": "1167",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "106",
+	"def": "991",
+	"hp": "17175",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Undead Hordes",
-	"aura": "Increase Ally ACC in Arena battles by 40",
+	"rarity": "Epic",
+	"type": "Support",
+	"aura": "Increases Ally ACC in Arena Battles by 40.",
 	"totalBooks": "15",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Insidious Parasite",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +10%\n",
 			"multiplier": "3.6*ATK",
 			"numBooksToMax": "4"
 		},
@@ -33,7 +34,7 @@
 			"name": "Hailfire",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +10%\nLvl. 7 Cooldown -1Lvl. 7 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Buff/Debuff Chance +10%\nLevel 7: Cooldown -1\n",
 			"multiplier": "2.5*ATK",
 			"numBooksToMax": "6"
 		},
@@ -43,11 +44,9 @@
 			"name": "Noxious Escape",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
 			"multiplier": "1.65*ATK",
 			"numBooksToMax": "5"
 		}
-	],
-	"rarity": "Epic",
-	"type": "Support"
+	]
 }

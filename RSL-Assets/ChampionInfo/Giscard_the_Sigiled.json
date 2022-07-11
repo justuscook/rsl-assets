@@ -1,20 +1,21 @@
 {
-	"name": "Giscard the Sigiled",
 	"key": "l10n:hero-type/name?id=5960#static",
+	"name": "Giscard the Sigiled",
 	"id": 5966,
-	"avatar": "5960",
-	"affinity": "Spirit",
-	"hp": "17505",
-	"atk": "683",
-	"def": "1454",
-	"spd": "96",
-	"res": "45",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Spirit",
+	"atk": "683",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "96",
+	"def": "1454",
+	"hp": "17505",
 	"cheal": "50",
+	"res": "45",
 	"faction": "Banner Lords",
-	"aura": "Increase Ally  in Faction Crypts by 27",
+	"rarity": "Epic",
+	"type": "Defense",
+	"aura": "Increases Ally DEF in Faction Crypts by 27%.",
 	"totalBooks": "12",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Foebreaker",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Buff/Debuff Chance +10%\n",
 			"multiplier": "3.65*DEF",
 			"numBooksToMax": "5"
 		},
@@ -33,7 +34,7 @@
 			"name": "Lion's Roar",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +15%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +15%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Cooldown -1\n",
 			"multiplier": "3.6*DEF",
 			"numBooksToMax": "5"
 		},
@@ -43,7 +44,7 @@
 			"name": "Field of Strength",
 			"maxcd": "5",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		},
@@ -55,9 +56,7 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": "0"
+			"numBooksToMax": ""
 		}
-	],
-	"rarity": "Epic",
-	"type": "Defense"
+	]
 }

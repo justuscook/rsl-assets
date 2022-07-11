@@ -1,20 +1,21 @@
 {
-	"name": "Skullcrusher",
 	"key": "l10n:hero-type/name?id=650#static",
+	"name": "Skullcrusher",
 	"id": 656,
-	"avatar": "650",
-	"affinity": "Force",
-	"hp": "19320",
-	"atk": "826",
-	"def": "1189",
-	"spd": "98",
-	"res": "45",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Force",
+	"atk": "826",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "98",
+	"def": "1189",
+	"hp": "19320",
 	"cheal": "50",
+	"res": "45",
 	"faction": "Ogryn Tribes",
-	"aura": "Increase Ally  in Faction Crypts by 45",
+	"rarity": "Epic",
+	"type": "Defense",
+	"aura": "Increases Ally RES in Faction Crypts by 45.",
 	"totalBooks": "5",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Smash",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\n",
 			"multiplier": "3.7*DEF",
 			"numBooksToMax": "4"
 		},
@@ -33,7 +34,7 @@
 			"name": "Stonewall",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		},
@@ -45,9 +46,7 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": "0"
+			"numBooksToMax": ""
 		}
-	],
-	"rarity": "Epic",
-	"type": "Defense"
+	]
 }

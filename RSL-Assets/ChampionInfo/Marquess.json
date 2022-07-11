@@ -1,20 +1,21 @@
 {
-	"name": "Marquess",
 	"key": "l10n:hero-type/name?id=2940#static",
+	"name": "Marquess",
 	"id": 2946,
-	"avatar": "2940",
-	"affinity": "Spirit",
-	"hp": "17175",
-	"atk": "870",
-	"def": "1013",
-	"spd": "89",
-	"res": "30",
 	"acc": "10",
-	"crate": "15",
+	"affinity": "Spirit",
+	"atk": "870",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "89",
+	"def": "1013",
+	"hp": "17175",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Demonspawn",
-	"aura": "Increase Ally  in Faction Crypts by 15",
+	"rarity": "Rare",
+	"type": "Defense",
+	"aura": "Increases Ally DEF in Faction Crypts by 15%.",
 	"totalBooks": "15",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Disdainful Swipe",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\n",
 			"multiplier": "DEF*5",
 			"numBooksToMax": "3"
 		},
@@ -33,7 +34,7 @@
 			"name": "Crush the Weak",
 			"maxcd": "3",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Buff/Debuff Chance +5%\n",
 			"multiplier": "DEF*4.6",
 			"numBooksToMax": "5"
 		},
@@ -43,11 +44,9 @@
 			"name": "Freeze Solid",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\nLvl. 7 Damage +10%\nLvl. 8 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Cooldown -1\nLevel 7: Damage +0\nLevel 8: Buff/Debuff Chance +0\n",
 			"multiplier": "DEF*6.5",
 			"numBooksToMax": "7"
 		}
-	],
-	"rarity": "Rare",
-	"type": "Defense"
+	]
 }

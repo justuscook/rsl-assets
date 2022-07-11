@@ -1,20 +1,21 @@
 {
-	"name": "Iron Brago",
 	"key": "l10n:hero-type/name?id=5670#static",
+	"name": "Iron Brago",
 	"id": 5676,
-	"avatar": "5670",
-	"affinity": "Spirit",
-	"hp": "18165",
-	"atk": "881",
-	"def": "1487",
-	"spd": "99",
-	"res": "50",
 	"acc": "10",
-	"crate": "15",
+	"affinity": "Spirit",
+	"atk": "881",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "99",
+	"def": "1487",
+	"hp": "18165",
 	"cheal": "50",
+	"res": "50",
 	"faction": "Orcs",
-	"aura": "Increase Ally  in Doom Tower battles by 34",
+	"rarity": "Legendary",
+	"type": "Defense",
+	"aura": "Increases Ally DEF in Doom Tower Battles by 34%.",
 	"totalBooks": "16",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Molten Pummeling",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\n",
 			"multiplier": "3.6*DEF",
 			"numBooksToMax": "4"
 		},
@@ -33,8 +34,8 @@
 			"name": "Fearless Charge",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +10%\nLvl. 7 Cooldown -1Lvl. 7 Buff/Debuff Chance +100%\n",
-			"multiplier": null,
+			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Buff/Debuff Chance +10%\nLevel 7: Cooldown -1\n",
+			"multiplier": "",
 			"numBooksToMax": "6"
 		},
 		{
@@ -43,7 +44,7 @@
 			"name": "Battle Storm",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +10%\nLvl. 7 Cooldown -1Lvl. 7 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Buff/Debuff Chance +10%\nLevel 7: Cooldown -1\n",
 			"multiplier": "3.7*DEF",
 			"numBooksToMax": "6"
 		},
@@ -55,9 +56,7 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": "0"
+			"numBooksToMax": ""
 		}
-	],
-	"rarity": "Legendary",
-	"type": "Defense"
+	]
 }

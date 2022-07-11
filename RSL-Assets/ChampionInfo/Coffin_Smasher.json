@@ -1,19 +1,20 @@
 {
-	"name": "Coffin Smasher",
 	"key": "l10n:hero-type/name?id=4470#static",
+	"name": "Coffin Smasher",
 	"id": 4476,
-	"avatar": "4470",
-	"affinity": "Magic",
-	"hp": "21135",
-	"atk": "683",
-	"def": "936",
-	"spd": "92",
-	"res": "40",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Magic",
+	"atk": "683",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "92",
+	"def": "936",
+	"hp": "21135",
 	"cheal": "50",
-	"faction": "Knights Revenant",
+	"res": "40",
+	"faction": "Knight Revenant",
+	"rarity": "Rare",
+	"type": "HP",
 	"aura": "",
 	"totalBooks": "14",
 	"skills": [
@@ -23,7 +24,7 @@
 			"name": "Mallet Crescendo",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +5%\nLvl. 7 Buff/Debuff Chance +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Damage +5%\nLevel 7: Buff/Debuff Chance +5%\n",
 			"multiplier": "0.06*HP",
 			"numBooksToMax": "6"
 		},
@@ -33,7 +34,7 @@
 			"name": "Tombfire",
 			"maxcd": "4",
 			"mincd": "4",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +5%\nLvl. 7 Buff/Debuff Chance +5%\nLvl. 8 Damage +10%\nLvl. 9 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Damage +5%\nLevel 7: Buff/Debuff Chance +5%\nLevel 8: Damage +10%\nLevel 9: Buff/Debuff Chance +10%\n",
 			"multiplier": "0.22*HP",
 			"numBooksToMax": "8"
 		},
@@ -45,9 +46,7 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": "0"
+			"numBooksToMax": ""
 		}
-	],
-	"rarity": "Rare",
-	"type": "Health"
+	]
 }

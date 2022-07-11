@@ -1,19 +1,20 @@
 {
-	"name": "Infiltrator",
 	"key": "l10n:hero-type/name?id=5920#static",
+	"name": "Infiltrator",
 	"id": 5926,
-	"avatar": "5920",
-	"affinity": "Force",
-	"hp": "13875",
-	"atk": "1123",
-	"def": "705",
-	"spd": "101",
-	"res": "30",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Force",
+	"atk": "1123",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "101",
+	"def": "705",
+	"hp": "13875",
 	"cheal": "50",
-	"faction": "Samurai",
+	"res": "30",
+	"faction": "Shadowkin",
+	"rarity": "Uncommon",
+	"type": "Attack",
 	"aura": "",
 	"totalBooks": "11",
 	"skills": [
@@ -23,7 +24,7 @@
 			"name": "Shank",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Damage +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\nLevel 6: Damage +5%\n",
 			"multiplier": "3.9*ATK",
 			"numBooksToMax": "5"
 		},
@@ -33,11 +34,9 @@
 			"name": "Throwing Knives",
 			"maxcd": "4",
 			"mincd": "2",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\nLvl. 7 Cooldown -1Lvl. 7 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\nLevel 6: Cooldown -1\nLevel 7: Cooldown -1\n",
 			"multiplier": "3.4*ATK",
 			"numBooksToMax": "6"
 		}
-	],
-	"rarity": "Uncommon",
-	"type": "Attack"
+	]
 }

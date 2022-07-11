@@ -1,20 +1,21 @@
 {
-	"name": "Grinner",
 	"key": "l10n:hero-type/name?id=1200#static",
+	"name": "Grinner",
 	"id": 1206,
-	"avatar": "1200",
-	"affinity": "Force",
-	"hp": "14370",
-	"atk": "936",
-	"def": "1134",
-	"spd": "110",
-	"res": "30",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Force",
+	"atk": "936",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "110",
+	"def": "1134",
+	"hp": "14370",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Undead Hordes",
-	"aura": "Increase Ally  in Faction Crypts by 30",
+	"rarity": "Rare",
+	"type": "Support",
+	"aura": "Increases Ally RES in Faction Crypts by 30.",
 	"totalBooks": "14",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Bile",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\n",
 			"multiplier": "3.9*ATK",
 			"numBooksToMax": "4"
 		},
@@ -33,21 +34,19 @@
 			"name": "Shock",
 			"maxcd": "5",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\nLvl. 7 Buff/Debuff Chance +10%\nLvl. 8 Cooldown -1Lvl. 8 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Cooldown -1\nLevel 7: Buff/Debuff Chance +0\nLevel 8: Cooldown -1\n",
 			"multiplier": "4.2*ATK",
 			"numBooksToMax": "7"
 		},
 		{
 			"desc": "Revives an ally with 50% HP. Places a [Shield] buff on the revived Champion for 2 turns equal to 20% of their MAX HP.",
-			"basedOn": "[Enemy MAX HP]",
+			"basedOn": "",
 			"name": "Unbury",
 			"maxcd": "7",
 			"mincd": "4",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\nLevel 4: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "3"
 		}
-	],
-	"rarity": "Rare",
-	"type": "Support"
+	]
 }

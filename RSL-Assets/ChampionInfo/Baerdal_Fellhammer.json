@@ -1,20 +1,21 @@
 {
-	"name": "Baerdal Fellhammer",
 	"key": "l10n:hero-type/name?id=4290#static",
+	"name": "Baerdal Fellhammer",
 	"id": 4296,
-	"avatar": "4290",
-	"affinity": "Void",
-	"hp": "16185",
-	"atk": "1398",
-	"def": "826",
-	"spd": "94",
-	"res": "60",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Void",
+	"atk": "1398",
 	"cdamage": "60",
+	"crate": "15",
+	"spd": "94",
+	"def": "826",
+	"hp": "16185",
 	"cheal": "50",
+	"res": "60",
 	"faction": "Dwarves",
-	"aura": "Increase Ally ATK in Dungeons by 32",
+	"rarity": "Epic",
+	"type": "Attack",
+	"aura": "Increases Ally ATK in Dungeons by 32%.",
 	"totalBooks": "9",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Ensorcelled Axe",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +10%\n",
 			"multiplier": "2.1*ATK",
 			"numBooksToMax": "4"
 		},
@@ -33,7 +34,7 @@
 			"name": "Fey Protection",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\nLevel 6: Cooldown -1\n",
 			"multiplier": "1.8*ATK",
 			"numBooksToMax": "5"
 		},
@@ -45,9 +46,7 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": "0"
+			"numBooksToMax": ""
 		}
-	],
-	"rarity": "Epic",
-	"type": "Attack"
+	]
 }

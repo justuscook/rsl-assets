@@ -1,19 +1,20 @@
 {
-	"name": "Harrier",
 	"key": "l10n:hero-type/name?id=3410#static",
+	"name": "Harrier",
 	"id": 3416,
-	"avatar": "3410",
-	"affinity": "Void",
-	"hp": "13545",
-	"atk": "1376",
-	"def": "749",
-	"spd": "96",
-	"res": "30",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Void",
+	"atk": "1376",
 	"cdamage": "57",
+	"crate": "15",
+	"spd": "96",
+	"def": "749",
+	"hp": "13545",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Sacred Order",
+	"rarity": "Rare",
+	"type": "Attack",
 	"aura": "",
 	"totalBooks": "12",
 	"skills": [
@@ -23,7 +24,7 @@
 			"name": "Trick Shot",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\n",
 			"multiplier": "3.5*ATK",
 			"numBooksToMax": "4"
 		},
@@ -33,7 +34,7 @@
 			"name": "Puncture Bolts",
 			"maxcd": "3",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Buff/Debuff Chance +10%\n",
 			"multiplier": "2.5*ATK",
 			"numBooksToMax": "5"
 		},
@@ -43,21 +44,9 @@
 			"name": "Deadeye's Strike",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Cooldown -1\n",
 			"multiplier": "5.5*ATK",
 			"numBooksToMax": "3"
-		},
-		{
-			"desc": "Will ignore 50% of the target's DEF when this Champion inflicts a critical hit.\r\n\r\n[Only available when Hospitaller is on the same team.]",
-			"basedOn": "",
-			"name": "Skillful Partner [P]",
-			"maxcd": "0",
-			"mincd": "0",
-			"books": "",
-			"multiplier": "",
-			"numBooksToMax": "0"
 		}
-	],
-	"rarity": "Rare",
-	"type": "Attack"
+	]
 }

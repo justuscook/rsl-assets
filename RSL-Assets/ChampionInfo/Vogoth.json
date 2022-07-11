@@ -1,20 +1,21 @@
 {
-	"name": "Vogoth",
 	"key": "l10n:hero-type/name?id=4960#static",
+	"name": "Vogoth",
 	"id": 4966,
-	"avatar": "4960",
-	"affinity": "Spirit",
-	"hp": "19320",
-	"atk": "804",
-	"def": "1211",
-	"spd": "89",
-	"res": "30",
 	"acc": "15",
-	"crate": "15",
+	"affinity": "Spirit",
+	"atk": "804",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "89",
+	"def": "1211",
+	"hp": "19320",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Undead Hordes",
-	"aura": "Increase Ally ACC in in all Battles by 40",
+	"rarity": "Epic",
+	"type": "HP",
+	"aura": "Increases Ally ACC in All Battles by 40.",
 	"totalBooks": "14",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Horrendous Strength",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Buff/Debuff Chance +5%\n",
 			"multiplier": "0.07*HP",
 			"numBooksToMax": "5"
 		},
@@ -33,19 +34,19 @@
 			"name": "Wave of Revulsion",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +5%\nLvl. 7 Cooldown -1Lvl. 7 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Buff/Debuff Chance +5%\nLevel 7: Cooldown -1\n",
 			"multiplier": "0.2*HP",
 			"numBooksToMax": "6"
 		},
 		{
 			"desc": "Whenever this Champion is attacked, heals all allies by 50% of the damage received. \r\n\r\n[Only heals by 25% of the damage received from Boss attacks. This Champion only receives half of the heal that all other allies receive.]",
-			"basedOn": "[DEALT_DMG]",
+			"basedOn": "",
 			"name": "Festering Dynamo [P]",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": "0"
+			"numBooksToMax": ""
 		},
 		{
 			"desc": "When attacked, places a [Leech] debuff on the attacker for 2 turns.\r\n\r\nIf the attacker is under a [Provoke] debuff placed by this Champion, also has a 70% chance of increasing the cooldown of a random skill on the attacker by 2 turns. Occurs once per attack.",
@@ -53,11 +54,9 @@
 			"name": "Eerie Presence [P]",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Buff/Debuff Chance +10%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Buff/Debuff Chance +10%\n",
 			"multiplier": "",
 			"numBooksToMax": "3"
 		}
-	],
-	"rarity": "Epic",
-	"type": "Health"
+	]
 }

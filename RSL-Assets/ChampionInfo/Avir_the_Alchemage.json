@@ -1,19 +1,20 @@
 {
-	"name": "Avir the Alchemage",
 	"key": "l10n:hero-type/name?id=5250#static",
+	"name": "Avir the Alchemage",
 	"id": 5256,
-	"avatar": "5250",
-	"affinity": "Magic",
-	"hp": "16680",
-	"atk": "881",
-	"def": "1035",
-	"spd": "102",
-	"res": "30",
 	"acc": "10",
-	"crate": "15",
+	"affinity": "Magic",
+	"atk": "881",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "102",
+	"def": "1035",
+	"hp": "16680",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Dwarves",
+	"rarity": "Rare",
+	"type": "Support",
 	"aura": "",
 	"totalBooks": "13",
 	"skills": [
@@ -23,7 +24,7 @@
 			"name": "Flask of Vitreol",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +10%\n",
 			"multiplier": "4.7*ATK",
 			"numBooksToMax": "4"
 		},
@@ -33,7 +34,7 @@
 			"name": "Corroding Catalyst",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +15%\nLvl. 7 Buff/Debuff Chance +20%\nLvl. 8 Cooldown -1Lvl. 8 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Buff/Debuff Chance +15%\nLevel 7: Buff/Debuff Chance +20%\nLevel 8: Cooldown -1\n",
 			"multiplier": "4.2*ATK",
 			"numBooksToMax": "7"
 		},
@@ -43,11 +44,9 @@
 			"name": "Vitalizing Potions",
 			"maxcd": "6",
 			"mincd": "4",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		}
-	],
-	"rarity": "Rare",
-	"type": "Support"
+	]
 }

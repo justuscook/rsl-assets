@@ -1,19 +1,20 @@
 {
-	"name": "Sorceress",
 	"key": "l10n:hero-type/name?id=750#static",
+	"name": "Sorceress",
 	"id": 756,
-	"avatar": "750",
-	"affinity": "Force",
-	"hp": "12555",
-	"atk": "1321",
-	"def": "870",
-	"spd": "101",
-	"res": "30",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Force",
+	"atk": "1321",
 	"cdamage": "57",
+	"crate": "15",
+	"spd": "101",
+	"def": "870",
+	"hp": "12555",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Undead Hordes",
+	"rarity": "Rare",
+	"type": "Attack",
 	"aura": "",
 	"totalBooks": "12",
 	"skills": [
@@ -23,7 +24,7 @@
 			"name": "Crystal Bolt",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\n",
 			"multiplier": "3*ATK",
 			"numBooksToMax": "4"
 		},
@@ -33,7 +34,7 @@
 			"name": "Magic Arrows",
 			"maxcd": "3",
 			"mincd": "2",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Damage +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Damage +10%\nLevel 6: Cooldown -1\n",
 			"multiplier": "2.5*ATK",
 			"numBooksToMax": "5"
 		},
@@ -43,11 +44,9 @@
 			"name": "Vine Trap",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Cooldown -1\n",
 			"multiplier": "1.9*ATK",
 			"numBooksToMax": "3"
 		}
-	],
-	"rarity": "Rare",
-	"type": "Attack"
+	]
 }

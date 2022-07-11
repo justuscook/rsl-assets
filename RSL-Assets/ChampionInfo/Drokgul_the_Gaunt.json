@@ -1,20 +1,21 @@
 {
-	"name": "Drokgul the Gaunt",
 	"key": "l10n:hero-type/name?id=4790#static",
+	"name": "Drokgul the Gaunt",
 	"id": 4796,
-	"avatar": "4790",
-	"affinity": "Spirit",
-	"hp": "22965",
-	"atk": "991",
-	"def": "1057",
-	"spd": "107",
-	"res": "40",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Spirit",
+	"atk": "991",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "107",
+	"def": "1057",
+	"hp": "22965",
 	"cheal": "50",
+	"res": "40",
 	"faction": "Ogryn Tribes",
-	"aura": "Increase Ally HP in in all Battles by 25",
+	"rarity": "Legendary",
+	"type": "Support",
+	"aura": "Increases Ally HP in All Battles by 25%.",
 	"totalBooks": "11",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Bonebreak Boulder",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Buff/Debuff Chance +10%\n",
 			"multiplier": "0.2*HP",
 			"numBooksToMax": "5"
 		},
@@ -33,31 +34,29 @@
 			"name": "Eldritch Ground",
 			"maxcd": "5",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		},
 		{
 			"desc": "[Active Effect]\r\n\r\nPlaces a [Shield] buff equal to 15% of this Champion's MAX HP on all allies for 3 turns. \r\n\r\n[Passive Effect]\r\n\r\nHeals each ally by 15% of this Champion's MAX HP whenever a [Shield] buff placed by this Skill expires, is removed, or is broken by an enemy attack. Allies whose [Shield] buffs are broken will also counterattack the enemy that breaks the [Shield]. When a [Shield] is broken, the heal occurs instantly before any remaining damage from the Shield-breaking attack is taken.",
-			"basedOn": "[HP]",
+			"basedOn": "",
 			"name": "Runestone Blessing",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Shield +5%\nLevel 3: Shield +5%\nLevel 4: Shield +10%\nLevel 5: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Passive part of skill 47904 Heal when Shield expires, ActivateSkill on Shield destroying.",
-			"basedOn": "[HP]",
+			"basedOn": "",
 			"name": "47906 (47904 Passive part)",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": "0"
+			"numBooksToMax": ""
 		}
-	],
-	"rarity": "Legendary",
-	"type": "Support"
+	]
 }

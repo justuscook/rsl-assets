@@ -1,19 +1,20 @@
 {
-	"name": "Crusher",
 	"key": "l10n:hero-type/name?id=2420#static",
+	"name": "Crusher",
 	"id": 2426,
-	"avatar": "2420",
-	"affinity": "Spirit",
-	"hp": "14370",
-	"atk": "870",
-	"def": "925",
-	"spd": "96",
-	"res": "30",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Spirit",
+	"atk": "870",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "96",
+	"def": "925",
+	"hp": "14370",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Barbarians",
+	"rarity": "Uncommon",
+	"type": "Defense",
 	"aura": "",
 	"totalBooks": "8",
 	"skills": [
@@ -23,7 +24,7 @@
 			"name": "Scythe",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\n",
 			"multiplier": "4*ATK",
 			"numBooksToMax": "4"
 		},
@@ -33,11 +34,9 @@
 			"name": "Savage Swipe",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Cooldown -1\n",
 			"multiplier": "6.2*ATK",
 			"numBooksToMax": "4"
 		}
-	],
-	"rarity": "Uncommon",
-	"type": "Defense"
+	]
 }

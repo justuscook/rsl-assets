@@ -1,20 +1,21 @@
 {
-	"name": "Urost the Soulcage",
 	"key": "l10n:hero-type/name?id=5080#static",
+	"name": "Urost the Soulcage",
 	"id": 5086,
-	"avatar": "5080",
-	"affinity": "Void",
-	"hp": "24450",
-	"atk": "782",
-	"def": "1167",
-	"spd": "95",
-	"res": "50",
 	"acc": "10",
-	"crate": "15",
+	"affinity": "Void",
+	"atk": "782",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "95",
+	"def": "1167",
+	"hp": "24450",
 	"cheal": "50",
+	"res": "50",
 	"faction": "Undead Hordes",
-	"aura": "Increase Ally  in in all Battles by 80",
+	"rarity": "Legendary",
+	"type": "HP",
+	"aura": "Increases Ally RES in All Battles by 80.",
 	"totalBooks": "15",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Jagged Knuckles",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 4 Damage +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Shield +5%\nLevel 4: Damage +10%\nLevel 5: Shield +10%\n",
 			"multiplier": "0.22*HP",
 			"numBooksToMax": "4"
 		},
@@ -33,7 +34,7 @@
 			"name": "Fetid Eruption",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +10%\nLvl. 7 Cooldown -1Lvl. 7 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Buff/Debuff Chance +10%\nLevel 7: Cooldown -1\n",
 			"multiplier": "0.24*HP",
 			"numBooksToMax": "6"
 		},
@@ -43,29 +44,9 @@
 			"name": "Soul Bounty",
 			"maxcd": "5",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
-		},
-		{
-			"desc": "Revives self when hero 5060 revives an ally and activates skill 50802",
-			"basedOn": "[HP]",
-			"name": "Skill 50805 name",
-			"maxcd": "0",
-			"mincd": "0",
-			"books": "",
-			"multiplier": "",
-			"numBooksToMax": "0"
-		},
-		{
-			"desc": "Part of the skill 50803\nWhen enemy attacks an ally under Decrease damage taken buff - has a 50% chance to place a Provoke on this enemy for 1 turn",
-			"basedOn": "",
-			"name": "Skill 50806 name",
-			"maxcd": "0",
-			"mincd": "0",
-			"books": "",
-			"multiplier": "",
-			"numBooksToMax": "0"
 		},
 		{
 			"desc": "When attacked, has a 50% chance of placing a 5% [Poison] debuff on the attacker for 2 turns. \r\n\r\nWhenever an ally is attacked while under a [Strengthen] buff, has a 50% chance of placing a [Provoke] debuff on the attacker for 1 turn.\r\n\r\nIncreases this Champion’s MAX HP by 5% whenever an enemy receives damage from a [Poison] debuff placed by this Champion.\r\nWhenever an enemy receives damage from a [Poison] debuff placed by this Champion, also decreases their MAX HP by 5%.\r\n\r\n[Cannot decrease a single Champion's MAX HP by more than 25% in one Battle. Will not decrease Bosses' MAX HP. Cannot increase this Champion's MAX HP by more than 50%.]",
@@ -73,11 +54,9 @@
 			"name": "Call of the Cage [P]",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Buff/Debuff Chance +10%\n",
 			"multiplier": "",
 			"numBooksToMax": "3"
 		}
-	],
-	"rarity": "Legendary",
-	"type": "Health"
+	]
 }

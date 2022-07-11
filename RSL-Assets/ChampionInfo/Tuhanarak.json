@@ -1,20 +1,21 @@
 {
-	"name": "Tuhanarak",
 	"key": "l10n:hero-type/name?id=6250#static",
+	"name": "Tuhanarak",
 	"id": 6256,
-	"avatar": "6250",
-	"affinity": "Void",
-	"hp": "21645",
-	"atk": "859",
-	"def": "1277",
-	"spd": "106",
-	"res": "30",
 	"acc": "20",
-	"crate": "15",
+	"affinity": "Void",
+	"atk": "859",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "106",
+	"def": "1277",
+	"hp": "21645",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Barbarians",
-	"aura": "Increase Ally ACC in in all Battles by 70",
+	"rarity": "Legendary",
+	"type": "Support",
+	"aura": "Increases Ally ACC in All Battles by 70.",
 	"totalBooks": "11",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Sun's Kiss",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +10%\n",
 			"multiplier": "4.1*DEF",
 			"numBooksToMax": "4"
 		},
@@ -33,7 +34,7 @@
 			"name": "Radiant Suffering",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
 			"multiplier": "5.6*DEF",
 			"numBooksToMax": "5"
 		},
@@ -43,7 +44,7 @@
 			"name": "Desert Fitness",
 			"maxcd": "5",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		},
@@ -55,9 +56,7 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": "0"
+			"numBooksToMax": ""
 		}
-	],
-	"rarity": "Legendary",
-	"type": "Support"
+	]
 }

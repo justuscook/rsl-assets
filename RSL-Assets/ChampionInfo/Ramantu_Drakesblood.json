@@ -1,20 +1,21 @@
 {
-	"name": "Ramantu Drakesblood",
 	"key": "l10n:hero-type/name?id=6000#static",
+	"name": "Ramantu Drakesblood",
 	"id": 6006,
-	"avatar": "6000",
-	"affinity": "Void",
-	"hp": "15690",
-	"atk": "1487",
-	"def": "1046",
-	"spd": "105",
-	"res": "30",
 	"acc": "20",
-	"crate": "15",
+	"affinity": "Void",
+	"atk": "1487",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "105",
+	"def": "1046",
+	"hp": "15690",
 	"cheal": "50",
-	"faction": "Lizard Men",
-	"aura": "Increase Ally ACC in in all Battles by 80",
+	"res": "30",
+	"faction": "Lizardmen",
+	"rarity": "Legendary",
+	"type": "Attack",
+	"aura": "Increases Ally ACC in All Battles by 80.",
 	"totalBooks": "11",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Psychic Overload",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +15%\n",
+			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +15%\n",
 			"multiplier": "3.2*ATK",
 			"numBooksToMax": "4"
 		},
@@ -33,7 +34,7 @@
 			"name": "Drake's Fury",
 			"maxcd": "3",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +15%\n",
+			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +15%\n",
 			"multiplier": "1.8*ATK",
 			"numBooksToMax": "4"
 		},
@@ -43,8 +44,8 @@
 			"name": "Blood Wings",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\n",
-			"multiplier": null,
+			"books": "Level 2: Buff/Debuff Chance +10%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Cooldown -1\n",
+			"multiplier": "",
 			"numBooksToMax": "3"
 		},
 		{
@@ -55,9 +56,7 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": "0"
+			"numBooksToMax": ""
 		}
-	],
-	"rarity": "Legendary",
-	"type": "Attack"
+	]
 }

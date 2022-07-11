@@ -1,20 +1,21 @@
 {
-	"name": "Roxam",
 	"key": "l10n:hero-type/name?id=5560#static",
+	"name": "Roxam",
 	"id": 5566,
-	"avatar": "5560",
-	"affinity": "Magic",
-	"hp": "16020",
-	"atk": "1553",
-	"def": "958",
-	"spd": "98",
-	"res": "30",
 	"acc": "10",
-	"crate": "15",
+	"affinity": "Magic",
+	"atk": "1553",
 	"cdamage": "63",
+	"crate": "15",
+	"spd": "98",
+	"def": "958",
+	"hp": "16020",
 	"cheal": "50",
-	"faction": "Lizard Men",
-	"aura": "Increase Ally C. RATE in Doom Tower battles by 23",
+	"res": "30",
+	"faction": "Lizardmen",
+	"rarity": "Legendary",
+	"type": "Attack",
+	"aura": "Increases Ally C. RATE in Doom Tower Battles by 23%.",
 	"totalBooks": "14",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Chroma Shift",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\n",
 			"multiplier": "3.6*ATK",
 			"numBooksToMax": "4"
 		},
@@ -33,7 +34,7 @@
 			"name": "Jungle Ambush",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Cooldown -1\n",
 			"multiplier": "6.1*ATK",
 			"numBooksToMax": "5"
 		},
@@ -43,8 +44,8 @@
 			"name": "Flicker Step",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
-			"multiplier": null,
+			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Cooldown -1\n",
+			"multiplier": "",
 			"numBooksToMax": "5"
 		},
 		{
@@ -55,9 +56,7 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": "0"
+			"numBooksToMax": ""
 		}
-	],
-	"rarity": "Legendary",
-	"type": "Attack"
+	]
 }

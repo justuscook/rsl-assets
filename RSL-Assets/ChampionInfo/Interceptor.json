@@ -1,19 +1,20 @@
 {
-	"name": "Interceptor",
 	"key": "l10n:hero-type/name?id=3050#static",
+	"name": "Interceptor",
 	"id": 3056,
-	"avatar": "3050",
-	"affinity": "Void",
-	"hp": "15360",
-	"atk": "881",
-	"def": "1123",
-	"spd": "84",
-	"res": "30",
 	"acc": "10",
-	"crate": "15",
+	"affinity": "Void",
+	"atk": "881",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "84",
+	"def": "1123",
+	"hp": "15360",
 	"cheal": "50",
+	"res": "30",
 	"faction": "High Elves",
+	"rarity": "Rare",
+	"type": "Defense",
 	"aura": "",
 	"totalBooks": "11",
 	"skills": [
@@ -23,7 +24,7 @@
 			"name": "Leg Pierce",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\n",
 			"multiplier": "4.4*DEF",
 			"numBooksToMax": "4"
 		},
@@ -33,7 +34,7 @@
 			"name": "Somnolent Toxin",
 			"maxcd": "6",
 			"mincd": "5",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Buff/Debuff Chance +5%\nLvl. 7 Cooldown -1Lvl. 7 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\nLevel 6: Buff/Debuff Chance +5%\nLevel 7: Cooldown -1\n",
 			"multiplier": "5.8*DEF",
 			"numBooksToMax": "6"
 		},
@@ -43,11 +44,9 @@
 			"name": "Ward Off",
 			"maxcd": "6",
 			"mincd": "5",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		}
-	],
-	"rarity": "Rare",
-	"type": "Defense"
+	]
 }

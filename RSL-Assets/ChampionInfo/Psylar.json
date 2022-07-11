@@ -1,20 +1,21 @@
 {
-	"name": "Psylar",
 	"key": "l10n:hero-type/name?id=1920#static",
+	"name": "Psylar",
 	"id": 1926,
-	"avatar": "1920",
-	"affinity": "Void",
-	"hp": "18165",
-	"atk": "1123",
-	"def": "969",
-	"spd": "105",
-	"res": "30",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Void",
+	"atk": "1123",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "105",
+	"def": "969",
+	"hp": "18165",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Dark Elves",
-	"aura": "Increase Ally SPD in Faction Crypts by 22",
+	"rarity": "Epic",
+	"type": "Support",
+	"aura": "Increases Ally SPD in Faction Crypts by 22.",
 	"totalBooks": "11",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Surge",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\n",
 			"multiplier": "2*ATK",
 			"numBooksToMax": "4"
 		},
@@ -33,7 +34,7 @@
 			"name": "Toxic Cloud",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Cooldown -1\n",
 			"multiplier": "3.8*ATK",
 			"numBooksToMax": "5"
 		},
@@ -43,11 +44,9 @@
 			"name": "Leaden Legs",
 			"maxcd": "6",
 			"mincd": "4",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		}
-	],
-	"rarity": "Epic",
-	"type": "Support"
+	]
 }

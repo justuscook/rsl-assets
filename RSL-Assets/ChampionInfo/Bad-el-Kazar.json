@@ -1,20 +1,21 @@
 {
-	"name": "Bad-el-Kazar",
 	"key": "l10n:hero-type/name?id=960#static",
+	"name": "Bad-el-Kazar",
 	"id": 966,
-	"avatar": "21080",
-	"affinity": "Force",
-	"hp": "20145",
-	"atk": "1079",
-	"def": "1156",
-	"spd": "102",
-	"res": "40",
 	"acc": "20",
-	"crate": "15",
+	"affinity": "Force",
+	"atk": "1079",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "102",
+	"def": "1156",
+	"hp": "20145",
 	"cheal": "50",
+	"res": "40",
 	"faction": "Undead Hordes",
-	"aura": "Increase Ally C. RATE in in all Battles by 25",
+	"rarity": "Legendary",
+	"type": "Support",
+	"aura": "Increases Ally C. RATE in All Battles by 25%.",
 	"totalBooks": "7",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Dark Sphere",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4  Heal +10%\nLvl. 5 Damage +10%\nLvl. 6  Heal +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Heal +10%\nLevel 5: Damage +10%\nLevel 6: Heal +10%\n",
 			"multiplier": "2.8*ATK",
 			"numBooksToMax": "5"
 		},
@@ -33,7 +34,7 @@
 			"name": "Malice",
 			"maxcd": "5",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		},
@@ -45,9 +46,7 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": "0"
+			"numBooksToMax": ""
 		}
-	],
-	"rarity": "Legendary",
-	"type": "Support"
+	]
 }

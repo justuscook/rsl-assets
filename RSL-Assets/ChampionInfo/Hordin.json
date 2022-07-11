@@ -1,20 +1,21 @@
 {
-	"name": "Hordin",
 	"key": "l10n:hero-type/name?id=170#static",
+	"name": "Hordin",
 	"id": 176,
-	"avatar": "170",
-	"affinity": "Magic",
-	"hp": "16845",
-	"atk": "1321",
-	"def": "859",
-	"spd": "95",
-	"res": "30",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Magic",
+	"atk": "1321",
 	"cdamage": "60",
+	"crate": "15",
+	"spd": "95",
+	"def": "859",
+	"hp": "16845",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Banner Lords",
-	"aura": "Increase Ally SPD in Faction Crypts by 20",
+	"rarity": "Epic",
+	"type": "Attack",
+	"aura": "Increases Ally SPD in Faction Crypts by 20.",
 	"totalBooks": "9",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Relentless Strike",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\n",
 			"multiplier": "1.9*ATK",
 			"numBooksToMax": "4"
 		},
@@ -33,7 +34,7 @@
 			"name": "Bloodletter",
 			"maxcd": "4",
 			"mincd": "4",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +10%\n",
 			"multiplier": "6.5*ATK",
 			"numBooksToMax": "4"
 		},
@@ -43,11 +44,9 @@
 			"name": "Burning Hatred",
 			"maxcd": "6",
 			"mincd": "5",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		}
-	],
-	"rarity": "Epic",
-	"type": "Attack"
+	]
 }

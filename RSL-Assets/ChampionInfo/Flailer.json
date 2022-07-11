@@ -1,20 +1,21 @@
 {
-	"name": "Flailer",
 	"key": "l10n:hero-type/name?id=5450#static",
+	"name": "Flailer",
 	"id": 5456,
-	"avatar": "5450",
-	"affinity": "Magic",
-	"hp": "15525",
-	"atk": "958",
-	"def": "1035",
-	"spd": "93",
-	"res": "40",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Magic",
+	"atk": "958",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "93",
+	"def": "1035",
+	"hp": "15525",
 	"cheal": "50",
+	"res": "40",
 	"faction": "Dwarves",
-	"aura": "Increase Ally  in Faction Crypts by 17",
+	"rarity": "Rare",
+	"type": "Defense",
+	"aura": "Increases Ally DEF in Faction Crypts by 17%.",
 	"totalBooks": "11",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Tangle Bash",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\n",
 			"multiplier": "4.3*DEF",
 			"numBooksToMax": "4"
 		},
@@ -33,7 +34,7 @@
 			"name": "Noble Stand",
 			"maxcd": "3",
 			"mincd": "2",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		},
@@ -43,11 +44,9 @@
 			"name": "Fury Swipe",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +10%\nLvl. 7 Cooldown -1Lvl. 7 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Buff/Debuff Chance +10%\nLevel 7: Cooldown -1\n",
 			"multiplier": "6.3*DEF",
 			"numBooksToMax": "6"
 		}
-	],
-	"rarity": "Rare",
-	"type": "Defense"
+	]
 }

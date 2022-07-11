@@ -1,20 +1,21 @@
 {
-	"name": "Kalvalax",
 	"key": "l10n:hero-type/name?id=6640#static",
+	"name": "Kalvalax",
 	"id": 6646,
-	"avatar": "6640",
-	"affinity": "Spirit",
-	"hp": "12720",
-	"atk": "1663",
-	"def": "1068",
-	"spd": "99",
-	"res": "30",
 	"acc": "10",
-	"crate": "15",
+	"affinity": "Spirit",
+	"atk": "1663",
 	"cdamage": "63",
+	"crate": "15",
+	"spd": "99",
+	"def": "1068",
+	"hp": "12720",
 	"cheal": "50",
-	"faction": "Knights Revenant",
-	"aura": "Increase Ally SPD in in all Battles by 19",
+	"res": "30",
+	"faction": "Knight Revenant",
+	"rarity": "Legendary",
+	"type": "Attack",
+	"aura": "Increases Ally SPD in All Battles by 19.",
 	"totalBooks": "12",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Oozing Greatsword",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +10%\n",
 			"multiplier": "3.5*ATK",
 			"numBooksToMax": "4"
 		},
@@ -33,7 +34,7 @@
 			"name": "Corruption Locus",
 			"maxcd": "3",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Damage +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Damage +10%\n",
 			"multiplier": "2*ATK",
 			"numBooksToMax": "4"
 		},
@@ -43,7 +44,7 @@
 			"name": "Storm of Vitriol",
 			"maxcd": "4",
 			"mincd": "4",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Damage +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Damage +10%\n",
 			"multiplier": "(3.5*ATK)+(EffectsAppliedOnTargetCountOfKind(ContinuousDamage_KindId)*0.01*TRG_HP)",
 			"numBooksToMax": "4"
 		},
@@ -55,9 +56,7 @@
 			"mincd": "1",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": "0"
+			"numBooksToMax": ""
 		}
-	],
-	"rarity": "Legendary",
-	"type": "Attack"
+	]
 }

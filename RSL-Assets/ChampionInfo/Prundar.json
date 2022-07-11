@@ -1,20 +1,21 @@
 {
-	"name": "Prundar",
 	"key": "l10n:hero-type/name?id=5570#static",
+	"name": "Prundar",
 	"id": 5576,
-	"avatar": "5570",
-	"affinity": "Void",
-	"hp": "18165",
-	"atk": "683",
-	"def": "1409",
-	"spd": "95",
-	"res": "30",
 	"acc": "15",
-	"crate": "15",
+	"affinity": "Void",
+	"atk": "683",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "95",
+	"def": "1409",
+	"hp": "18165",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Ogryn Tribes",
-	"aura": "Increase Ally  in Doom Tower battles by 30",
+	"rarity": "Epic",
+	"type": "Defense",
+	"aura": "Increases Ally DEF in Doom Tower Battles by 30%.",
 	"totalBooks": "20",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Flaming Pigsticker",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +5%\nLvl. 7 Buff/Debuff Chance +5%\nLvl. 8 Damage +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Damage +5%\nLevel 7: Buff/Debuff Chance +5%\nLevel 8: Damage +10%\n",
 			"multiplier": "2.65*DEF",
 			"numBooksToMax": "7"
 		},
@@ -33,7 +34,7 @@
 			"name": "Hulking Tantrum",
 			"maxcd": "5",
 			"mincd": "3",
-			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +5%\nLvl. 7 Cooldown -1Lvl. 7 Buff/Debuff Chance +100%\nLvl. 8 Cooldown -1Lvl. 8 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Buff/Debuff Chance +5%\nLevel 7: Cooldown -1\nLevel 8: Cooldown -1\n",
 			"multiplier": "3*DEF",
 			"numBooksToMax": "7"
 		},
@@ -43,7 +44,7 @@
 			"name": "Giant Strength",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		},
@@ -53,11 +54,9 @@
 			"name": "Master of Taunts [P]",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +5%\n",
+			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Buff/Debuff Chance +5%\n",
 			"multiplier": "",
 			"numBooksToMax": "5"
 		}
-	],
-	"rarity": "Epic",
-	"type": "Defense"
+	]
 }

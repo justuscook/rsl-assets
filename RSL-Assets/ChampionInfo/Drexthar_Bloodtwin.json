@@ -1,20 +1,21 @@
 {
-	"name": "Drexthar Bloodtwin",
 	"key": "l10n:hero-type/name?id=3170#static",
+	"name": "Drexthar Bloodtwin",
 	"id": 3176,
-	"avatar": "3170",
-	"affinity": "Force",
-	"hp": "18990",
-	"atk": "914",
-	"def": "1398",
-	"spd": "100",
-	"res": "50",
 	"acc": "10",
-	"crate": "15",
+	"affinity": "Force",
+	"atk": "914",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "100",
+	"def": "1398",
+	"hp": "18990",
 	"cheal": "50",
+	"res": "50",
 	"faction": "Demonspawn",
-	"aura": "Increase Ally ACC in in all Battles by 70",
+	"rarity": "Legendary",
+	"type": "Defense",
+	"aura": "Increases Ally ACC in All Battles by 70.",
 	"totalBooks": "11",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Eldritch Flames",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\n",
 			"multiplier": "1*DEF",
 			"numBooksToMax": "3"
 		},
@@ -33,7 +34,7 @@
 			"name": "Burning Lash",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Cooldown -1\n",
 			"multiplier": "5.2*DEF",
 			"numBooksToMax": "5"
 		},
@@ -43,11 +44,9 @@
 			"name": "Fiery Blood [Passive]",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +10%\n",
 			"multiplier": "",
 			"numBooksToMax": "3"
 		}
-	],
-	"rarity": "Legendary",
-	"type": "Defense"
+	]
 }

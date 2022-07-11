@@ -1,20 +1,21 @@
 {
-	"name": "Cardiel",
 	"key": "l10n:hero-type/name?id=5760#static",
+	"name": "Cardiel",
 	"id": 5766,
-	"avatar": "5760",
-	"affinity": "Void",
-	"hp": "19650",
-	"atk": "1013",
-	"def": "1255",
-	"spd": "106",
-	"res": "50",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Void",
+	"atk": "1013",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "106",
+	"def": "1255",
+	"hp": "19650",
 	"cheal": "50",
+	"res": "50",
 	"faction": "Sacred Order",
-	"aura": "Increase Ally SPD in in all Battles by 19",
+	"rarity": "Legendary",
+	"type": "Support",
+	"aura": "Increases Ally SPD in All Battles by 19.",
 	"totalBooks": "12",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Cow the Wicked",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3  Heal +5%\nLvl. 4 Damage +5%\nLvl. 5  Heal +5%\nLvl. 6 Damage +10%\nLvl. 7  Heal +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Heal +5%\nLevel 4: Damage +5%\nLevel 5: Heal +5%\nLevel 6: Damage +10%\nLevel 7: Heal +10%\n",
 			"multiplier": "4*ATK",
 			"numBooksToMax": "6"
 		},
@@ -33,7 +34,7 @@
 			"name": "Angelsong",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		},
@@ -43,7 +44,7 @@
 			"name": "Heavenly Host",
 			"maxcd": "6",
 			"mincd": "4",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		},
@@ -53,31 +54,9 @@
 			"name": "Fiend Warden [P]",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +5%\n",
+			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +5%\n",
 			"multiplier": "",
 			"numBooksToMax": "3"
-		},
-		{
-			"desc": "Skill 6666612 description",
-			"basedOn": "[ATK]",
-			"name": "Skill 57601 name (CLONE)",
-			"maxcd": "0",
-			"mincd": "0",
-			"books": "",
-			"multiplier": "4*ATK",
-			"numBooksToMax": "0"
-		},
-		{
-			"desc": "Skill 6666612 description",
-			"basedOn": "",
-			"name": "Skill 57606 name hidden passive",
-			"maxcd": "0",
-			"mincd": "0",
-			"books": "",
-			"multiplier": "",
-			"numBooksToMax": "0"
 		}
-	],
-	"rarity": "Legendary",
-	"type": "Support"
+	]
 }

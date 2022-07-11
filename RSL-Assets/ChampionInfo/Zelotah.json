@@ -1,20 +1,21 @@
 {
-	"name": "Zelotah",
 	"key": "l10n:hero-type/name?id=610#static",
+	"name": "Zelotah",
 	"id": 616,
-	"avatar": "610",
-	"affinity": "Spirit",
-	"hp": "20640",
-	"atk": "826",
-	"def": "1101",
-	"spd": "95",
-	"res": "30",
 	"acc": "15",
-	"crate": "15",
+	"affinity": "Spirit",
+	"atk": "826",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "95",
+	"def": "1101",
+	"hp": "20640",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Undead Hordes",
-	"aura": "Increase Ally  in Arena battles by 70",
+	"rarity": "Epic",
+	"type": "Support",
+	"aura": "Increases Ally RES in Arena Battles by 70.",
 	"totalBooks": "14",
 	"skills": [
 		{
@@ -23,17 +24,17 @@
 			"name": "Hypnotic Gaze",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Buff/Debuff Chance +10%\n",
 			"multiplier": "4.7*ATK",
 			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Places a [Shield] buff on all allies equal to 20% of this Champion's MAX HP for 3 turns. Places a 15% [Continuous Heal] buff on all allies for 2 turns.",
-			"basedOn": "[HP]",
+			"basedOn": "",
 			"name": "Armored Scales",
 			"maxcd": "4",
 			"mincd": "4",
-			"books": "",
+			"books": "Level 2: Shield +5%\nLevel 3: Shield +5%\nLevel 4: Shield +5%\nLevel 5: Shield +5%\n",
 			"multiplier": "",
 			"numBooksToMax": "4"
 		},
@@ -43,11 +44,9 @@
 			"name": "Horrid Dreams",
 			"maxcd": "6",
 			"mincd": "5",
-			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Cooldown -1\n",
 			"multiplier": "5*ATK",
 			"numBooksToMax": "5"
 		}
-	],
-	"rarity": "Epic",
-	"type": "Support"
+	]
 }

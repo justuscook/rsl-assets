@@ -1,20 +1,21 @@
 {
-	"name": "Juliana",
 	"key": "l10n:hero-type/name?id=3440#static",
+	"name": "Juliana",
 	"id": 3446,
-	"avatar": "3440",
-	"affinity": "Magic",
-	"hp": "15360",
-	"atk": "1398",
-	"def": "881",
-	"spd": "103",
-	"res": "30",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Magic",
+	"atk": "1398",
 	"cdamage": "60",
+	"crate": "15",
+	"spd": "103",
+	"def": "881",
+	"hp": "15360",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Sacred Order",
-	"aura": "Increase Ally C. RATE in Arena battles by 20",
+	"rarity": "Epic",
+	"type": "Attack",
+	"aura": "Increases Ally C. RATE in Arena Battles by 20%.",
 	"totalBooks": "13",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Battledance",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\n",
 			"multiplier": "2.4*ATK",
 			"numBooksToMax": "3"
 		},
@@ -33,7 +34,7 @@
 			"name": "Lethal Partner",
 			"maxcd": "5",
 			"mincd": "5",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\n",
 			"multiplier": "3*ATK",
 			"numBooksToMax": "3"
 		},
@@ -43,11 +44,9 @@
 			"name": "Fire of Purgation",
 			"maxcd": "5",
 			"mincd": "5",
-			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +5%\nLvl. 7 Buff/Debuff Chance +5%\nLvl. 8 Buff/Debuff Chance +5%\n",
+			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Buff/Debuff Chance +5%\nLevel 7: Buff/Debuff Chance +5%\nLevel 8: Buff/Debuff Chance +5%\n",
 			"multiplier": "6*ATK",
 			"numBooksToMax": "7"
 		}
-	],
-	"rarity": "Epic",
-	"type": "Attack"
+	]
 }

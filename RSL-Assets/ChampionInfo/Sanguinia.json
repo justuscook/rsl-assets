@@ -1,20 +1,21 @@
 {
-	"name": "Sanguinia",
 	"key": "l10n:hero-type/name?id=5690#static",
+	"name": "Sanguinia",
 	"id": 5696,
-	"avatar": "5690",
-	"affinity": "Magic",
-	"hp": "20475",
-	"atk": "760",
-	"def": "1178",
-	"spd": "105",
-	"res": "30",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Magic",
+	"atk": "760",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "105",
+	"def": "1178",
+	"hp": "20475",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Sacred Order",
-	"aura": "Increase Ally ACC in Doom Tower battles by 55",
+	"rarity": "Epic",
+	"type": "Support",
+	"aura": "Increases Ally ACC in Doom Tower Battles by 55.",
 	"totalBooks": "12",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Red Punishment",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\n",
 			"multiplier": "2*ATK",
 			"numBooksToMax": "4"
 		},
@@ -33,7 +34,7 @@
 			"name": "Holy Blood",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		},
@@ -43,11 +44,9 @@
 			"name": "Sacrificial Lamb",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +10%\nLvl. 7 Buff/Debuff Chance +10%\nLvl. 8 Cooldown -1Lvl. 8 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Buff/Debuff Chance +10%\nLevel 7: Buff/Debuff Chance +10%\nLevel 8: Cooldown -1\n",
 			"multiplier": "7.6*ATK",
 			"numBooksToMax": "7"
 		}
-	],
-	"rarity": "Epic",
-	"type": "Support"
+	]
 }

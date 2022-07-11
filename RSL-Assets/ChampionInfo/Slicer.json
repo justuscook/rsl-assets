@@ -1,19 +1,20 @@
 {
-	"name": "Slicer",
 	"key": "l10n:hero-type/name?id=4220#static",
+	"name": "Slicer",
 	"id": 4226,
-	"avatar": "4220",
-	"affinity": "Spirit",
-	"hp": "14370",
-	"atk": "1090",
-	"def": "705",
-	"spd": "90",
-	"res": "30",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Spirit",
+	"atk": "1090",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "90",
+	"def": "705",
+	"hp": "14370",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Dwarves",
+	"rarity": "Uncommon",
+	"type": "Attack",
 	"aura": "",
 	"totalBooks": "11",
 	"skills": [
@@ -23,7 +24,7 @@
 			"name": "Finishing Blow",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\n",
 			"multiplier": "4.3*ATK",
 			"numBooksToMax": "4"
 		},
@@ -33,11 +34,9 @@
 			"name": "Cut Apart",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +5%\nLvl. 7 Buff/Debuff Chance +10%\nLvl. 8 Cooldown -1Lvl. 8 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Buff/Debuff Chance +5%\nLevel 7: Buff/Debuff Chance +10%\nLevel 8: Cooldown -1\n",
 			"multiplier": "6.7*ATK",
 			"numBooksToMax": "7"
 		}
-	],
-	"rarity": "Uncommon",
-	"type": "Attack"
+	]
 }

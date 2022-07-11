@@ -1,20 +1,21 @@
 {
-	"name": "Fortress Goon",
 	"key": "l10n:hero-type/name?id=3100#static",
+	"name": "Fortress Goon",
 	"id": 3106,
-	"avatar": "3100",
-	"affinity": "Magic",
-	"hp": "15525",
-	"atk": "859",
-	"def": "1134",
-	"spd": "90",
-	"res": "40",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Magic",
+	"atk": "859",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "90",
+	"def": "1134",
+	"hp": "15525",
 	"cheal": "50",
+	"res": "40",
 	"faction": "Ogryn Tribes",
-	"aura": "Increase Ally  in Dungeons by 23",
+	"rarity": "Rare",
+	"type": "Defense",
+	"aura": "Increases Ally DEF in Dungeons by 23%.",
 	"totalBooks": "12",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Cruel Trap",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Buff/Debuff Chance +10%\n",
 			"multiplier": "3*DEF+1*ATK",
 			"numBooksToMax": "5"
 		},
@@ -33,7 +34,7 @@
 			"name": "Devastating Wounds",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\nLvl. 6 Buff/Debuff Chance +10%\nLvl. 7 Cooldown -1Lvl. 7 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\nLevel 6: Buff/Debuff Chance +10%\nLevel 7: Cooldown -1\n",
 			"multiplier": "2*DEF+2*ATK",
 			"numBooksToMax": "6"
 		},
@@ -43,11 +44,9 @@
 			"name": "Mobile Fort",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		}
-	],
-	"rarity": "Rare",
-	"type": "Defense"
+	]
 }

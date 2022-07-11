@@ -1,19 +1,20 @@
 {
-	"name": "Alika",
 	"key": "l10n:hero-type/name?id=3250#static",
+	"name": "Alika",
 	"id": 3256,
-	"avatar": "3250",
-	"affinity": "Force",
-	"hp": "15855",
-	"atk": "1354",
-	"def": "892",
-	"spd": "101",
-	"res": "30",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Force",
+	"atk": "1354",
 	"cdamage": "60",
+	"crate": "15",
+	"spd": "101",
+	"def": "892",
+	"hp": "15855",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Barbarians",
+	"rarity": "Epic",
+	"type": "Attack",
 	"aura": "",
 	"totalBooks": "20",
 	"skills": [
@@ -23,7 +24,7 @@
 			"name": "Gap Shot",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Damage +5%\nLvl. 6 Damage +10%\nLvl. 7 Buff/Debuff Chance +5%\nLvl. 8 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Damage +5%\nLevel 6: Damage +10%\nLevel 7: Buff/Debuff Chance +5%\nLevel 8: Buff/Debuff Chance +10%\n",
 			"multiplier": "4.2*ATK",
 			"numBooksToMax": "7"
 		},
@@ -33,7 +34,7 @@
 			"name": "High Value Target",
 			"maxcd": "4",
 			"mincd": "2",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\nLvl. 7 Cooldown -1Lvl. 7 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\nLevel 6: Cooldown -1\nLevel 7: Cooldown -1\n",
 			"multiplier": "6.3*ATK",
 			"numBooksToMax": "6"
 		},
@@ -43,21 +44,19 @@
 			"name": "Disorient",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +10%\nLvl. 7 Buff/Debuff Chance +15%\nLvl. 8 Cooldown -1Lvl. 8 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Damage +10%\nLevel 7: Buff/Debuff Chance +15%\nLevel 8: Cooldown -1\n",
 			"multiplier": "4*ATK",
 			"numBooksToMax": "7"
 		},
 		{
 			"desc": "Revives this Champion with 75% HP when killed.\r\n\r\n[Only available when Sikara is on the same team and alive.]",
-			"basedOn": "[HP]",
+			"basedOn": "",
 			"name": "Devoted Sister [P]",
 			"maxcd": "7",
 			"mincd": "7",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": "0"
+			"numBooksToMax": ""
 		}
-	],
-	"rarity": "Epic",
-	"type": "Attack"
+	]
 }

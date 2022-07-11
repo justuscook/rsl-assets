@@ -1,20 +1,21 @@
 {
-	"name": "Dolor Lorekeeper",
 	"key": "l10n:hero-type/name?id=5150#static",
+	"name": "Dolor Lorekeeper",
 	"id": 5156,
-	"avatar": "5150",
-	"affinity": "Force",
-	"hp": "16845",
-	"atk": "1035",
-	"def": "870",
-	"spd": "98",
-	"res": "30",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Force",
+	"atk": "1035",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "98",
+	"def": "870",
+	"hp": "16845",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Dwarves",
-	"aura": "Increase Ally HP in in all Battles by 15",
+	"rarity": "Rare",
+	"type": "Support",
+	"aura": "Increases Ally HP in All Battles by 15%.",
 	"totalBooks": "12",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Banisher Axe",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +5%\nLvl. 7 Buff/Debuff Chance +5%\nLvl. 8 Buff/Debuff Chance +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Buff/Debuff Chance +5%\nLevel 7: Buff/Debuff Chance +5%\nLevel 8: Buff/Debuff Chance +5%\n",
 			"multiplier": "3.46*ATK",
 			"numBooksToMax": "7"
 		},
@@ -33,7 +34,7 @@
 			"name": "Stern Punishment",
 			"maxcd": "3",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\n",
 			"multiplier": "5.69*ATK",
 			"numBooksToMax": "4"
 		},
@@ -43,11 +44,9 @@
 			"name": "Forebear's Boon",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		}
-	],
-	"rarity": "Rare",
-	"type": "Support"
+	]
 }

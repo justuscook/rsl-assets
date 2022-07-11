@@ -1,19 +1,20 @@
 {
-	"name": "Fylja",
 	"key": "l10n:hero-type/name?id=6920#static",
+	"name": "Fylja",
 	"id": 6926,
-	"avatar": "6920",
-	"affinity": "Magic",
-	"hp": "14535",
-	"atk": "1310",
-	"def": "1024",
-	"spd": "104",
-	"res": "30",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Magic",
+	"atk": "1310",
 	"cdamage": "60",
+	"crate": "15",
+	"spd": "104",
+	"def": "1024",
+	"hp": "14535",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Dwarves",
+	"rarity": "Epic",
+	"type": "Attack",
 	"aura": "",
 	"totalBooks": "12",
 	"skills": [
@@ -23,7 +24,7 @@
 			"name": "Elders' Judgment",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Damage +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Damage +10%\n",
 			"multiplier": "1.7*ATK",
 			"numBooksToMax": "4"
 		},
@@ -33,7 +34,7 @@
 			"name": "Crushing Eternity",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Buff/Debuff Chance +15%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Buff/Debuff Chance +10%\nLevel 3: Buff/Debuff Chance +15%\nLevel 4: Cooldown -1\n",
 			"multiplier": "6.5*ATK",
 			"numBooksToMax": "3"
 		},
@@ -43,7 +44,7 @@
 			"name": "Righteous Evocation",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +10%\nLvl. 3  Heal +10%\nLvl. 4 Damage +10%\nLvl. 5  Heal +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +10%\nLevel 3: Heal +10%\nLevel 4: Damage +10%\nLevel 5: Heal +10%\nLevel 6: Cooldown -1\n",
 			"multiplier": "3.5*ATK",
 			"numBooksToMax": "5"
 		},
@@ -55,9 +56,7 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": "0"
+			"numBooksToMax": ""
 		}
-	],
-	"rarity": "Epic",
-	"type": "Attack"
+	]
 }

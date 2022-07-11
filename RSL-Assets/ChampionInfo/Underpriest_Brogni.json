@@ -1,20 +1,21 @@
 {
-	"name": "Underpriest Brogni",
 	"key": "l10n:hero-type/name?id=5930#static",
+	"name": "Underpriest Brogni",
 	"id": 5936,
-	"avatar": "5930",
-	"affinity": "Magic",
-	"hp": "22965",
-	"atk": "782",
-	"def": "1266",
-	"spd": "100",
-	"res": "90",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Magic",
+	"atk": "782",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "100",
+	"def": "1266",
+	"hp": "22965",
 	"cheal": "50",
+	"res": "90",
 	"faction": "Dwarves",
-	"aura": "Increase Ally  in Doom Tower battles by 60",
+	"rarity": "Legendary",
+	"type": "Support",
+	"aura": "Increases Ally RES in Doom Tower Battles by 60.",
 	"totalBooks": "12",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Deepcrystal Scourge",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Buff/Debuff Chance +5%\n",
 			"multiplier": "6.5*ATK",
 			"numBooksToMax": "5"
 		},
@@ -33,7 +34,7 @@
 			"name": "Cavern's Grasp",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Cooldown -1\n",
 			"multiplier": "6.6*ATK",
 			"numBooksToMax": "5"
 		},
@@ -43,21 +44,19 @@
 			"name": "Resilient Glow",
 			"maxcd": "5",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		},
 		{
 			"desc": "Whenever an ally under a [Shield] buff is attacked, reflects 25% of the damage inflicted on the [Shield] back the attacker. Also heals that ally by 25% of the damage inflicted on the [Shield].\r\n\r\nIf there are multiple Champions in the team with this Skill, only one will activate.",
-			"basedOn": "[damageAbsorbedByShield]",
+			"basedOn": "",
 			"name": "Redoubt [P]",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",
-			"multiplier": "0.25*damageAbsorbedByShield",
-			"numBooksToMax": "0"
+			"multiplier": "",
+			"numBooksToMax": ""
 		}
-	],
-	"rarity": "Legendary",
-	"type": "Support"
+	]
 }

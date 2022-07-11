@@ -1,19 +1,20 @@
 {
-	"name": "Pit Cur",
 	"key": "l10n:hero-type/name?id=3080#static",
+	"name": "Pit Cur",
 	"id": 3086,
-	"avatar": "3080",
-	"affinity": "Force",
-	"hp": "15690",
-	"atk": "826",
-	"def": "881",
-	"spd": "91",
-	"res": "30",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Force",
+	"atk": "826",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "91",
+	"def": "881",
+	"hp": "15690",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Demonspawn",
+	"rarity": "Uncommon",
+	"type": "HP",
 	"aura": "",
 	"totalBooks": "7",
 	"skills": [
@@ -23,7 +24,7 @@
 			"name": "Hamstring Bite",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\n",
 			"multiplier": "4.7*ATK",
 			"numBooksToMax": "3"
 		},
@@ -33,11 +34,9 @@
 			"name": "Rabid Infection",
 			"maxcd": "5",
 			"mincd": "5",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Damage +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Damage +5%\n",
 			"multiplier": "4.8*ATK",
 			"numBooksToMax": "4"
 		}
-	],
-	"rarity": "Uncommon",
-	"type": "Health"
+	]
 }

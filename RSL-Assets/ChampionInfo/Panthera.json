@@ -1,20 +1,21 @@
 {
-	"name": "Panthera",
 	"key": "l10n:hero-type/name?id=5420#static",
+	"name": "Panthera",
 	"id": 5426,
-	"avatar": "5420",
-	"affinity": "Void",
-	"hp": "13545",
-	"atk": "1277",
-	"def": "848",
-	"spd": "97",
-	"res": "30",
 	"acc": "10",
-	"crate": "15",
+	"affinity": "Void",
+	"atk": "1277",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "97",
+	"def": "848",
+	"hp": "13545",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Skinwalkers",
-	"aura": "Increase Ally ACC in Dungeons by 40",
+	"rarity": "Rare",
+	"type": "Attack",
+	"aura": "Increases Ally ACC in Dungeons by 40.",
 	"totalBooks": "17",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Claws Upon Claws",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +5%\nLvl. 7 Damage +5%\nLvl. 8 Damage +10%\nLvl. 9 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Buff/Debuff Chance +5%\nLevel 7: Damage +5%\nLevel 8: Damage +10%\nLevel 9: Buff/Debuff Chance +10%\n",
 			"multiplier": "0.9*ATK",
 			"numBooksToMax": "8"
 		},
@@ -33,7 +34,7 @@
 			"name": "Devitalize",
 			"maxcd": "3",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +5%\nLvl. 7 Buff/Debuff Chance +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Damage +5%\nLevel 7: Buff/Debuff Chance +5%\n",
 			"multiplier": "2.7*ATK",
 			"numBooksToMax": "6"
 		},
@@ -43,11 +44,9 @@
 			"name": "Vanish to Shadows",
 			"maxcd": "6",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\nLevel 4: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "3"
 		}
-	],
-	"rarity": "Rare",
-	"type": "Attack"
+	]
 }

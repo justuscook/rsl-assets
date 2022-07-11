@@ -1,19 +1,20 @@
 {
-	"name": "Reinbeast",
 	"key": "l10n:hero-type/name?id=3010#static",
+	"name": "Reinbeast",
 	"id": 3016,
-	"avatar": "3010",
-	"affinity": "Force",
-	"hp": "18660",
-	"atk": "826",
-	"def": "1233",
-	"spd": "94",
-	"res": "45",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Force",
+	"atk": "826",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "94",
+	"def": "1233",
+	"hp": "18660",
 	"cheal": "50",
+	"res": "45",
 	"faction": "Skinwalkers",
+	"rarity": "Epic",
+	"type": "Defense",
 	"aura": "",
 	"totalBooks": "10",
 	"skills": [
@@ -23,7 +24,7 @@
 			"name": "Caning",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\n",
 			"multiplier": "3.7*DEF",
 			"numBooksToMax": "3"
 		},
@@ -33,21 +34,19 @@
 			"name": "Open Slay",
 			"maxcd": "5",
 			"mincd": "5",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\n",
 			"multiplier": "3.1*DEF",
 			"numBooksToMax": "4"
 		},
 		{
 			"desc": "When an ally is attacked, places a [Shield] buff equal to 35% of this Champion's MAX HP on that ally for 2 turns. Occurs once per turn. Will not place a [Shield] buff on this Champion.",
-			"basedOn": "[HP]",
+			"basedOn": "",
 			"name": "It Glows",
 			"maxcd": "2",
 			"mincd": "2",
-			"books": "",
+			"books": "Level 2: Shield +10%\nLevel 3: Shield +10%\nLevel 4: Shield +10%\n",
 			"multiplier": "",
 			"numBooksToMax": "3"
 		}
-	],
-	"rarity": "Epic",
-	"type": "Defense"
+	]
 }

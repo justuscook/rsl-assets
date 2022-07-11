@@ -1,20 +1,21 @@
 {
-	"name": "Conellia",
 	"key": "l10n:hero-type/name?id=6350#static",
+	"name": "Conellia",
 	"id": 6356,
-	"avatar": "6350",
-	"affinity": "Magic",
-	"hp": "19650",
-	"atk": "826",
-	"def": "1167",
-	"spd": "109",
-	"res": "30",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Magic",
+	"atk": "826",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "109",
+	"def": "1167",
+	"hp": "19650",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Dwarves",
-	"aura": "Increase Ally SPD in in all Battles by 18",
+	"rarity": "Epic",
+	"type": "Support",
+	"aura": "Increases Ally SPD in All Battles by 18.",
 	"totalBooks": "11",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Surprising Swiftness",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\n",
 			"multiplier": "6*ATK",
 			"numBooksToMax": "4"
 		},
@@ -33,7 +34,7 @@
 			"name": "Peace of the Deep",
 			"maxcd": "5",
 			"mincd": "3",
-			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Cooldown -1\nLevel 6: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "5"
 		},
@@ -43,31 +44,9 @@
 			"name": "Revitalizing Rest",
 			"maxcd": "4",
 			"mincd": "2",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
-		},
-		{
-			"desc": "Skill 6666618 description",
-			"basedOn": "[Enemy MAX HP]",
-			"name": "Skill 63506 name",
-			"maxcd": "0",
-			"mincd": "0",
-			"books": "",
-			"multiplier": "",
-			"numBooksToMax": "0"
-		},
-		{
-			"desc": "Skill 6666618 description",
-			"basedOn": "",
-			"name": "Skill 63505 name",
-			"maxcd": "0",
-			"mincd": "0",
-			"books": "",
-			"multiplier": "",
-			"numBooksToMax": "0"
 		}
-	],
-	"rarity": "Epic",
-	"type": "Support"
+	]
 }

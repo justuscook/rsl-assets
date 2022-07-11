@@ -1,20 +1,21 @@
 {
-	"name": "Geargrinder",
 	"key": "l10n:hero-type/name?id=5400#static",
+	"name": "Geargrinder",
 	"id": 5406,
-	"avatar": "5400",
-	"affinity": "Void",
-	"hp": "19320",
-	"atk": "826",
-	"def": "914",
-	"spd": "95",
-	"res": "40",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Void",
+	"atk": "826",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "95",
+	"def": "914",
+	"hp": "19320",
 	"cheal": "50",
+	"res": "40",
 	"faction": "Ogryn Tribes",
-	"aura": "Increase Ally HP in Faction Crypts by 25",
+	"rarity": "Rare",
+	"type": "HP",
+	"aura": "Increases Ally HP in Faction Crypts by 25%.",
 	"totalBooks": "13",
 	"skills": [
 		{
@@ -23,31 +24,29 @@
 			"name": "Gears of Gore",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Damage +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\nLevel 6: Damage +10%\n",
 			"multiplier": "0.15*HP",
 			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Heals all allies by 15% of their MAX HP.",
-			"basedOn": "[Enemy MAX HP]",
+			"basedOn": "",
 			"name": "Healing Splatter",
 			"maxcd": "5",
 			"mincd": "3",
-			"books": "Lvl. 2  Heal +5%\nLvl. 3  Heal +5%\nLvl. 4  Heal +5%\nLvl. 5  Heal +5%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\nLvl. 7 Cooldown -1Lvl. 7 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Heal +5%\nLevel 3: Heal +5%\nLevel 4: Heal +5%\nLevel 5: Heal +5%\nLevel 6: Cooldown -1\nLevel 7: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "6"
 		},
 		{
 			"desc": "Revives a dead ally with 50% HP and 50% Turn Meter.",
-			"basedOn": "[Enemy MAX HP]",
+			"basedOn": "",
 			"name": "Necrocogs",
 			"maxcd": "7",
 			"mincd": "5",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		}
-	],
-	"rarity": "Rare",
-	"type": "Health"
+	]
 }

@@ -1,20 +1,21 @@
 {
-	"name": "Magmablood",
 	"key": "l10n:hero-type/name?id=670#static",
+	"name": "Magmablood",
 	"id": 676,
-	"avatar": "670",
-	"affinity": "Force",
-	"hp": "13710",
-	"atk": "1387",
-	"def": "727",
-	"spd": "93",
-	"res": "30",
 	"acc": "15",
-	"crate": "15",
+	"affinity": "Force",
+	"atk": "1387",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "93",
+	"def": "727",
+	"hp": "13710",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Ogryn Tribes",
-	"aura": "Increase Ally ACC in Dungeons by 40",
+	"rarity": "Rare",
+	"type": "Attack",
+	"aura": "Increases Ally ACC in Dungeons by 40.",
 	"totalBooks": "14",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Hurl",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Damage +5%\n",
 			"multiplier": "3.6*ATK",
 			"numBooksToMax": "5"
 		},
@@ -33,7 +34,7 @@
 			"name": "Splinters",
 			"maxcd": "4",
 			"mincd": "4",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +10%\n",
 			"multiplier": "3.6*ATK",
 			"numBooksToMax": "4"
 		},
@@ -43,11 +44,9 @@
 			"name": "Magma Bomb",
 			"maxcd": "5",
 			"mincd": "5",
-			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Buff/Debuff Chance +10%\n",
 			"multiplier": "3.2*ATK",
 			"numBooksToMax": "5"
 		}
-	],
-	"rarity": "Rare",
-	"type": "Attack"
+	]
 }

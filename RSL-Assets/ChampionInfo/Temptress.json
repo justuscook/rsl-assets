@@ -1,19 +1,20 @@
 {
-	"name": "Temptress",
 	"key": "l10n:hero-type/name?id=3380#static",
+	"name": "Temptress",
 	"id": 3386,
-	"avatar": "3380",
-	"affinity": "Magic",
-	"hp": "11565",
-	"atk": "1343",
-	"def": "914",
-	"spd": "99",
-	"res": "30",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Magic",
+	"atk": "1343",
 	"cdamage": "57",
+	"crate": "15",
+	"spd": "99",
+	"def": "914",
+	"hp": "11565",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Undead Hordes",
+	"rarity": "Rare",
+	"type": "Attack",
 	"aura": "",
 	"totalBooks": "11",
 	"skills": [
@@ -23,7 +24,7 @@
 			"name": "Sly Slice",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Damage +10%\n",
 			"multiplier": "3.5*ATK",
 			"numBooksToMax": "5"
 		},
@@ -33,7 +34,7 @@
 			"name": "Flying Daggers",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
 			"multiplier": "1.4*ATK",
 			"numBooksToMax": "5"
 		},
@@ -43,11 +44,9 @@
 			"name": "Vicious Partner",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		}
-	],
-	"rarity": "Rare",
-	"type": "Attack"
+	]
 }

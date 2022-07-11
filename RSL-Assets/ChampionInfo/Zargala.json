@@ -1,20 +1,21 @@
 {
-	"name": "Zargala",
 	"key": "l10n:hero-type/name?id=1740#static",
+	"name": "Zargala",
 	"id": 1746,
-	"avatar": "1740",
-	"affinity": "Force",
-	"hp": "16680",
-	"atk": "1398",
-	"def": "793",
-	"spd": "103",
-	"res": "30",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Force",
+	"atk": "1398",
 	"cdamage": "60",
+	"crate": "15",
+	"spd": "103",
+	"def": "793",
+	"hp": "16680",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Orcs",
-	"aura": "Increase Ally ACC in in all Battles by 40",
+	"rarity": "Epic",
+	"type": "Attack",
+	"aura": "Increases Ally ACC in All Battles by 40.",
 	"totalBooks": "15",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Split Apart",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\n",
 			"multiplier": "3*ATK",
 			"numBooksToMax": "4"
 		},
@@ -33,7 +34,7 @@
 			"name": "Devastate",
 			"maxcd": "4",
 			"mincd": "2",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\nLvl. 7 Cooldown -1Lvl. 7 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\nLevel 6: Cooldown -1\nLevel 7: Cooldown -1\n",
 			"multiplier": "5.3*ATK",
 			"numBooksToMax": "6"
 		},
@@ -43,11 +44,9 @@
 			"name": "Crack Armor",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Cooldown -1\n",
 			"multiplier": "1.2*ATK",
 			"numBooksToMax": "5"
 		}
-	],
-	"rarity": "Epic",
-	"type": "Attack"
+	]
 }

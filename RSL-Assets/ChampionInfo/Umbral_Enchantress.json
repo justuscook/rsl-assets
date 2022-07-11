@@ -1,19 +1,20 @@
 {
-	"name": "Umbral Enchantress",
 	"key": "l10n:hero-type/name?id=3520#static",
+	"name": "Umbral Enchantress",
 	"id": 3526,
-	"avatar": "3520",
-	"affinity": "Void",
-	"hp": "15360",
-	"atk": "925",
-	"def": "1354",
-	"spd": "93",
-	"res": "45",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Void",
+	"atk": "925",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "93",
+	"def": "1354",
+	"hp": "15360",
 	"cheal": "50",
+	"res": "45",
 	"faction": "Demonspawn",
+	"rarity": "Epic",
+	"type": "Defense",
 	"aura": "",
 	"totalBooks": "13",
 	"skills": [
@@ -23,7 +24,7 @@
 			"name": "Essence Scepter",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\n",
 			"multiplier": "(3.3+(1-HP_PERC))*DEF",
 			"numBooksToMax": "4"
 		},
@@ -33,7 +34,7 @@
 			"name": "Immolate",
 			"maxcd": "3",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Buff/Debuff Chance +10%\n",
 			"multiplier": "3.6*DEF",
 			"numBooksToMax": "5"
 		},
@@ -43,11 +44,9 @@
 			"name": "Undying Evil",
 			"maxcd": "5",
 			"mincd": "5",
-			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +10%\n",
 			"multiplier": "4*DEF",
 			"numBooksToMax": "4"
 		}
-	],
-	"rarity": "Epic",
-	"type": "Defense"
+	]
 }

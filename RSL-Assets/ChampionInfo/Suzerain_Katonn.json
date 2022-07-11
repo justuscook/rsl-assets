@@ -1,20 +1,21 @@
 {
-	"name": "Suzerain Katonn",
 	"key": "l10n:hero-type/name?id=3800#static",
+	"name": "Suzerain Katonn",
 	"id": 3806,
-	"avatar": "3800",
-	"affinity": "Spirit",
-	"hp": "15030",
-	"atk": "1564",
-	"def": "1013",
-	"spd": "98",
-	"res": "30",
 	"acc": "20",
-	"crate": "15",
+	"affinity": "Spirit",
+	"atk": "1564",
 	"cdamage": "57",
+	"crate": "15",
+	"spd": "98",
+	"def": "1013",
+	"hp": "15030",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Undead Hordes",
-	"aura": "Increase Ally ATK in in all Battles by 33",
+	"rarity": "Legendary",
+	"type": "Attack",
+	"aura": "Increases Ally ATK in All Battles by 33%.",
 	"totalBooks": "9",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Temporal Nova",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +15%\n",
+			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +15%\n",
 			"multiplier": "2.2*ATK",
 			"numBooksToMax": "3"
 		},
@@ -33,7 +34,7 @@
 			"name": "Hex of Years",
 			"maxcd": "4",
 			"mincd": "4",
-			"books": "Lvl. 2 Damage +15%\nLvl. 3 Buff/Debuff Chance +15%\nLvl. 4 Buff/Debuff Chance +15%\n",
+			"books": "Level 2: Damage +15%\nLevel 3: Buff/Debuff Chance +15%\nLevel 4: Buff/Debuff Chance +15%\n",
 			"multiplier": "3.3*ATK",
 			"numBooksToMax": "3"
 		},
@@ -43,11 +44,9 @@
 			"name": "Banish From Time",
 			"maxcd": "4",
 			"mincd": "4",
-			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Damage +10%\n",
-			"multiplier": null,
+			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Damage +10%\n",
+			"multiplier": "",
 			"numBooksToMax": "3"
 		}
-	],
-	"rarity": "Legendary",
-	"type": "Attack"
+	]
 }

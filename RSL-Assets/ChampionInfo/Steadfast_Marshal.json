@@ -1,19 +1,20 @@
 {
-	"name": "Steadfast Marshal",
 	"key": "l10n:hero-type/name?id=3950#static",
+	"name": "Steadfast Marshal",
 	"id": 3956,
-	"avatar": "3950",
-	"affinity": "Void",
-	"hp": "20640",
-	"atk": "870",
-	"def": "782",
-	"spd": "90",
-	"res": "40",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Void",
+	"atk": "870",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "90",
+	"def": "782",
+	"hp": "20640",
 	"cheal": "50",
+	"res": "40",
 	"faction": "Banner Lords",
+	"rarity": "Rare",
+	"type": "HP",
 	"aura": "",
 	"totalBooks": "6",
 	"skills": [
@@ -23,7 +24,7 @@
 			"name": "Thunderous Whallop",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +10%\n",
 			"multiplier": "0.15*HP",
 			"numBooksToMax": "4"
 		},
@@ -33,7 +34,7 @@
 			"name": "Hold Fast",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		},
@@ -43,11 +44,9 @@
 			"name": "Covered Retreat",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		}
-	],
-	"rarity": "Rare",
-	"type": "Health"
+	]
 }

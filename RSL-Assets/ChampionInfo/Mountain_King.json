@@ -1,19 +1,20 @@
 {
-	"name": "Mountain King",
 	"key": "l10n:hero-type/name?id=4270#static",
+	"name": "Mountain King",
 	"id": 4276,
-	"avatar": "4270",
-	"affinity": "Force",
-	"hp": "31050",
-	"atk": "1432",
-	"def": "1112",
-	"spd": "85",
-	"res": "90",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Force",
+	"atk": "1432",
 	"cdamage": "63",
+	"crate": "15",
+	"spd": "85",
+	"def": "1112",
+	"hp": "31050",
 	"cheal": "50",
+	"res": "90",
 	"faction": "Dwarves",
+	"rarity": "Legendary",
+	"type": "Attack",
 	"aura": "",
 	"totalBooks": "11",
 	"skills": [
@@ -23,7 +24,7 @@
 			"name": "Thunder Cleave",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\n",
 			"multiplier": "0.27*HP+1*ATK",
 			"numBooksToMax": "4"
 		},
@@ -33,7 +34,7 @@
 			"name": "Enchanted Axe",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Damage +10%\nLevel 5: Cooldown -1\n",
 			"multiplier": "0.3*HP+1.8*ATK",
 			"numBooksToMax": "4"
 		},
@@ -43,21 +44,9 @@
 			"name": "Regal Force",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Cooldown -1\n",
 			"multiplier": "0.35*HP+1.8*ATK",
 			"numBooksToMax": "3"
-		},
-		{
-			"desc": "Increases this Champion's ATK by 50% each time this Champion kills an enemy. Stacks up to 100%. Resets each round.",
-			"basedOn": "[B_ATK][KILLED_ENEMIES_CURRENT_ROUND]",
-			"name": "Fabled Skill [P]",
-			"maxcd": "0",
-			"mincd": "0",
-			"books": "",
-			"multiplier": "",
-			"numBooksToMax": "0"
 		}
-	],
-	"rarity": "Legendary",
-	"type": "Attack"
+	]
 }

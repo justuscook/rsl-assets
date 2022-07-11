@@ -1,20 +1,21 @@
 {
-	"name": "Ashwalker",
 	"key": "l10n:hero-type/name?id=6400#static",
+	"name": "Ashwalker",
 	"id": 6406,
-	"avatar": "6400",
-	"affinity": "Void",
-	"hp": "10905",
-	"atk": "1498",
-	"def": "804",
-	"spd": "103",
-	"res": "30",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Void",
+	"atk": "1498",
 	"cdamage": "57",
+	"crate": "15",
+	"spd": "103",
+	"def": "804",
+	"hp": "10905",
 	"cheal": "50",
-	"faction": "Knights Revenant",
-	"aura": "Increase Ally SPD in in all Battles by 12",
+	"res": "30",
+	"faction": "Knight Revenant",
+	"rarity": "Rare",
+	"type": "Attack",
+	"aura": "Increases Ally SPD in All Battles by 12.",
 	"totalBooks": "17",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Great Hammer",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\nLvl. 6 Damage +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\nLevel 6: Damage +10%\n",
 			"multiplier": "3.2*ATK",
 			"numBooksToMax": "5"
 		},
@@ -33,7 +34,7 @@
 			"name": "Devastator",
 			"maxcd": "4",
 			"mincd": "4",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +10%\nLvl. 7 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Damage +10%\nLevel 7: Buff/Debuff Chance +10%\n",
 			"multiplier": "5*ATK",
 			"numBooksToMax": "6"
 		},
@@ -43,11 +44,9 @@
 			"name": "Backbreaker",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +10%\nLvl. 7 Cooldown -1Lvl. 7 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Buff/Debuff Chance +10%\nLevel 7: Cooldown -1\n",
 			"multiplier": "3.5*ATK",
 			"numBooksToMax": "6"
 		}
-	],
-	"rarity": "Rare",
-	"type": "Attack"
+	]
 }

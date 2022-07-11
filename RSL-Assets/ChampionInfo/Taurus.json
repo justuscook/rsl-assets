@@ -1,20 +1,21 @@
 {
-	"name": "Taurus",
 	"key": "l10n:hero-type/name?id=2590#static",
+	"name": "Taurus",
 	"id": 2596,
-	"avatar": "2590",
-	"affinity": "Magic",
-	"hp": "17010",
-	"atk": "1310",
-	"def": "859",
-	"spd": "101",
-	"res": "30",
 	"acc": "15",
-	"crate": "15",
+	"affinity": "Magic",
+	"atk": "1310",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "101",
+	"def": "859",
+	"hp": "17010",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Skinwalkers",
-	"aura": "Increase Ally ACC in Faction Crypts by 40",
+	"rarity": "Epic",
+	"type": "Attack",
+	"aura": "Increases Ally ACC in Faction Crypts by 40.",
 	"totalBooks": "12",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Metabolize",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\n",
 			"multiplier": "4*ATK",
 			"numBooksToMax": "4"
 		},
@@ -33,21 +34,19 @@
 			"name": "Tendon Slash",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
 			"multiplier": "6.5*ATK",
 			"numBooksToMax": "5"
 		},
 		{
 			"desc": "This Champion receives damage equal to 99% of their current HP. Places an [Unkillable] buff on this Champion for 2 turns. Has an 80% chance of placing four 5% [Poison] debuffs on all enemies for 2 turns.",
-			"basedOn": "[CUR_HP]",
+			"basedOn": "",
 			"name": "Toxic Nova",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\n",
-			"multiplier": "0.99*CUR_HP",
+			"books": "Level 2: Buff/Debuff Chance +10%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Cooldown -1\n",
+			"multiplier": "",
 			"numBooksToMax": "3"
 		}
-	],
-	"rarity": "Epic",
-	"type": "Attack"
+	]
 }

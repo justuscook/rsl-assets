@@ -1,20 +1,21 @@
 {
-	"name": "Raglin",
 	"key": "l10n:hero-type/name?id=160#static",
+	"name": "Raglin",
 	"id": 166,
-	"avatar": "160",
-	"affinity": "Void",
-	"hp": "20310",
-	"atk": "1156",
-	"def": "1068",
-	"spd": "104",
-	"res": "50",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Void",
+	"atk": "1156",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "104",
+	"def": "1068",
+	"hp": "20310",
 	"cheal": "50",
+	"res": "50",
 	"faction": "Banner Lords",
-	"aura": "Increase Ally  in in all Battles by 33",
+	"rarity": "Legendary",
+	"type": "Support",
+	"aura": "Increases Ally DEF in All Battles by 33%.",
 	"totalBooks": "9",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Repent",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\n",
 			"multiplier": "1.6*ATK",
 			"numBooksToMax": "4"
 		},
@@ -33,21 +34,19 @@
 			"name": "Mercy",
 			"maxcd": "4",
 			"mincd": "4",
-			"books": "Lvl. 2  Heal +5%\nLvl. 3  Heal +5%\nLvl. 4  Heal +10%\nLvl. 5  Heal +10%\n",
+			"books": "Level 2: Heal +5%\nLevel 3: Heal +5%\nLevel 4: Heal +10%\nLevel 5: Heal +10%\n",
 			"multiplier": "",
 			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Revives an ally with 75% HP and a full Turn Meter.",
-			"basedOn": "[Enemy MAX HP]",
+			"basedOn": "",
 			"name": "Miracle",
 			"maxcd": "3",
 			"mincd": "2",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		}
-	],
-	"rarity": "Legendary",
-	"type": "Support"
+	]
 }

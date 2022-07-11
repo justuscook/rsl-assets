@@ -1,19 +1,20 @@
 {
-	"name": "Fenax",
 	"key": "l10n:hero-type/name?id=3430#static",
+	"name": "Fenax",
 	"id": 3436,
-	"avatar": "3430",
-	"affinity": "Spirit",
-	"hp": "13875",
-	"atk": "1454",
-	"def": "925",
-	"spd": "96",
-	"res": "30",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Spirit",
+	"atk": "1454",
 	"cdamage": "60",
+	"crate": "15",
+	"spd": "96",
+	"def": "925",
+	"hp": "13875",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Sacred Order",
+	"rarity": "Epic",
+	"type": "Attack",
 	"aura": "",
 	"totalBooks": "13",
 	"skills": [
@@ -23,7 +24,7 @@
 			"name": "Put Down",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\n",
 			"multiplier": "4.1*ATK",
 			"numBooksToMax": "3"
 		},
@@ -33,7 +34,7 @@
 			"name": "Stern Partner",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Cooldown -1\n",
 			"multiplier": "3.5*ATK",
 			"numBooksToMax": "5"
 		},
@@ -43,11 +44,9 @@
 			"name": "Sow Feebleness",
 			"maxcd": "6",
 			"mincd": "4",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Cooldown -1\nLevel 6: Cooldown -1\n",
 			"multiplier": "6.7*ATK",
 			"numBooksToMax": "5"
 		}
-	],
-	"rarity": "Epic",
-	"type": "Attack"
+	]
 }

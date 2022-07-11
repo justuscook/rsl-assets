@@ -1,19 +1,20 @@
 {
-	"name": "Kreela Witch-Arm",
 	"key": "l10n:hero-type/name?id=3930#static",
+	"name": "Kreela Witch-Arm",
 	"id": 3936,
-	"avatar": "3930",
-	"affinity": "Magic",
-	"hp": "16680",
-	"atk": "1244",
-	"def": "1222",
-	"spd": "99",
-	"res": "30",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Magic",
+	"atk": "1244",
 	"cdamage": "57",
+	"crate": "15",
+	"spd": "99",
+	"def": "1222",
+	"hp": "16680",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Orcs",
+	"rarity": "Legendary",
+	"type": "Support",
 	"aura": "",
 	"totalBooks": "11",
 	"skills": [
@@ -23,7 +24,7 @@
 			"name": "Witchlight Barrier",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Shield +5%\nLevel 6: Shield +10%\n",
 			"multiplier": "4.6*ATK",
 			"numBooksToMax": "5"
 		},
@@ -33,7 +34,7 @@
 			"name": "Blinding Glow",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Cooldown -1\n",
 			"multiplier": "5.1*ATK",
 			"numBooksToMax": "5"
 		},
@@ -43,11 +44,9 @@
 			"name": "War Weirding",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\n",
 			"multiplier": "4.4*ATK",
 			"numBooksToMax": "1"
 		}
-	],
-	"rarity": "Legendary",
-	"type": "Support"
+	]
 }

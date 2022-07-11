@@ -1,20 +1,21 @@
 {
-	"name": "Mortu-Macaab",
 	"key": "l10n:hero-type/name?id=990#static",
+	"name": "Mortu-Macaab",
 	"id": 996,
-	"avatar": "21120",
-	"affinity": "Spirit",
-	"hp": "23130",
-	"atk": "1145",
-	"def": "892",
-	"spd": "94",
-	"res": "40",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Spirit",
+	"atk": "1145",
 	"cdamage": "63",
+	"crate": "15",
+	"spd": "94",
+	"def": "892",
+	"hp": "23130",
 	"cheal": "50",
+	"res": "40",
 	"faction": "Demonspawn",
-	"aura": "Increase Ally SPD in in all Battles by 24",
+	"rarity": "Legendary",
+	"type": "HP",
+	"aura": "Increases Ally SPD in All Battles by 24.",
 	"totalBooks": "10",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Stigmata",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Damage +15%\nLvl. 6 Buff/Debuff Chance +15%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Damage +15%\nLevel 6: Buff/Debuff Chance +15%\n",
 			"multiplier": "4.8*ATK",
 			"numBooksToMax": "5"
 		},
@@ -33,7 +34,7 @@
 			"name": "Falling from Grace",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Cooldown -1\n",
 			"multiplier": "1*ATK+0.1*HP",
 			"numBooksToMax": "5"
 		},
@@ -55,9 +56,7 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "0.2*HP",
-			"numBooksToMax": "0"
+			"numBooksToMax": ""
 		}
-	],
-	"rarity": "Legendary",
-	"type": "Health"
+	]
 }

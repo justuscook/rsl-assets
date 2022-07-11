@@ -1,20 +1,21 @@
 {
-	"name": "Valla",
 	"key": "l10n:hero-type/name?id=4610#static",
+	"name": "Valla",
 	"id": 4616,
-	"avatar": "4610",
-	"affinity": "Spirit",
-	"hp": "16845",
-	"atk": "771",
-	"def": "1409",
-	"spd": "99",
-	"res": "30",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Spirit",
+	"atk": "771",
 	"cdamage": "60",
+	"crate": "15",
+	"spd": "99",
+	"def": "1409",
+	"hp": "16845",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Barbarians",
-	"aura": "Increase Ally  in Arena battles by 45",
+	"rarity": "Epic",
+	"type": "Defense",
+	"aura": "Increases Ally RES in Arena Battles by 45.",
 	"totalBooks": "10",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Piercing Blade",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\n",
 			"multiplier": "1.55*DEF",
 			"numBooksToMax": "4"
 		},
@@ -33,7 +34,7 @@
 			"name": "Crush The Wall",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Cooldown -1\n",
 			"multiplier": "3.8*DEF",
 			"numBooksToMax": "5"
 		},
@@ -43,7 +44,7 @@
 			"name": "Fortified Core",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		},
@@ -55,9 +56,7 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": "0"
+			"numBooksToMax": ""
 		}
-	],
-	"rarity": "Epic",
-	"type": "Defense"
+	]
 }

@@ -1,20 +1,21 @@
 {
-	"name": "Mother Cybele",
 	"key": "l10n:hero-type/name?id=6300#static",
+	"name": "Mother Cybele",
 	"id": 6306,
-	"avatar": "6300",
-	"affinity": "Force",
-	"hp": "18990",
-	"atk": "969",
-	"def": "1343",
-	"spd": "115",
-	"res": "40",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Force",
+	"atk": "969",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "115",
+	"def": "1343",
+	"hp": "18990",
 	"cheal": "50",
-	"faction": "Knights Revenant",
-	"aura": "Increase Ally SPD in in all Battles by 24",
+	"res": "40",
+	"faction": "Knight Revenant",
+	"rarity": "Legendary",
+	"type": "Support",
+	"aura": "Increases Ally SPD in All Battles by 24.",
 	"totalBooks": "12",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Mask of Dread",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +10%\nLvl. 7 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Buff/Debuff Chance +10%\nLevel 7: Buff/Debuff Chance +10%\n",
 			"multiplier": "0.2*HP",
 			"numBooksToMax": "6"
 		},
@@ -33,7 +34,7 @@
 			"name": "Soul Shepherd",
 			"maxcd": "6",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\nLevel 4: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "3"
 		},
@@ -43,21 +44,19 @@
 			"name": "Uncanny Transfer",
 			"maxcd": "6",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\nLevel 4: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "3"
 		},
 		{
 			"desc": "Fully heals the ally with the lowest HP whenever this Champion is killed. \r\n\r\nHeals all allies by 20% of their MAX HP and fills their Turn Meters by 15% whenever this Champion is revived.",
-			"basedOn": "[Enemy MAX HP]",
+			"basedOn": "",
 			"name": "Gravewalker [P]",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": "0"
+			"numBooksToMax": ""
 		}
-	],
-	"rarity": "Legendary",
-	"type": "Support"
+	]
 }

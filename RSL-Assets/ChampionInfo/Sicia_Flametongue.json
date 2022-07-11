@@ -1,20 +1,21 @@
 {
-	"name": "Sicia Flametongue",
 	"key": "l10n:hero-type/name?id=5770#static",
+	"name": "Sicia Flametongue",
 	"id": 5776,
-	"avatar": "5770",
-	"affinity": "Force",
-	"hp": "13050",
-	"atk": "1586",
-	"def": "1123",
-	"spd": "97",
-	"res": "30",
 	"acc": "20",
-	"crate": "15",
+	"affinity": "Force",
+	"atk": "1586",
 	"cdamage": "60",
+	"crate": "15",
+	"spd": "97",
+	"def": "1123",
+	"hp": "13050",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Demonspawn",
-	"aura": "Increase Ally ACC in in all Battles by 60",
+	"rarity": "Legendary",
+	"type": "Attack",
+	"aura": "Increases Ally ACC in All Battles by 60.",
 	"totalBooks": "14",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Towering Inferno",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +10%\n",
 			"multiplier": "1.05*ATK",
 			"numBooksToMax": "4"
 		},
@@ -33,7 +34,7 @@
 			"name": "Flame Eruption",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Cooldown -1\n",
 			"multiplier": "3.7*ATK",
 			"numBooksToMax": "5"
 		},
@@ -43,8 +44,8 @@
 			"name": "Firestorm Rite",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +15%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
-			"multiplier": null,
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Damage +15%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
+			"multiplier": "",
 			"numBooksToMax": "5"
 		},
 		{
@@ -55,9 +56,7 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": "0"
+			"numBooksToMax": ""
 		}
-	],
-	"rarity": "Legendary",
-	"type": "Attack"
+	]
 }

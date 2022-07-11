@@ -1,20 +1,21 @@
 {
-	"name": "Jizoh",
 	"key": "l10n:hero-type/name?id=3240#static",
+	"name": "Jizoh",
 	"id": 3246,
-	"avatar": "3240",
-	"affinity": "Spirit",
-	"hp": "16515",
-	"atk": "815",
-	"def": "1387",
-	"spd": "94",
-	"res": "45",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Spirit",
+	"atk": "815",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "94",
+	"def": "1387",
+	"hp": "16515",
 	"cheal": "50",
-	"faction": "Lizard Men",
-	"aura": "Increase Ally ATK in in all Battles by 18",
+	"res": "45",
+	"faction": "Lizardmen",
+	"rarity": "Epic",
+	"type": "Defense",
+	"aura": "Increases Ally ATK in All Battles by 18%.",
 	"totalBooks": "12",
 	"skills": [
 		{
@@ -23,17 +24,17 @@
 			"name": "Reaping Blows",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\n",
 			"multiplier": "1.9*DEF",
 			"numBooksToMax": "3"
 		},
 		{
 			"desc": "Places a [Shield] buff for 3 turns and a [Counterattack] buff for 2 turns on one ally. Grants an extra turn. The value of [Shield] is proportional to this Champion's DEF.",
-			"basedOn": "[DEF]",
+			"basedOn": "",
 			"name": "Fierce Protector",
 			"maxcd": "5",
 			"mincd": "5",
-			"books": "",
+			"books": "Level 2: Shield +5%\nLevel 3: Shield +5%\nLevel 4: Shield +5%\nLevel 5: Shield +5%\n",
 			"multiplier": "",
 			"numBooksToMax": "4"
 		},
@@ -43,11 +44,9 @@
 			"name": "Rile",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Cooldown -1\n",
 			"multiplier": "5.8*DEF",
 			"numBooksToMax": "5"
 		}
-	],
-	"rarity": "Epic",
-	"type": "Defense"
+	]
 }

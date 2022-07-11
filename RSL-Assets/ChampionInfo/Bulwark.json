@@ -1,20 +1,21 @@
 {
-	"name": "Bulwark",
 	"key": "l10n:hero-type/name?id=4180#static",
+	"name": "Bulwark",
 	"id": 4186,
-	"avatar": "4180",
-	"affinity": "Void",
-	"hp": "13875",
-	"atk": "837",
-	"def": "1266",
-	"spd": "97",
-	"res": "45",
 	"acc": "10",
-	"crate": "15",
+	"affinity": "Void",
+	"atk": "837",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "97",
+	"def": "1266",
+	"hp": "13875",
 	"cheal": "50",
+	"res": "45",
 	"faction": "Dwarves",
-	"aura": "Increase Ally  in in all Battles by 17",
+	"rarity": "Rare",
+	"type": "Defense",
+	"aura": "Increases Ally DEF in All Battles by 17%.",
 	"totalBooks": "13",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Hefty Flail",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +5%\nLvl. 7 Buff/Debuff Chance +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Damage +5%\nLevel 7: Buff/Debuff Chance +5%\n",
 			"multiplier": "1.5*DEF",
 			"numBooksToMax": "6"
 		},
@@ -33,7 +34,7 @@
 			"name": "Meteoric Ignition",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Damage +10%\nLvl. 7 Buff/Debuff Chance +10%\nLvl. 8 Cooldown -1Lvl. 8 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Damage +10%\nLevel 7: Buff/Debuff Chance +10%\nLevel 8: Cooldown -1\n",
 			"multiplier": "5.5*DEF",
 			"numBooksToMax": "7"
 		},
@@ -45,9 +46,7 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": "0"
+			"numBooksToMax": ""
 		}
-	],
-	"rarity": "Rare",
-	"type": "Defense"
+	]
 }

@@ -1,19 +1,20 @@
 {
-	"name": "Hellborn Sprite",
 	"key": "l10n:hero-type/name?id=6170#static",
+	"name": "Hellborn Sprite",
 	"id": 6176,
-	"avatar": "6170",
-	"affinity": "Spirit",
-	"hp": "15360",
-	"atk": "1145",
-	"def": "859",
-	"spd": "94",
-	"res": "30",
 	"acc": "10",
-	"crate": "15",
+	"affinity": "Spirit",
+	"atk": "1145",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "94",
+	"def": "859",
+	"hp": "15360",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Demonspawn",
+	"rarity": "Rare",
+	"type": "Support",
 	"aura": "",
 	"totalBooks": "11",
 	"skills": [
@@ -23,7 +24,7 @@
 			"name": "Shivering Malady",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +15%\n",
 			"multiplier": "3.7*ATK",
 			"numBooksToMax": "4"
 		},
@@ -33,7 +34,7 @@
 			"name": "Crumbling Flesh",
 			"maxcd": "3",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +15%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Buff/Debuff Chance +15%\n",
 			"multiplier": "1.6*ATK",
 			"numBooksToMax": "5"
 		},
@@ -43,11 +44,9 @@
 			"name": "Transmuter",
 			"maxcd": "5",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		}
-	],
-	"rarity": "Rare",
-	"type": "Support"
+	]
 }

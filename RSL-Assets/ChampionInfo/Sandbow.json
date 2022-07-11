@@ -1,19 +1,20 @@
 {
-	"name": "Sandbow",
 	"key": "l10n:hero-type/name?id=3840#static",
+	"name": "Sandbow",
 	"id": 3846,
-	"avatar": "3840",
-	"affinity": "Spirit",
-	"hp": "12885",
-	"atk": "1123",
-	"def": "771",
-	"spd": "96",
-	"res": "30",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Spirit",
+	"atk": "1123",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "96",
+	"def": "771",
+	"hp": "12885",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Barbarians",
+	"rarity": "Uncommon",
+	"type": "Attack",
 	"aura": "",
 	"totalBooks": "12",
 	"skills": [
@@ -23,7 +24,7 @@
 			"name": "Let Fly",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\nLvl. 6 Damage +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\nLevel 6: Damage +10%\n",
 			"multiplier": "3.7*ATK",
 			"numBooksToMax": "5"
 		},
@@ -33,11 +34,9 @@
 			"name": "Veinfire Venom",
 			"maxcd": "4",
 			"mincd": "4",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +5%\nLvl. 7 Buff/Debuff Chance +5%\nLvl. 8 Damage +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Damage +5%\nLevel 7: Buff/Debuff Chance +5%\nLevel 8: Damage +10%\n",
 			"multiplier": "3.2*ATK",
 			"numBooksToMax": "7"
 		}
-	],
-	"rarity": "Uncommon",
-	"type": "Attack"
+	]
 }

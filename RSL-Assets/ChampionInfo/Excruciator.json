@@ -1,19 +1,20 @@
 {
-	"name": "Excruciator",
 	"key": "l10n:hero-type/name?id=4000#static",
+	"name": "Excruciator",
 	"id": 4006,
-	"avatar": "4000",
-	"affinity": "Magic",
-	"hp": "12720",
-	"atk": "1597",
-	"def": "859",
-	"spd": "96",
-	"res": "30",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Magic",
+	"atk": "1597",
 	"cdamage": "60",
+	"crate": "15",
+	"spd": "96",
+	"def": "859",
+	"hp": "12720",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Demonspawn",
+	"rarity": "Epic",
+	"type": "Attack",
 	"aura": "",
 	"totalBooks": "9",
 	"skills": [
@@ -23,7 +24,7 @@
 			"name": "Flicker Strike",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\n",
 			"multiplier": "3.5*ATK",
 			"numBooksToMax": "4"
 		},
@@ -33,7 +34,7 @@
 			"name": "Neck Snapper",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\nLevel 6: Cooldown -1\n",
 			"multiplier": "5.2*ATK",
 			"numBooksToMax": "5"
 		},
@@ -45,9 +46,7 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": "0"
+			"numBooksToMax": ""
 		}
-	],
-	"rarity": "Epic",
-	"type": "Attack"
+	]
 }

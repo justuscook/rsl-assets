@@ -1,20 +1,21 @@
 {
-	"name": "Towering Titan",
 	"key": "l10n:hero-type/name?id=3230#static",
+	"name": "Towering Titan",
 	"id": 3236,
-	"avatar": "3230",
-	"affinity": "Void",
-	"hp": "23790",
-	"atk": "760",
-	"def": "958",
-	"spd": "98",
-	"res": "45",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Void",
+	"atk": "760",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "98",
+	"def": "958",
+	"hp": "23790",
 	"cheal": "50",
+	"res": "45",
 	"faction": "Ogryn Tribes",
-	"aura": "Increase Ally HP in in all Battles by 25",
+	"rarity": "Epic",
+	"type": "HP",
+	"aura": "Increases Ally HP in All Battles by 25%.",
 	"totalBooks": "14",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Shieldsplitter",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +10%\n",
 			"multiplier": "0.2*HP",
 			"numBooksToMax": "4"
 		},
@@ -33,17 +34,17 @@
 			"name": "Flailing Assault",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Cooldown -1\n",
 			"multiplier": "0.08*HP",
 			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Places a 60% [Increase DEF] buff on all allies for 2 turns. Places a 15% [Continuous Heal] buff on this Champion for 2 turns, as well as a [Shield] buff on this Champion equal to 30% of their MAX HP for 3 turns. Grants an Extra Turn.",
-			"basedOn": "[HP]",
+			"basedOn": "",
 			"name": "Bullish Vitality",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Shield +5%\nLevel 3: Shield +5%\nLevel 4: Shield +10%\nLevel 5: Shield +10%\nLevel 6: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "5"
 		},
@@ -55,9 +56,7 @@
 			"mincd": "2",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": "0"
+			"numBooksToMax": ""
 		}
-	],
-	"rarity": "Epic",
-	"type": "Health"
+	]
 }

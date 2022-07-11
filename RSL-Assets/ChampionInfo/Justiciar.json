@@ -1,20 +1,21 @@
 {
-	"name": "Justiciar",
 	"key": "l10n:hero-type/name?id=2220#static",
+	"name": "Justiciar",
 	"id": 2226,
-	"avatar": "2220",
-	"affinity": "Void",
-	"hp": "14700",
-	"atk": "914",
-	"def": "1134",
-	"spd": "93",
-	"res": "40",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Void",
+	"atk": "914",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "93",
+	"def": "1134",
+	"hp": "14700",
 	"cheal": "50",
+	"res": "40",
 	"faction": "Sacred Order",
-	"aura": "Increase Ally  in Faction Crypts by 19",
+	"rarity": "Rare",
+	"type": "Defense",
+	"aura": "Increases Ally DEF in Faction Crypts by 19%.",
 	"totalBooks": "9",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Hold the Line",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\n",
 			"multiplier": "3.65*ATK+DEF",
 			"numBooksToMax": "3"
 		},
@@ -33,7 +34,7 @@
 			"name": "Contemptuous Blow",
 			"maxcd": "3",
 			"mincd": "2",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +10%\nLvl. 7 Cooldown -1Lvl. 7 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Buff/Debuff Chance +10%\nLevel 7: Cooldown -1\n",
 			"multiplier": "5.5*DEF+ATK",
 			"numBooksToMax": "6"
 		},
@@ -45,9 +46,7 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": "0"
+			"numBooksToMax": ""
 		}
-	],
-	"rarity": "Rare",
-	"type": "Defense"
+	]
 }

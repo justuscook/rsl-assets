@@ -1,20 +1,21 @@
 {
-	"name": "Hegemon",
 	"key": "l10n:hero-type/name?id=3200#static",
+	"name": "Hegemon",
 	"id": 3206,
-	"avatar": "3200",
-	"affinity": "Void",
-	"hp": "19155",
-	"atk": "1487",
-	"def": "815",
-	"spd": "96",
-	"res": "30",
 	"acc": "10",
-	"crate": "15",
+	"affinity": "Void",
+	"atk": "1487",
 	"cdamage": "63",
+	"crate": "15",
+	"spd": "96",
+	"def": "815",
+	"hp": "19155",
 	"cheal": "50",
-	"faction": "Knights Revenant",
-	"aura": "Increase Ally C. RATE in in all Battles by 19",
+	"res": "30",
+	"faction": "Knight Revenant",
+	"rarity": "Legendary",
+	"type": "Attack",
+	"aura": "Increases Ally C. RATE in All Battles by 19%.",
 	"totalBooks": "9",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Grave's Grasp",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Buff/Debuff Chance +10%\n",
 			"multiplier": "1.7*ATK",
 			"numBooksToMax": "5"
 		},
@@ -33,7 +34,7 @@
 			"name": "Crippling Cold",
 			"maxcd": "4",
 			"mincd": "4",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Damage +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Damage +10%\n",
 			"multiplier": "3.7*ATK",
 			"numBooksToMax": "4"
 		},
@@ -45,9 +46,7 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": "0"
+			"numBooksToMax": ""
 		}
-	],
-	"rarity": "Legendary",
-	"type": "Attack"
+	]
 }

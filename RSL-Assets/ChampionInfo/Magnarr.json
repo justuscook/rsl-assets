@@ -1,20 +1,21 @@
 {
-	"name": "Magnarr",
 	"key": "l10n:hero-type/name?id=6340#static",
+	"name": "Magnarr",
 	"id": 6346,
-	"avatar": "6340",
-	"affinity": "Spirit",
-	"hp": "20970",
-	"atk": "837",
-	"def": "1068",
-	"spd": "100",
-	"res": "30",
 	"acc": "15",
-	"crate": "15",
+	"affinity": "Spirit",
+	"atk": "837",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "100",
+	"def": "1068",
+	"hp": "20970",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Demonspawn",
-	"aura": "Increase Ally  in Doom Tower battles by 30",
+	"rarity": "Epic",
+	"type": "HP",
+	"aura": "Increases Ally DEF in Doom Tower Battles by 30%.",
 	"totalBooks": "14",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Superheated Hammer",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +10%\nLvl. 7 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Damage +10%\nLevel 7: Buff/Debuff Chance +10%\n",
 			"multiplier": "0.23*HP",
 			"numBooksToMax": "6"
 		},
@@ -33,7 +34,7 @@
 			"name": "Percussive Pound",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Damage +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Damage +10%\nLevel 6: Cooldown -1\n",
 			"multiplier": "0.22*HP",
 			"numBooksToMax": "5"
 		},
@@ -43,21 +44,19 @@
 			"name": "Fan the Flames",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Cooldown -1\n",
 			"multiplier": "0.37*HP",
 			"numBooksToMax": "3"
 		},
 		{
 			"desc": "This Champion heals by 1% of their MAX HP every time anyone in the battle takes damage from a [HP Burn] debuff.",
-			"basedOn": "[HP]",
+			"basedOn": "",
 			"name": "Fleshmelter [P]",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": "0"
+			"numBooksToMax": ""
 		}
-	],
-	"rarity": "Epic",
-	"type": "Health"
+	]
 }

@@ -1,20 +1,21 @@
 {
-	"name": "Turvold",
 	"key": "l10n:hero-type/name?id=2370#static",
+	"name": "Turvold",
 	"id": 2376,
-	"avatar": "2370",
-	"affinity": "Void",
-	"hp": "17505",
-	"atk": "1498",
-	"def": "914",
-	"spd": "93",
-	"res": "40",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Void",
+	"atk": "1498",
 	"cdamage": "63",
+	"crate": "15",
+	"spd": "93",
+	"def": "914",
+	"hp": "17505",
 	"cheal": "50",
+	"res": "40",
 	"faction": "Barbarians",
-	"aura": "Increase Ally ATK in Faction Crypts by 42",
+	"rarity": "Legendary",
+	"type": "Attack",
+	"aura": "Increases Ally ATK in Faction Crypts by 42%.",
 	"totalBooks": "11",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Crackling Blade",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Damage +10%\nLvl. 6 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Damage +10%\nLevel 6: Buff/Debuff Chance +10%\n",
 			"multiplier": "3*ATK",
 			"numBooksToMax": "5"
 		},
@@ -33,7 +34,7 @@
 			"name": "Ancestors' Power",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		},
@@ -43,11 +44,9 @@
 			"name": "Juggernaut",
 			"maxcd": "5",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\nLvl. 5 Damage +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Cooldown -1\nLevel 5: Damage +0\nLevel 6: Cooldown -1\n",
 			"multiplier": "3*ATK",
 			"numBooksToMax": "5"
 		}
-	],
-	"rarity": "Legendary",
-	"type": "Attack"
+	]
 }

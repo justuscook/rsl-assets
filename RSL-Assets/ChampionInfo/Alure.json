@@ -1,20 +1,21 @@
 {
-	"name": "Alure",
 	"key": "l10n:hero-type/name?id=1030#static",
+	"name": "Alure",
 	"id": 1036,
-	"avatar": "1030",
-	"affinity": "Magic",
-	"hp": "14040",
-	"atk": "1575",
-	"def": "793",
-	"spd": "96",
-	"res": "30",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Magic",
+	"atk": "1575",
 	"cdamage": "60",
+	"crate": "15",
+	"spd": "96",
+	"def": "793",
+	"hp": "14040",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Demonspawn",
-	"aura": "Increase Ally ACC in Faction Crypts by 50",
+	"rarity": "Epic",
+	"type": "Attack",
+	"aura": "Increases Ally ACC in Faction Crypts by 50.",
 	"totalBooks": "12",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Psychic Whip",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\n",
 			"multiplier": "1*ATK",
 			"numBooksToMax": "4"
 		},
@@ -33,7 +34,7 @@
 			"name": "Temptation",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\nLvl. 7 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Cooldown -1\nLevel 7: Buff/Debuff Chance +0\n",
 			"multiplier": "1.7*ATK",
 			"numBooksToMax": "6"
 		},
@@ -43,11 +44,9 @@
 			"name": "Hellish Blaze",
 			"maxcd": "6",
 			"mincd": "6",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\n",
 			"multiplier": "4.6*ATK",
 			"numBooksToMax": "2"
 		}
-	],
-	"rarity": "Epic",
-	"type": "Attack"
+	]
 }

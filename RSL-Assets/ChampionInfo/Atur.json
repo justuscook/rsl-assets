@@ -1,19 +1,20 @@
 {
-	"name": "Atur",
 	"key": "l10n:hero-type/name?id=3470#static",
+	"name": "Atur",
 	"id": 3476,
-	"avatar": "3470",
-	"affinity": "Magic",
-	"hp": "19980",
-	"atk": "826",
-	"def": "1145",
-	"spd": "96",
-	"res": "45",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Magic",
+	"atk": "826",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "96",
+	"def": "1145",
+	"hp": "19980",
 	"cheal": "50",
+	"res": "45",
 	"faction": "Barbarians",
+	"rarity": "Epic",
+	"type": "HP",
 	"aura": "",
 	"totalBooks": "10",
 	"skills": [
@@ -23,7 +24,7 @@
 			"name": "Roaring Leap",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\n",
 			"multiplier": "4.3*DEF",
 			"numBooksToMax": "4"
 		},
@@ -33,7 +34,7 @@
 			"name": "Raging Bull",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
 			"multiplier": "3.1*DEF",
 			"numBooksToMax": "5"
 		},
@@ -43,7 +44,7 @@
 			"name": "Adrenaline Rush [P]",
 			"maxcd": "2",
 			"mincd": "1",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		},
@@ -55,9 +56,7 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": "0"
+			"numBooksToMax": ""
 		}
-	],
-	"rarity": "Epic",
-	"type": "Health"
+	]
 }

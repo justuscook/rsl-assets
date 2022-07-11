@@ -1,20 +1,21 @@
 {
-	"name": "Jingwon",
 	"key": "l10n:hero-type/name?id=6820#static",
+	"name": "Jingwon",
 	"id": 6826,
-	"avatar": "6820",
-	"affinity": "Void",
-	"hp": "22800",
-	"atk": "925",
-	"def": "1134",
-	"spd": "103",
-	"res": "30",
 	"acc": "20",
-	"crate": "15",
+	"affinity": "Void",
+	"atk": "925",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "103",
+	"def": "1134",
+	"hp": "22800",
 	"cheal": "50",
-	"faction": "Samurai",
-	"aura": "Increase Ally HP in in all Battles by 33",
+	"res": "30",
+	"faction": "Shadowkin",
+	"rarity": "Legendary",
+	"type": "HP",
+	"aura": "Increases Ally HP in All Battles by 33%.",
 	"totalBooks": "12",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Doom Exchange",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\n",
 			"multiplier": "0.23*HP",
 			"numBooksToMax": "3"
 		},
@@ -33,7 +34,7 @@
 			"name": "Compound Calamity",
 			"maxcd": "4",
 			"mincd": "2",
-			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Buff/Debuff Chance +15%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Buff/Debuff Chance +10%\nLevel 3: Buff/Debuff Chance +15%\nLevel 4: Cooldown -1\nLevel 5: Cooldown -1\n",
 			"multiplier": "0.35*HP",
 			"numBooksToMax": "4"
 		},
@@ -43,7 +44,7 @@
 			"name": "Power Flare",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Buff/Debuff Chance +10%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Cooldown -1\n",
 			"multiplier": "0.14*HP",
 			"numBooksToMax": "3"
 		},
@@ -53,11 +54,9 @@
 			"name": "Unchained [P]",
 			"maxcd": "6",
 			"mincd": "4",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		}
-	],
-	"rarity": "Legendary",
-	"type": "Health"
+	]
 }

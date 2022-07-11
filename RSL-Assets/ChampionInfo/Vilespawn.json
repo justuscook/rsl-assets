@@ -1,19 +1,20 @@
 {
-	"name": "Vilespawn",
 	"key": "l10n:hero-type/name?id=4350#static",
+	"name": "Vilespawn",
 	"id": 4356,
-	"avatar": "4350",
-	"affinity": "Spirit",
-	"hp": "13875",
-	"atk": "925",
-	"def": "903",
-	"spd": "91",
-	"res": "30",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Spirit",
+	"atk": "925",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "91",
+	"def": "903",
+	"hp": "13875",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Demonspawn",
+	"rarity": "Uncommon",
+	"type": "Support",
 	"aura": "",
 	"totalBooks": "12",
 	"skills": [
@@ -23,21 +24,19 @@
 			"name": "Hellblight",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Buff/Debuff Chance +5%\nLvl. 7 Buff/Debuff Chance +10%\nLvl. 8 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\nLevel 6: Buff/Debuff Chance +5%\nLevel 7: Buff/Debuff Chance +10%\nLevel 8: Buff/Debuff Chance +10%\n",
 			"multiplier": "3.3*ATK",
 			"numBooksToMax": "7"
 		},
 		{
 			"desc": "Heals an ally by 10% of their MAX HP.",
-			"basedOn": "[Enemy MAX HP]",
+			"basedOn": "",
 			"name": "Flesh Knit",
 			"maxcd": "3",
 			"mincd": "3",
-			"books": "Lvl. 2  Heal +5%\nLvl. 3  Heal +5%\nLvl. 4  Heal +5%\nLvl. 5  Heal +10%\nLvl. 6  Heal +10%\n",
+			"books": "Level 2: Heal +5%\nLevel 3: Heal +5%\nLevel 4: Heal +5%\nLevel 5: Heal +10%\nLevel 6: Heal +10%\n",
 			"multiplier": "",
 			"numBooksToMax": "5"
 		}
-	],
-	"rarity": "Uncommon",
-	"type": "Support"
+	]
 }

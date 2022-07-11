@@ -1,19 +1,20 @@
 {
-	"name": "Battle Sister",
 	"key": "l10n:hero-type/name?id=1420#static",
+	"name": "Battle Sister",
 	"id": 1426,
-	"avatar": "1420",
-	"affinity": "Magic",
-	"hp": "14205",
-	"atk": "1090",
-	"def": "716",
-	"spd": "101",
-	"res": "30",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Magic",
+	"atk": "1090",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "101",
+	"def": "716",
+	"hp": "14205",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Sacred Order",
+	"rarity": "Uncommon",
+	"type": "Attack",
 	"aura": "",
 	"totalBooks": "10",
 	"skills": [
@@ -23,7 +24,7 @@
 			"name": "Sever",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Damage +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\nLevel 6: Damage +5%\n",
 			"multiplier": "4.2*ATK",
 			"numBooksToMax": "5"
 		},
@@ -33,11 +34,9 @@
 			"name": "Condemn",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Cooldown -1\n",
 			"multiplier": "6.7*ATK",
 			"numBooksToMax": "5"
 		}
-	],
-	"rarity": "Uncommon",
-	"type": "Attack"
+	]
 }

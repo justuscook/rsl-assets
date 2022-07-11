@@ -1,20 +1,21 @@
 {
-	"name": "Deathless",
 	"key": "l10n:hero-type/name?id=1590#static",
+	"name": "Deathless",
 	"id": 1596,
-	"avatar": "1590",
-	"affinity": "Spirit",
-	"hp": "18990",
-	"atk": "881",
-	"def": "1156",
-	"spd": "92",
-	"res": "30",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Spirit",
+	"atk": "881",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "92",
+	"def": "1156",
+	"hp": "18990",
 	"cheal": "50",
-	"faction": "Knights Revenant",
-	"aura": "Increase Ally  in Arena battles by 70",
+	"res": "30",
+	"faction": "Knight Revenant",
+	"rarity": "Epic",
+	"type": "Defense",
+	"aura": "Increases Ally RES in Arena Battles by 70.",
 	"totalBooks": "14",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Grave Whispers",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Buff/Debuff Chance +10%\n",
 			"multiplier": "4.5*DEF",
 			"numBooksToMax": "5"
 		},
@@ -33,8 +34,8 @@
 			"name": "Vile Insults",
 			"maxcd": "3",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
-			"multiplier": null,
+			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +10%\n",
+			"multiplier": "",
 			"numBooksToMax": "4"
 		},
 		{
@@ -43,11 +44,9 @@
 			"name": "Grim Revenge",
 			"maxcd": "7",
 			"mincd": "5",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Damage +10%\nLevel 5: Cooldown -1\nLevel 6: Cooldown -1\n",
 			"multiplier": "(4+deadAlliesCount)*DEF",
 			"numBooksToMax": "5"
 		}
-	],
-	"rarity": "Epic",
-	"type": "Defense"
+	]
 }

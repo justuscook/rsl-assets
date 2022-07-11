@@ -1,20 +1,21 @@
 {
-	"name": "Captain Temila",
 	"key": "l10n:hero-type/name?id=3770#static",
+	"name": "Captain Temila",
 	"id": 3776,
-	"avatar": "3770",
-	"affinity": "Magic",
-	"hp": "18825",
-	"atk": "936",
-	"def": "1112",
-	"spd": "96",
-	"res": "45",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Magic",
+	"atk": "936",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "96",
+	"def": "1112",
+	"hp": "18825",
 	"cheal": "50",
+	"res": "45",
 	"faction": "Dark Elves",
-	"aura": "Increase Ally  in Faction Crypts by 45",
+	"rarity": "Epic",
+	"type": "HP",
+	"aura": "Increases Ally RES in Faction Crypts by 45.",
 	"totalBooks": "10",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Bond of Duty",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\n",
 			"multiplier": "4.9*ATK",
 			"numBooksToMax": "4"
 		},
@@ -33,7 +34,7 @@
 			"name": "Stay In The Fight",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2  Heal +5%\nLvl. 3  Heal +5%\nLvl. 4  Heal +5%\nLvl. 5  Heal +5%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Heal +5%\nLevel 3: Heal +5%\nLevel 4: Heal +5%\nLevel 5: Heal +5%\nLevel 6: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "5"
 		},
@@ -43,11 +44,9 @@
 			"name": "Exalted Guardian",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		}
-	],
-	"rarity": "Epic",
-	"type": "Health"
+	]
 }

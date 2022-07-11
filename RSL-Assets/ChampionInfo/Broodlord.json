@@ -1,20 +1,21 @@
 {
-	"name": "Broodlord",
 	"key": "l10n:hero-type/name?id=6810#static",
+	"name": "Broodlord",
 	"id": 6816,
-	"avatar": "6810",
-	"affinity": "Force",
-	"hp": "17340",
-	"atk": "727",
-	"def": "1421",
-	"spd": "99",
-	"res": "30",
 	"acc": "15",
-	"crate": "15",
+	"affinity": "Force",
+	"atk": "727",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "99",
+	"def": "1421",
+	"hp": "17340",
 	"cheal": "50",
-	"faction": "Lizard Men",
-	"aura": "Increase Ally  in in all Battles by 25",
+	"res": "30",
+	"faction": "Lizardmen",
+	"rarity": "Epic",
+	"type": "Defense",
+	"aura": "Increases Ally DEF in All Battles by 25%.",
 	"totalBooks": "15",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Patient Tactician",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Buff/Debuff Chance +10%\n",
 			"multiplier": "1.6*DEF",
 			"numBooksToMax": "5"
 		},
@@ -33,7 +34,7 @@
 			"name": "Defend the Nest",
 			"maxcd": "5",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		},
@@ -43,7 +44,7 @@
 			"name": "Primal Tremor",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Cooldown -1\n",
 			"multiplier": "3.8*DEF",
 			"numBooksToMax": "5"
 		},
@@ -53,11 +54,9 @@
 			"name": "Eggwatcher [P]",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +5%\n",
+			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +5%\n",
 			"multiplier": "",
 			"numBooksToMax": "3"
 		}
-	],
-	"rarity": "Epic",
-	"type": "Defense"
+	]
 }

@@ -1,20 +1,21 @@
 {
-	"name": "Ifrit",
 	"key": "l10n:hero-type/name?id=2640#static",
+	"name": "Ifrit",
 	"id": 2646,
-	"avatar": "2640",
-	"affinity": "Void",
-	"hp": "18825",
-	"atk": "815",
-	"def": "958",
-	"spd": "95",
-	"res": "40",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Void",
+	"atk": "815",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "95",
+	"def": "958",
+	"hp": "18825",
 	"cheal": "50",
+	"res": "40",
 	"faction": "Demonspawn",
-	"aura": "Increase Ally HP in in all Battles by 15",
+	"rarity": "Rare",
+	"type": "HP",
+	"aura": "Increases Ally HP in All Battles by 15%.",
 	"totalBooks": "9",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Feebleness Curse",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\n",
 			"multiplier": "5.1*ATK",
 			"numBooksToMax": "4"
 		},
@@ -33,7 +34,7 @@
 			"name": "Withering Bolt",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\nLevel 6: Cooldown -1\n",
 			"multiplier": "2.5*ATK+0.2*HP",
 			"numBooksToMax": "5"
 		},
@@ -45,9 +46,7 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": "0"
+			"numBooksToMax": ""
 		}
-	],
-	"rarity": "Rare",
-	"type": "Health"
+	]
 }

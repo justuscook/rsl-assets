@@ -1,20 +1,21 @@
 {
-	"name": "Tuhak the Wanderer",
 	"key": "l10n:hero-type/name?id=5280#static",
+	"name": "Tuhak the Wanderer",
 	"id": 5286,
-	"avatar": "5280",
-	"affinity": "Void",
-	"hp": "16020",
-	"atk": "1365",
-	"def": "870",
-	"spd": "97",
-	"res": "30",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Void",
+	"atk": "1365",
 	"cdamage": "60",
+	"crate": "15",
+	"spd": "97",
+	"def": "870",
+	"hp": "16020",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Orcs",
-	"aura": "Increase Ally ATK in in all Battles by 22",
+	"rarity": "Epic",
+	"type": "Attack",
+	"aura": "Increases Ally ATK in All Battles by 22%.",
 	"totalBooks": "15",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Unfair Fight",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Buff/Debuff Chance +5%\n",
 			"multiplier": "1.9*ATK",
 			"numBooksToMax": "5"
 		},
@@ -33,7 +34,7 @@
 			"name": "Whirl of Battle",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
 			"multiplier": "3.75*ATK",
 			"numBooksToMax": "5"
 		},
@@ -43,7 +44,7 @@
 			"name": "Clever Brutality",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
 			"multiplier": "6.3*ATK",
 			"numBooksToMax": "5"
 		},
@@ -55,9 +56,7 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": "0"
+			"numBooksToMax": ""
 		}
-	],
-	"rarity": "Epic",
-	"type": "Attack"
+	]
 }

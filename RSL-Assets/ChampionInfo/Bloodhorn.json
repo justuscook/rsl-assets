@@ -1,20 +1,21 @@
 {
-	"name": "Bloodhorn",
 	"key": "l10n:hero-type/name?id=2700#static",
+	"name": "Bloodhorn",
 	"id": 2706,
-	"avatar": "2700",
-	"affinity": "Void",
-	"hp": "17505",
-	"atk": "870",
-	"def": "991",
-	"spd": "89",
-	"res": "40",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Void",
+	"atk": "870",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "89",
+	"def": "991",
+	"hp": "17505",
 	"cheal": "50",
+	"res": "40",
 	"faction": "Skinwalkers",
-	"aura": "Increase Ally HP in Faction Crypts by 21",
+	"rarity": "Rare",
+	"type": "HP",
+	"aura": "Increases Ally HP in Faction Crypts by 21%.",
 	"totalBooks": "6",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Killer Crescent",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +10%\n",
 			"multiplier": "3.3*ATK",
 			"numBooksToMax": "4"
 		},
@@ -33,7 +34,7 @@
 			"name": "Intervene",
 			"maxcd": "5",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		},
@@ -45,9 +46,7 @@
 			"mincd": "1",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": "0"
+			"numBooksToMax": ""
 		}
-	],
-	"rarity": "Rare",
-	"type": "Health"
+	]
 }

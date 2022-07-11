@@ -1,19 +1,20 @@
 {
-	"name": "Outlander",
 	"key": "l10n:hero-type/name?id=840#static",
+	"name": "Outlander",
 	"id": 846,
-	"avatar": "840",
-	"affinity": "Spirit",
-	"hp": "9255",
-	"atk": "1299",
-	"def": "837",
-	"spd": "96",
-	"res": "30",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Spirit",
+	"atk": "1299",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "96",
+	"def": "837",
+	"hp": "9255",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Barbarians",
+	"rarity": "Uncommon",
+	"type": "Attack",
 	"aura": "",
 	"totalBooks": "11",
 	"skills": [
@@ -23,7 +24,7 @@
 			"name": "Savage Strike",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\n",
 			"multiplier": "2.1*ATK",
 			"numBooksToMax": "4"
 		},
@@ -33,11 +34,9 @@
 			"name": "Talisman of Power",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\nLvl. 6 Buff/Debuff Chance +5%\nLvl. 7 Buff/Debuff Chance +10%\nLvl. 8 Cooldown -1Lvl. 8 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\nLevel 6: Buff/Debuff Chance +5%\nLevel 7: Buff/Debuff Chance +10%\nLevel 8: Cooldown -1\n",
 			"multiplier": "3.8*ATK",
 			"numBooksToMax": "7"
 		}
-	],
-	"rarity": "Uncommon",
-	"type": "Attack"
+	]
 }

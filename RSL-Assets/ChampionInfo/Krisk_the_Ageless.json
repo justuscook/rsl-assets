@@ -1,19 +1,20 @@
 {
-	"name": "Krisk the Ageless",
 	"key": "l10n:hero-type/name?id=3670#static",
+	"name": "Krisk the Ageless",
 	"id": 3676,
-	"avatar": "3670",
-	"affinity": "Void",
-	"hp": "19485",
-	"atk": "760",
-	"def": "1520",
-	"spd": "94",
-	"res": "50",
 	"acc": "10",
-	"crate": "15",
+	"affinity": "Void",
+	"atk": "760",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "94",
+	"def": "1520",
+	"hp": "19485",
 	"cheal": "50",
-	"faction": "Lizard Men",
+	"res": "50",
+	"faction": "Lizardmen",
+	"rarity": "Legendary",
+	"type": "Defense",
 	"aura": "",
 	"totalBooks": "14",
 	"skills": [
@@ -23,7 +24,7 @@
 			"name": "Enter the Morass",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +10%\n",
 			"multiplier": "2*DEF",
 			"numBooksToMax": "4"
 		},
@@ -33,7 +34,7 @@
 			"name": "Centuried Vigor",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Damage +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Damage +10%\nLevel 6: Cooldown -1\n",
 			"multiplier": "3*DEF",
 			"numBooksToMax": "5"
 		},
@@ -43,21 +44,19 @@
 			"name": "Invincible Shell",
 			"maxcd": "5",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		},
 		{
 			"desc": "At the start of each Round, places a [Shield] buff on all allies for 2 turns equal to 50% of this Champion’s MAX HP. Has a 75% chance of placing a 60% [Decrease DEF] debuff and a 50% [Decrease ATK] debuff on the attacker for 1 turn when hit.",
-			"basedOn": "[HP]",
+			"basedOn": "",
 			"name": "Might of Ages [P]",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Buff/Debuff Chance +10%\n",
 			"multiplier": "",
 			"numBooksToMax": "3"
 		}
-	],
-	"rarity": "Legendary",
-	"type": "Defense"
+	]
 }

@@ -1,19 +1,20 @@
 {
-	"name": "Crossbowman",
 	"key": "l10n:hero-type/name?id=150#static",
+	"name": "Crossbowman",
 	"id": 156,
-	"avatar": "150",
-	"affinity": "Magic",
-	"hp": "13875",
-	"atk": "1167",
-	"def": "936",
-	"spd": "95",
-	"res": "30",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Magic",
+	"atk": "1167",
 	"cdamage": "57",
+	"crate": "15",
+	"spd": "95",
+	"def": "936",
+	"hp": "13875",
 	"cheal": "50",
+	"res": "30",
 	"faction": "Banner Lords",
+	"rarity": "Rare",
+	"type": "Attack",
 	"aura": "",
 	"totalBooks": "8",
 	"skills": [
@@ -23,7 +24,7 @@
 			"name": "Snap Shot",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\n",
 			"multiplier": "3.5*ATK",
 			"numBooksToMax": "3"
 		},
@@ -33,7 +34,7 @@
 			"name": "Sharp Eye",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		},
@@ -43,11 +44,9 @@
 			"name": "Blunted Arrow",
 			"maxcd": "5",
 			"mincd": "5",
-			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +15%\nLvl. 5 Buff/Debuff Chance +15%\n",
+			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Damage +15%\nLevel 5: Buff/Debuff Chance +15%\n",
 			"multiplier": "5.5*ATK",
 			"numBooksToMax": "4"
 		}
-	],
-	"rarity": "Rare",
-	"type": "Attack"
+	]
 }
