@@ -13,8 +13,8 @@
 	"modelName": "0251_OrcDog",
 	"avatarKey": "1260",
 	"leaderSkill": {
-		"area": "Arena",
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Health",
 		"absolute": false,
 		"value": 0.25

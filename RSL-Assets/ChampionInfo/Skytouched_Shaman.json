@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=4530#static",
 	"name": "Skytouched Shaman",
+	"key": "l10n:hero-type/name?id=4530#static",
 	"id": 4536,
-	"acc": "0",
+	"avatar": "4530",
 	"affinity": "Void",
-	"atk": "958",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "102",
-	"def": "1123",
 	"hp": "18330",
-	"cheal": "50",
+	"atk": "958",
+	"def": "1123",
+	"spd": "102",
 	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Barbarians",
-	"rarity": "Epic",
-	"type": "Support",
-	"aura": "Increases Ally HP in All Battles by 25%.",
+	"aura": "Increase Ally HP in  by 25",
 	"totalBooks": "11",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Talon Knives",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\nLevel 6: Damage +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\nLvl. 6 Damage +10%\n",
 			"multiplier": "2.2*ATK",
 			"numBooksToMax": "5"
 		},
@@ -34,19 +33,21 @@
 			"name": "Immortal Skies",
 			"maxcd": "6",
 			"mincd": "4",
-			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
+			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		},
 		{
 			"desc": "Damages this Champion by 10% of their MAX HP at the start of each turn. Heals all allies except this Champion equal to half of the lost HP. Places a 30% [Decrease SPD] debuff on this Champion for 1 turn at the start of each turn. Also has a 50% chance of placing a [Fear] debuff on this Champion for 1 turn.",
-			"basedOn": "",
+			"basedOn": "[HP]",
 			"name": "Bloodstain Ritual [P]",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Heal +5%\nLevel 3: Heal +5%\nLevel 4: Heal +5%\nLevel 5: Heal +5%\n",
-			"multiplier": "",
+			"books": "Lvl. 2  Heal +5%\nLvl. 3  Heal +5%\nLvl. 4  Heal +5%\nLvl. 5  Heal +5%\n",
+			"multiplier": "0.1*HP",
 			"numBooksToMax": "4"
 		}
-	]
+	],
+	"rarity": "Epic",
+	"type": "Support"
 }

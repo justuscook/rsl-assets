@@ -13,8 +13,8 @@
 	"modelName": "0170_svine_armored",
 	"avatarKey": "1790",
 	"leaderSkill": {
-		"area": "Dungeon",
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Defence",
 		"absolute": false,
 		"value": 0.4

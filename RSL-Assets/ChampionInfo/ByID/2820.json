@@ -13,8 +13,8 @@
 	"modelName": "0302_Ogres_2820",
 	"avatarKey": "2820",
 	"leaderSkill": {
-		"area": null,
-		"affinity": "Magic",
+		"area": "",
+		"affinity": "",
 		"kind": "Attack",
 		"absolute": false,
 		"value": 0.2

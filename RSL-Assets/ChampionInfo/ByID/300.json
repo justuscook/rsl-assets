@@ -13,8 +13,8 @@
 	"modelName": "0102_HighElves",
 	"avatarKey": "300",
 	"leaderSkill": {
-		"area": "Dungeon",
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Resistance",
 		"absolute": true,
 		"value": 70

@@ -13,8 +13,8 @@
 	"modelName": "0284_order_lvl4_id2500",
 	"avatarKey": "2500",
 	"leaderSkill": {
-		"area": "Arena",
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Speed",
 		"absolute": false,
 		"value": 0.2

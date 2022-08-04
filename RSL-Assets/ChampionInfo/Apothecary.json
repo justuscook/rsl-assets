@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=30#static",
 	"name": "Apothecary",
+	"key": "l10n:hero-type/name?id=30#static",
 	"id": 36,
-	"acc": "0",
+	"avatar": "30",
 	"affinity": "Magic",
-	"atk": "881",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "106",
-	"def": "1002",
 	"hp": "17175",
-	"cheal": "50",
+	"atk": "881",
+	"def": "1002",
+	"spd": "106",
 	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "High Elves",
-	"rarity": "Rare",
-	"type": "Support",
-	"aura": "Increases Ally DEF in Dungeons by 21%.",
+	"aura": "Increase Ally  in  by 21",
 	"totalBooks": "10",
 	"skills": [
 		{
@@ -24,17 +23,17 @@
 			"name": "Scatterbolt",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
 			"multiplier": "1.4*ATK",
 			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Heals a target ally by 35% HP. This Heal can be critical.",
-			"basedOn": "",
+			"basedOn": "[Enemy MAX HP]",
 			"name": "Soothing Chant",
 			"maxcd": "3",
 			"mincd": "2",
-			"books": "Level 2: Heal +5%\nLevel 3: Heal +5%\nLevel 4: Heal +5%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2  Heal +5%\nLvl. 3  Heal +5%\nLvl. 4  Heal +5%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "4"
 		},
@@ -44,9 +43,11 @@
 			"name": "Boon of Speed",
 			"maxcd": "5",
 			"mincd": "3",
-			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
+			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		}
-	]
+	],
+	"rarity": "Rare",
+	"type": "Support"
 }

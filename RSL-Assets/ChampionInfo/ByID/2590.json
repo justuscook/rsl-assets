@@ -13,8 +13,8 @@
 	"modelName": "202_goat_ranger_id2590",
 	"avatarKey": "2590",
 	"leaderSkill": {
-		"area": "Fractions",
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Accuracy",
 		"absolute": true,
 		"value": 40

@@ -1,20 +1,19 @@
 {
-	"key": "l10n:hero-type/name?id=5310#static",
 	"name": "Baroth the Bloodsoaked",
+	"key": "l10n:hero-type/name?id=5310#static",
 	"id": 5316,
-	"acc": "0",
+	"avatar": "5310",
 	"affinity": "Force",
-	"atk": "826",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "98",
-	"def": "1112",
 	"hp": "20475",
-	"cheal": "50",
+	"atk": "826",
+	"def": "1112",
+	"spd": "98",
 	"res": "45",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Barbarians",
-	"rarity": "Epic",
-	"type": "HP",
 	"aura": "",
 	"totalBooks": "12",
 	"skills": [
@@ -24,7 +23,7 @@
 			"name": "Gilded Weapons",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
 			"multiplier": "0.12*HP",
 			"numBooksToMax": "4"
 		},
@@ -34,7 +33,7 @@
 			"name": "Splattering Hacks",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
 			"multiplier": "0.17*HP",
 			"numBooksToMax": "4"
 		},
@@ -44,9 +43,11 @@
 			"name": "Serpent Axes",
 			"maxcd": "4",
 			"mincd": "4",
-			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +15%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +15%\n",
 			"multiplier": "0.18*HP",
 			"numBooksToMax": "4"
 		}
-	]
+	],
+	"rarity": "Epic",
+	"type": "Health"
 }

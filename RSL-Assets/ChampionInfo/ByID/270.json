@@ -13,8 +13,8 @@
 	"modelName": "0077_OrcGirl",
 	"avatarKey": "270",
 	"leaderSkill": {
-		"area": "Fractions",
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Speed",
 		"absolute": false,
 		"value": 0.13

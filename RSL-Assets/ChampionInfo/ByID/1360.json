@@ -13,8 +13,8 @@
 	"modelName": "0243_Lizard_id1360",
 	"avatarKey": "1360",
 	"leaderSkill": {
-		"area": "Fractions",
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Accuracy",
 		"absolute": true,
 		"value": 50

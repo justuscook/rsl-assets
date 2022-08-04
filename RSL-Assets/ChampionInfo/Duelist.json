@@ -1,20 +1,19 @@
 {
-	"key": "l10n:hero-type/name?id=530#static",
 	"name": "Duelist",
+	"key": "l10n:hero-type/name?id=530#static",
 	"id": 536,
-	"acc": "0",
+	"avatar": "530",
 	"affinity": "Force",
-	"atk": "1200",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "101",
-	"def": "793",
 	"hp": "11400",
-	"cheal": "50",
+	"atk": "1200",
+	"def": "793",
+	"spd": "101",
 	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Banner Lords",
-	"rarity": "Uncommon",
-	"type": "Attack",
 	"aura": "",
 	"totalBooks": "13",
 	"skills": [
@@ -24,7 +23,7 @@
 			"name": "Elan",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Heal +10%\nLevel 5: Damage +10%\nLevel 6: Damage +15%\nLevel 7: Heal +15%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4  Heal +10%\nLvl. 5 Damage +10%\nLvl. 6 Damage +15%\nLvl. 7  Heal +15%\n",
 			"multiplier": "3.4*ATK",
 			"numBooksToMax": "6"
 		},
@@ -34,9 +33,11 @@
 			"name": "Stunning Slice",
 			"maxcd": "3",
 			"mincd": "2",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Damage +10%\nLevel 6: Buff/Debuff Chance +15%\nLevel 7: Damage +10%\nLevel 8: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Damage +10%\nLvl. 6 Buff/Debuff Chance +15%\nLvl. 7 Damage +10%\nLvl. 8 Cooldown -1Lvl. 8 Buff/Debuff Chance +100%\n",
 			"multiplier": "5.6*ATK",
 			"numBooksToMax": "7"
 		}
-	]
+	],
+	"rarity": "Uncommon",
+	"type": "Attack"
 }

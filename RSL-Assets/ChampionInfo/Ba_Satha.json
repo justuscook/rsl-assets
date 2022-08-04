@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=6260#static",
 	"name": "Ba Satha",
+	"key": "l10n:hero-type/name?id=6260#static",
 	"id": 6266,
-	"acc": "10",
+	"avatar": "6260",
 	"affinity": "Magic",
-	"atk": "837",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "101",
-	"def": "1387",
 	"hp": "20310",
-	"cheal": "50",
+	"atk": "837",
+	"def": "1387",
+	"spd": "101",
 	"res": "50",
-	"faction": "Lizardmen",
-	"rarity": "Legendary",
-	"type": "HP",
-	"aura": "Increases Ally HP in All Battles by 31%.",
+	"acc": "10",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Lizard Men",
+	"aura": "Increase Ally HP in  by 31",
 	"totalBooks": "14",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Death Roll",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
 			"multiplier": "0.24*HP",
 			"numBooksToMax": "4"
 		},
@@ -34,7 +33,7 @@
 			"name": "God Beast's Boon",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Shield +10%\nLevel 3: Shield +10%\nLevel 4: Cooldown -1\n",
+			"books": "Lvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "3"
 		},
@@ -44,7 +43,7 @@
 			"name": "Staggering Heft",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
 			"multiplier": "0.27*HP",
 			"numBooksToMax": "5"
 		},
@@ -54,9 +53,11 @@
 			"name": "Soulkeeper [P]",
 			"maxcd": "1",
 			"mincd": "1",
-			"books": "Level 2: Buff/Debuff Chance +10%\nLevel 3: Buff/Debuff Chance +15%\n",
+			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Buff/Debuff Chance +15%\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		}
-	]
+	],
+	"rarity": "Legendary",
+	"type": "Health"
 }

@@ -13,8 +13,8 @@
 	"modelName": "0330_Athel",
 	"avatarKey": "3420",
 	"leaderSkill": {
-		"area": "Dungeon",
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "CriticalChance",
 		"absolute": false,
 		"value": 0.15

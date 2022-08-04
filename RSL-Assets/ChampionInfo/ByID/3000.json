@@ -13,8 +13,8 @@
 	"modelName": "0354_Santa_3000",
 	"avatarKey": "3000",
 	"leaderSkill": {
-		"area": null,
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Health",
 		"absolute": false,
 		"value": 0.33

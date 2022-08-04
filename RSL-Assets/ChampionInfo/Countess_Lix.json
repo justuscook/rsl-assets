@@ -1,20 +1,19 @@
 {
-	"key": "l10n:hero-type/name?id=5800#static",
 	"name": "Countess Lix",
+	"key": "l10n:hero-type/name?id=5800#static",
 	"id": 5806,
-	"acc": "20",
+	"avatar": "5800",
 	"affinity": "Magic",
-	"atk": "1498",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "100",
-	"def": "936",
 	"hp": "17175",
-	"cheal": "50",
+	"atk": "1498",
+	"def": "936",
+	"spd": "100",
 	"res": "30",
+	"acc": "20",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Demonspawn",
-	"rarity": "Legendary",
-	"type": "Attack",
 	"aura": "",
 	"totalBooks": "13",
 	"skills": [
@@ -24,7 +23,7 @@
 			"name": "Festering Caress",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +10%\n",
 			"multiplier": "1.6*ATK",
 			"numBooksToMax": "4"
 		},
@@ -34,7 +33,7 @@
 			"name": "Mire of Misery",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Buff/Debuff Chance +15%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +15%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
 			"multiplier": "1.15*ATK",
 			"numBooksToMax": "4"
 		},
@@ -44,7 +43,7 @@
 			"name": "Time Dilation",
 			"maxcd": "7",
 			"mincd": "5",
-			"books": "Level 2: Buff/Debuff Chance +10%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +15%\nLevel 5: Cooldown -1\nLevel 6: Cooldown -1\n",
+			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +15%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
 			"multiplier": "4*ATK",
 			"numBooksToMax": "5"
 		},
@@ -56,7 +55,7 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": ""
+			"numBooksToMax": "0"
 		},
 		{
 			"desc": "Fills this Champion’s Turn Meter by 5% each time an ally receives a debuff.",
@@ -66,7 +65,9 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": ""
+			"numBooksToMax": "0"
 		}
-	]
+	],
+	"rarity": "Legendary",
+	"type": "Attack"
 }

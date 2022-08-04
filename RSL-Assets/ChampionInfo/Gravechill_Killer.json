@@ -1,20 +1,19 @@
 {
-	"key": "l10n:hero-type/name?id=4730#static",
 	"name": "Gravechill Killer",
+	"key": "l10n:hero-type/name?id=4730#static",
 	"id": 4736,
-	"acc": "10",
+	"avatar": "4730",
 	"affinity": "Magic",
-	"atk": "1233",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "96",
-	"def": "892",
 	"hp": "13545",
-	"cheal": "50",
+	"atk": "1233",
+	"def": "892",
+	"spd": "96",
 	"res": "30",
+	"acc": "10",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Undead Hordes",
-	"rarity": "Rare",
-	"type": "Attack",
 	"aura": "",
 	"totalBooks": "14",
 	"skills": [
@@ -24,7 +23,7 @@
 			"name": "Freezing Toxin",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
 			"multiplier": "3.9*ATK",
 			"numBooksToMax": "4"
 		},
@@ -34,7 +33,7 @@
 			"name": "Blood Chill",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
 			"multiplier": "6.8*ATK",
 			"numBooksToMax": "4"
 		},
@@ -44,9 +43,11 @@
 			"name": "Icy Veins",
 			"maxcd": "5",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Damage +10%\nLevel 5: Damage +10%\nLevel 6: Cooldown -1\nLevel 7: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Damage +10%\nLvl. 5 Damage +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\nLvl. 7 Cooldown -1Lvl. 7 Buff/Debuff Chance +100%\n",
 			"multiplier": "2.65*ATK",
 			"numBooksToMax": "6"
 		}
-	]
+	],
+	"rarity": "Rare",
+	"type": "Attack"
 }

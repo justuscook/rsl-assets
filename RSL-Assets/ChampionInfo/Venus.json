@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=3500#static",
 	"name": "Venus",
+	"key": "l10n:hero-type/name?id=3500#static",
 	"id": 3506,
-	"acc": "20",
+	"avatar": "3500",
 	"affinity": "Void",
-	"atk": "1090",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "112",
-	"def": "980",
 	"hp": "22635",
-	"cheal": "50",
+	"atk": "1090",
+	"def": "980",
+	"spd": "112",
 	"res": "30",
+	"acc": "20",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Sacred Order",
-	"rarity": "Legendary",
-	"type": "Support",
-	"aura": "Increases Ally HP in All Battles by 33%.",
+	"aura": "Increase Ally HP in  by 33",
 	"totalBooks": "11",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Pining",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\n",
 			"multiplier": "2.2*ATK",
 			"numBooksToMax": "3"
 		},
@@ -34,7 +33,7 @@
 			"name": "Blind With Infatuation",
 			"maxcd": "3",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
 			"multiplier": "3.7*ATK",
 			"numBooksToMax": "4"
 		},
@@ -44,7 +43,7 @@
 			"name": "Burning Passion",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
 			"multiplier": "4*ATK",
 			"numBooksToMax": "4"
 		},
@@ -56,7 +55,9 @@
 			"mincd": "4",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": ""
+			"numBooksToMax": "0"
 		}
-	]
+	],
+	"rarity": "Legendary",
+	"type": "Support"
 }

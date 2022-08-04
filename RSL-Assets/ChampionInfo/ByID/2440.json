@@ -13,8 +13,8 @@
 	"modelName": "0110_high_elf_archer",
 	"avatarKey": "2440",
 	"leaderSkill": {
-		"area": null,
-		"affinity": "Spirit",
+		"area": "",
+		"affinity": "",
 		"kind": "Attack",
 		"absolute": false,
 		"value": 0.38

@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=310#static",
 	"name": "Judge",
+	"key": "l10n:hero-type/name?id=310#static",
 	"id": 316,
-	"acc": "0",
+	"avatar": "310",
 	"affinity": "Magic",
-	"atk": "1476",
-	"cdamage": "57",
-	"crate": "15",
-	"spd": "103",
-	"def": "738",
 	"hp": "12225",
-	"cheal": "50",
+	"atk": "1476",
+	"def": "738",
+	"spd": "103",
 	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
 	"faction": "Dark Elves",
-	"rarity": "Rare",
-	"type": "Attack",
-	"aura": "Increases Ally ACC in All Battles by 30.",
+	"aura": "Increase Ally ACC in  by 30",
 	"totalBooks": "8",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Eviscerate",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
 			"multiplier": "3*ATK*(1+0.1*TRG_DEBUFF_COUNT)",
 			"numBooksToMax": "4"
 		},
@@ -34,7 +33,7 @@
 			"name": "Blade Dance",
 			"maxcd": "3",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
 			"multiplier": "1.7*ATK",
 			"numBooksToMax": "4"
 		},
@@ -46,7 +45,9 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": ""
+			"numBooksToMax": "0"
 		}
-	]
+	],
+	"rarity": "Rare",
+	"type": "Attack"
 }

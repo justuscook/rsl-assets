@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=5470#static",
 	"name": "Boltsmith",
+	"key": "l10n:hero-type/name?id=5470#static",
 	"id": 5476,
-	"acc": "0",
+	"avatar": "5470",
 	"affinity": "Force",
-	"atk": "1465",
-	"cdamage": "57",
-	"crate": "15",
-	"spd": "94",
-	"def": "562",
 	"hp": "15030",
-	"cheal": "50",
+	"atk": "1465",
+	"def": "562",
+	"spd": "94",
 	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
 	"faction": "Dwarves",
-	"rarity": "Rare",
-	"type": "Attack",
-	"aura": "Increases Ally ATK in Faction Crypts by 20%.",
+	"aura": "Increase Ally ATK in  by 20",
 	"totalBooks": "11",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Quarrel Cripple",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Buff/Debuff Chance +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +5%\n",
 			"multiplier": "1.5*ATK",
 			"numBooksToMax": "5"
 		},
@@ -34,7 +33,7 @@
 			"name": "Trained Eye",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Cooldown -1\n",
+			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		},
@@ -44,9 +43,11 @@
 			"name": "Piercer Munitions",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\nLevel 6: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
 			"multiplier": "4.2*ATK",
 			"numBooksToMax": "5"
 		}
-	]
+	],
+	"rarity": "Rare",
+	"type": "Attack"
 }

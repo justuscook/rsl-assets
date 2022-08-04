@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=4980#static",
 	"name": "Saito",
+	"key": "l10n:hero-type/name?id=4980#static",
 	"id": 4986,
-	"acc": "0",
+	"avatar": "4980",
 	"affinity": "Magic",
-	"atk": "1321",
-	"cdamage": "63",
-	"crate": "15",
-	"spd": "102",
-	"def": "1178",
 	"hp": "16185",
-	"cheal": "50",
+	"atk": "1321",
+	"def": "1178",
+	"spd": "102",
 	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "63",
+	"cheal": "50",
 	"faction": "Undead Hordes",
-	"rarity": "Legendary",
-	"type": "Attack",
-	"aura": "Increases Ally ATK in Dungeons by 30%.",
+	"aura": "Increase Ally ATK in  by 30",
 	"totalBooks": "13",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Unbearable Assault",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
 			"multiplier": "1.35*ATK",
 			"numBooksToMax": "4"
 		},
@@ -34,8 +33,8 @@
 			"name": "Enduring Warrior",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\nLevel 6: Cooldown -1\n",
-			"multiplier": "",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"multiplier": null,
 			"numBooksToMax": "5"
 		},
 		{
@@ -44,7 +43,7 @@
 			"name": "Army Breaker",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
 			"multiplier": "7*ATK",
 			"numBooksToMax": "4"
 		},
@@ -56,7 +55,9 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": ""
+			"numBooksToMax": "0"
 		}
-	]
+	],
+	"rarity": "Legendary",
+	"type": "Attack"
 }

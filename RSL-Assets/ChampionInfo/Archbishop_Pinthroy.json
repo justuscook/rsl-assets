@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=6450#static",
 	"name": "Archbishop Pinthroy",
+	"key": "l10n:hero-type/name?id=6450#static",
 	"id": 6456,
-	"acc": "20",
+	"avatar": "6450",
 	"affinity": "Spirit",
-	"atk": "1057",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "101",
-	"def": "1178",
 	"hp": "20145",
-	"cheal": "50",
+	"atk": "1057",
+	"def": "1178",
+	"spd": "101",
 	"res": "40",
+	"acc": "20",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Sacred Order",
-	"rarity": "Legendary",
-	"type": "Support",
-	"aura": "Increases Ally ACC in All Battles by 50.",
+	"aura": "Increase Ally ACC in  by 50",
 	"totalBooks": "10",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Author of Fates",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
 			"multiplier": "4.7*ATK",
 			"numBooksToMax": "4"
 		},
@@ -34,17 +33,17 @@
 			"name": "Holy Word",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Buff/Debuff Chance +15%\nLevel 5: Cooldown -1\n",
-			"multiplier": "",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +15%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
+			"multiplier": null,
 			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Heals all allies by 30% of their MAX HP, then places a 60% [Increase DEF] buff on all allies for 2 turns. If 4 or more allies are alive, also places a [Shield] buff on each ally for 2 turns equal to 30% of their MAX HP.",
-			"basedOn": "",
+			"basedOn": "[Enemy MAX HP]",
 			"name": "Gleam of Glory",
 			"maxcd": "6",
 			"mincd": "4",
-			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
+			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		},
@@ -56,7 +55,9 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": ""
+			"numBooksToMax": "0"
 		}
-	]
+	],
+	"rarity": "Legendary",
+	"type": "Support"
 }

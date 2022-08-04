@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=4390#static",
 	"name": "Gala Longbraids",
+	"key": "l10n:hero-type/name?id=4390#static",
 	"id": 4396,
-	"acc": "0",
+	"avatar": "4390",
 	"affinity": "Void",
-	"atk": "1432",
-	"cdamage": "60",
-	"crate": "15",
-	"spd": "97",
-	"def": "661",
 	"hp": "18165",
-	"cheal": "50",
+	"atk": "1432",
+	"def": "661",
+	"spd": "97",
 	"res": "60",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "60",
+	"cheal": "50",
 	"faction": "Dwarves",
-	"rarity": "Epic",
-	"type": "Attack",
-	"aura": "Increases Ally ATK in All Battles by 25%.",
+	"aura": "Increase Ally ATK in  by 25",
 	"totalBooks": "11",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Brutal Bludgeon",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\n",
 			"multiplier": "1.7*ATK",
 			"numBooksToMax": "3"
 		},
@@ -34,7 +33,7 @@
 			"name": "Fearless Aggression",
 			"maxcd": "4",
 			"mincd": "4",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
 			"multiplier": "4.7*ATK",
 			"numBooksToMax": "4"
 		},
@@ -44,9 +43,11 @@
 			"name": "Sheer Swagger",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Damage +10%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
 			"multiplier": "1.6*ATK",
 			"numBooksToMax": "4"
 		}
-	]
+	],
+	"rarity": "Epic",
+	"type": "Attack"
 }

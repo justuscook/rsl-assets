@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=440#static",
 	"name": "Septimus",
+	"key": "l10n:hero-type/name?id=440#static",
 	"id": 446,
-	"acc": "0",
+	"avatar": "440",
 	"affinity": "Spirit",
-	"atk": "1674",
-	"cdamage": "63",
-	"crate": "15",
-	"spd": "102",
-	"def": "991",
 	"hp": "13710",
-	"cheal": "50",
+	"atk": "1674",
+	"def": "991",
+	"spd": "102",
 	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "63",
+	"cheal": "50",
 	"faction": "Banner Lords",
-	"rarity": "Legendary",
-	"type": "Attack",
-	"aura": "Increases Ally ATK in All Battles by 23%.",
+	"aura": "Increase Ally ATK in  by 23",
 	"totalBooks": "8",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Behead",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
 			"multiplier": "3.6*ATK",
 			"numBooksToMax": "4"
 		},
@@ -34,7 +33,7 @@
 			"name": "Holy Sword",
 			"maxcd": "4",
 			"mincd": "4",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
 			"multiplier": "2.5*ATK+0.1*TRG_HP",
 			"numBooksToMax": "4"
 		},
@@ -46,7 +45,9 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": ""
+			"numBooksToMax": "0"
 		}
-	]
+	],
+	"rarity": "Legendary",
+	"type": "Attack"
 }

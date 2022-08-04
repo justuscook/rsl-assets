@@ -13,8 +13,8 @@
 	"modelName": "0142_DarkElf_2900",
 	"avatarKey": "2900",
 	"leaderSkill": {
-		"area": "Dungeon",
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Attack",
 		"absolute": false,
 		"value": 0.21

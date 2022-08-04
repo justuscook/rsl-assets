@@ -13,8 +13,8 @@
 	"modelName": "0236_Barbarians_id3710",
 	"avatarKey": "3710",
 	"leaderSkill": {
-		"area": "Story",
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Attack",
 		"absolute": false,
 		"value": 0.21

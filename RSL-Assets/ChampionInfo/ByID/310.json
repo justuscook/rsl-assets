@@ -13,8 +13,8 @@
 	"modelName": "0142_DarkElf",
 	"avatarKey": "310",
 	"leaderSkill": {
-		"area": null,
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Accuracy",
 		"absolute": true,
 		"value": 30

@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=4750#static",
 	"name": "Siphi the Lost Bride",
+	"key": "l10n:hero-type/name?id=4750#static",
 	"id": 4756,
-	"acc": "0",
+	"avatar": "4750",
 	"affinity": "Void",
-	"atk": "859",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "114",
-	"def": "1288",
 	"hp": "21480",
-	"cheal": "50",
+	"atk": "859",
+	"def": "1288",
+	"spd": "114",
 	"res": "40",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Undead Hordes",
-	"rarity": "Legendary",
-	"type": "Support",
-	"aura": "Increases Ally RES in All Battles by 80.",
+	"aura": "Increase Ally  in  by 80",
 	"totalBooks": "10",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Curse of Longing",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\n",
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
 			"multiplier": "5*ATK",
 			"numBooksToMax": "4"
 		},
@@ -34,29 +33,31 @@
 			"name": "Whirlwind Romance",
 			"maxcd": "6",
 			"mincd": "4",
-			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
+			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		},
 		{
 			"desc": "Revives a single ally with 55% HP and a full Turn Meter. Places a 50% [Increase ATK] buff and a 30% [Increase C. RATE] buff on that ally for 2 turns.",
-			"basedOn": "",
+			"basedOn": "[Enemy MAX HP]",
 			"name": "Love Beyond Death",
 			"maxcd": "6",
 			"mincd": "4",
-			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
+			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		},
 		{
 			"desc": "Heals each ally by 10% of their MAX HP at the start of their turn. Has a 40% chance of removing [Freeze] and [Fear] debuffs from each ally at the start of their turn. Removes all debuffs from Rotos the Lost Groom at the start of their turn if they are on the same team.",
-			"basedOn": "",
+			"basedOn": "[Enemy MAX HP]",
 			"name": "Eternal Bond [Passive]",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Buff/Debuff Chance +5%\n",
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +5%\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		}
-	]
+	],
+	"rarity": "Legendary",
+	"type": "Support"
 }

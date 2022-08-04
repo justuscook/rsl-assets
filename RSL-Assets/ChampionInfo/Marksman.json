@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=110#static",
 	"name": "Marksman",
+	"key": "l10n:hero-type/name?id=110#static",
 	"id": 116,
-	"acc": "0",
+	"avatar": "110",
 	"affinity": "Spirit",
-	"atk": "1432",
-	"cdamage": "60",
-	"crate": "15",
-	"spd": "92",
-	"def": "892",
 	"hp": "14700",
-	"cheal": "50",
+	"atk": "1432",
+	"def": "892",
+	"spd": "92",
 	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "60",
+	"cheal": "50",
 	"faction": "High Elves",
-	"rarity": "Epic",
-	"type": "Attack",
-	"aura": "Increases Ally DEF in Arena Battles by 32%.",
+	"aura": "Increase Ally  in  by 32",
 	"totalBooks": "12",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Venom Arrow",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +5%\n",
 			"multiplier": "3.1*ATK",
 			"numBooksToMax": "4"
 		},
@@ -34,7 +33,7 @@
 			"name": "Impressive Shot",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
 			"multiplier": "5.7*ATK",
 			"numBooksToMax": "4"
 		},
@@ -44,9 +43,11 @@
 			"name": "Thorns",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Level 2: Damage +15%\nLevel 3: Damage +15%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +15%\nLvl. 3 Damage +15%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
 			"multiplier": "1.3*ATK",
 			"numBooksToMax": "4"
 		}
-	]
+	],
+	"rarity": "Epic",
+	"type": "Attack"
 }

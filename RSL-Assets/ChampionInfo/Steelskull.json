@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=1800#static",
 	"name": "Steelskull",
+	"key": "l10n:hero-type/name?id=1800#static",
 	"id": 1806,
-	"acc": "0",
+	"avatar": "1800",
 	"affinity": "Spirit",
-	"atk": "1277",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "111",
-	"def": "958",
 	"hp": "16020",
-	"cheal": "50",
+	"atk": "1277",
+	"def": "958",
+	"spd": "111",
 	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Skinwalkers",
-	"rarity": "Epic",
-	"type": "Support",
-	"aura": "Increases Ally DEF in Faction Crypts by 27%.",
+	"aura": "Increase Ally  in  by 27",
 	"totalBooks": "11",
 	"skills": [
 		{
@@ -24,29 +23,31 @@
 			"name": "Decay",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Buff/Debuff Chance +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +10%\n",
 			"multiplier": "2*ATK",
 			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Removes all debuffs from a target ally, then heals them by 40%.",
-			"basedOn": "",
+			"basedOn": "[Enemy MAX HP]",
 			"name": "Cleansing Spell",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Heal +5%\nLevel 3: Heal +5%\nLevel 4: Cooldown -1\n",
+			"books": "Lvl. 2  Heal +5%\nLvl. 3  Heal +5%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "3"
 		},
 		{
 			"desc": "Places a 60% [Increase DEF] buff on all allies for 2 turns. Heals all allies by 20% of their MAX HP.",
-			"basedOn": "",
+			"basedOn": "[Enemy MAX HP]",
 			"name": "Protection",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Level 2: Heal +5%\nLevel 3: Heal +5%\nLevel 4: Cooldown -1\n",
+			"books": "Lvl. 2  Heal +5%\nLvl. 3  Heal +5%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "3"
 		}
-	]
+	],
+	"rarity": "Epic",
+	"type": "Support"
 }

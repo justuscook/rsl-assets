@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=1640#static",
 	"name": "Nazana",
+	"key": "l10n:hero-type/name?id=1640#static",
 	"id": 1646,
-	"acc": "0",
+	"avatar": "1640",
 	"affinity": "Force",
-	"atk": "859",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "103",
-	"def": "1013",
 	"hp": "21480",
-	"cheal": "50",
+	"atk": "859",
+	"def": "1013",
+	"spd": "103",
 	"res": "45",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Demonspawn",
-	"rarity": "Epic",
-	"type": "HP",
-	"aura": "Increases Ally HP in Faction Crypts by 28%.",
+	"aura": "Increase Ally HP in  by 28.000000000000004",
 	"totalBooks": "13",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Dark Lance",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
 			"multiplier": "2.7*ATK",
 			"numBooksToMax": "4"
 		},
@@ -34,7 +33,7 @@
 			"name": "Unholy Contract",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Shield +5%\nLevel 3: Shield +5%\nLevel 4: Cooldown -1\n",
+			"books": "Lvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "3"
 		},
@@ -44,9 +43,11 @@
 			"name": "Steel Breaker",
 			"maxcd": "5",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\nLevel 7: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\nLvl. 7 Cooldown -1Lvl. 7 Buff/Debuff Chance +100%\n",
 			"multiplier": "6*ATK",
 			"numBooksToMax": "6"
 		}
-	]
+	],
+	"rarity": "Epic",
+	"type": "Health"
 }

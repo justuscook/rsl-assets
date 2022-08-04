@@ -13,8 +13,8 @@
 	"modelName": "0364_Frostbringer_id3030",
 	"avatarKey": "3030",
 	"leaderSkill": {
-		"area": "Dungeon",
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Defence",
 		"absolute": false,
 		"value": 0.33

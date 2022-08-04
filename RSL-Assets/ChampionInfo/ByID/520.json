@@ -13,8 +13,8 @@
 	"modelName": "0046_Knight",
 	"avatarKey": "520",
 	"leaderSkill": {
-		"area": "Fractions",
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Health",
 		"absolute": false,
 		"value": 0.31

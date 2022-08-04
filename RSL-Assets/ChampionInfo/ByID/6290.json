@@ -13,8 +13,8 @@
 	"modelName": "424_skinwalker_lion_6290",
 	"avatarKey": "6290",
 	"leaderSkill": {
-		"area": null,
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "CriticalChance",
 		"absolute": false,
 		"value": 0.24

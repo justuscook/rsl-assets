@@ -13,8 +13,8 @@
 	"modelName": "0562_lizardmen_id7110",
 	"avatarKey": "7110",
 	"leaderSkill": {
-		"area": null,
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Speed",
 		"absolute": false,
 		"value": 0.19

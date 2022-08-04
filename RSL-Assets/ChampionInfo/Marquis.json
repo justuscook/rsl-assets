@@ -1,22 +1,21 @@
 {
-	"key": "l10n:hero-type/name?id=2760#static",
 	"name": "Marquis",
+	"key": "l10n:hero-type/name?id=2760#static",
 	"id": 2766,
-	"acc": "0",
+	"avatar": "2760",
 	"affinity": "Void",
-	"atk": "892",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "97",
-	"def": "1013",
 	"hp": "16845",
-	"cheal": "50",
+	"atk": "892",
+	"def": "1013",
+	"spd": "97",
 	"res": "40",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Demonspawn",
-	"rarity": "Rare",
-	"type": "Defense",
-	"aura": "Increases Ally HP in All Battles by 18%.",
-	"totalBooks": "9",
+	"aura": "Increase Ally HP in  by 18",
+	"totalBooks": "11",
 	"skills": [
 		{
 			"desc": "Attacks 1 enemy. If the hit is critical, places a 15% [Decrease SPD] debuff.",
@@ -24,9 +23,19 @@
 			"name": "Skewer",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
 			"multiplier": "5*ATK",
 			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Places a [Counterattack] buff and a 15% [Continuous Heal] buff on this Champion for 2 turns.",
+			"basedOn": "",
+			"name": "Infernal Skill",
+			"maxcd": "4",
+			"mincd": "2",
+			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
 		},
 		{
 			"desc": "Attacks all enemies. Has a 35% chance of placing a [Sleep] debuff for 1 turn. This debuff cannot be removed.",
@@ -34,9 +43,11 @@
 			"name": "Paralyzing Bolts",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
 			"multiplier": "5.1*ATK",
 			"numBooksToMax": "5"
 		}
-	]
+	],
+	"rarity": "Rare",
+	"type": "Defense"
 }

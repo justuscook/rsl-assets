@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=5130#static",
 	"name": "Gloril Brutebane",
+	"key": "l10n:hero-type/name?id=5130#static",
 	"id": 5136,
-	"acc": "0",
+	"avatar": "5130",
 	"affinity": "Spirit",
-	"atk": "1244",
-	"cdamage": "57",
-	"crate": "15",
-	"spd": "90",
-	"def": "705",
 	"hp": "16185",
-	"cheal": "50",
+	"atk": "1244",
+	"def": "705",
+	"spd": "90",
 	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
 	"faction": "Dwarves",
-	"rarity": "Rare",
-	"type": "Attack",
-	"aura": "Increases Ally RES in All Battles by 30.",
+	"aura": "Increase Ally  in  by 30",
 	"totalBooks": "12",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Scale Hacker",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
 			"multiplier": "1.68*ATK",
 			"numBooksToMax": "4"
 		},
@@ -34,7 +33,7 @@
 			"name": "Prey Acquired",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
 			"multiplier": "6.1*ATK*(1+0.05*TRG_DEBUFF_COUNT)",
 			"numBooksToMax": "4"
 		},
@@ -44,9 +43,11 @@
 			"name": "Heroic Company",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
 			"multiplier": "6.04*ATK",
 			"numBooksToMax": "4"
 		}
-	]
+	],
+	"rarity": "Rare",
+	"type": "Attack"
 }

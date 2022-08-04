@@ -13,8 +13,8 @@
 	"modelName": "0005_Greatshield_id2650",
 	"avatarKey": "2650",
 	"leaderSkill": {
-		"area": "Fractions",
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Defence",
 		"absolute": false,
 		"value": 0.19

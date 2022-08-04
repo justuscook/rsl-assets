@@ -13,8 +13,8 @@
 	"modelName": "0169_Crocodile(870)",
 	"avatarKey": "870",
 	"leaderSkill": {
-		"area": "Dungeon",
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Health",
 		"absolute": false,
 		"value": 0.25

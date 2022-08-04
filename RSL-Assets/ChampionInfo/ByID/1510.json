@@ -13,8 +13,8 @@
 	"modelName": "1510_BloodMage",
 	"avatarKey": "1510",
 	"leaderSkill": {
-		"area": null,
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Health",
 		"absolute": false,
 		"value": 0.15

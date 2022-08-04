@@ -1,20 +1,19 @@
 {
-	"key": "l10n:hero-type/name?id=6590#static",
 	"name": "Kinagashi",
+	"key": "l10n:hero-type/name?id=6590#static",
 	"id": 6596,
-	"acc": "0",
+	"avatar": "6590",
 	"affinity": "Spirit",
-	"atk": "1079",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "105",
-	"def": "1013",
 	"hp": "18165",
-	"cheal": "50",
+	"atk": "1079",
+	"def": "1013",
+	"spd": "105",
 	"res": "30",
-	"faction": "Shadowkin",
-	"rarity": "Epic",
-	"type": "Support",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Samurai",
 	"aura": "",
 	"totalBooks": "8",
 	"skills": [
@@ -24,7 +23,7 @@
 			"name": "Leaping Sword Art",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
 			"multiplier": "1.95*ATK",
 			"numBooksToMax": "4"
 		},
@@ -34,19 +33,21 @@
 			"name": "United Front",
 			"maxcd": "5",
 			"mincd": "3",
-			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
+			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		},
 		{
 			"desc": "Revives an ally with 50% HP and 50% Turn Meter. Also places a 60% [Increase DEF] buff on the ally for 2 turns.",
-			"basedOn": "",
+			"basedOn": "[Enemy MAX HP]",
 			"name": "Recall From Death",
 			"maxcd": "6",
 			"mincd": "4",
-			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
+			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		}
-	]
+	],
+	"rarity": "Epic",
+	"type": "Support"
 }

@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=4130#static",
 	"name": "Necrohunter",
+	"key": "l10n:hero-type/name?id=4130#static",
 	"id": 4136,
-	"acc": "0",
+	"avatar": "4130",
 	"affinity": "Magic",
-	"atk": "1398",
-	"cdamage": "60",
-	"crate": "15",
-	"spd": "98",
-	"def": "1068",
 	"hp": "12555",
-	"cheal": "50",
+	"atk": "1398",
+	"def": "1068",
+	"spd": "98",
 	"res": "30",
-	"faction": "Knight Revenant",
-	"rarity": "Epic",
-	"type": "Attack",
-	"aura": "Increases Ally C. RATE in All Battles by 19%.",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "60",
+	"cheal": "50",
+	"faction": "Knights Revenant",
+	"aura": "Increase Ally C. RATE in  by 19",
 	"totalBooks": "13",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Crypt Arrows",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\n",
 			"multiplier": "2*ATK",
 			"numBooksToMax": "4"
 		},
@@ -34,7 +33,7 @@
 			"name": "Gravestorm",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
 			"multiplier": "5.6*ATK",
 			"numBooksToMax": "4"
 		},
@@ -44,9 +43,11 @@
 			"name": "Tomb Stalker",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\nLevel 6: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
 			"multiplier": "6.1*ATK",
 			"numBooksToMax": "5"
 		}
-	]
+	],
+	"rarity": "Epic",
+	"type": "Attack"
 }

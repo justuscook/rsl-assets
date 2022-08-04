@@ -13,8 +13,8 @@
 	"modelName": "0089_DarkElf_Assasin",
 	"avatarKey": "2890",
 	"leaderSkill": {
-		"area": "Arena",
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "CriticalChance",
 		"absolute": false,
 		"value": 0.16

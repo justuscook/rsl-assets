@@ -13,8 +13,8 @@
 	"modelName": "0506_BP2_mag",
 	"avatarKey": "5060",
 	"leaderSkill": {
-		"area": null,
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Accuracy",
 		"absolute": true,
 		"value": 40

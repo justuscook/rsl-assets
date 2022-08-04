@@ -1,20 +1,19 @@
 {
-	"key": "l10n:hero-type/name?id=5020#static",
 	"name": "Skull Lord Var-Gall",
+	"key": "l10n:hero-type/name?id=5020#static",
 	"id": 5026,
-	"acc": "70",
+	"avatar": "5020",
 	"affinity": "Force",
-	"atk": "1112",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "107",
-	"def": "1310",
 	"hp": "27420",
-	"cheal": "50",
+	"atk": "1112",
+	"def": "1310",
+	"spd": "107",
 	"res": "90",
-	"faction": "Lizardmen",
-	"rarity": "Legendary",
-	"type": "Defense",
+	"acc": "70",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Lizard Men",
 	"aura": "",
 	"totalBooks": "12",
 	"skills": [
@@ -24,7 +23,7 @@
 			"name": "Gleeful Ripping",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\n",
 			"multiplier": "1.35*DEF",
 			"numBooksToMax": "3"
 		},
@@ -34,7 +33,7 @@
 			"name": "Skull Claim",
 			"maxcd": "3",
 			"mincd": "2",
-			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "4"
 		},
@@ -44,7 +43,7 @@
 			"name": "Abyssal Clutch",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
 			"multiplier": "3.85*DEF",
 			"numBooksToMax": "5"
 		},
@@ -56,7 +55,7 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": ""
+			"numBooksToMax": "0"
 		},
 		{
 			"desc": "Revives Skullsworn with 50% HP and 50% Turn Meter at the start of each turn.\r\n\r\n[If there are multiple Skullsworns on the team, only one of them will be revived.]",
@@ -66,7 +65,9 @@
 			"mincd": "1",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": ""
+			"numBooksToMax": "0"
 		}
-	]
+	],
+	"rarity": "Legendary",
+	"type": "Defense"
 }

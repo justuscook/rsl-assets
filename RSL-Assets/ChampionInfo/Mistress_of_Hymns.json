@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=3970#static",
 	"name": "Mistress of Hymns",
+	"key": "l10n:hero-type/name?id=3970#static",
 	"id": 3976,
-	"acc": "0",
+	"avatar": "3970",
 	"affinity": "Spirit",
-	"atk": "1024",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "103",
-	"def": "1013",
 	"hp": "18990",
-	"cheal": "50",
+	"atk": "1024",
+	"def": "1013",
+	"spd": "103",
 	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Sacred Order",
-	"rarity": "Epic",
-	"type": "Support",
-	"aura": "Increases Ally DEF in All Battles by 25%.",
+	"aura": "Increase Ally  in  by 25",
 	"totalBooks": "10",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Bolstering Blow",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
 			"multiplier": "4*ATK",
 			"numBooksToMax": "4"
 		},
@@ -34,19 +33,21 @@
 			"name": "Song of Triumph",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\nLevel 6: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
 			"multiplier": "5.7*ATK",
 			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Revives 2 random allies with 50% HP and places a [Veil] buff on them for 1 turn.",
-			"basedOn": "",
+			"basedOn": "[Enemy MAX HP]",
 			"name": "Hymn of Rebirth",
 			"maxcd": "6",
 			"mincd": "5",
-			"books": "Level 2: Cooldown -1\n",
+			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		}
-	]
+	],
+	"rarity": "Epic",
+	"type": "Support"
 }

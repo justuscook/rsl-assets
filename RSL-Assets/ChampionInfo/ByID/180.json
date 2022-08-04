@@ -13,8 +13,8 @@
 	"modelName": "0022_KnightF_combined",
 	"avatarKey": "180",
 	"leaderSkill": {
-		"area": "Fractions",
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Accuracy",
 		"absolute": true,
 		"value": 50

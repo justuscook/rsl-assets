@@ -13,8 +13,8 @@
 	"modelName": "0150_Sukub",
 	"avatarKey": "1030",
 	"leaderSkill": {
-		"area": "Fractions",
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Accuracy",
 		"absolute": true,
 		"value": 50

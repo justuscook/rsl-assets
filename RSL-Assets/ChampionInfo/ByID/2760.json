@@ -13,8 +13,8 @@
 	"modelName": "0242_Demonspawn_id2760",
 	"avatarKey": "2760",
 	"leaderSkill": {
-		"area": null,
-		"affinity": "Force",
+		"area": "",
+		"affinity": "",
 		"kind": "Health",
 		"absolute": false,
 		"value": 0.18

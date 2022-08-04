@@ -1,20 +1,19 @@
 {
-	"key": "l10n:hero-type/name?id=5840#static",
 	"name": "Sachi",
+	"key": "l10n:hero-type/name?id=5840#static",
 	"id": 5846,
-	"acc": "0",
+	"avatar": "5840",
 	"affinity": "Force",
-	"atk": "1222",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "102",
-	"def": "1090",
 	"hp": "14865",
-	"cheal": "50",
+	"atk": "1222",
+	"def": "1090",
+	"spd": "102",
 	"res": "30",
-	"faction": "Shadowkin",
-	"rarity": "Epic",
-	"type": "Support",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Samurai",
 	"aura": "",
 	"totalBooks": "15",
 	"skills": [
@@ -24,7 +23,7 @@
 			"name": "Sickle Sweep",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
 			"multiplier": "2.65*ATK",
 			"numBooksToMax": "4"
 		},
@@ -34,7 +33,7 @@
 			"name": "Heart Pierce",
 			"maxcd": "3",
 			"mincd": "2",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Buff/Debuff Chance +15%\nLevel 7: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +15%\nLvl. 7 Cooldown -1Lvl. 7 Buff/Debuff Chance +100%\n",
 			"multiplier": "4.7*ATK",
 			"numBooksToMax": "6"
 		},
@@ -44,19 +43,21 @@
 			"name": "Shadow Ambush",
 			"maxcd": "5",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Cooldown -1\nLevel 6: Cooldown -1\n",
-			"multiplier": "",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"multiplier": null,
 			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Revives a random ally with 30% HP whenever this Champion kills an enemy. \r\n\r\nHas a 50% chance of placing a [Fear] debuff on all enemies for 1 turn whenever an ally is revived.",
-			"basedOn": "",
+			"basedOn": "[Enemy MAX HP]",
 			"name": "False Death [P]",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": ""
+			"numBooksToMax": "0"
 		}
-	]
+	],
+	"rarity": "Epic",
+	"type": "Support"
 }

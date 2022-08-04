@@ -13,8 +13,8 @@
 	"modelName": "0210_Order_Ranger_3040",
 	"avatarKey": "3040",
 	"leaderSkill": {
-		"area": "Fractions",
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Resistance",
 		"absolute": true,
 		"value": 30

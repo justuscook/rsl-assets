@@ -13,8 +13,8 @@
 	"modelName": "0081_DarkElf_3130",
 	"avatarKey": "3130",
 	"leaderSkill": {
-		"area": "Fractions",
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Attack",
 		"absolute": false,
 		"value": 0.17

@@ -1,20 +1,19 @@
 {
-	"key": "l10n:hero-type/name?id=5160#static",
 	"name": "Ripperfist",
+	"key": "l10n:hero-type/name?id=5160#static",
 	"id": 5166,
-	"acc": "0",
+	"avatar": "5160",
 	"affinity": "Void",
-	"atk": "1398",
-	"cdamage": "57",
-	"crate": "15",
-	"spd": "94",
-	"def": "738",
 	"hp": "13380",
-	"cheal": "50",
+	"atk": "1398",
+	"def": "738",
+	"spd": "94",
 	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
 	"faction": "Orcs",
-	"rarity": "Rare",
-	"type": "Attack",
 	"aura": "",
 	"totalBooks": "13",
 	"skills": [
@@ -24,7 +23,7 @@
 			"name": "Mangler Gauntlet",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\nLevel 6: Damage +5%\nLevel 7: Damage +5%\nLevel 8: Buff/Debuff Chance +5%\nLevel 9: Buff/Debuff Chance +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Damage +5%\nLvl. 7 Damage +5%\nLvl. 8 Buff/Debuff Chance +5%\nLvl. 9 Buff/Debuff Chance +5%\n",
 			"multiplier": "1.46*ATK",
 			"numBooksToMax": "8"
 		},
@@ -34,7 +33,7 @@
 			"name": "Rip to Shreds",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\nLevel 6: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
 			"multiplier": "1.15*ATK",
 			"numBooksToMax": "5"
 		},
@@ -48,5 +47,7 @@
 			"multiplier": "",
 			"numBooksToMax": "0"
 		}
-	]
+	],
+	"rarity": "Rare",
+	"type": "Attack"
 }

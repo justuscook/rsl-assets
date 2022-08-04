@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=6080#static",
 	"name": "Hurndig",
+	"key": "l10n:hero-type/name?id=6080#static",
 	"id": 6086,
-	"acc": "10",
+	"avatar": "6080",
 	"affinity": "Magic",
-	"atk": "1409",
-	"cdamage": "63",
-	"crate": "15",
-	"spd": "98",
-	"def": "1101",
 	"hp": "16020",
-	"cheal": "50",
+	"atk": "1409",
+	"def": "1101",
+	"spd": "98",
 	"res": "30",
+	"acc": "10",
+	"crate": "15",
+	"cdamage": "63",
+	"cheal": "50",
 	"faction": "Dwarves",
-	"rarity": "Legendary",
-	"type": "Attack",
-	"aura": "Increases Ally ATK in Arena Battles by 35%.",
+	"aura": "Increase Ally ATK in  by 35",
 	"totalBooks": "15",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Lethal Lust",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
 			"multiplier": "4*ATK",
 			"numBooksToMax": "4"
 		},
@@ -34,7 +33,7 @@
 			"name": "Arcane Tempest",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
 			"multiplier": "4.4*ATK",
 			"numBooksToMax": "5"
 		},
@@ -44,7 +43,7 @@
 			"name": "Stasis Strike",
 			"maxcd": "6",
 			"mincd": "4",
-			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\nLevel 7: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\nLvl. 7 Cooldown -1Lvl. 7 Buff/Debuff Chance +100%\n",
 			"multiplier": "6.2*ATK",
 			"numBooksToMax": "6"
 		},
@@ -56,7 +55,9 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": ""
+			"numBooksToMax": "0"
 		}
-	]
+	],
+	"rarity": "Legendary",
+	"type": "Attack"
 }

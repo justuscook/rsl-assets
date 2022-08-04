@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=980#static",
 	"name": "Bystophus",
+	"key": "l10n:hero-type/name?id=980#static",
 	"id": 986,
-	"acc": "10",
+	"avatar": "21110",
 	"affinity": "Force",
-	"atk": "1795",
-	"cdamage": "63",
-	"crate": "15",
-	"spd": "100",
-	"def": "804",
 	"hp": "14700",
-	"cheal": "50",
+	"atk": "1795",
+	"def": "804",
+	"spd": "100",
 	"res": "30",
-	"faction": "Knight Revenant",
-	"rarity": "Legendary",
-	"type": "Attack",
-	"aura": "Increases Ally ACC in All Battles by 70.",
+	"acc": "10",
+	"crate": "15",
+	"cdamage": "63",
+	"cheal": "50",
+	"faction": "Knights Revenant",
+	"aura": "Increase Ally ACC in  by 70",
 	"totalBooks": "11",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Horror",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +15%\nLevel 4: Damage +10%\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +15%\nLvl. 4 Damage +10%\n",
 			"multiplier": "3.3*ATK",
 			"numBooksToMax": "3"
 		},
@@ -34,7 +33,7 @@
 			"name": "Shadow Strike",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Cooldown -1\nLevel 5: Damage +0\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\nLvl. 5 Damage +20%\n",
 			"multiplier": "3.2*ATK",
 			"numBooksToMax": "4"
 		},
@@ -44,9 +43,11 @@
 			"name": "Crumble",
 			"maxcd": "4",
 			"mincd": "4",
-			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +15%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +15%\n",
 			"multiplier": "3.2*ATK",
 			"numBooksToMax": "4"
 		}
-	]
+	],
+	"rarity": "Legendary",
+	"type": "Attack"
 }

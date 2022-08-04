@@ -13,8 +13,8 @@
 	"modelName": "0217_dark_scion",
 	"avatarKey": "1640",
 	"leaderSkill": {
-		"area": "Fractions",
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Health",
 		"absolute": false,
 		"value": 0.28

@@ -1,20 +1,19 @@
 {
-	"key": "l10n:hero-type/name?id=6440#static",
 	"name": "Danag Skullreap",
+	"key": "l10n:hero-type/name?id=6440#static",
 	"id": 6446,
-	"acc": "10",
+	"avatar": "6440",
 	"affinity": "Magic",
-	"atk": "1487",
-	"cdamage": "63",
-	"crate": "15",
-	"spd": "97",
-	"def": "958",
 	"hp": "17010",
-	"cheal": "50",
+	"atk": "1487",
+	"def": "958",
+	"spd": "97",
 	"res": "30",
+	"acc": "10",
+	"crate": "15",
+	"cdamage": "63",
+	"cheal": "50",
 	"faction": "Orcs",
-	"rarity": "Legendary",
-	"type": "Attack",
 	"aura": "",
 	"totalBooks": "13",
 	"skills": [
@@ -24,7 +23,7 @@
 			"name": "Shatter Confidence",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
 			"multiplier": "1.9*ATK",
 			"numBooksToMax": "4"
 		},
@@ -34,7 +33,7 @@
 			"name": "Bane of Elves",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
 			"multiplier": "4.2*ATK",
 			"numBooksToMax": "5"
 		},
@@ -44,19 +43,21 @@
 			"name": "Battle Flow",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Damage +10%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
 			"multiplier": "5.9*ATK",
 			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Heals this Champion by 50% of their MAX HP every time this Champion kills an enemy. \r\n\r\nAlso grants an Extra Turn every time this Champions kills an enemy from the High Elf or Dark Elf Factions.",
-			"basedOn": "",
+			"basedOn": "[HP]",
 			"name": "Healthy Grudge [P]",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": ""
+			"numBooksToMax": "0"
 		}
-	]
+	],
+	"rarity": "Legendary",
+	"type": "Attack"
 }

@@ -13,8 +13,8 @@
 	"modelName": "0183_svine_mage",
 	"avatarKey": "1800",
 	"leaderSkill": {
-		"area": "Fractions",
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Defence",
 		"absolute": false,
 		"value": 0.27

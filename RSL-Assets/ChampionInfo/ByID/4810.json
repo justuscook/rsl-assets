@@ -13,8 +13,8 @@
 	"modelName": "0378_Revenant_id4810",
 	"avatarKey": "4810",
 	"leaderSkill": {
-		"area": "DoomTower",
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Resistance",
 		"absolute": true,
 		"value": 55

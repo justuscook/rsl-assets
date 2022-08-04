@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=6150#static",
 	"name": "Hoforees the Tusked",
+	"key": "l10n:hero-type/name?id=6150#static",
 	"id": 6156,
-	"acc": "0",
+	"avatar": "6150",
 	"affinity": "Force",
-	"atk": "903",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "97",
-	"def": "1035",
 	"hp": "20475",
-	"cheal": "50",
+	"atk": "903",
+	"def": "1035",
+	"spd": "97",
 	"res": "45",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Skinwalkers",
-	"rarity": "Epic",
-	"type": "Support",
-	"aura": "Increases Ally RES in All Battles by 40.",
+	"aura": "Increase Ally  in  by 40",
 	"totalBooks": "9",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Burly Bash",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Buff/Debuff Chance +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +10%\n",
 			"multiplier": "0.12*HP",
 			"numBooksToMax": "5"
 		},
@@ -34,19 +33,21 @@
 			"name": "War Whoop",
 			"maxcd": "5",
 			"mincd": "3",
-			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
+			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		},
 		{
 			"desc": "Revives 2 random allies with 50% HP and fills their Turn Meters by 50%. After the revival, places a 25% [Strengthen] buff on all allies for 2 turns.",
-			"basedOn": "",
+			"basedOn": "[Enemy MAX HP]",
 			"name": "Eternal War",
 			"maxcd": "7",
 			"mincd": "5",
-			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
+			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		}
-	]
+	],
+	"rarity": "Epic",
+	"type": "Support"
 }

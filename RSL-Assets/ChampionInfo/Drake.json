@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=1350#static",
 	"name": "Drake",
+	"key": "l10n:hero-type/name?id=1350#static",
 	"id": 1356,
-	"acc": "0",
+	"avatar": "1350",
 	"affinity": "Spirit",
-	"atk": "1487",
-	"cdamage": "60",
-	"crate": "15",
-	"spd": "95",
-	"def": "881",
 	"hp": "14040",
-	"cheal": "50",
+	"atk": "1487",
+	"def": "881",
+	"spd": "95",
 	"res": "30",
-	"faction": "Lizardmen",
-	"rarity": "Epic",
-	"type": "Attack",
-	"aura": "Increases Ally ATK in Arena Battles by 30%.",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "60",
+	"cheal": "50",
+	"faction": "Lizard Men",
+	"aura": "Increase Ally ATK in  by 30",
 	"totalBooks": "12",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Death from Above",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
 			"multiplier": "4*ATK",
 			"numBooksToMax": "4"
 		},
@@ -34,7 +33,7 @@
 			"name": "Final Blow",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
 			"multiplier": "5.5*ATK",
 			"numBooksToMax": "4"
 		},
@@ -44,9 +43,11 @@
 			"name": "Decimate",
 			"maxcd": "6",
 			"mincd": "5",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
 			"multiplier": "6*ATK",
 			"numBooksToMax": "4"
 		}
-	]
+	],
+	"rarity": "Epic",
+	"type": "Attack"
 }

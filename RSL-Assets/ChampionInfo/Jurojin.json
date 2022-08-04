@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=6360#static",
 	"name": "Jurojin",
+	"key": "l10n:hero-type/name?id=6360#static",
 	"id": 6366,
-	"acc": "0",
+	"avatar": "6360",
 	"affinity": "Spirit",
-	"atk": "738",
-	"cdamage": "60",
-	"crate": "15",
-	"spd": "98",
-	"def": "1167",
 	"hp": "20970",
-	"cheal": "50",
+	"atk": "738",
+	"def": "1167",
+	"spd": "98",
 	"res": "30",
-	"faction": "Shadowkin",
-	"rarity": "Epic",
-	"type": "HP",
-	"aura": "Increases Ally HP in All Battles by 25%.",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "60",
+	"cheal": "50",
+	"faction": "Samurai",
+	"aura": "Increase Ally HP in  by 25",
 	"totalBooks": "15",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Monk's Spade",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
 			"multiplier": "0.24*HP",
 			"numBooksToMax": "4"
 		},
@@ -34,7 +33,7 @@
 			"name": "Fated Duel",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Shield +5%\nLevel 4: Damage +5%\nLevel 5: Shield +5%\nLevel 6: Damage +10%\nLevel 7: Shield +10%\nLevel 8: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 4 Damage +5%\nLvl. 6 Damage +10%\nLvl. 8 Cooldown -1Lvl. 8 Buff/Debuff Chance +100%\n",
 			"multiplier": "0.25*HP",
 			"numBooksToMax": "7"
 		},
@@ -44,7 +43,7 @@
 			"name": "True Smite",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
 			"multiplier": "0.34*HP",
 			"numBooksToMax": "4"
 		},
@@ -56,7 +55,9 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": ""
+			"numBooksToMax": "0"
 		}
-	]
+	],
+	"rarity": "Epic",
+	"type": "Health"
 }

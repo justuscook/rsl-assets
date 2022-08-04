@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=1570#static",
 	"name": "Skullcrown",
+	"key": "l10n:hero-type/name?id=1570#static",
 	"id": 1576,
-	"acc": "0",
+	"avatar": "1570",
 	"affinity": "Void",
-	"atk": "1509",
-	"cdamage": "60",
-	"crate": "15",
-	"spd": "96",
-	"def": "826",
 	"hp": "14535",
-	"cheal": "50",
+	"atk": "1509",
+	"def": "826",
+	"spd": "96",
 	"res": "30",
-	"faction": "Knight Revenant",
-	"rarity": "Epic",
-	"type": "Attack",
-	"aura": "Increases Ally SPD in Arena Battles by 23.",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "60",
+	"cheal": "50",
+	"faction": "Knights Revenant",
+	"aura": "Increase Ally SPD in  by 23",
 	"totalBooks": "12",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Wave of Souls",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
 			"multiplier": "1.8*ATK",
 			"numBooksToMax": "4"
 		},
@@ -34,7 +33,7 @@
 			"name": "Corrupting Touch",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Buff/Debuff Chance +15%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +15%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
 			"multiplier": "4.3*ATK",
 			"numBooksToMax": "4"
 		},
@@ -44,19 +43,21 @@
 			"name": "Resilient [Passive]",
 			"maxcd": "6",
 			"mincd": "4",
-			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
+			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		},
 		{
 			"desc": "Revives this Champion with 30% HP. \r\n\r\n[Only available when Sinesha is on the same team and alive.]",
-			"basedOn": "",
+			"basedOn": "[HP]",
 			"name": "From Beyond [Passive]",
 			"maxcd": "8",
 			"mincd": "6",
-			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
+			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		}
-	]
+	],
+	"rarity": "Epic",
+	"type": "Attack"
 }

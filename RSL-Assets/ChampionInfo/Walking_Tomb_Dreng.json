@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=7220#static",
 	"name": "Walking Tomb Dreng",
+	"key": "l10n:hero-type/name?id=7220#static",
 	"id": 7226,
-	"acc": "0",
+	"avatar": "7220",
 	"affinity": "Spirit",
-	"atk": "870",
-	"cdamage": "57",
-	"crate": "15",
-	"spd": "99",
-	"def": "1167",
 	"hp": "23130",
-	"cheal": "50",
+	"atk": "870",
+	"def": "1167",
+	"spd": "99",
 	"res": "50",
-	"faction": "Knight Revenant",
-	"rarity": "Legendary",
-	"type": "HP",
-	"aura": "Increases Ally HP in All Battles by 30%.",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
+	"faction": "Knights Revenant",
+	"aura": "Increase Ally HP in  by 30",
 	"totalBooks": "11",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Corpsefire",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\n",
 			"multiplier": "0.11*HP",
 			"numBooksToMax": "3"
 		},
@@ -34,7 +33,7 @@
 			"name": "Exalted Pyre",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
 			"multiplier": "0.23*HP",
 			"numBooksToMax": "5"
 		},
@@ -44,13 +43,13 @@
 			"name": "Death's Balance",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Cooldown -1\n",
-			"multiplier": "",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\n",
+			"multiplier": null,
 			"numBooksToMax": "3"
 		},
 		{
 			"desc": "Reflects 30% of the damage this Champion receives back to the attacker if this Champion has 50% HP or more.\r\n\r\nDeals 30% more damage instead if this Champion has less than 50% HP.",
-			"basedOn": "",
+			"basedOn": "[DEALT_DMG]",
 			"name": "Fortress [P]",
 			"maxcd": "0",
 			"mincd": "0",
@@ -58,5 +57,7 @@
 			"multiplier": "",
 			"numBooksToMax": "0"
 		}
-	]
+	],
+	"rarity": "Legendary",
+	"type": "Health"
 }

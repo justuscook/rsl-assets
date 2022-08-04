@@ -1,20 +1,19 @@
 {
-	"key": "l10n:hero-type/name?id=730#static",
 	"name": "Warchanter",
+	"key": "l10n:hero-type/name?id=730#static",
 	"id": 736,
-	"acc": "0",
+	"avatar": "730",
 	"affinity": "Magic",
-	"atk": "716",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "94",
-	"def": "771",
 	"hp": "18990",
-	"cheal": "50",
+	"atk": "716",
+	"def": "771",
+	"spd": "94",
 	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Orcs",
-	"rarity": "Uncommon",
-	"type": "HP",
 	"aura": "",
 	"totalBooks": "10",
 	"skills": [
@@ -24,7 +23,7 @@
 			"name": "Head Wound",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
 			"multiplier": "0.2*HP",
 			"numBooksToMax": "4"
 		},
@@ -34,9 +33,11 @@
 			"name": "Frenzy",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Cooldown -1\nLevel 7: Damage +0\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\nLvl. 7 Damage +10%\n",
 			"multiplier": "5.6*ATK",
 			"numBooksToMax": "6"
 		}
-	]
+	],
+	"rarity": "Uncommon",
+	"type": "Health"
 }

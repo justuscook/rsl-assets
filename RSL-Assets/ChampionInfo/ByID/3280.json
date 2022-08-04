@@ -13,8 +13,8 @@
 	"modelName": "0241_boneknight_id3280",
 	"avatarKey": "3280",
 	"leaderSkill": {
-		"area": "Fractions",
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Accuracy",
 		"absolute": true,
 		"value": 40

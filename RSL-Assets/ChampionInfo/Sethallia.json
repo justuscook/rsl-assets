@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=2390#static",
 	"name": "Sethallia",
+	"key": "l10n:hero-type/name?id=2390#static",
 	"id": 2396,
-	"acc": "0",
+	"avatar": "2390",
 	"affinity": "Magic",
-	"atk": "1024",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "108",
-	"def": "1354",
 	"hp": "18000",
-	"cheal": "50",
+	"atk": "1024",
+	"def": "1354",
+	"spd": "108",
 	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Banner Lords",
-	"rarity": "Legendary",
-	"type": "Support",
-	"aura": "Increases Magic Ally RES in All Battles by 50.",
+	"aura": "Increase Ally  in  by 50",
 	"totalBooks": "10",
 	"skills": [
 		{
@@ -24,17 +23,17 @@
 			"name": "Put to Flame",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\n",
 			"multiplier": "5.2*ATK",
 			"numBooksToMax": "3"
 		},
 		{
 			"desc": "Removes all debuffs from a target ally, then places a [Block Debuffs] buff for 2 turns and heals that ally by 75% of their MAX HP.\r\n\r\nHeals all other allies by 20% of their MAX HP and fills their Turn Meters by 15% if the target is fully healed by this Skill.",
-			"basedOn": "",
+			"basedOn": "[Enemy MAX HP]",
 			"name": "Lordly Embrace",
 			"maxcd": "3",
 			"mincd": "2",
-			"books": "Level 2: Heal +5%\nLevel 3: Heal +5%\nLevel 4: Cooldown -1\n",
+			"books": "Lvl. 2  Heal +5%\nLvl. 3  Heal +5%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "3"
 		},
@@ -44,9 +43,11 @@
 			"name": "Aggress",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "4"
 		}
-	]
+	],
+	"rarity": "Legendary",
+	"type": "Support"
 }

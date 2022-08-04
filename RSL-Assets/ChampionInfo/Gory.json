@@ -1,20 +1,19 @@
 {
-	"key": "l10n:hero-type/name?id=6130#static",
 	"name": "Gory",
+	"key": "l10n:hero-type/name?id=6130#static",
 	"id": 6136,
-	"acc": "10",
+	"avatar": "6130",
 	"affinity": "Spirit",
-	"atk": "1476",
-	"cdamage": "60",
-	"crate": "15",
-	"spd": "90",
-	"def": "859",
 	"hp": "14535",
-	"cheal": "50",
+	"atk": "1476",
+	"def": "859",
+	"spd": "90",
 	"res": "30",
-	"faction": "Shadowkin",
-	"rarity": "Epic",
-	"type": "Attack",
+	"acc": "10",
+	"crate": "15",
+	"cdamage": "60",
+	"cheal": "50",
+	"faction": "Samurai",
 	"aura": "",
 	"totalBooks": "14",
 	"skills": [
@@ -24,7 +23,7 @@
 			"name": "Cold Comfort",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
 			"multiplier": "1.8*ATK",
 			"numBooksToMax": "4"
 		},
@@ -34,7 +33,7 @@
 			"name": "Frost Jutsu",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
 			"multiplier": "2.1*ATK",
 			"numBooksToMax": "5"
 		},
@@ -44,7 +43,7 @@
 			"name": "Frost Breaker",
 			"maxcd": "5",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Cooldown -1\nLevel 6: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
 			"multiplier": "5.6*ATK",
 			"numBooksToMax": "5"
 		},
@@ -56,7 +55,9 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": ""
+			"numBooksToMax": "0"
 		}
-	]
+	],
+	"rarity": "Epic",
+	"type": "Attack"
 }

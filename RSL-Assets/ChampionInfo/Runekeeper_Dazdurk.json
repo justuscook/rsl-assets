@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=4200#static",
 	"name": "Runekeeper Dazdurk",
+	"key": "l10n:hero-type/name?id=4200#static",
 	"id": 4206,
-	"acc": "0",
+	"avatar": "4200",
 	"affinity": "Void",
-	"atk": "694",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "105",
-	"def": "1255",
 	"hp": "20310",
-	"cheal": "50",
+	"atk": "694",
+	"def": "1255",
+	"spd": "105",
 	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Dwarves",
-	"rarity": "Epic",
-	"type": "Support",
-	"aura": "Increases Ally ATK in All Battles by 25%.",
+	"aura": "Increase Ally ATK in  by 25",
 	"totalBooks": "10",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Syphon Symbol",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
 			"multiplier": "3.3*DEF",
 			"numBooksToMax": "4"
 		},
@@ -34,7 +33,7 @@
 			"name": "Rune of Battle",
 			"maxcd": "5",
 			"mincd": "3",
-			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
+			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		},
@@ -44,9 +43,11 @@
 			"name": "Purity Sigil",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Level 2: Heal +5%\nLevel 3: Heal +5%\nLevel 4: Heal +10%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2  Heal +5%\nLvl. 3  Heal +5%\nLvl. 4  Heal +10%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "4"
 		}
-	]
+	],
+	"rarity": "Epic",
+	"type": "Support"
 }

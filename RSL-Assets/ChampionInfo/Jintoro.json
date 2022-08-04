@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=5830#static",
 	"name": "Jintoro",
+	"key": "l10n:hero-type/name?id=5830#static",
 	"id": 5836,
-	"acc": "10",
+	"avatar": "5830",
 	"affinity": "Magic",
-	"atk": "1487",
-	"cdamage": "63",
-	"crate": "15",
-	"spd": "102",
-	"def": "1068",
 	"hp": "15360",
-	"cheal": "50",
+	"atk": "1487",
+	"def": "1068",
+	"spd": "102",
 	"res": "30",
-	"faction": "Shadowkin",
-	"rarity": "Legendary",
-	"type": "Attack",
-	"aura": "Increases Ally ATK in All Battles by 29%.",
+	"acc": "10",
+	"crate": "15",
+	"cdamage": "63",
+	"cheal": "50",
+	"faction": "Samurai",
+	"aura": "Increase Ally ATK in  by 28.999999999999996",
 	"totalBooks": "12",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Soul Drinker",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
 			"multiplier": "3.8*ATK",
 			"numBooksToMax": "4"
 		},
@@ -34,7 +33,7 @@
 			"name": "Blood Freeze",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Damage +10%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
 			"multiplier": "5.8*ATK",
 			"numBooksToMax": "4"
 		},
@@ -44,19 +43,21 @@
 			"name": "Oni's Rage",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Damage +10%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
 			"multiplier": "5.7*ATK",
 			"numBooksToMax": "4"
 		},
 		{
 			"desc": "All Turn Meter fill effects are increased by 50% when used on this Champion.",
-			"basedOn": "",
+			"basedOn": "[BaseChangeStaminaMultiplier]",
 			"name": "Vigorous [P]",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": ""
+			"numBooksToMax": "0"
 		}
-	]
+	],
+	"rarity": "Legendary",
+	"type": "Attack"
 }

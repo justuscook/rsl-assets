@@ -13,8 +13,8 @@
 	"modelName": "0532_dwarf_id6080",
 	"avatarKey": "6080",
 	"leaderSkill": {
-		"area": "Arena",
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Attack",
 		"absolute": false,
 		"value": 0.35

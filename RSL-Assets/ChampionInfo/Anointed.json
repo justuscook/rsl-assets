@@ -1,20 +1,19 @@
 {
-	"key": "l10n:hero-type/name?id=2100#static",
 	"name": "Anointed",
+	"key": "l10n:hero-type/name?id=2100#static",
 	"id": 2106,
-	"acc": "0",
+	"avatar": "2100",
 	"affinity": "Force",
-	"atk": "793",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "91",
-	"def": "1178",
 	"hp": "15855",
-	"cheal": "50",
+	"atk": "793",
+	"def": "1178",
+	"spd": "91",
 	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Barbarians",
-	"rarity": "Rare",
-	"type": "Support",
 	"aura": "",
 	"totalBooks": "9",
 	"skills": [
@@ -24,7 +23,7 @@
 			"name": "Mystic Chill",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\n",
 			"multiplier": "1.7*ATK",
 			"numBooksToMax": "3"
 		},
@@ -34,7 +33,7 @@
 			"name": "Vigor Theft",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
 			"multiplier": "3.5*ATK",
 			"numBooksToMax": "5"
 		},
@@ -44,9 +43,11 @@
 			"name": "Chant of Violence",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Level 2: Cooldown -1\n",
+			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		}
-	]
+	],
+	"rarity": "Rare",
+	"type": "Support"
 }

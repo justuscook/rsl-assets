@@ -13,8 +13,8 @@
 	"modelName": "0269_Boneknight",
 	"avatarKey": "1910",
 	"leaderSkill": {
-		"area": "Arena",
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Speed",
 		"absolute": false,
 		"value": 0.16

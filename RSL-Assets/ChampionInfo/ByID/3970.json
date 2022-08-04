@@ -13,8 +13,8 @@
 	"modelName": "0268_Order_support_id3970",
 	"avatarKey": "3970",
 	"leaderSkill": {
-		"area": null,
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Defence",
 		"absolute": false,
 		"value": 0.25

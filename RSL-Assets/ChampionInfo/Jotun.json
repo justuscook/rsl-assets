@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=2580#static",
 	"name": "Jotun",
+	"key": "l10n:hero-type/name?id=2580#static",
 	"id": 2586,
-	"acc": "0",
+	"avatar": "2580",
 	"affinity": "Magic",
-	"atk": "991",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "93",
-	"def": "1200",
 	"hp": "16680",
-	"cheal": "50",
+	"atk": "991",
+	"def": "1200",
+	"spd": "93",
 	"res": "45",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Barbarians",
-	"rarity": "Epic",
-	"type": "HP",
-	"aura": "Increases Ally HP in Faction Crypts by 29%.",
+	"aura": "Increase Ally HP in  by 28.999999999999996",
 	"totalBooks": "13",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Brute Strength",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
 			"multiplier": "0.22*HP",
 			"numBooksToMax": "4"
 		},
@@ -34,7 +33,7 @@
 			"name": "Burning Blade",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
 			"multiplier": "0.4*HP",
 			"numBooksToMax": "5"
 		},
@@ -44,9 +43,11 @@
 			"name": "Sear Away",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
 			"multiplier": "0.43*HP",
 			"numBooksToMax": "4"
 		}
-	]
+	],
+	"rarity": "Epic",
+	"type": "Health"
 }

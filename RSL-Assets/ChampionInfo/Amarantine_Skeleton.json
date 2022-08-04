@@ -1,20 +1,19 @@
 {
-	"key": "l10n:hero-type/name?id=3630#static",
 	"name": "Amarantine Skeleton",
+	"key": "l10n:hero-type/name?id=3630#static",
 	"id": 3636,
-	"acc": "10",
+	"avatar": "3630",
 	"affinity": "Void",
-	"atk": "683",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "93",
-	"def": "1178",
 	"hp": "17505",
-	"cheal": "50",
+	"atk": "683",
+	"def": "1178",
+	"spd": "93",
 	"res": "30",
+	"acc": "10",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Undead Hordes",
-	"rarity": "Rare",
-	"type": "Defense",
 	"aura": "",
 	"totalBooks": "15",
 	"skills": [
@@ -24,7 +23,7 @@
 			"name": "Sorcerous Bones",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\nLevel 6: Buff/Debuff Chance +10%\nLevel 7: Buff/Debuff Chance +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\nLvl. 6 Buff/Debuff Chance +10%\nLvl. 7 Buff/Debuff Chance +10%\n",
 			"multiplier": "3.4*DEF",
 			"numBooksToMax": "6"
 		},
@@ -34,7 +33,7 @@
 			"name": "Tomb Blight",
 			"maxcd": "3",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Buff/Debuff Chance +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +10%\n",
 			"multiplier": "5.6*DEF",
 			"numBooksToMax": "5"
 		},
@@ -44,9 +43,11 @@
 			"name": "Rusted Targe",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
 			"multiplier": "5.4*DEF",
 			"numBooksToMax": "4"
 		}
-	]
+	],
+	"rarity": "Rare",
+	"type": "Defense"
 }

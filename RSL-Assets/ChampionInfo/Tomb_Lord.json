@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=350#static",
 	"name": "Tomb Lord",
+	"key": "l10n:hero-type/name?id=350#static",
 	"id": 356,
-	"acc": "20",
+	"avatar": "350",
 	"affinity": "Spirit",
-	"atk": "1387",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "99",
-	"def": "980",
 	"hp": "18165",
-	"cheal": "50",
+	"atk": "1387",
+	"def": "980",
+	"spd": "99",
 	"res": "30",
-	"faction": "Knight Revenant",
-	"rarity": "Legendary",
-	"type": "Support",
-	"aura": "Increases Ally ACC in Doom Tower Battles by 70.",
+	"acc": "20",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Knights Revenant",
+	"aura": "Increase Ally ACC in  by 70",
 	"totalBooks": "12",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Crippling Blows",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
 			"multiplier": "1.1*ATK",
 			"numBooksToMax": "4"
 		},
@@ -34,7 +33,7 @@
 			"name": "Death Burst",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Buff/Debuff Chance +15%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +15%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
 			"multiplier": "5*ATK",
 			"numBooksToMax": "4"
 		},
@@ -44,9 +43,11 @@
 			"name": "Blight",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "4"
 		}
-	]
+	],
+	"rarity": "Legendary",
+	"type": "Support"
 }

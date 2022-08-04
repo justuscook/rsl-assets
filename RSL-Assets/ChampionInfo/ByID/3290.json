@@ -13,8 +13,8 @@
 	"modelName": "0252_Barbarians_Tank",
 	"avatarKey": "3290",
 	"leaderSkill": {
-		"area": "Fractions",
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Speed",
 		"absolute": false,
 		"value": 0.2
@@ -22,8 +22,7 @@
 	"skillTypeIds": [
 		32901,
 		32904,
-		32903,
-		32905
+		32903
 	],
 	"unscaledStats": {
 		"Health": 99,

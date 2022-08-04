@@ -13,8 +13,8 @@
 	"modelName": "0172_Ogre",
 	"avatarKey": "1010",
 	"leaderSkill": {
-		"area": "Arena",
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Accuracy",
 		"absolute": true,
 		"value": 70

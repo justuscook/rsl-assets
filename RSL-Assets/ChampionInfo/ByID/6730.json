@@ -13,8 +13,8 @@
 	"modelName": "0699_demonspawn_id6730",
 	"avatarKey": "6730",
 	"leaderSkill": {
-		"area": "Dungeon",
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "CriticalChance",
 		"absolute": false,
 		"value": 0.24

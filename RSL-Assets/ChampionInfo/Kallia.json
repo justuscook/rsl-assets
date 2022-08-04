@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=3460#static",
 	"name": "Kallia",
+	"key": "l10n:hero-type/name?id=3460#static",
 	"id": 3466,
-	"acc": "0",
+	"avatar": "3460",
 	"affinity": "Force",
-	"atk": "1597",
-	"cdamage": "57",
-	"crate": "15",
-	"spd": "106",
-	"def": "848",
 	"hp": "12885",
-	"cheal": "50",
+	"atk": "1597",
+	"def": "848",
+	"spd": "106",
 	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
 	"faction": "Barbarians",
-	"rarity": "Epic",
-	"type": "Attack",
-	"aura": "Increases Ally ATK in All Battles by 25%.",
+	"aura": "Increase Ally ATK in  by 25",
 	"totalBooks": "13",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Superheated Hammer",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
 			"multiplier": "3.2*ATK",
 			"numBooksToMax": "4"
 		},
@@ -34,7 +33,7 @@
 			"name": "Curse of Nullity",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
 			"multiplier": "4*ATK",
 			"numBooksToMax": "5"
 		},
@@ -44,9 +43,11 @@
 			"name": "Flame Tempest",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
 			"multiplier": "2*ATK",
 			"numBooksToMax": "4"
 		}
-	]
+	],
+	"rarity": "Epic",
+	"type": "Attack"
 }

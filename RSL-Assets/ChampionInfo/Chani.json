@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=6030#static",
 	"name": "Chani",
+	"key": "l10n:hero-type/name?id=6030#static",
 	"id": 6036,
-	"acc": "0",
+	"avatar": "6030",
 	"affinity": "Magic",
-	"atk": "1432",
-	"cdamage": "60",
-	"crate": "15",
-	"spd": "96",
-	"def": "947",
 	"hp": "13875",
-	"cheal": "50",
+	"atk": "1432",
+	"def": "947",
+	"spd": "96",
 	"res": "30",
-	"faction": "Shadowkin",
-	"rarity": "Epic",
-	"type": "Attack",
-	"aura": "Increases Ally ACC in All Battles by 40.",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "60",
+	"cheal": "50",
+	"faction": "Samurai",
+	"aura": "Increase Ally ACC in  by 40",
 	"totalBooks": "15",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Insidious Arrow",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Damage +10%\nLevel 7: Buff/Debuff Chance +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +10%\nLvl. 7 Buff/Debuff Chance +10%\n",
 			"multiplier": "3.4*ATK",
 			"numBooksToMax": "6"
 		},
@@ -34,8 +33,8 @@
 			"name": "Soul Fire",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Damage +10%\nLevel 6: Cooldown -1\n",
-			"multiplier": "",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Damage +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"multiplier": null,
 			"numBooksToMax": "5"
 		},
 		{
@@ -44,7 +43,7 @@
 			"name": "Shower of Misery",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Buff/Debuff Chance +15%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +15%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
 			"multiplier": "4*ATK",
 			"numBooksToMax": "4"
 		},
@@ -56,7 +55,9 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": ""
+			"numBooksToMax": "0"
 		}
-	]
+	],
+	"rarity": "Epic",
+	"type": "Attack"
 }

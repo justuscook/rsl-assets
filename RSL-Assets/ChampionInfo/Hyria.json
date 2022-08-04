@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=100#static",
 	"name": "Hyria",
+	"key": "l10n:hero-type/name?id=100#static",
 	"id": 106,
-	"acc": "0",
+	"avatar": "100",
 	"affinity": "Spirit",
-	"atk": "1476",
-	"cdamage": "57",
-	"crate": "15",
-	"spd": "101",
-	"def": "749",
 	"hp": "12060",
-	"cheal": "50",
+	"atk": "1476",
+	"def": "749",
+	"spd": "101",
 	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
 	"faction": "High Elves",
-	"rarity": "Rare",
-	"type": "Attack",
-	"aura": "Increases Ally C. RATE in Arena Battles by 16%.",
+	"aura": "Increase Ally C. RATE in  by 16",
 	"totalBooks": "10",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Feint",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
 			"multiplier": "2.9*ATK",
 			"numBooksToMax": "4"
 		},
@@ -34,7 +33,7 @@
 			"name": "Poisonous Lily",
 			"maxcd": "4",
 			"mincd": "4",
-			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +10%\n",
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
 			"multiplier": "1.7*ATK",
 			"numBooksToMax": "4"
 		},
@@ -44,9 +43,11 @@
 			"name": "Lead the Charge",
 			"maxcd": "6",
 			"mincd": "4",
-			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
+			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		}
-	]
+	],
+	"rarity": "Rare",
+	"type": "Attack"
 }

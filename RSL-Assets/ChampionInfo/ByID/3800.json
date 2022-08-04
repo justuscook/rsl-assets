@@ -13,8 +13,8 @@
 	"modelName": "0065_Mage_Necromancer_id3800",
 	"avatarKey": "3800",
 	"leaderSkill": {
-		"area": null,
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Attack",
 		"absolute": false,
 		"value": 0.33

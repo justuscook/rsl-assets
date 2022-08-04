@@ -13,8 +13,8 @@
 	"modelName": "0234_Fellhound_id2770",
 	"avatarKey": "2770",
 	"leaderSkill": {
-		"area": "Fractions",
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Defence",
 		"absolute": false,
 		"value": 0.19

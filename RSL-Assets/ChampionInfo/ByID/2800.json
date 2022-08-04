@@ -13,8 +13,8 @@
 	"modelName": "0269_Doompriest_id2800",
 	"avatarKey": "2800",
 	"leaderSkill": {
-		"area": null,
-		"affinity": "Force",
+		"area": "",
+		"affinity": "",
 		"kind": "Speed",
 		"absolute": false,
 		"value": 0.15

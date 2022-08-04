@@ -13,8 +13,8 @@
 	"modelName": "0246_Boneknight_Ranger",
 	"avatarKey": "3270",
 	"leaderSkill": {
-		"area": null,
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "CriticalChance",
 		"absolute": false,
 		"value": 0.19

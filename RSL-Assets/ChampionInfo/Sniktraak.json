@@ -1,0 +1,63 @@
+{
+	"name": "Sniktraak",
+	"key": "l10n:hero-type/name?id=3590#static",
+	"id": 3596,
+	"avatar": "3590",
+	"affinity": "Spirit",
+	"hp": "22965",
+	"atk": "826",
+	"def": "1222",
+	"spd": "99",
+	"res": "45",
+	"acc": "20",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Skinwalkers",
+	"aura": "Increase Ally HP in  by 33",
+	"totalBooks": "10",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 50% chance of placing a 50% [Decrease ATK] debuff for 2 turns. \r\n\r\nIf the target is under a [Leech] debuff, has a 100% chance of placing a 50% [Decrease ATK] debuff on the target for 2 turns before attacking.",
+			"basedOn": "",
+			"name": "Misery Morningstar",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +5%\n",
+			"multiplier": null,
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 75% chance of placing a 30% [Decrease SPD] debuff for 2 turns. \r\n\r\nAlso places a [Shield] buff on all allies equal to 30% of this Champion's MAX HP for 2 turns. The [Shield] buff cannot be removed if it is placed when there are any enemies under [Leech] debuffs.",
+			"basedOn": "[HP]",
+			"name": "Cloying Horror",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +15%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
+			"multiplier": "0.35*HP",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Places a 50% [Ally Protection] buff on all allies except this Champion for 2 turns. \r\n\r\nAlso places a 30% [Reflect Damage] buff on all allies for 2 turns, then heals this Champion by 50% of their MAX HP.",
+			"basedOn": "",
+			"name": "Vermin Vitae",
+			"maxcd": "5",
+			"mincd": "3",
+			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
+		},
+		{
+			"desc": "Whenever an ally under a [Reflect Damage] buff is attacked, places a [Leech] debuff on the attacker for 1 turn.\r\n\r\nReflects 50% of the damage this Champion receives back to the attacker. \r\n\r\nIncreases the amount of damage reflected by 20% from [Reflect Damage] buffs placed by allies.",
+			"basedOn": "",
+			"name": "Soul Rot [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Legendary",
+	"type": "Health"
+}

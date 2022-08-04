@@ -1,0 +1,63 @@
+{
+	"name": "Carlinia",
+	"key": "l10n:hero-type/name?id=7160#static",
+	"id": 7166,
+	"avatar": "7160",
+	"affinity": "Spirit",
+	"hp": "17175",
+	"atk": "793",
+	"def": "1365",
+	"spd": "105",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Sacred Order",
+	"aura": "Increase Ally  in  by 35",
+	"totalBooks": "13",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 40% chance of placing a [HP Burn] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Perdition",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +10%\n",
+			"multiplier": "4*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 55% chance of placing a 50% [Decrease ATK] debuff for 2 turns. This debuff cannot be resisted by targets under [HP Burn] debuffs.",
+			"basedOn": "[ATK]",
+			"name": "Penance",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +10%\nLvl. 7 Cooldown -1Lvl. 7 Buff/Debuff Chance +100%\n",
+			"multiplier": "4.5*ATK",
+			"numBooksToMax": "6"
+		},
+		{
+			"desc": "Decreases the duration of all debuffs on all allies by 1 turn, then places a 15% [Strengthen] buff on all allies for 2 turns. This buff cannot be removed or stolen.",
+			"basedOn": "",
+			"name": "Always Watched",
+			"maxcd": "6",
+			"mincd": "4",
+			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
+		},
+		{
+			"desc": "Every time an enemy under a [HP Burn] debuff gets a turn, decreases the duration of 2 random buffs on that enemy by 1 turn.",
+			"basedOn": "",
+			"name": "Burn With Shame [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Epic",
+	"type": "Support"
+}

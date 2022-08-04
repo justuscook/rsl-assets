@@ -13,8 +13,8 @@
 	"modelName": "0222_Lizard_ranger_id3550",
 	"avatarKey": "3550",
 	"leaderSkill": {
-		"area": "Arena",
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Speed",
 		"absolute": false,
 		"value": 0.15

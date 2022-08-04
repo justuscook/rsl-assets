@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=4540#static",
 	"name": "Inquisitor Shamael",
+	"key": "l10n:hero-type/name?id=4540#static",
 	"id": 4546,
-	"acc": "0",
+	"avatar": "4540",
 	"affinity": "Void",
-	"atk": "1288",
-	"cdamage": "60",
-	"crate": "15",
-	"spd": "101",
-	"def": "903",
 	"hp": "16680",
-	"cheal": "50",
+	"atk": "1288",
+	"def": "903",
+	"spd": "101",
 	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "60",
+	"cheal": "50",
 	"faction": "Sacred Order",
-	"rarity": "Epic",
-	"type": "Attack",
-	"aura": "Increases Ally ACC in Doom Tower Battles by 60.",
+	"aura": "Increase Ally ACC in  by 60",
 	"totalBooks": "10",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Wreak Revenge",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Damage +10%\nLevel 7: Buff/Debuff Chance +10%\nLevel 8: Damage +15%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Damage +10%\nLvl. 7 Buff/Debuff Chance +10%\nLvl. 8 Damage +15%\n",
 			"multiplier": "2.9*ATK",
 			"numBooksToMax": "7"
 		},
@@ -34,7 +33,7 @@
 			"name": "Cow the Horrors",
 			"maxcd": "3",
 			"mincd": "3",
-			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Damage +15%\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Damage +15%\n",
 			"multiplier": "2*ATK",
 			"numBooksToMax": "3"
 		},
@@ -46,7 +45,19 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": ""
+			"numBooksToMax": "0"
+		},
+		{
+			"desc": "passive counterattack for skill 45404",
+			"basedOn": "[ATK]",
+			"name": "Skill 45405 name",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "1.45*ATK",
+			"numBooksToMax": "0"
 		}
-	]
+	],
+	"rarity": "Epic",
+	"type": "Attack"
 }

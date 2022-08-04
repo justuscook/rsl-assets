@@ -13,8 +13,8 @@
 	"modelName": "0066_undead_support_id1200",
 	"avatarKey": "1200",
 	"leaderSkill": {
-		"area": "Fractions",
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Resistance",
 		"absolute": true,
 		"value": 30

@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=5060#static",
 	"name": "Rian the Conjurer",
+	"key": "l10n:hero-type/name?id=5060#static",
 	"id": 5066,
-	"acc": "15",
+	"avatar": "5060",
 	"affinity": "Force",
-	"atk": "1002",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "98",
-	"def": "1167",
 	"hp": "17010",
-	"cheal": "50",
+	"atk": "1002",
+	"def": "1167",
+	"spd": "98",
 	"res": "30",
+	"acc": "15",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Dark Elves",
-	"rarity": "Epic",
-	"type": "Support",
-	"aura": "Increases Ally ACC in All Battles by 40.",
+	"aura": "Increase Ally ACC in  by 40",
 	"totalBooks": "13",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Magma Ball",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Damage +10%\nLevel 7: Buff/Debuff Chance +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +10%\nLvl. 7 Buff/Debuff Chance +10%\n",
 			"multiplier": "4.6*ATK",
 			"numBooksToMax": "6"
 		},
@@ -34,19 +33,21 @@
 			"name": "Sweeping Dismissal",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Cooldown -1\n",
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Revives a dead ally with 50% HP, then fills their Turn Meter by 50%. Will then also place a [Block Debuffs] buff on them for 2 turns.\r\n\r\nWill also revive Akoth the Seared and Urost the Soulcage with 30% HP if they are on the same team and not the target of the skill. Will then also fill their Turn Meters by 30% after reviving.\r\n\r\nIf either Akoth the Seared or Urost the Soulcage are the target of the skill, that Champion will be revived with 50% HP and 50% Turn Meter, and a [Block Debuffs] buff for 2 turns.",
-			"basedOn": "",
+			"basedOn": "[Enemy MAX HP]",
 			"name": "Master of Summons",
 			"maxcd": "6",
 			"mincd": "4",
-			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
+			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		}
-	]
+	],
+	"rarity": "Epic",
+	"type": "Support"
 }

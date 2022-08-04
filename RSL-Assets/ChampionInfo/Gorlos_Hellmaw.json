@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=6010#static",
 	"name": "Gorlos Hellmaw",
+	"key": "l10n:hero-type/name?id=6010#static",
 	"id": 6016,
-	"acc": "15",
+	"avatar": "6010",
 	"affinity": "Spirit",
-	"atk": "1354",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "99",
-	"def": "1101",
 	"hp": "12720",
-	"cheal": "50",
+	"atk": "1354",
+	"def": "1101",
+	"spd": "99",
 	"res": "30",
+	"acc": "15",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Demonspawn",
-	"rarity": "Epic",
-	"type": "Attack",
-	"aura": "Increases Ally ATK in Doom Tower Battles by 30%.",
+	"aura": "Increase Ally ATK in  by 30",
 	"totalBooks": "14",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Hungry Shafts",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
 			"multiplier": "1.95*ATK",
 			"numBooksToMax": "4"
 		},
@@ -34,7 +33,7 @@
 			"name": "Raging Hunger",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Buff/Debuff Chance +15%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +15%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
 			"multiplier": "4*ATK",
 			"numBooksToMax": "4"
 		},
@@ -44,9 +43,11 @@
 			"name": "Gnashing Fangs",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Buff/Debuff Chance +15%\nLevel 7: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +15%\nLvl. 7 Cooldown -1Lvl. 7 Buff/Debuff Chance +100%\n",
 			"multiplier": "6*ATK",
 			"numBooksToMax": "6"
 		}
-	]
+	],
+	"rarity": "Epic",
+	"type": "Attack"
 }

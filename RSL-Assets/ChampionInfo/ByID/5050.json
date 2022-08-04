@@ -13,8 +13,8 @@
 	"modelName": "0505_BP2_mag",
 	"avatarKey": "5050",
 	"leaderSkill": {
-		"area": "Arena",
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Speed",
 		"absolute": false,
 		"value": 0.17

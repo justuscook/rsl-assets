@@ -13,8 +13,8 @@
 	"modelName": "0134_Knights_f_Warrior",
 	"avatarKey": "2390",
 	"leaderSkill": {
-		"area": null,
-		"affinity": "Magic",
+		"area": "",
+		"affinity": "",
 		"kind": "Resistance",
 		"absolute": true,
 		"value": 50

@@ -13,8 +13,8 @@
 	"modelName": "0417_Draconid_id6770",
 	"avatarKey": "6770",
 	"leaderSkill": {
-		"area": null,
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Attack",
 		"absolute": false,
 		"value": 0.33

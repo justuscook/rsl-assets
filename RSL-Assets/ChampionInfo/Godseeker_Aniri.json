@@ -1,20 +1,19 @@
 {
-	"key": "l10n:hero-type/name?id=5790#static",
 	"name": "Godseeker Aniri",
+	"key": "l10n:hero-type/name?id=5790#static",
 	"id": 5796,
-	"acc": "0",
+	"avatar": "5790",
 	"affinity": "Void",
-	"atk": "1046",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "99",
-	"def": "1244",
 	"hp": "15195",
-	"cheal": "50",
+	"atk": "1046",
+	"def": "1244",
+	"spd": "99",
 	"res": "45",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Sacred Order",
-	"rarity": "Epic",
-	"type": "Defense",
 	"aura": "",
 	"totalBooks": "17",
 	"skills": [
@@ -24,7 +23,7 @@
 			"name": "Blade of Blessings",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Heal +5%\nLevel 4: Damage +5%\nLevel 5: Heal +5%\nLevel 6: Damage +5%\nLevel 7: Heal +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3  Heal +5%\nLvl. 4 Damage +5%\nLvl. 5  Heal +5%\nLvl. 6 Damage +5%\nLvl. 7  Heal +5%\n",
 			"multiplier": "3.6*DEF",
 			"numBooksToMax": "6"
 		},
@@ -34,17 +33,17 @@
 			"name": "Quest For Meaning",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Heal +5%\nLevel 3: Heal +5%\nLevel 4: Heal +5%\nLevel 5: Heal +5%\nLevel 6: Cooldown -1\n",
+			"books": "Lvl. 2  Heal +5%\nLvl. 3  Heal +5%\nLvl. 4  Heal +5%\nLvl. 5  Heal +5%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
 			"multiplier": "3*DEF",
 			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Revives a dead ally with 50% HP, then fills their Turn Meter by 50% and resets the cooldowns on all their skills.",
-			"basedOn": "",
+			"basedOn": "[Enemy MAX HP]",
 			"name": "Rise of Glory",
 			"maxcd": "7",
 			"mincd": "4",
-			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\nLevel 4: Cooldown -1\n",
+			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "3"
 		},
@@ -54,9 +53,11 @@
 			"name": "Guardian Angel [P]",
 			"maxcd": "7",
 			"mincd": "4",
-			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\nLevel 4: Cooldown -1\n",
+			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "3"
 		}
-	]
+	],
+	"rarity": "Epic",
+	"type": "Defense"
 }

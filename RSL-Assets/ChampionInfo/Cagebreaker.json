@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=3220#static",
 	"name": "Cagebreaker",
+	"key": "l10n:hero-type/name?id=3220#static",
 	"id": 3226,
-	"acc": "0",
+	"avatar": "3220",
 	"affinity": "Spirit",
-	"atk": "1409",
-	"cdamage": "60",
-	"crate": "15",
-	"spd": "98",
-	"def": "826",
 	"hp": "16020",
-	"cheal": "50",
+	"atk": "1409",
+	"def": "826",
+	"spd": "98",
 	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "60",
+	"cheal": "50",
 	"faction": "Ogryn Tribes",
-	"rarity": "Epic",
-	"type": "Attack",
-	"aura": "Increases Ally ATK in All Battles by 40%.",
+	"aura": "Increase Ally ATK in  by 40",
 	"totalBooks": "13",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Shatter Shell",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\n",
 			"multiplier": "3.8*ATK",
 			"numBooksToMax": "4"
 		},
@@ -34,7 +33,7 @@
 			"name": "Crunch Frenzy",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
 			"multiplier": "1.4*ATK",
 			"numBooksToMax": "5"
 		},
@@ -44,9 +43,11 @@
 			"name": "Burn Away",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
 			"multiplier": "3.5*ATK",
 			"numBooksToMax": "4"
 		}
-	]
+	],
+	"rarity": "Epic",
+	"type": "Attack"
 }

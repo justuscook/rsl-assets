@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=4820#static",
 	"name": "Aox the Rememberer",
+	"key": "l10n:hero-type/name?id=4820#static",
 	"id": 4826,
-	"acc": "15",
+	"avatar": "4820",
 	"affinity": "Force",
-	"atk": "991",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "99",
-	"def": "1178",
 	"hp": "17010",
-	"cheal": "50",
+	"atk": "991",
+	"def": "1178",
+	"spd": "99",
 	"res": "30",
-	"faction": "Lizardmen",
-	"rarity": "Epic",
-	"type": "Support",
-	"aura": "Increases Ally ACC in Doom Tower Battles by 60.",
+	"acc": "15",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Lizard Men",
+	"aura": "Increase Ally ACC in  by 60",
 	"totalBooks": "15",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Feathered Staff",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Buff/Debuff Chance +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +10%\n",
 			"multiplier": "2.1*ATK",
 			"numBooksToMax": "5"
 		},
@@ -34,7 +33,7 @@
 			"name": "Lore of Restoration",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Heal +10%\nLevel 6: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5  Heal +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
 			"multiplier": "5.7*ATK",
 			"numBooksToMax": "5"
 		},
@@ -44,7 +43,7 @@
 			"name": "Weight of Aeons",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Cooldown -1\n",
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "5"
 		},
@@ -56,7 +55,9 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": ""
+			"numBooksToMax": "0"
 		}
-	]
+	],
+	"rarity": "Epic",
+	"type": "Support"
 }

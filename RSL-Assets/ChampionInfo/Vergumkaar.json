@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=5320#static",
 	"name": "Vergumkaar",
+	"key": "l10n:hero-type/name?id=5320#static",
 	"id": 5326,
-	"acc": "10",
+	"avatar": "5320",
 	"affinity": "Spirit",
-	"atk": "914",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "99",
-	"def": "1189",
 	"hp": "22140",
-	"cheal": "50",
+	"atk": "914",
+	"def": "1189",
+	"spd": "99",
 	"res": "50",
-	"faction": "Lizardmen",
-	"rarity": "Legendary",
-	"type": "Support",
-	"aura": "Increases Ally RES in All Battles by 55.",
+	"acc": "10",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Lizard Men",
+	"aura": "Increase Ally  in  by 55",
 	"totalBooks": "13",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Bejeweled Bulk",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
 			"multiplier": "5*ATK",
 			"numBooksToMax": "4"
 		},
@@ -34,7 +33,7 @@
 			"name": "Honored Ancient",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Shield +5%\nLevel 3: Shield +5%\nLevel 4: Shield +10%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "4"
 		},
@@ -44,7 +43,7 @@
 			"name": "Crushing Trample",
 			"maxcd": "5",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Cooldown -1\nLevel 6: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
 			"multiplier": "4.85*ATK",
 			"numBooksToMax": "5"
 		},
@@ -56,7 +55,9 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": ""
+			"numBooksToMax": "0"
 		}
-	]
+	],
+	"rarity": "Legendary",
+	"type": "Support"
 }

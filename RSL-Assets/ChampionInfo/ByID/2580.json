@@ -13,8 +13,8 @@
 	"modelName": "0315_Barbarian_Jotun_id2580",
 	"avatarKey": "2580",
 	"leaderSkill": {
-		"area": "Fractions",
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Health",
 		"absolute": false,
 		"value": 0.29

@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=6730#static",
 	"name": "Scion",
+	"key": "l10n:hero-type/name?id=6730#static",
 	"id": 6736,
-	"acc": "0",
+	"avatar": "6730",
 	"affinity": "Magic",
-	"atk": "1409",
-	"cdamage": "60",
-	"crate": "15",
-	"spd": "102",
-	"def": "969",
 	"hp": "13875",
-	"cheal": "50",
+	"atk": "1409",
+	"def": "969",
+	"spd": "102",
 	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "60",
+	"cheal": "50",
 	"faction": "Demonspawn",
-	"rarity": "Epic",
-	"type": "Attack",
-	"aura": "Increases Ally C. RATE in Dungeons by 24%.",
+	"aura": "Increase Ally C. RATE in  by 24",
 	"totalBooks": "10",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Nightmare Khopesh",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
 			"multiplier": "3.5*ATK",
 			"numBooksToMax": "4"
 		},
@@ -34,7 +33,7 @@
 			"name": "Evil Seed",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\n",
 			"multiplier": "6*ATK",
 			"numBooksToMax": "3"
 		},
@@ -44,8 +43,8 @@
 			"name": "Crawling Chaos",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Cooldown -1\n",
-			"multiplier": "",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\n",
+			"multiplier": null,
 			"numBooksToMax": "3"
 		},
 		{
@@ -56,7 +55,9 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": ""
+			"numBooksToMax": "0"
 		}
-	]
+	],
+	"rarity": "Epic",
+	"type": "Attack"
 }

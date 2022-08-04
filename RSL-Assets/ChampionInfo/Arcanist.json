@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=250#static",
 	"name": "Arcanist",
+	"key": "l10n:hero-type/name?id=250#static",
 	"id": 256,
-	"acc": "0",
+	"avatar": "250",
 	"affinity": "Force",
-	"atk": "991",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "98",
-	"def": "848",
 	"hp": "17835",
-	"cheal": "50",
+	"atk": "991",
+	"def": "848",
+	"spd": "98",
 	"res": "30",
-	"faction": "Knight Revenant",
-	"rarity": "Rare",
-	"type": "Support",
-	"aura": "Increases Ally DEF in Arena Battles by 25%.",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Knights Revenant",
+	"aura": "Increase Ally  in  by 25",
 	"totalBooks": "8",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Paralyzing Touch",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Damage +10%\nLevel 6: Buff/Debuff Chance +10%\nLevel 7: Damage +10%\n",
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Damage +10%\nLvl. 6 Buff/Debuff Chance +10%\nLvl. 7 Damage +10%\n",
 			"multiplier": "4*ATK",
 			"numBooksToMax": "6"
 		},
@@ -34,7 +33,7 @@
 			"name": "Unnatural Recovery",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Cooldown -1\n",
+			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		},
@@ -44,9 +43,11 @@
 			"name": "Vigor",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Level 2: Cooldown -1\n",
+			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		}
-	]
+	],
+	"rarity": "Rare",
+	"type": "Support"
 }

@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=1140#static",
 	"name": "Hurler",
+	"key": "l10n:hero-type/name?id=1140#static",
 	"id": 1146,
-	"acc": "0",
+	"avatar": "1140",
 	"affinity": "Force",
-	"atk": "1432",
-	"cdamage": "57",
-	"crate": "15",
-	"spd": "96",
-	"def": "617",
 	"hp": "14700",
-	"cheal": "50",
+	"atk": "1432",
+	"def": "617",
+	"spd": "96",
 	"res": "30",
-	"faction": "Lizardmen",
-	"rarity": "Rare",
-	"type": "Attack",
-	"aura": "Increases Ally ATK in Dungeons by 21%.",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
+	"faction": "Lizard Men",
+	"aura": "Increase Ally ATK in  by 21",
 	"totalBooks": "11",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Spin Throw",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\nLevel 6: Damage +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Damage +10%\n",
 			"multiplier": "ATK*1.7",
 			"numBooksToMax": "5"
 		},
@@ -34,7 +33,7 @@
 			"name": "Firebolt",
 			"maxcd": "3",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Damage +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Damage +10%\n",
 			"multiplier": "ATK*5",
 			"numBooksToMax": "3"
 		},
@@ -44,9 +43,11 @@
 			"name": "Pin Down",
 			"maxcd": "5",
 			"mincd": "5",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Damage +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Damage +10%\n",
 			"multiplier": "ATK*5.5",
 			"numBooksToMax": "3"
 		}
-	]
+	],
+	"rarity": "Rare",
+	"type": "Attack"
 }

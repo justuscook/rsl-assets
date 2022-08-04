@@ -13,8 +13,8 @@
 	"modelName": "171_Ogre_armored_combined",
 	"avatarKey": "650",
 	"leaderSkill": {
-		"area": "Fractions",
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Resistance",
 		"absolute": true,
 		"value": 45

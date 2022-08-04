@@ -13,8 +13,8 @@
 	"modelName": "0073_Undead_id3060",
 	"avatarKey": "3060",
 	"leaderSkill": {
-		"area": "Fractions",
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Speed",
 		"absolute": false,
 		"value": 0.13

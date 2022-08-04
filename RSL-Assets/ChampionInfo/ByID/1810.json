@@ -13,8 +13,8 @@
 	"modelName": "0057_Vampire_warrior",
 	"avatarKey": "1810",
 	"leaderSkill": {
-		"area": "Fractions",
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Accuracy",
 		"absolute": true,
 		"value": 40

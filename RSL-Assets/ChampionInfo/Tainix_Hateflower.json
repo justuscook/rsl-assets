@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=5090#static",
 	"name": "Tainix Hateflower",
+	"key": "l10n:hero-type/name?id=5090#static",
 	"id": 5096,
-	"acc": "0",
+	"avatar": "5090",
 	"affinity": "Force",
-	"atk": "1189",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "100",
-	"def": "980",
 	"hp": "17010",
-	"cheal": "50",
+	"atk": "1189",
+	"def": "980",
+	"spd": "100",
 	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Demonspawn",
-	"rarity": "Epic",
-	"type": "Support",
-	"aura": "Increases Ally HP in Faction Crypts by 30%.",
+	"aura": "Increase Ally HP in  by 30",
 	"totalBooks": "10",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Seeker Bolts",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\n",
 			"multiplier": "1.65*ATK",
 			"numBooksToMax": "3"
 		},
@@ -34,7 +33,7 @@
 			"name": "Spiteful Cut",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Buff/Debuff Chance +15%\nLevel 7: Buff/Debuff Chance +15%\nLevel 8: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +15%\nLvl. 7 Buff/Debuff Chance +15%\nLvl. 8 Cooldown -1Lvl. 8 Buff/Debuff Chance +100%\n",
 			"multiplier": "4.3*ATK",
 			"numBooksToMax": "7"
 		},
@@ -46,7 +45,9 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": ""
+			"numBooksToMax": "0"
 		}
-	]
+	],
+	"rarity": "Epic",
+	"type": "Support"
 }

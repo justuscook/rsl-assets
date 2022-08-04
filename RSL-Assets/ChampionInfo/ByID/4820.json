@@ -13,8 +13,8 @@
 	"modelName": "435_lizards_4820",
 	"avatarKey": "4820",
 	"leaderSkill": {
-		"area": "DoomTower",
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Accuracy",
 		"absolute": true,
 		"value": 60

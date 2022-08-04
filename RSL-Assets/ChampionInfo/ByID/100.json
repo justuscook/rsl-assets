@@ -13,8 +13,8 @@
 	"modelName": "0100_Elf_Warrior",
 	"avatarKey": "100",
 	"leaderSkill": {
-		"area": "Arena",
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "CriticalChance",
 		"absolute": false,
 		"value": 0.16

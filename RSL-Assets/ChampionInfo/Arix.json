@@ -1,0 +1,63 @@
+{
+	"name": "Arix",
+	"key": "l10n:hero-type/name?id=7230#static",
+	"id": 7236,
+	"avatar": "7230",
+	"affinity": "Magic",
+	"hp": "22965",
+	"atk": "881",
+	"def": "1167",
+	"spd": "99",
+	"res": "30",
+	"acc": "15",
+	"crate": "15",
+	"cdamage": "63",
+	"cheal": "50",
+	"faction": "Knights Revenant",
+	"aura": "",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks all enemies. Has a 25% chance of removing 1 random buff from each target.",
+			"basedOn": "[HP]",
+			"name": "Deathly Arts",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +5%\n",
+			"multiplier": "0.22*HP",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 50% chance of placing a [Stun] debuff for 1 turn. Transfers a random debuff from this Champion to the targets that receive [Stun] debuffs from this skill.",
+			"basedOn": "[HP]",
+			"name": "Thornchain Malison",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"multiplier": "0.35*HP",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Places a 50% [Ally Protection] buff on all allies except this Champion for 2 turns. Also places a [Counterattack] buff on this Champion for 2 turns.",
+			"basedOn": "",
+			"name": "Warped Guidance",
+			"maxcd": "5",
+			"mincd": "3",
+			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
+		},
+		{
+			"desc": "Fills this Champion’s Turn Meter by 5% each time an ally inflicts a critical hit. \r\n\r\nHeals this Champion by 5% of their MAX HP each time an enemy inflicts a critical hit.",
+			"basedOn": "[HP]",
+			"name": "Cynical [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Legendary",
+	"type": "Health"
+}

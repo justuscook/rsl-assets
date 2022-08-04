@@ -13,8 +13,8 @@
 	"modelName": "920_Darkspawn",
 	"avatarKey": "920",
 	"leaderSkill": {
-		"area": null,
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Speed",
 		"absolute": false,
 		"value": 0.24

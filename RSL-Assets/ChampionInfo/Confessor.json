@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=2070#static",
 	"name": "Confessor",
+	"key": "l10n:hero-type/name?id=2070#static",
 	"id": 2076,
-	"acc": "0",
+	"avatar": "2070",
 	"affinity": "Void",
-	"atk": "1409",
-	"cdamage": "57",
-	"crate": "15",
-	"spd": "98",
-	"def": "815",
 	"hp": "12060",
-	"cheal": "50",
+	"atk": "1409",
+	"def": "815",
+	"spd": "98",
 	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
 	"faction": "Sacred Order",
-	"rarity": "Rare",
-	"type": "Attack",
-	"aura": "Increases Ally C. RATE in Dungeons by 16%.",
+	"aura": "Increase Ally C. RATE in  by 16",
 	"totalBooks": "15",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Stern Judgment",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Damage +10%\nLevel 6: Buff/Debuff Chance +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Damage +10%\nLvl. 6 Buff/Debuff Chance +10%\n",
 			"multiplier": "3.1*ATK",
 			"numBooksToMax": "5"
 		},
@@ -34,7 +33,7 @@
 			"name": "Blinding Light",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Buff/Debuff Chance +10%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Cooldown -1\n",
+			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
 			"multiplier": "3.7*ATK",
 			"numBooksToMax": "5"
 		},
@@ -44,9 +43,11 @@
 			"name": "Unyielding Fervor",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
 			"multiplier": "5.9*ATK",
 			"numBooksToMax": "5"
 		}
-	]
+	],
+	"rarity": "Rare",
+	"type": "Attack"
 }

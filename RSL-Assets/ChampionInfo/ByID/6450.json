@@ -13,8 +13,8 @@
 	"modelName": "0692_Archbishop_id6450",
 	"avatarKey": "6450",
 	"leaderSkill": {
-		"area": null,
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Accuracy",
 		"absolute": true,
 		"value": 50

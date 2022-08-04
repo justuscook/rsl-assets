@@ -13,8 +13,8 @@
 	"modelName": "171_Ogre_armored_id3100",
 	"avatarKey": "3100",
 	"leaderSkill": {
-		"area": "Dungeon",
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Defence",
 		"absolute": false,
 		"value": 0.23
