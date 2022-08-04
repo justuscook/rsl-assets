@@ -1,0 +1,39 @@
+{
+	"typeId": 1846,
+	"name": {
+		"key": "l10n:hero-type/name?id=1840#static",
+		"defaultValue": "Lich",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "UndeadHordes",
+	"role": "Defense",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0073_undead",
+	"avatarKey": "1840",
+	"leaderSkill": {
+		"area": "Fractions",
+		"affinity": null,
+		"kind": "Defence",
+		"absolute": false,
+		"value": 0.27
+	},
+	"skillTypeIds": [
+		18401,
+		18402,
+		18404
+	],
+	"unscaledStats": {
+		"Health": 112,
+		"Attack": 63,
+		"Defense": 125,
+		"Speed": 99,
+		"Resistance": 45,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

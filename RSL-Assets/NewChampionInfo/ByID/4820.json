@@ -1,0 +1,40 @@
+{
+	"typeId": 4826,
+	"name": {
+		"key": "l10n:hero-type/name?id=4820#static",
+		"defaultValue": "Aox the Rememberer",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "LizardMen",
+	"role": "Support",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "435_lizards_4820",
+	"avatarKey": "4820",
+	"leaderSkill": {
+		"area": "DoomTower",
+		"affinity": null,
+		"kind": "Accuracy",
+		"absolute": true,
+		"value": 60
+	},
+	"skillTypeIds": [
+		48201,
+		48202,
+		48203,
+		48204
+	],
+	"unscaledStats": {
+		"Health": 103,
+		"Attack": 90,
+		"Defense": 107,
+		"Speed": 99,
+		"Resistance": 30,
+		"Accuracy": 15,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

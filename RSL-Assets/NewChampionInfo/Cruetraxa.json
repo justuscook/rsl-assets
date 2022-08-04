@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=2950#static",
+	"name": "Cruetraxa",
+	"id": 2956,
+	"acc": "0",
+	"affinity": "Void",
+	"atk": "1498",
+	"cdamage": "63",
+	"crate": "15",
+	"spd": "99",
+	"def": "859",
+	"hp": "18330",
+	"cheal": "50",
+	"res": "40",
+	"faction": "Demonspawn",
+	"rarity": "Legendary",
+	"type": "Attack",
+	"aura": "Increases Ally ATK in All Battles by 24%.",
+	"totalBooks": "8",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 4 times. Will ignore 50% of enemy DEF.",
+			"basedOn": "[ATK]",
+			"name": "Dire Perforation",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\n",
+			"multiplier": "0.8*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 75% chance of placing a 25% [Weaken] debuff for 2 turns. Has a 75% chance of removing 2 random buffs from the target. Grants an Extra Turn.",
+			"basedOn": "[ATK]",
+			"name": "Curse of Writhing",
+			"maxcd": "4",
+			"mincd": "4",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +10%\n",
+			"multiplier": "6.9*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Places a [Revive On Death] buff on this Champion for 2 turns at the beginning of each round.\r\n\r\nPlaces [Revive On Death] buff on this Champion for 1 turn when this Champion kills an enemy with a critical hit. [Does not occur with Spiderlings.]",
+			"basedOn": "",
+			"name": "Rite of Rebirth [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": ""
+		}
+	]
+}

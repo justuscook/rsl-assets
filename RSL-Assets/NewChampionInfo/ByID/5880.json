@@ -1,0 +1,33 @@
+{
+	"typeId": 5886,
+	"name": {
+		"key": "l10n:hero-type/name?id=5880#static",
+		"defaultValue": "Chonoru",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "Samurai",
+	"role": "Attack",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0585_BlackSamurai_id5880",
+	"avatarKey": "5880",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		58801,
+		58802,
+		58803
+	],
+	"unscaledStats": {
+		"Health": 76,
+		"Attack": 137,
+		"Defense": 87,
+		"Speed": 99,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 60,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

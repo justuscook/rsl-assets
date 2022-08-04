@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=2090#static",
+	"name": "Bloodbraid",
+	"id": 2096,
+	"acc": "0",
+	"affinity": "Spirit",
+	"atk": "892",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "89",
+	"def": "826",
+	"hp": "19650",
+	"cheal": "50",
+	"res": "40",
+	"faction": "Barbarians",
+	"rarity": "Rare",
+	"type": "HP",
+	"aura": "",
+	"totalBooks": "14",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 25% chance of placing a [Provoke] debuff for 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Enraging Prowess",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Damage +15%\nLevel 6: Buff/Debuff Chance +10%\n",
+			"multiplier": "4.2*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks 1 enemy 3 times. Has a 25% chance of granting an Extra Turn.",
+			"basedOn": "[ATK]",
+			"name": "Tireless Assault",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +15%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Cooldown -1\n",
+			"multiplier": "2.3*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks 1 enemy. Places a 100% [Heal Reduction] debuff for 2 turns. Heals this Champion by 30% of the damage dealt.",
+			"basedOn": "[ATK]",
+			"name": "Lifecurse",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +15%\nLevel 5: Cooldown -1\n",
+			"multiplier": "6.8*ATK",
+			"numBooksToMax": "4"
+		}
+	]
+}

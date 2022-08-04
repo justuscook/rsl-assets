@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=970#static",
+	"name": "Big 'Un",
+	"id": 976,
+	"acc": "10",
+	"affinity": "Magic",
+	"atk": "1575",
+	"cdamage": "63",
+	"crate": "15",
+	"spd": "104",
+	"def": "837",
+	"hp": "17505",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Ogryn Tribes",
+	"rarity": "Legendary",
+	"type": "Attack",
+	"aura": "Increases Ally ACC in Dungeons by 90.",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Attacks all enemies 1 time if the first attack is critical.",
+			"basedOn": "[ATK]",
+			"name": "Head Splitter",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +15%\n",
+			"multiplier": "2.5*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 30% chance of placing a [Stun] debuff for 1 turn. Also has a 50% chance of placing a 50% [Decrease ACC] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Forward Charge",
+			"maxcd": "3",
+			"mincd": "3",
+			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +15%\nLevel 5: Buff/Debuff Chance +15%\n",
+			"multiplier": "3.6*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies 2 times. Decreases the Turn Meter by 25%. Has a 30% chance of placing a 30% [Decrease SPD] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Molten Slag",
+			"maxcd": "7",
+			"mincd": "5",
+			"books": "Level 2: Damage +10%\nLevel 3: Damage +15%\nLevel 4: Cooldown -1\nLevel 5: Cooldown -1\n",
+			"multiplier": "1.9*ATK",
+			"numBooksToMax": "4"
+		}
+	]
+}

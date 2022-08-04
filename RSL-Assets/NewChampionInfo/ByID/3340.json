@@ -1,0 +1,32 @@
+{
+	"typeId": 3346,
+	"name": {
+		"key": "l10n:hero-type/name?id=3340#static",
+		"defaultValue": "Thrasher",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "OgrynTribes",
+	"role": "Attack",
+	"rarity": "Uncommon",
+	"ascended": 6,
+	"modelName": "0162_Ogre_hairy_id3340",
+	"avatarKey": "3340",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		33401,
+		33402
+	],
+	"unscaledStats": {
+		"Health": 69,
+		"Attack": 105,
+		"Defense": 76,
+		"Speed": 93,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

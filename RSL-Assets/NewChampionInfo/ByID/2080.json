@@ -1,0 +1,33 @@
+{
+	"typeId": 2086,
+	"name": {
+		"key": "l10n:hero-type/name?id=2080#static",
+		"defaultValue": "Bonekeeper",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "Orcs",
+	"role": "Attack",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0179_orc_warrior_female_red",
+	"avatarKey": "2080",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		20804,
+		20802,
+		20803
+	],
+	"unscaledStats": {
+		"Health": 82,
+		"Attack": 139,
+		"Defense": 79,
+		"Speed": 98,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 60,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

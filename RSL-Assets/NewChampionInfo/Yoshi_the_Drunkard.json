@@ -1,0 +1,62 @@
+{
+	"key": "l10n:hero-type/name?id=5820#static",
+	"name": "Yoshi the Drunkard",
+	"id": 5826,
+	"acc": "20",
+	"affinity": "Force",
+	"atk": "1299",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "103",
+	"def": "969",
+	"hp": "19650",
+	"cheal": "50",
+	"res": "40",
+	"faction": "Shadowkin",
+	"rarity": "Legendary",
+	"type": "Support",
+	"aura": "Increases Ally SPD in All Battles by 19.",
+	"totalBooks": "14",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 30% chance of placing a [Stun] debuff for 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Strong Booze",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\n",
+			"multiplier": "4.1*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 2 times at random. Has a 75% chance of placing a 50% [Decrease ACC] debuff and a [HP Burn] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Flaming Spirits",
+			"maxcd": "3",
+			"mincd": "2",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Buff/Debuff Chance +15%\nLevel 7: Cooldown -1\n",
+			"multiplier": "2.6*ATK",
+			"numBooksToMax": "6"
+		},
+		{
+			"desc": "Places a 50% [Increase ATK] buff and a 50% [Increase ACC] buff on all allies for 2 turns.\r\n\r\nAlso has a 50% chance of placing a [True Fear] debuff on all enemies for 1 turn. Has a 75% chance instead on enemies under [Increase ATK] buffs.",
+			"basedOn": "",
+			"name": "Battle Toast",
+			"maxcd": "5",
+			"mincd": "3",
+			"books": "Level 2: Buff/Debuff Chance +10%\nLevel 3: Buff/Debuff Chance +15%\nLevel 4: Cooldown -1\nLevel 5: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Fills this Champion’s Turn Meter by 4% each time an enemy receives a buff.",
+			"basedOn": "",
+			"name": "Partier [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": ""
+		}
+	]
+}

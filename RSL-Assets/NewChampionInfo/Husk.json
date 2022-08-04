@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=1210#static",
+	"name": "Husk",
+	"id": 1216,
+	"acc": "0",
+	"affinity": "Force",
+	"atk": "969",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "98",
+	"def": "936",
+	"hp": "20970",
+	"cheal": "50",
+	"res": "45",
+	"faction": "Undead Hordes",
+	"rarity": "Epic",
+	"type": "HP",
+	"aura": "Increases Ally HP in Arena Battles by 30%.",
+	"totalBooks": "13",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Has a 20% chance of placing a [Provoke] debuff for 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Burning Iron",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Damage +5%\nLevel 6: Buff/Debuff Chance +10%\n",
+			"multiplier": "2.8*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 35% chance of placing a [Stun] debuff for 1 turn. Damage inflicted is proportional to enemy MAX HP.",
+			"basedOn": "[Enemy MAX HP]",
+			"name": "Despair",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Cooldown -1\n",
+			"multiplier": "0.1*TRG_HP",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks 1 enemy. Damage increases according to this Champion's current HP.",
+			"basedOn": "[HP]",
+			"name": "Retaliate",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Cooldown -1\n",
+			"multiplier": "0.33*HP",
+			"numBooksToMax": "3"
+		}
+	]
+}

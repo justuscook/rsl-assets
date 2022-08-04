@@ -1,0 +1,39 @@
+{
+	"typeId": 1146,
+	"name": {
+		"key": "l10n:hero-type/name?id=1140#static",
+		"defaultValue": "Hurler",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "LizardMen",
+	"role": "Attack",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0222_Lizard_ranger_yellow",
+	"avatarKey": "1140",
+	"leaderSkill": {
+		"area": "Dungeon",
+		"affinity": null,
+		"kind": "Attack",
+		"absolute": false,
+		"value": 0.21
+	},
+	"skillTypeIds": [
+		11401,
+		11402,
+		11403
+	],
+	"unscaledStats": {
+		"Health": 89,
+		"Attack": 130,
+		"Defense": 56,
+		"Speed": 96,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 57,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

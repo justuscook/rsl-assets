@@ -1,0 +1,32 @@
+{
+	"typeId": 2846,
+	"name": {
+		"key": "l10n:hero-type/name?id=2840#static",
+		"defaultValue": "Oldbeard",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "OgrynTribes",
+	"role": "Defense",
+	"rarity": "Uncommon",
+	"ascended": 6,
+	"modelName": "0162_Ogre_hairy_id2840",
+	"avatarKey": "2840",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		28401,
+		28402
+	],
+	"unscaledStats": {
+		"Health": 85,
+		"Attack": 65,
+		"Defense": 100,
+		"Speed": 91,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

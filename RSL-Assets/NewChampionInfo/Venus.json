@@ -1,0 +1,62 @@
+{
+	"key": "l10n:hero-type/name?id=3500#static",
+	"name": "Venus",
+	"id": 3506,
+	"acc": "20",
+	"affinity": "Void",
+	"atk": "1090",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "112",
+	"def": "980",
+	"hp": "22635",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Sacred Order",
+	"rarity": "Legendary",
+	"type": "Support",
+	"aura": "Increases Ally HP in All Battles by 33%.",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Each hit has a 50% chance of placing a 5% [Poison] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Pining",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\n",
+			"multiplier": "2.2*ATK",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 75% chance of placing a 60% [Decrease DEF] and a 25% [Weaken] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Blind With Infatuation",
+			"maxcd": "3",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +10%\n",
+			"multiplier": "3.7*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 75% chance of placing a [HP Burn] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Burning Passion",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Cooldown -1\n",
+			"multiplier": "4*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Removes all buffs from all enemies. Has a 50% chance of granting an Extra Turn.\r\n\r\n[Only available when Cupidus is on the same team.]",
+			"basedOn": "",
+			"name": "Pure Partner",
+			"maxcd": "4",
+			"mincd": "4",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": ""
+		}
+	]
+}

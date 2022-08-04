@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=5900#static",
+	"name": "Bloodmask",
+	"id": 5906,
+	"acc": "0",
+	"affinity": "Force",
+	"atk": "694",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "93",
+	"def": "1002",
+	"hp": "19980",
+	"cheal": "50",
+	"res": "40",
+	"faction": "Shadowkin",
+	"rarity": "Rare",
+	"type": "HP",
+	"aura": "",
+	"totalBooks": "18",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 35% chance of decreasing the target’s Turn Meter by 10%.",
+			"basedOn": "[HP]",
+			"name": "Bone Crunch",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\n",
+			"multiplier": "0.19*HP",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 50% chance of placing a 15% [Decrease SPD] debuff for 2 turns.",
+			"basedOn": "[HP]",
+			"name": "Foot Stomp",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Buff/Debuff Chance +10%\nLevel 7: Buff/Debuff Chance +10%\nLevel 8: Cooldown -1\n",
+			"multiplier": "0.27*HP",
+			"numBooksToMax": "7"
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 75% chance of placing a [Stun] debuff for 1 turn.",
+			"basedOn": "[HP]",
+			"name": "Skull Fracture",
+			"maxcd": "5",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Buff/Debuff Chance +15%\nLevel 7: Cooldown -1\nLevel 8: Cooldown -1\n",
+			"multiplier": "0.28*HP",
+			"numBooksToMax": "7"
+		}
+	]
+}

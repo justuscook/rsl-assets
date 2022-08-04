@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=6800#static",
+	"name": "Visionary",
+	"id": 6806,
+	"acc": "15",
+	"affinity": "Spirit",
+	"atk": "1277",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "98",
+	"def": "1002",
+	"hp": "15360",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Dark Elves",
+	"rarity": "Epic",
+	"type": "Support",
+	"aura": "Increases Ally SPD in Dungeons by 24.",
+	"totalBooks": "10",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 30% chance of decreasing the target’s Turn Meter by 15%. This chance increases to 100% if the target is under a [Decrease C. RATE] debuff or a [Decrease C. DMG] debuff.",
+			"basedOn": "[ATK]",
+			"name": "Ectoplasm",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\n",
+			"multiplier": "3.2*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 75% chance of placing a 30% [Decrease C. RATE] debuff and a 25% [Decrease C. DMG] debuff on all enemies for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Haunt",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
+			"multiplier": "3.3*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Places a 30% [Increase C. RATE] buff and a 30% [Increase C. DMG] buff on all allies for 2 turns. Also fills the Turn Meters of all allies by 15%.",
+			"basedOn": "",
+			"name": "Dark Dealings",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "1"
+		}
+	]
+}

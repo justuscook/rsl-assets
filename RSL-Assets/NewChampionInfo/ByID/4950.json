@@ -1,0 +1,34 @@
+{
+	"typeId": 4956,
+	"name": {
+		"key": "l10n:hero-type/name?id=4950#static",
+		"defaultValue": "Gomlok Skyhide",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "Orcs",
+	"role": "Support",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0314_Orc_id4950",
+	"avatarKey": "4950",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		49501,
+		49502,
+		49503,
+		49504
+	],
+	"unscaledStats": {
+		"Health": 119,
+		"Attack": 112,
+		"Defense": 94,
+		"Speed": 104,
+		"Resistance": 30,
+		"Accuracy": 20,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

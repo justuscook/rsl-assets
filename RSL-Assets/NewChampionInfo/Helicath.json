@@ -1,20 +1,21 @@
 {
-	"name": "Helicath",
 	"key": "l10n:hero-type/name?id=7200#static",
+	"name": "Helicath",
 	"id": 7206,
-	"avatar": "7200",
-	"affinity": "Spirit",
-	"hp": "19155",
-	"atk": "859",
-	"def": "1443",
-	"spd": "102",
-	"res": "50",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Spirit",
+	"atk": "859",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "102",
+	"def": "1443",
+	"hp": "19155",
 	"cheal": "50",
+	"res": "50",
 	"faction": "Demonspawn",
-	"aura": "Increase Ally  in in all Battles by 30",
+	"rarity": "Legendary",
+	"type": "Defense",
+	"aura": "Increases Ally DEF in All Battles by 30%.",
 	"totalBooks": "11",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Pyroclastic Claw",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +10%\n",
 			"multiplier": "1.8*DEF",
 			"numBooksToMax": "4"
 		},
@@ -33,7 +34,7 @@
 			"name": "Winds of the Pit",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Shield +10%\nLevel 6: Cooldown -1\n",
 			"multiplier": "3.8*DEF",
 			"numBooksToMax": "5"
 		},
@@ -43,7 +44,7 @@
 			"name": "Devoted Servants",
 			"maxcd": "6",
 			"mincd": "4",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		},
@@ -54,8 +55,8 @@
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",
-			"multiplier": "",
-			"numBooksToMax": "0"
+			"multiplier": "0.05*B_DEF*AllyTeamAppliedEffectsTotalCountOfKind(BlockDamage_KindId)",
+			"numBooksToMax": ""
 		},
 		{
 			"desc": "Skill 6666618 description",
@@ -65,9 +66,7 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": "0"
+			"numBooksToMax": ""
 		}
-	],
-	"rarity": "Legendary",
-	"type": "Defense"
+	]
 }

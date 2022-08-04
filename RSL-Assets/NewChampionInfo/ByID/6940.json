@@ -1,0 +1,34 @@
+{
+	"typeId": 6946,
+	"name": {
+		"key": "l10n:hero-type/name?id=6940#static",
+		"defaultValue": "Andryssia",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "HighElves",
+	"role": "Defense",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0653_ElvenFemale_id6940",
+	"avatarKey": "6940",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		69401,
+		69402,
+		69403,
+		69404
+	],
+	"unscaledStats": {
+		"Health": 111,
+		"Attack": 72,
+		"Defense": 117,
+		"Speed": 102,
+		"Resistance": 30,
+		"Accuracy": 15,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

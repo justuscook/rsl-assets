@@ -1,0 +1,40 @@
+{
+	"typeId": 3536,
+	"name": {
+		"key": "l10n:hero-type/name?id=3530#static",
+		"defaultValue": "Tyrant Ixlimor",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "Demonspawn",
+	"role": "Health",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0229_Demonspawn_Support_id3530",
+	"avatarKey": "3530",
+	"leaderSkill": {
+		"area": null,
+		"affinity": null,
+		"kind": "Health",
+		"absolute": false,
+		"value": 0.25
+	},
+	"skillTypeIds": [
+		35301,
+		35305,
+		35303,
+		35304
+	],
+	"unscaledStats": {
+		"Health": 133,
+		"Attack": 70,
+		"Defense": 122,
+		"Speed": 103,
+		"Resistance": 50,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

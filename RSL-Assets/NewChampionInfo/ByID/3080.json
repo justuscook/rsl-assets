@@ -1,0 +1,32 @@
+{
+	"typeId": 3086,
+	"name": {
+		"key": "l10n:hero-type/name?id=3080#static",
+		"defaultValue": "Pit Cur",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "Demonspawn",
+	"role": "Health",
+	"rarity": "Uncommon",
+	"ascended": 6,
+	"modelName": "0234_Demonspalm_dog_id3080",
+	"avatarKey": "3080",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		30801,
+		30802
+	],
+	"unscaledStats": {
+		"Health": 95,
+		"Attack": 75,
+		"Defense": 80,
+		"Speed": 91,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

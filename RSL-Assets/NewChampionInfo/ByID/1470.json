@@ -1,0 +1,40 @@
+{
+	"typeId": 1476,
+	"name": {
+		"key": "l10n:hero-type/name?id=1470#static",
+		"defaultValue": "Hellfang",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "Demonspawn",
+	"role": "Attack",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0234_Demonspalm_dog_id1470",
+	"avatarKey": "1470",
+	"leaderSkill": {
+		"area": "Dungeon",
+		"affinity": null,
+		"kind": "Attack",
+		"absolute": false,
+		"value": 0.21
+	},
+	"skillTypeIds": [
+		14701,
+		14702,
+		14703,
+		14704
+	],
+	"unscaledStats": {
+		"Health": 87,
+		"Attack": 112,
+		"Defense": 76,
+		"Speed": 99,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 57,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

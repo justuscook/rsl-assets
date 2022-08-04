@@ -1,0 +1,39 @@
+{
+	"typeId": 2686,
+	"name": {
+		"key": "l10n:hero-type/name?id=2680#static",
+		"defaultValue": "Ripper",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "Skinwalkers",
+	"role": "Attack",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0264_Skinwalkers_Tank_id2680",
+	"avatarKey": "2680",
+	"leaderSkill": {
+		"area": null,
+		"affinity": "Force",
+		"kind": "CriticalChance",
+		"absolute": false,
+		"value": 0.23
+	},
+	"skillTypeIds": [
+		26801,
+		26802,
+		26803
+	],
+	"unscaledStats": {
+		"Health": 97,
+		"Attack": 118,
+		"Defense": 85,
+		"Speed": 96,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 60,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

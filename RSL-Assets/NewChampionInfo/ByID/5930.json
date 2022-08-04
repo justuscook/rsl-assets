@@ -1,0 +1,40 @@
+{
+	"typeId": 5936,
+	"name": {
+		"key": "l10n:hero-type/name?id=5930#static",
+		"defaultValue": "Underpriest Brogni",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "Dwarves",
+	"role": "Support",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0397_dwarf_id5930",
+	"avatarKey": "5930",
+	"leaderSkill": {
+		"area": "DoomTower",
+		"affinity": null,
+		"kind": "Resistance",
+		"absolute": true,
+		"value": 60
+	},
+	"skillTypeIds": [
+		59301,
+		59302,
+		59303,
+		59304
+	],
+	"unscaledStats": {
+		"Health": 139,
+		"Attack": 71,
+		"Defense": 115,
+		"Speed": 100,
+		"Resistance": 90,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

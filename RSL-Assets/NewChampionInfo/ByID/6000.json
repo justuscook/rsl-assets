@@ -1,0 +1,40 @@
+{
+	"typeId": 6006,
+	"name": {
+		"key": "l10n:hero-type/name?id=6000#static",
+		"defaultValue": "Ramantu Drakesblood",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "LizardMen",
+	"role": "Attack",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0432_draconid_id6000",
+	"avatarKey": "6000",
+	"leaderSkill": {
+		"area": null,
+		"affinity": null,
+		"kind": "Accuracy",
+		"absolute": true,
+		"value": 80
+	},
+	"skillTypeIds": [
+		60001,
+		60002,
+		60004,
+		60005
+	],
+	"unscaledStats": {
+		"Health": 95,
+		"Attack": 135,
+		"Defense": 95,
+		"Speed": 105,
+		"Resistance": 30,
+		"Accuracy": 20,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

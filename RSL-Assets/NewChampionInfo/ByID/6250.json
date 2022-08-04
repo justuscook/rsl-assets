@@ -1,0 +1,40 @@
+{
+	"typeId": 6256,
+	"name": {
+		"key": "l10n:hero-type/name?id=6250#static",
+		"defaultValue": "Tuhanarak",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "Barbarians",
+	"role": "Support",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0607_Barbarian_id6250",
+	"avatarKey": "6250",
+	"leaderSkill": {
+		"area": null,
+		"affinity": null,
+		"kind": "Accuracy",
+		"absolute": true,
+		"value": 70
+	},
+	"skillTypeIds": [
+		62501,
+		62502,
+		62503,
+		62504
+	],
+	"unscaledStats": {
+		"Health": 131,
+		"Attack": 78,
+		"Defense": 116,
+		"Speed": 106,
+		"Resistance": 30,
+		"Accuracy": 20,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

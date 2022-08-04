@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=2590#static",
+	"name": "Taurus",
+	"id": 2596,
+	"acc": "15",
+	"affinity": "Magic",
+	"atk": "1310",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "101",
+	"def": "859",
+	"hp": "17010",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Skinwalkers",
+	"rarity": "Epic",
+	"type": "Attack",
+	"aura": "Increases Ally ACC in Faction Crypts by 40.",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Heals by 20% of the damage inflicted if the target has a [Poison] debuff.",
+			"basedOn": "[ATK]",
+			"name": "Metabolize",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\n",
+			"multiplier": "4*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 75% chance of placing a 25% [Weaken] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Tendon Slash",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
+			"multiplier": "6.5*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "This Champion receives damage equal to 99% of their current HP. Places an [Unkillable] buff on this Champion for 2 turns. Has an 80% chance of placing four 5% [Poison] debuffs on all enemies for 2 turns.",
+			"basedOn": "",
+			"name": "Toxic Nova",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Level 2: Buff/Debuff Chance +10%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "3"
+		}
+	]
+}

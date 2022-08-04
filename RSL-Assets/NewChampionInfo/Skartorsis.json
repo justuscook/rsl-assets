@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=410#static",
+	"name": "Skartorsis",
+	"id": 416,
+	"acc": "0",
+	"affinity": "Force",
+	"atk": "859",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "109",
+	"def": "1376",
+	"hp": "20145",
+	"cheal": "50",
+	"res": "40",
+	"faction": "Undead Hordes",
+	"rarity": "Legendary",
+	"type": "Support",
+	"aura": "Increases Ally SPD in Dungeons by 33.",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks all enemies. Has a 30% chance of stealing 1 random buff from each enemy.",
+			"basedOn": "[ATK]",
+			"name": "Hand of Doom",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Damage +10%\nLevel 6: Buff/Debuff Chance +10%\n",
+			"multiplier": "4*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Places a 50% [Increase ATK] buff and a 30% [Increase C. RATE] buff on all allies for 2 turns.",
+			"basedOn": "",
+			"name": "Command",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "1"
+		},
+		{
+			"desc": "Removes all debuffs from all allies, then heals them and fills their Turn Meters. The amount by which each ally is healed increases according to the number of debuffs removed from them. The amount by which each ally's Turn Meter is filled increases according to the number of debuffs removed from them.",
+			"basedOn": "",
+			"name": "Rebirth",
+			"maxcd": "6",
+			"mincd": "4",
+			"books": "Level 2: Heal +5%\nLevel 3: Heal +5%\nLevel 4: Heal +5%\nLevel 5: Cooldown -1\nLevel 6: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "5"
+		}
+	]
+}

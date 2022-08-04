@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=1480#static",
+	"name": "Galek",
+	"id": 1486,
+	"acc": "0",
+	"affinity": "Magic",
+	"atk": "1200",
+	"cdamage": "57",
+	"crate": "15",
+	"spd": "103",
+	"def": "914",
+	"hp": "13710",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Orcs",
+	"rarity": "Rare",
+	"type": "Attack",
+	"aura": "Increases Ally HP in All Battles by 15%.",
+	"totalBooks": "13",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times.",
+			"basedOn": "[ATK ][ ]",
+			"name": "Cross Slash",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\n",
+			"multiplier": "1.5*ATK + 50",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Has an extra 15% chance of inflicting a critical hit. Places a 30% [Increase SPD] buff on this Champion for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Hellraiser",
+			"maxcd": "3",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\nLevel 6: Damage +5%\n",
+			"multiplier": "4.5*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks 4 times at random. Has a 30% chance of placing a 30% [Decrease DEF] debuff for 2 turns. Has a 30% chance of placing a 60% [Decrease DEF] debuff for 2 turns if the target has more than 2 debuffs.",
+			"basedOn": "[ATK]",
+			"name": "Cursed Blade",
+			"maxcd": "5",
+			"mincd": "5",
+			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +5%\n",
+			"multiplier": "1.6*ATK",
+			"numBooksToMax": "4"
+		}
+	]
+}

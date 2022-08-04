@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=6070#static",
+	"name": "Vagabond",
+	"id": 6076,
+	"acc": "10",
+	"affinity": "Spirit",
+	"atk": "1200",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "94",
+	"def": "991",
+	"hp": "12555",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Shadowkin",
+	"rarity": "Rare",
+	"type": "Support",
+	"aura": "Increases Ally ACC in Arena Battles by 30.",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 20% chance of placing a [Sleep] debuff for 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Dreamer's Curse",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Buff/Debuff Chance +10%\nLevel 7: Damage +10%\n",
+			"multiplier": "3.8*ATK",
+			"numBooksToMax": "6"
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 50% chance of placing a [Block Buffs] debuff for 1 turn.\r\n\r\nAlso fills this Champion’s Turn Meter by 15% and fills the Turn Meter of the ally with the highest Turn Meter by 15%.",
+			"basedOn": "[ATK]",
+			"name": "Ominous Visit",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
+			"multiplier": "6*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Fills the Turn Meters of all allies by 15% and places a 25% [Increase ATK] buff on all allies for 2 turns.",
+			"basedOn": "",
+			"name": "Join the Troupe",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "1"
+		}
+	]
+}

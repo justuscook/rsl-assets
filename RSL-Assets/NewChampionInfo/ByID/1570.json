@@ -1,0 +1,40 @@
+{
+	"typeId": 1576,
+	"name": {
+		"key": "l10n:hero-type/name?id=1570#static",
+		"defaultValue": "Skullcrown",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "KnightsRevenant",
+	"role": "Attack",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0046_Knight_id1570",
+	"avatarKey": "1570",
+	"leaderSkill": {
+		"area": "Arena",
+		"affinity": null,
+		"kind": "Speed",
+		"absolute": false,
+		"value": 0.23
+	},
+	"skillTypeIds": [
+		15701,
+		15702,
+		15703,
+		15704
+	],
+	"unscaledStats": {
+		"Health": 88,
+		"Attack": 137,
+		"Defense": 75,
+		"Speed": 96,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 60,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

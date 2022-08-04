@@ -1,0 +1,40 @@
+{
+	"typeId": 6886,
+	"name": {
+		"key": "l10n:hero-type/name?id=6880#static",
+		"defaultValue": "Boragar the Elder",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "Dwarves",
+	"role": "Health",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0682_Dwarf_id6880",
+	"avatarKey": "6880",
+	"leaderSkill": {
+		"area": null,
+		"affinity": null,
+		"kind": "Resistance",
+		"absolute": true,
+		"value": 50
+	},
+	"skillTypeIds": [
+		68801,
+		68802,
+		68803,
+		68804
+	],
+	"unscaledStats": {
+		"Health": 128,
+		"Attack": 84,
+		"Defense": 113,
+		"Speed": 97,
+		"Resistance": 50,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

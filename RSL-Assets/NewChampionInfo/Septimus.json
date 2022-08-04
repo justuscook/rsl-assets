@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=440#static",
+	"name": "Septimus",
+	"id": 446,
+	"acc": "0",
+	"affinity": "Spirit",
+	"atk": "1674",
+	"cdamage": "63",
+	"crate": "15",
+	"spd": "102",
+	"def": "991",
+	"hp": "13710",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Banner Lords",
+	"rarity": "Legendary",
+	"type": "Attack",
+	"aura": "Increases Ally ATK in All Battles by 23%.",
+	"totalBooks": "8",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Grants an Extra Turn and resets the cooldown on this Champion's Holy Sword Skill if the target is killed.",
+			"basedOn": "[ATK]",
+			"name": "Behead",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\n",
+			"multiplier": "3.6*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy. Will ignore [Shield] and [Block Damage] buffs. Damage increases according to enemy MAX HP.",
+			"basedOn": "[ATK][Enemy MAX HP]",
+			"name": "Holy Sword",
+			"maxcd": "4",
+			"mincd": "4",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\n",
+			"multiplier": "2.5*ATK+0.1*TRG_HP",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Each attack has a 30% chance of increasing the duration of all debuffs on the target by 1 turn. Damage inflicted by each attack increases by 30% if the enemy's current HP is over 50%.",
+			"basedOn": "",
+			"name": "Giant Killer [Passive]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": ""
+		}
+	]
+}

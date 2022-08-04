@@ -1,19 +1,20 @@
 {
-	"name": "Medicus",
 	"key": "l10n:hero-type/name?id=6970#static",
+	"name": "Medicus",
 	"id": 6976,
-	"avatar": "6970",
-	"affinity": "Spirit",
-	"hp": "16515",
-	"atk": "1046",
-	"def": "881",
-	"spd": "106",
-	"res": "30",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Spirit",
+	"atk": "1046",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "106",
+	"def": "881",
+	"hp": "16515",
 	"cheal": "50",
+	"res": "30",
 	"faction": "High Elves",
+	"rarity": "Rare",
+	"type": "Support",
 	"aura": "",
 	"totalBooks": "12",
 	"skills": [
@@ -23,7 +24,7 @@
 			"name": "Dual Scalpel",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\n",
 			"multiplier": "1.7*ATK",
 			"numBooksToMax": "4"
 		},
@@ -33,7 +34,7 @@
 			"name": "Restraints",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Cooldown -1\n",
 			"multiplier": "3.1*ATK",
 			"numBooksToMax": "5"
 		},
@@ -43,11 +44,9 @@
 			"name": "Stimulant Elixir",
 			"maxcd": "6",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\nLevel 4: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "3"
 		}
-	],
-	"rarity": "Rare",
-	"type": "Support"
+	]
 }

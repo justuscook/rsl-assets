@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=5680#static",
+	"name": "Dhukk the Pierced",
+	"id": 5686,
+	"acc": "0",
+	"affinity": "Magic",
+	"atk": "870",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "97",
+	"def": "1376",
+	"hp": "15855",
+	"cheal": "50",
+	"res": "45",
+	"faction": "Orcs",
+	"rarity": "Epic",
+	"type": "Defense",
+	"aura": "Increases Ally DEF in Faction Crypts by 31%.",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Each hit has a 30% chance of placing a 50% [Decrease ACC] debuff for 2 turns.",
+			"basedOn": "[DEF]",
+			"name": "Mad Chopper",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\n",
+			"multiplier": "1.9*DEF",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 75% chance of placing a 50% [Decrease ATK] debuff for 2 turns. Also has a 75% chance of placing a 60% [Decrease DEF] debuff for 2 turns on each critical hit.",
+			"basedOn": "[DEF]",
+			"name": "Lunatic Outburst",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Buff/Debuff Chance +10%\nLevel 7: Cooldown -1\n",
+			"multiplier": "3.5*DEF",
+			"numBooksToMax": "6"
+		},
+		{
+			"desc": "Places a [Provoke] debuff for 1 turn on the target enemy. Also has a 75% chance of placing a [Provoke] debuff for 1 turn on 2 random enemies.\r\n\r\nPlaces a 30% [Reflect Damage] buff on this Champion for 2 turns and an [Unkillable] buff on this Champion for 1 turn.",
+			"basedOn": "",
+			"name": "Shrieking Display",
+			"maxcd": "6",
+			"mincd": "4",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
+		}
+	]
+}

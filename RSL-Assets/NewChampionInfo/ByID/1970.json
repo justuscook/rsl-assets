@@ -1,0 +1,39 @@
+{
+	"typeId": 1976,
+	"name": {
+		"key": "l10n:hero-type/name?id=1970#static",
+		"defaultValue": "Hexweaver",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "DarkElves",
+	"role": "Support",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0082_Sybil",
+	"avatarKey": "1970",
+	"leaderSkill": {
+		"area": "Fractions",
+		"affinity": null,
+		"kind": "Speed",
+		"absolute": false,
+		"value": 0.13
+	},
+	"skillTypeIds": [
+		19701,
+		19702,
+		19704
+	],
+	"unscaledStats": {
+		"Health": 100,
+		"Attack": 83,
+		"Defense": 92,
+		"Speed": 101,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

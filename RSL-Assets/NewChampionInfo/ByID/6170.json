@@ -1,0 +1,33 @@
+{
+	"typeId": 6176,
+	"name": {
+		"key": "l10n:hero-type/name?id=6170#static",
+		"defaultValue": "Hellborn Sprite",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "Demonspawn",
+	"role": "Support",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0511_Demon_id6170",
+	"avatarKey": "6170",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		61701,
+		61702,
+		61704
+	],
+	"unscaledStats": {
+		"Health": 93,
+		"Attack": 104,
+		"Defense": 78,
+		"Speed": 94,
+		"Resistance": 30,
+		"Accuracy": 10,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

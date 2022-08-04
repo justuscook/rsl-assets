@@ -1,0 +1,39 @@
+{
+	"typeId": 6416,
+	"name": {
+		"key": "l10n:hero-type/name?id=6410#static",
+		"defaultValue": "Hellfreak",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "Demonspawn",
+	"role": "Attack",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0718_DemonSpawn_id6410",
+	"avatarKey": "6410",
+	"leaderSkill": {
+		"area": null,
+		"affinity": null,
+		"kind": "Speed",
+		"absolute": false,
+		"value": 0.1
+	},
+	"skillTypeIds": [
+		64101,
+		64102,
+		64103
+	],
+	"unscaledStats": {
+		"Health": 92,
+		"Attack": 124,
+		"Defense": 59,
+		"Speed": 107,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

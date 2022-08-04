@@ -1,0 +1,39 @@
+{
+	"typeId": 886,
+	"name": {
+		"key": "l10n:hero-type/name?id=880#static",
+		"defaultValue": "Muckstalker",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "LizardMen",
+	"role": "Health",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "163_monster_reptile",
+	"avatarKey": "880",
+	"leaderSkill": {
+		"area": "Fractions",
+		"affinity": null,
+		"kind": "Health",
+		"absolute": false,
+		"value": 0.22
+	},
+	"skillTypeIds": [
+		8801,
+		8802,
+		8803
+	],
+	"unscaledStats": {
+		"Health": 124,
+		"Attack": 82,
+		"Defense": 69,
+		"Speed": 101,
+		"Resistance": 40,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

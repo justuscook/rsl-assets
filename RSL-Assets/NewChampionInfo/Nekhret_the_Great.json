@@ -1,0 +1,72 @@
+{
+	"key": "l10n:hero-type/name?id=4800#static",
+	"name": "Nekhret the Great",
+	"id": 4806,
+	"acc": "0",
+	"affinity": "Void",
+	"atk": "793",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "97",
+	"def": "1354",
+	"hp": "21480",
+	"cheal": "50",
+	"res": "50",
+	"faction": "Undead Hordes",
+	"rarity": "Legendary",
+	"type": "Defense",
+	"aura": "Increases Ally RES in All Battles by 60.",
+	"totalBooks": "6",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 3 times. Each hit has a 20% chance of placing a 50% [Decrease ATK] debuff for 1 turn. This effect cannot be resisted.",
+			"basedOn": "[DEF]",
+			"name": "Tomb Glaive",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\n",
+			"multiplier": "1.3*DEF",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Teams up with allies to attack 1 enemy. All allies under [Ally Protection] buffs placed by this Champion will join the attack. Allies joining the attack will use their default skills.\r\n\r\nGrants an Extra Turn if no enemies are killed during this attack.",
+			"basedOn": "",
+			"name": "Legion of the Damned",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Level 2: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "1"
+		},
+		{
+			"desc": "Places a [Block Debuffs] buff, a 50% [Ally Protection] buff, and a 25% [Strengthen] buff on an ally for 3 turns.\r\n\r\nThe [Ally Protection] buff cannot be removed.",
+			"basedOn": "",
+			"name": "Disturbing Infusion",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "1"
+		},
+		{
+			"desc": "Whenever an ally is attacked while under an [Ally Protection] buff placed by this Champion, places a [Shield] buff on the ally equal to 30% of this Champion's MAX HP for 2 turns. Occurs only if the ally does not already have a [Shield] buff placed by this Champion.\r\n\r\nAlso decreases the cooldown of this Champion's Legion of the Damned skill by 2 turns if the [Shield] buff is placed.",
+			"basedOn": "",
+			"name": "Unsleeping Aegis [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": ""
+		},
+		{
+			"desc": "Places a [Block Debuffs] buff and a 25% [Strengthen] buff for 3 turns on the ally with the lowest MAX HP at the start of each Round. Also places a 50% [Ally Protection] buff on them for 6 turns. \r\n\r\nThe [Ally Protection] buff cannot be removed.",
+			"basedOn": "",
+			"name": "Arise My Minions [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": ""
+		}
+	]
+}

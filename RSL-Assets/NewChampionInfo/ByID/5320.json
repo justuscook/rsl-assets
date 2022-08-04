@@ -1,0 +1,40 @@
+{
+	"typeId": 5326,
+	"name": {
+		"key": "l10n:hero-type/name?id=5320#static",
+		"defaultValue": "Vergumkaar",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "LizardMen",
+	"role": "Support",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0579_dragon_id5320",
+	"avatarKey": "5320",
+	"leaderSkill": {
+		"area": null,
+		"affinity": null,
+		"kind": "Resistance",
+		"absolute": true,
+		"value": 55
+	},
+	"skillTypeIds": [
+		53201,
+		53202,
+		53203,
+		53204
+	],
+	"unscaledStats": {
+		"Health": 134,
+		"Attack": 83,
+		"Defense": 108,
+		"Speed": 99,
+		"Resistance": 50,
+		"Accuracy": 10,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

@@ -1,0 +1,39 @@
+{
+	"typeId": 3166,
+	"name": {
+		"key": "l10n:hero-type/name?id=3160#static",
+		"defaultValue": "Vanguard",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "BannerLords",
+	"role": "Defense",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0406_Vanguard_3160",
+	"avatarKey": "3160",
+	"leaderSkill": {
+		"area": null,
+		"affinity": null,
+		"kind": "Resistance",
+		"absolute": true,
+		"value": 30
+	},
+	"skillTypeIds": [
+		31601,
+		31602,
+		31604
+	],
+	"unscaledStats": {
+		"Health": 89,
+		"Attack": 87,
+		"Defense": 99,
+		"Speed": 96,
+		"Resistance": 40,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

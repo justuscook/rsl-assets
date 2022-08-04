@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=3090#static",
+	"name": "Treefeller",
+	"id": 3096,
+	"acc": "0",
+	"affinity": "Force",
+	"atk": "1277",
+	"cdamage": "57",
+	"crate": "15",
+	"spd": "95",
+	"def": "870",
+	"hp": "13215",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Orcs",
+	"rarity": "Rare",
+	"type": "Attack",
+	"aura": "",
+	"totalBooks": "14",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy.\r\n\r\nHas a 35% chance of placing a 25% [Decrease ACC] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Pruning Limbs",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +10%\n",
+			"multiplier": "3.6*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy 2 times.\r\n\r\nEach hit has a 50% chance of placing a 2.5% [Poison] debuff for 2 turns. Each hit also has a 50% chance to place a 15% [Decrease SPD] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Chop Down",
+			"maxcd": "3",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Buff/Debuff Chance +10%\n",
+			"multiplier": "2.8*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks 2 times at random.\r\n\r\nEach hit has a 70% chance of placing a [Bomb] debuff that detonates after 3 turns.",
+			"basedOn": "[ATK]",
+			"name": "Blasting Powder",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
+			"multiplier": "3.2*ATK",
+			"numBooksToMax": "5"
+		}
+	]
+}

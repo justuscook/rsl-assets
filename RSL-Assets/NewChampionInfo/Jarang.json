@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=1340#static",
+	"name": "Jarang",
+	"id": 1346,
+	"acc": "15",
+	"affinity": "Magic",
+	"atk": "1608",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "100",
+	"def": "837",
+	"hp": "12885",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Lizardmen",
+	"rarity": "Epic",
+	"type": "Attack",
+	"aura": "Increases Ally SPD in Dungeons by 23.",
+	"totalBooks": "13",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Will ignore 25% of the target's DEF.",
+			"basedOn": "[ATK]",
+			"name": "Armor Piercer",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\n",
+			"multiplier": "2.8*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy 2 times. Has a 50% chance of placing a [Stun] debuff for 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Stunning Toss",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
+			"multiplier": "2.8*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks 3 times at random. Has a 50% chance of placing a 50% [Decrease ATK] debuff and a 60% [Decrease DEF] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Talons",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Buff/Debuff Chance +15%\nLevel 5: Cooldown -1\n",
+			"multiplier": "2.1*ATK",
+			"numBooksToMax": "4"
+		}
+	]
+}

@@ -1,0 +1,39 @@
+{
+	"typeId": 3136,
+	"name": {
+		"key": "l10n:hero-type/name?id=3130#static",
+		"defaultValue": "Steel Bowyer",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "DarkElves",
+	"role": "Attack",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0081_DarkElf_3130",
+	"avatarKey": "3130",
+	"leaderSkill": {
+		"area": "Fractions",
+		"affinity": null,
+		"kind": "Attack",
+		"absolute": false,
+		"value": 0.17
+	},
+	"skillTypeIds": [
+		31301,
+		31302,
+		31304
+	],
+	"unscaledStats": {
+		"Health": 77,
+		"Attack": 124,
+		"Defense": 74,
+		"Speed": 100,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 57,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

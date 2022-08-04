@@ -1,0 +1,41 @@
+{
+	"typeId": 4636,
+	"name": {
+		"key": "l10n:hero-type/name?id=4630#static",
+		"defaultValue": "Tormin the Cold",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "Dwarves",
+	"role": "Defense",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0474_Dwarf",
+	"avatarKey": "4630",
+	"leaderSkill": {
+		"area": null,
+		"affinity": null,
+		"kind": "Defence",
+		"absolute": false,
+		"value": 0.33
+	},
+	"skillTypeIds": [
+		46301,
+		46302,
+		46303,
+		46304,
+		46305
+	],
+	"unscaledStats": {
+		"Health": 122,
+		"Attack": 74,
+		"Defense": 129,
+		"Speed": 94,
+		"Resistance": 70,
+		"Accuracy": 20,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

@@ -1,0 +1,40 @@
+{
+	"typeId": 6266,
+	"name": {
+		"key": "l10n:hero-type/name?id=6260#static",
+		"defaultValue": "Ba Satha",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "LizardMen",
+	"role": "Health",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0705_Lizardmen_6260",
+	"avatarKey": "6260",
+	"leaderSkill": {
+		"area": null,
+		"affinity": null,
+		"kind": "Health",
+		"absolute": false,
+		"value": 0.31
+	},
+	"skillTypeIds": [
+		62601,
+		62602,
+		62603,
+		62604
+	],
+	"unscaledStats": {
+		"Health": 123,
+		"Attack": 76,
+		"Defense": 126,
+		"Speed": 101,
+		"Resistance": 50,
+		"Accuracy": 10,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

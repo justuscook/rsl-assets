@@ -1,0 +1,39 @@
+{
+	"typeId": 256,
+	"name": {
+		"key": "l10n:hero-type/name?id=250#static",
+		"defaultValue": "Arcanist",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "KnightsRevenant",
+	"role": "Support",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0019_Mage",
+	"avatarKey": "250",
+	"leaderSkill": {
+		"area": "Arena",
+		"affinity": null,
+		"kind": "Defence",
+		"absolute": false,
+		"value": 0.25
+	},
+	"skillTypeIds": [
+		2501,
+		2502,
+		2504
+	],
+	"unscaledStats": {
+		"Health": 108,
+		"Attack": 90,
+		"Defense": 77,
+		"Speed": 98,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

@@ -1,0 +1,39 @@
+{
+	"typeId": 3106,
+	"name": {
+		"key": "l10n:hero-type/name?id=3100#static",
+		"defaultValue": "Fortress Goon",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "OgrynTribes",
+	"role": "Defense",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "171_Ogre_armored_id3100",
+	"avatarKey": "3100",
+	"leaderSkill": {
+		"area": "Dungeon",
+		"affinity": null,
+		"kind": "Defence",
+		"absolute": false,
+		"value": 0.23
+	},
+	"skillTypeIds": [
+		31001,
+		31002,
+		31003
+	],
+	"unscaledStats": {
+		"Health": 94,
+		"Attack": 78,
+		"Defense": 103,
+		"Speed": 90,
+		"Resistance": 40,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

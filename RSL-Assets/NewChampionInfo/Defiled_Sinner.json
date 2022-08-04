@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=3650#static",
+	"name": "Defiled Sinner",
+	"id": 3656,
+	"acc": "0",
+	"affinity": "Force",
+	"atk": "1222",
+	"cdamage": "60",
+	"crate": "15",
+	"spd": "94",
+	"def": "903",
+	"hp": "17670",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Undead Hordes",
+	"rarity": "Epic",
+	"type": "Attack",
+	"aura": "",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 50% chance of placing a 60% [Decrease DEF] debuff for 2 turns before attacking.\r\n\r\nIf 5 or more enemies are alive, does the following attack instead:\r\nAttacks all enemies. Places a 25% [Increase ATK] buff on this Champion for 2 turns before attacking.",
+			"basedOn": "[ATK]",
+			"name": "Murderer's Craft",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\n",
+			"multiplier": "3.8*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy. Then attacks all enemies inflicting damage equal to 15% of their MAX HP if the first hit kills an enemy. This second hit cannot be critical.",
+			"basedOn": "[ATK]",
+			"name": "Ripe for Slaughter",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Damage +10%\nLevel 5: Cooldown -1\n",
+			"multiplier": "6.3*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Damage increases by 10% for each enemy alive. Stacks up to 100%.",
+			"basedOn": "[ATK]",
+			"name": "Corrosive Smog",
+			"maxcd": "6",
+			"mincd": "5",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Cooldown -1\n",
+			"multiplier": "2.9*ATK",
+			"numBooksToMax": "4"
+		}
+	]
+}

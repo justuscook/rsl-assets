@@ -1,0 +1,62 @@
+{
+	"key": "l10n:hero-type/name?id=5010#static",
+	"name": "Scyl of the Drakes",
+	"id": 5016,
+	"acc": "0",
+	"affinity": "Magic",
+	"atk": "859",
+	"cdamage": "63",
+	"crate": "15",
+	"spd": "95",
+	"def": "1387",
+	"hp": "19980",
+	"cheal": "50",
+	"res": "40",
+	"faction": "Barbarians",
+	"rarity": "Legendary",
+	"type": "Defense",
+	"aura": "",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 20% chance of placing a 30% [Decrease SPD] debuff for 2 turns. Also has a 30% chance of decreasing the target's Turn Meter by 15%.",
+			"basedOn": "[DEF]",
+			"name": "Drake's Swiftness",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +10%\n",
+			"multiplier": "3.5*DEF",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies 2 times. Each hit has a 20% chance of placing a [Stun] debuff for 1 turn.",
+			"basedOn": "[DEF]",
+			"name": "Wingbeat Flurry",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Cooldown -1\n",
+			"multiplier": "1.55*DEF",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Revives an ally with 50% HP and places a 50% [Ally Protection] buff on them for 2 turns.",
+			"basedOn": "",
+			"name": "Phoenix Rite",
+			"maxcd": "6",
+			"mincd": "4",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
+		},
+		{
+			"desc": "Heals all allies by 10% of their MAX HP at the start of each turn. Also places a 30% [Increase SPD] buff on a random ally for 2 turns.",
+			"basedOn": "",
+			"name": "Boundless Life [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": ""
+		}
+	]
+}

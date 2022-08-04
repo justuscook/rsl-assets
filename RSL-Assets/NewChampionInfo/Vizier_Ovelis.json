@@ -1,0 +1,62 @@
+{
+	"key": "l10n:hero-type/name?id=3980#static",
+	"name": "Vizier Ovelis",
+	"id": 3986,
+	"acc": "0",
+	"affinity": "Force",
+	"atk": "1476",
+	"cdamage": "63",
+	"crate": "15",
+	"spd": "101",
+	"def": "1013",
+	"hp": "16350",
+	"cheal": "50",
+	"res": "40",
+	"faction": "Dark Elves",
+	"rarity": "Legendary",
+	"type": "Attack",
+	"aura": "Increases Ally ATK in Dungeons by 34%.",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 3 times.\r\n\r\nEach hit has a 35% chance of increasing the duration of all debuffs by 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Accursed Blades",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +10%\n",
+			"multiplier": "1.3*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy 2 times.\r\n\r\nEach hit has a 50% chance of placing a [Block Buffs] debuff, a 50% [Decrease ATK] debuff, and a 100% [Heal Reduction] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Master of Misery",
+			"maxcd": "4",
+			"mincd": "4",
+			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Buff/Debuff Chance +15%\n",
+			"multiplier": "2.7*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks 1 enemy.\r\n\r\nApplies a [Debuff Spread] effect, taking 2 random debuffs from the target and placing them on all enemies.\r\n\r\nPlaces a [Perfect Veil] buff on this Champion for 3 turns if the target is under 2 or more debuffs.",
+			"basedOn": "[ATK]",
+			"name": "Vizier of Poisons",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Cooldown -1\n",
+			"multiplier": "6.6*ATK",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "Places a [Perfect Veil] buff on this Champion for 2 turns at the start of each Round.",
+			"basedOn": "",
+			"name": "Unseen Assassin [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": ""
+		}
+	]
+}

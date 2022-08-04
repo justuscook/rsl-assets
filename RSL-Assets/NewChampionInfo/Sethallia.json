@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=2390#static",
+	"name": "Sethallia",
+	"id": 2396,
+	"acc": "0",
+	"affinity": "Magic",
+	"atk": "1024",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "108",
+	"def": "1354",
+	"hp": "18000",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Banner Lords",
+	"rarity": "Legendary",
+	"type": "Support",
+	"aura": "Increases Magic Ally RES in All Battles by 50.",
+	"totalBooks": "10",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 50% chance of placing a [HP Burn] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Put to Flame",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +10%\n",
+			"multiplier": "5.2*ATK",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "Removes all debuffs from a target ally, then places a [Block Debuffs] buff for 2 turns and heals that ally by 75% of their MAX HP.\r\n\r\nHeals all other allies by 20% of their MAX HP and fills their Turn Meters by 15% if the target is fully healed by this Skill.",
+			"basedOn": "",
+			"name": "Lordly Embrace",
+			"maxcd": "3",
+			"mincd": "2",
+			"books": "Level 2: Heal +5%\nLevel 3: Heal +5%\nLevel 4: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "Has a 75% chance of removing all buffs from all enemies, then decreases the Turn Meters of all enemies by 10% and fills the Turn Meters of all allies by 10%. \r\n\r\nDecreases the Turn Meters of all enemies by 20% and fills the Turn Meters of all allies by 20% if 5 or more buffs were removed.",
+			"basedOn": "",
+			"name": "Aggress",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "4"
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=4010#static",
+	"name": "High Khatun",
+	"id": 4016,
+	"acc": "0",
+	"affinity": "Spirit",
+	"atk": "1024",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "104",
+	"def": "1189",
+	"hp": "16350",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Barbarians",
+	"rarity": "Epic",
+	"type": "Support",
+	"aura": "Increases Ally SPD in All Battles by 19.",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 25% chance of placing a 30% [Decrease SPD] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Imperial Grace",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Buff/Debuff Chance +10%\n",
+			"multiplier": "3.7*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Fills the Turn Meters of all allies by 15% and places a 30% [Increase SPD] buff on all allies for 2 turns.",
+			"basedOn": "",
+			"name": "Rally the Horde",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "1"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 50% chance of decreasing the Turn Meter by 15%.",
+			"basedOn": "[ATK]",
+			"name": "Shamanic Lightning",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
+			"multiplier": "3.5*ATK",
+			"numBooksToMax": "5"
+		}
+	]
+}

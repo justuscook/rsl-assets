@@ -1,0 +1,39 @@
+{
+	"typeId": 3246,
+	"name": {
+		"key": "l10n:hero-type/name?id=3240#static",
+		"defaultValue": "Jizoh",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "LizardMen",
+	"role": "Defense",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0276_Lizard",
+	"avatarKey": "3240",
+	"leaderSkill": {
+		"area": null,
+		"affinity": null,
+		"kind": "Attack",
+		"absolute": false,
+		"value": 0.18
+	},
+	"skillTypeIds": [
+		32401,
+		32404,
+		32403
+	],
+	"unscaledStats": {
+		"Health": 100,
+		"Attack": 74,
+		"Defense": 126,
+		"Speed": 94,
+		"Resistance": 45,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

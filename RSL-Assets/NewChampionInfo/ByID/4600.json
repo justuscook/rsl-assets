@@ -1,0 +1,34 @@
+{
+	"typeId": 4606,
+	"name": {
+		"key": "l10n:hero-type/name?id=4600#static",
+		"defaultValue": "Ultimate Galek",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "Orcs",
+	"role": "Attack",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0471_Orc_id4600",
+	"avatarKey": "4600",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		46001,
+		46005,
+		46003,
+		46004
+	],
+	"unscaledStats": {
+		"Health": 92,
+		"Attack": 121,
+		"Defense": 87,
+		"Speed": 98,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 60,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

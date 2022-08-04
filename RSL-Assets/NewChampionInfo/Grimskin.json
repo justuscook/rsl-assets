@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=2130#static",
+	"name": "Grimskin",
+	"id": 2136,
+	"acc": "0",
+	"affinity": "Magic",
+	"atk": "793",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "99",
+	"def": "1421",
+	"hp": "16350",
+	"cheal": "50",
+	"res": "45",
+	"faction": "Ogryn Tribes",
+	"rarity": "Epic",
+	"type": "Defense",
+	"aura": "",
+	"totalBooks": "14",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 40% chance of placing a 30% [Decrease SPD] debuff for 2 turns.",
+			"basedOn": "[DEF]",
+			"name": "Tarry Fist",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Damage +10%\nLevel 6: Buff/Debuff Chance +5%\n",
+			"multiplier": "3.4*DEF",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks 1 enemy 2 times. Each hit has a 50% chance of placing a [Provoke] debuff for 1 turn. Has a 40% chance of placing a [Provoke] debuff on all enemies for 1 turn if the first [Provoke] debuff is placed.",
+			"basedOn": "[DEF]",
+			"name": "Frustrating Muck",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Cooldown -1\n",
+			"multiplier": "2.8*DEF",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks all enemies. Has an 80% chance of removing 1 random buff from each target.",
+			"basedOn": "[DEF]",
+			"name": "Ichor Fling",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +20%\nLevel 5: Cooldown -1\n",
+			"multiplier": "3.9*DEF",
+			"numBooksToMax": "4"
+		}
+	]
+}

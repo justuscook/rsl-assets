@@ -1,0 +1,33 @@
+{
+	"typeId": 6616,
+	"name": {
+		"key": "l10n:hero-type/name?id=6610#static",
+		"defaultValue": "Castigator",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "SacredOrder",
+	"role": "Health",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0637_KnightOrder_id6610",
+	"avatarKey": "6610",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		66101,
+		66102,
+		66103
+	],
+	"unscaledStats": {
+		"Health": 115,
+		"Attack": 78,
+		"Defense": 82,
+		"Speed": 95,
+		"Resistance": 40,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

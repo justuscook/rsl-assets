@@ -1,0 +1,62 @@
+{
+	"key": "l10n:hero-type/name?id=4600#static",
+	"name": "Ultimate Galek",
+	"id": 4606,
+	"acc": "0",
+	"affinity": "Magic",
+	"atk": "1332",
+	"cdamage": "60",
+	"crate": "15",
+	"spd": "98",
+	"def": "958",
+	"hp": "15195",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Orcs",
+	"rarity": "Epic",
+	"type": "Attack",
+	"aura": "",
+	"totalBooks": "13",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 50% chance of placing a [HP Burn] debuff on the target for 2 turns if this Champion is under an [Increase ATK] buff.\r\n\r\nFills this Champion's Turn Meter by 10% if this attack is critical. Fills this Champion's Turn Meter by 5% if this attack is not critical.",
+			"basedOn": "[ATK]",
+			"name": "Fury Slash",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\n",
+			"multiplier": "3.9*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 50% chance of placing a [HP Burn] debuff on the target for 2 turns if this Champion is under an [Increase ATK] buff. Decreases the target's Turn Meter by 25% and places a 50% [Increase ATK] buff on this Champion for 2 turns if this attack is critical.\r\nDecreases the target's Turn Meter by 10% if this attack is not critical.",
+			"basedOn": "[ATK]",
+			"name": "Crushing Hopes",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Damage +10%\nLevel 5: Cooldown -1\n",
+			"multiplier": "5.95*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies 2 times. Each hit has a 50% chance of placing a [HP Burn] debuff for 2 turns if this Champion is under an [Increase ATK] buff. Each hit also has a 75% chance of decreasing the Turn Meter by 20% if the target is under a [HP Burn] debuff.",
+			"basedOn": "[ATK]",
+			"name": "Burning Rage",
+			"maxcd": "6",
+			"mincd": "4",
+			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Cooldown -1\nLevel 5: Cooldown -1\n",
+			"multiplier": "2*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Fully heals this Champion and instantly removes any [Stun] debuffs whenever an enemy places a [Stun] debuff on this Champion.",
+			"basedOn": "",
+			"name": "Brush It Off [Passive]",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "1"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"typeId": 1546,
+	"name": {
+		"key": "l10n:hero-type/name?id=1540#static",
+		"defaultValue": "Pit Fighter",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "Barbarians",
+	"role": "Health",
+	"rarity": "Uncommon",
+	"ascended": 6,
+	"modelName": "0186_Pit_Fighter",
+	"avatarKey": "1540",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		15401,
+		15402
+	],
+	"unscaledStats": {
+		"Health": 98,
+		"Attack": 81,
+		"Defense": 71,
+		"Speed": 93,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

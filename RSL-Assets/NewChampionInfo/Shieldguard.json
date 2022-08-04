@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=1850#static",
+	"name": "Shieldguard",
+	"id": 1856,
+	"acc": "0",
+	"affinity": "Spirit",
+	"atk": "705",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "89",
+	"def": "1024",
+	"hp": "15360",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Barbarians",
+	"rarity": "Uncommon",
+	"type": "Defense",
+	"aura": "",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 30% chance of placing a 15% [Decrease SPD] debuff for 2 turns. Damage inflicted is proportional to DEF.",
+			"basedOn": "[DEF]",
+			"name": "Uppercut",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Damage +10%\n",
+			"multiplier": "4*DEF",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks all enemies. Fills this Champion's Turn Meter by 20% on each critical hit. Damage inflicted is proportional to DEF.",
+			"basedOn": "[DEF]",
+			"name": "Battle Stance",
+			"maxcd": "4",
+			"mincd": "2",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\nLevel 6: Cooldown -1\nLevel 7: Cooldown -1\n",
+			"multiplier": "3.4*DEF",
+			"numBooksToMax": "6"
+		},
+		{
+			"desc": "Removes one debuff from this Champion each turn.",
+			"basedOn": "",
+			"name": "Mighty Soul [Passive]",
+			"maxcd": "1",
+			"mincd": "1",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": ""
+		}
+	]
+}

@@ -1,0 +1,62 @@
+{
+	"key": "l10n:hero-type/name?id=4570#static",
+	"name": "Madame Serris",
+	"id": 4576,
+	"acc": "15",
+	"affinity": "Void",
+	"atk": "826",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "100",
+	"def": "1167",
+	"hp": "19650",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Dark Elves",
+	"rarity": "Epic",
+	"type": "Support",
+	"aura": "",
+	"totalBooks": "10",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 20% chance of placing a [Fear] debuff for 1 turn.\r\nThis chance increases to 30% if the target is under 1 debuff. \r\nThis chance increases to 45% if the target is under 2 or more debuffs.",
+			"basedOn": "[ATK]",
+			"name": "Panic Spread",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\n",
+			"multiplier": "4.2*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 40% chance of stealing 1 random buff from each target.\r\nPlaces a [Block debuffs] buff on all allies for 2 turns if any buff is stolen.\r\nPlaces a [True Fear] debuff for 1 turn on enemies who have buffs stolen.",
+			"basedOn": "[ATK]",
+			"name": "Tricks and Treats",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Cooldown -1\n",
+			"multiplier": "4.3*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Removes all buffs from enemies. Places a 50% [Decrease ATK] debuff and a 60% [Decrease DEF] debuff on all enemies for 2 turns.",
+			"basedOn": "",
+			"name": "Midnight Ritual",
+			"maxcd": "6",
+			"mincd": "4",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
+		},
+		{
+			"desc": "Places a [Shield] buff on this Champion equal to 10% of their MAX HP at the start of each turn.\r\nWhen attacked while under a [Shield] buff, has a 35% chance of placing a [Fear] debuff on the attacker for 1 turn.",
+			"basedOn": "",
+			"name": "Witch's Grace [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": ""
+		}
+	]
+}

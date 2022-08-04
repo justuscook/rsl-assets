@@ -1,0 +1,32 @@
+{
+	"typeId": 796,
+	"name": {
+		"key": "l10n:hero-type/name?id=790#static",
+		"defaultValue": "Archer",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "BannerLords",
+	"role": "Attack",
+	"rarity": "Uncommon",
+	"ascended": 6,
+	"modelName": "0116_Archer",
+	"avatarKey": "790",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		7901,
+		7902
+	],
+	"unscaledStats": {
+		"Health": 79,
+		"Attack": 105,
+		"Defense": 66,
+		"Speed": 97,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

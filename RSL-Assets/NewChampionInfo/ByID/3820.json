@@ -1,0 +1,32 @@
+{
+	"typeId": 3826,
+	"name": {
+		"key": "l10n:hero-type/name?id=3820#static",
+		"defaultValue": "Dead Crusader",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "UndeadHordes",
+	"role": "Defense",
+	"rarity": "Uncommon",
+	"ascended": 6,
+	"modelName": "0017_Skeleton_id3820",
+	"avatarKey": "3820",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		38201,
+		38202
+	],
+	"unscaledStats": {
+		"Health": 81,
+		"Attack": 75,
+		"Defense": 94,
+		"Speed": 100,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

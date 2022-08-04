@@ -1,0 +1,34 @@
+{
+	"typeId": 5816,
+	"name": {
+		"key": "l10n:hero-type/name?id=5810#static",
+		"defaultValue": "Genzin",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "Samurai",
+	"role": "Attack",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0438_Samurai_id5810",
+	"avatarKey": "5810",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		58101,
+		58102,
+		58103,
+		58104
+	],
+	"unscaledStats": {
+		"Health": 106,
+		"Attack": 141,
+		"Defense": 78,
+		"Speed": 100,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 63,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

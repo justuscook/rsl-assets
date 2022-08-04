@@ -1,0 +1,62 @@
+{
+	"key": "l10n:hero-type/name?id=5280#static",
+	"name": "Tuhak the Wanderer",
+	"id": 5286,
+	"acc": "0",
+	"affinity": "Void",
+	"atk": "1365",
+	"cdamage": "60",
+	"crate": "15",
+	"spd": "97",
+	"def": "870",
+	"hp": "16020",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Orcs",
+	"rarity": "Epic",
+	"type": "Attack",
+	"aura": "Increases Ally ATK in All Battles by 22%.",
+	"totalBooks": "15",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Each hit has a 30% chance of increasing the cooldown of one of the target’s Skills by 1 turn at random. Increases the cooldowns of all of the target’s Skills by 1 turn instead if this Champion has less than 50% HP when attacking on each hit.",
+			"basedOn": "[ATK]",
+			"name": "Unfair Fight",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Buff/Debuff Chance +5%\n",
+			"multiplier": "1.9*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 75% chance of placing a 30% [Decrease SPD] debuff for 2 turns. Also places a 30% [Increase SPD] buff on this Champion for 2 turns. Heals this Champion by 15% of the damage inflicted if they have less than 50% HP when attacking.",
+			"basedOn": "[ATK]",
+			"name": "Whirl of Battle",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
+			"multiplier": "3.75*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks 1 enemy. Steals 50% of the target’s current Turn Meter. Has a 75% chance of placing a [Stun] debuff for 2 turns. Steals 100% of the target’s Turn Meter if this Champion has less than 50% HP when attacking.",
+			"basedOn": "[ATK]",
+			"name": "Clever Brutality",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
+			"multiplier": "6.3*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Decreases the damage taken by this Champion by 20% when their HP drops below 60%.",
+			"basedOn": "",
+			"name": "Ironheart [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": ""
+		}
+	]
+}

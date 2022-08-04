@@ -1,0 +1,32 @@
+{
+	"typeId": 3316,
+	"name": {
+		"key": "l10n:hero-type/name?id=3310#static",
+		"defaultValue": "Aristocrat",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "HighElves",
+	"role": "Attack",
+	"rarity": "Uncommon",
+	"ascended": 6,
+	"modelName": "0041_Elven_id3310",
+	"avatarKey": "3310",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		33101,
+		33102
+	],
+	"unscaledStats": {
+		"Health": 67,
+		"Attack": 110,
+		"Defense": 73,
+		"Speed": 96,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=6120#static",
+	"name": "Siegehulk",
+	"id": 6126,
+	"acc": "10",
+	"affinity": "Magic",
+	"atk": "1542",
+	"cdamage": "60",
+	"crate": "15",
+	"spd": "95",
+	"def": "760",
+	"hp": "15030",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Ogryn Tribes",
+	"rarity": "Epic",
+	"type": "Attack",
+	"aura": "Increases Ally C. RATE in Doom Tower Battles by 24%.",
+	"totalBooks": "13",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Decreases the target's Turn Meter by 15% if the target is under a [Decrease DEF] debuff or [Decrease SPD] debuff.",
+			"basedOn": "[ATK]",
+			"name": "Battering Ram",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\n",
+			"multiplier": "3.1*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Places a 50% [Increase ATK] buff on this Champion for 2 turns, then attacks all enemies. Has a 75% chance of placing a 60% [Decrease DEF] debuff for 2 turns.",
+			"basedOn": "",
+			"name": "Thrashing Fit",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Places a 30% [Increase C. RATE] buff and a 30% [Increase C. DMG] buff on this Champion for 2 turns, then attacks 1 enemy. Has a 75% chance of placing a 30% [Decrease SPD] debuff on the target for 2 turns.",
+			"basedOn": "",
+			"name": "Siege Breaker",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Buff/Debuff Chance +15%\nLevel 5: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "4"
+		}
+	]
+}

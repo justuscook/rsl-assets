@@ -1,20 +1,21 @@
 {
-	"name": "Boragar the Elder",
 	"key": "l10n:hero-type/name?id=6880#static",
+	"name": "Boragar the Elder",
 	"id": 6886,
-	"avatar": "6880",
-	"affinity": "Force",
-	"hp": "21135",
-	"atk": "925",
-	"def": "1244",
-	"spd": "97",
-	"res": "50",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Force",
+	"atk": "925",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "97",
+	"def": "1244",
+	"hp": "21135",
 	"cheal": "50",
+	"res": "50",
 	"faction": "Dwarves",
-	"aura": "Increase Ally  in in all Battles by 50",
+	"rarity": "Legendary",
+	"type": "HP",
+	"aura": "Increases Ally RES in All Battles by 50.",
 	"totalBooks": "11",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Antique Staff",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Damage +10%\n",
+			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Damage +10%\n",
 			"multiplier": "0.3*HP",
 			"numBooksToMax": "4"
 		},
@@ -33,7 +34,7 @@
 			"name": "Souls of Old Stone",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Shield +5%\nLevel 3: Shield +5%\nLevel 4: Shield +10%\nLevel 5: Shield +10%\nLevel 6: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "5"
 		},
@@ -43,7 +44,7 @@
 			"name": "Rune of Energy",
 			"maxcd": "6",
 			"mincd": "4",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		},
@@ -55,9 +56,7 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": "0"
+			"numBooksToMax": ""
 		}
-	],
-	"rarity": "Legendary",
-	"type": "Health"
+	]
 }

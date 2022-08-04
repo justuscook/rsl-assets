@@ -1,0 +1,62 @@
+{
+	"key": "l10n:hero-type/name?id=6500#static",
+	"name": "Scabrius",
+	"id": 6506,
+	"acc": "15",
+	"affinity": "Magic",
+	"atk": "1365",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "95",
+	"def": "1057",
+	"hp": "13215",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Skinwalkers",
+	"rarity": "Epic",
+	"type": "Attack",
+	"aura": "",
+	"totalBooks": "14",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 50% chance of placing a 5% [Poison] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Gutter Knife",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +10%\n",
+			"multiplier": "3.9*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 75% chance of placing a [Leech] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Gnawing Horde",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
+			"multiplier": "4.1*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 75% chance of placing a 25% [Weaken] debuff for 2 turns. \r\n\r\nAlso places a 50% [Increase ATK] buff on this Champion for 2 turns if the [Weaken] debuff is placed.",
+			"basedOn": "[ATK]",
+			"name": "Vicious Spite",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
+			"multiplier": "6*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Damage increases by 20% when attacking enemies under [Poison] debuffs.",
+			"basedOn": "",
+			"name": "Verminous [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	]
+}

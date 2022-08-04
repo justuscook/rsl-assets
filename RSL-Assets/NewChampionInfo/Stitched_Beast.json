@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=3580#static",
+	"name": "Stitched Beast",
+	"id": 3586,
+	"acc": "0",
+	"affinity": "Void",
+	"atk": "1343",
+	"cdamage": "57",
+	"crate": "15",
+	"spd": "101",
+	"def": "782",
+	"hp": "13545",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Undead Hordes",
+	"rarity": "Rare",
+	"type": "Attack",
+	"aura": "",
+	"totalBooks": "15",
+	"skills": [
+		{
+			"desc": "Attack 1 enemy 2 times.",
+			"basedOn": "",
+			"name": "Bestial Maw",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\n",
+			"multiplier": "",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy 2 times. Each hit has a 25% chance of placing a 25% [Weaken] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Virulent Spittle",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Damage +10%\nLevel 7: Buff/Debuff Chance +10%\nLevel 8: Cooldown -1\n",
+			"multiplier": "2.5*ATK",
+			"numBooksToMax": "7"
+		},
+		{
+			"desc": "Attacks 1 enemy. Decreases the target's Turn Meter by 100%.",
+			"basedOn": "[ATK]",
+			"name": "Pack Tactics",
+			"maxcd": "4",
+			"mincd": "4",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Damage +10%\n",
+			"multiplier": "5.4*ATK",
+			"numBooksToMax": "4"
+		}
+	]
+}

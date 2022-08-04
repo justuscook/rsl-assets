@@ -1,0 +1,33 @@
+{
+	"typeId": 2206,
+	"name": {
+		"key": "l10n:hero-type/name?id=2200#static",
+		"defaultValue": "Judicator",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "SacredOrder",
+	"role": "Attack",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0010_Knight_id2200",
+	"avatarKey": "2200",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		22004,
+		22002,
+		22003
+	],
+	"unscaledStats": {
+		"Health": 72,
+		"Attack": 127,
+		"Defense": 76,
+		"Speed": 104,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 57,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

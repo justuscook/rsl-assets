@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=240#static",
+	"name": "Lugan the Steadfast",
+	"id": 246,
+	"acc": "0",
+	"affinity": "Spirit",
+	"atk": "1013",
+	"cdamage": "63",
+	"crate": "15",
+	"spd": "103",
+	"def": "1090",
+	"hp": "22140",
+	"cheal": "50",
+	"res": "40",
+	"faction": "Banner Lords",
+	"rarity": "Legendary",
+	"type": "HP",
+	"aura": "Increases Ally HP in Faction Crypts by 38%.",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Heals all allies by 25% of the damage inflicted. Places a [Shield] buff on this Champion equal to 10% of their MAX HP for 2 turns.",
+			"basedOn": "[HP]",
+			"name": "Crushing Blow",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\n",
+			"multiplier": "0.23*HP",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Places a 60% [Increase DEF] buff on this Champion for 3 turns. Also places a 50% [Ally Protection] buff on all allies for 2 turns.",
+			"basedOn": "",
+			"name": "Bodyguard",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "1"
+		},
+		{
+			"desc": "Attacks all enemies. Has an 80% chance of placing a [Block Active Skills] debuff for 2 turns.",
+			"basedOn": "[HP]",
+			"name": "Mark of Silence",
+			"maxcd": "4",
+			"mincd": "4",
+			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Damage +5%\nLevel 6: Buff/Debuff Chance +10%\nLevel 7: Damage +10%\n",
+			"multiplier": "0.26*HP",
+			"numBooksToMax": "6"
+		}
+	]
+}

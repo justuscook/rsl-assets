@@ -1,0 +1,33 @@
+{
+	"typeId": 6596,
+	"name": {
+		"key": "l10n:hero-type/name?id=6590#static",
+		"defaultValue": "Kinagashi",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "Samurai",
+	"role": "Support",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0779_Samurai_id6590",
+	"avatarKey": "6590",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		65901,
+		65902,
+		65904
+	],
+	"unscaledStats": {
+		"Health": 110,
+		"Attack": 98,
+		"Defense": 92,
+		"Speed": 105,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

@@ -1,0 +1,39 @@
+{
+	"typeId": 186,
+	"name": {
+		"key": "l10n:hero-type/name?id=180#static",
+		"defaultValue": "Rowan",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "BannerLords",
+	"role": "Attack",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0022_KnightF_combined",
+	"avatarKey": "180",
+	"leaderSkill": {
+		"area": "Fractions",
+		"affinity": null,
+		"kind": "Accuracy",
+		"absolute": true,
+		"value": 50
+	},
+	"skillTypeIds": [
+		1804,
+		1802,
+		1803
+	],
+	"unscaledStats": {
+		"Health": 102,
+		"Attack": 135,
+		"Defense": 63,
+		"Speed": 108,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 60,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

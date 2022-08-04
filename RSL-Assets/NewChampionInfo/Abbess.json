@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=2310#static",
+	"name": "Abbess",
+	"id": 2316,
+	"acc": "10",
+	"affinity": "Force",
+	"atk": "1564",
+	"cdamage": "63",
+	"crate": "15",
+	"spd": "96",
+	"def": "1079",
+	"hp": "14040",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Sacred Order",
+	"rarity": "Legendary",
+	"type": "Attack",
+	"aura": "Increases Ally ATK in Faction Crypts by 34%.",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Removes 1 random debuff from this Champion and places it on the target.",
+			"basedOn": "[ATK]",
+			"name": "Arrow of Rebuke",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\n",
+			"multiplier": "2.8*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 75% chance of placing a 60% [Decrease DEF] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Mass Impalement",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Cooldown -1\n",
+			"multiplier": "5.1*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Damage inflicted is proportional to either this Champion's ATK or the target's DEF or ATK stat, whichever is highest. \r\n\r\nDeals an extra 30% C. DMG if the target's ATK is highest. Will ignore 30% of the target's DEF if the target's DEF is highest.",
+			"basedOn": "",
+			"name": "Divine Wrath",
+			"maxcd": "6",
+			"mincd": "4",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Cooldown -1\nLevel 5: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "4"
+		}
+	]
+}

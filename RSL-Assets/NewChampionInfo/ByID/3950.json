@@ -1,0 +1,33 @@
+{
+	"typeId": 3956,
+	"name": {
+		"key": "l10n:hero-type/name?id=3950#static",
+		"defaultValue": "Steadfast Marshal",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "BannerLords",
+	"role": "Health",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0130_Warcaster_id3950",
+	"avatarKey": "3950",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		39501,
+		39504,
+		39503
+	],
+	"unscaledStats": {
+		"Health": 125,
+		"Attack": 79,
+		"Defense": 71,
+		"Speed": 90,
+		"Resistance": 40,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

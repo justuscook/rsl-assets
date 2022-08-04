@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=5950#static",
+	"name": "Fenshi",
+	"id": 5956,
+	"acc": "0",
+	"affinity": "Force",
+	"atk": "1465",
+	"cdamage": "60",
+	"crate": "15",
+	"spd": "97",
+	"def": "738",
+	"hp": "16515",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Shadowkin",
+	"rarity": "Epic",
+	"type": "Attack",
+	"aura": "",
+	"totalBooks": "15",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 3 times. Each hit has a 30% chance of placing a 30% [Decrease SPD] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Hate Blades",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\n",
+			"multiplier": "1.1*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy 3 times. Each hit has a 50% chance of decreasing the target’s Turn Meter by 15%.",
+			"basedOn": "[ATK]",
+			"name": "Nowhere to Run",
+			"maxcd": "4",
+			"mincd": "2",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\nLevel 7: Cooldown -1\n",
+			"multiplier": "2*ATK",
+			"numBooksToMax": "6"
+		},
+		{
+			"desc": "Attacks 1 enemy 2 times. Each hit places a 5% [Poison] debuff on the target for 3 turns.\r\n\r\nWill ignore 10% of the target’s DEF for each [Poison] debuff on the target.",
+			"basedOn": "[ATK]",
+			"name": "Killer's Bile",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Damage +10%\nLevel 6: Cooldown -1\n",
+			"multiplier": "2.7*ATK",
+			"numBooksToMax": "5"
+		}
+	]
+}

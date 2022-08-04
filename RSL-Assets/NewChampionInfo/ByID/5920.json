@@ -1,0 +1,32 @@
+{
+	"typeId": 5926,
+	"name": {
+		"key": "l10n:hero-type/name?id=5920#static",
+		"defaultValue": "Infiltrator",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "Samurai",
+	"role": "Attack",
+	"rarity": "Uncommon",
+	"ascended": 6,
+	"modelName": "619_samurai_5920",
+	"avatarKey": "5920",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		59201,
+		59202
+	],
+	"unscaledStats": {
+		"Health": 84,
+		"Attack": 102,
+		"Defense": 64,
+		"Speed": 101,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

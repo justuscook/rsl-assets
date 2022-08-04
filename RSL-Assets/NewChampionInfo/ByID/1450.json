@@ -1,0 +1,32 @@
+{
+	"typeId": 1456,
+	"name": {
+		"key": "l10n:hero-type/name?id=1450#static",
+		"defaultValue": "Incubus",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "Demonspawn",
+	"role": "Attack",
+	"rarity": "Uncommon",
+	"ascended": 6,
+	"modelName": "0242_Demonspawn_id1450",
+	"avatarKey": "1450",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		14501,
+		14502
+	],
+	"unscaledStats": {
+		"Health": 68,
+		"Attack": 104,
+		"Defense": 78,
+		"Speed": 95,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

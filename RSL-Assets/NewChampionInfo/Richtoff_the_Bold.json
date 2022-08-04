@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=2320#static",
+	"name": "Richtoff the Bold",
+	"id": 2326,
+	"acc": "0",
+	"affinity": "Spirit",
+	"atk": "1398",
+	"cdamage": "63",
+	"crate": "15",
+	"spd": "95",
+	"def": "925",
+	"hp": "18825",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Banner Lords",
+	"rarity": "Legendary",
+	"type": "Attack",
+	"aura": "Increases Ally ATK in Faction Crypts by 27%.",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks all enemies. Decreases each target's MAX HP by 30% of the damage inflicted.",
+			"basedOn": "[ATK]",
+			"name": "Ruination",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\n",
+			"multiplier": "1.7*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy 3 times. Each hit places a 5% [Poison] debuff on all enemies for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Bloodletting",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Cooldown -1\n",
+			"multiplier": "1.9*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy. Critical damage increases by 20% for each Poison debuff on the target. Stacks up to 100%.",
+			"basedOn": "[ATK]",
+			"name": "Cursehold",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Cooldown -1\n",
+			"multiplier": "6.2*ATK",
+			"numBooksToMax": "3"
+		}
+	]
+}

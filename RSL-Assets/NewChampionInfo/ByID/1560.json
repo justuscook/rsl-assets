@@ -1,0 +1,39 @@
+{
+	"typeId": 1566,
+	"name": {
+		"key": "l10n:hero-type/name?id=1560#static",
+		"defaultValue": "Theurgist",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "KnightsRevenant",
+	"role": "Support",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0046_Knight_id1560",
+	"avatarKey": "1560",
+	"leaderSkill": {
+		"area": "Fractions",
+		"affinity": null,
+		"kind": "Resistance",
+		"absolute": true,
+		"value": 30
+	},
+	"skillTypeIds": [
+		15601,
+		15602,
+		15604
+	],
+	"unscaledStats": {
+		"Health": 112,
+		"Attack": 86,
+		"Defense": 77,
+		"Speed": 103,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

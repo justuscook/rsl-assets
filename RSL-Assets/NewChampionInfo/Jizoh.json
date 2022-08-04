@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=3240#static",
+	"name": "Jizoh",
+	"id": 3246,
+	"acc": "0",
+	"affinity": "Spirit",
+	"atk": "815",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "94",
+	"def": "1387",
+	"hp": "16515",
+	"cheal": "50",
+	"res": "45",
+	"faction": "Lizardmen",
+	"rarity": "Epic",
+	"type": "Defense",
+	"aura": "Increases Ally ATK in All Battles by 18%.",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times.",
+			"basedOn": "[DEF]",
+			"name": "Reaping Blows",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\n",
+			"multiplier": "1.9*DEF",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "Places a [Shield] buff for 3 turns and a [Counterattack] buff for 2 turns on one ally. Grants an extra turn. The value of [Shield] is proportional to this Champion's DEF.",
+			"basedOn": "",
+			"name": "Fierce Protector",
+			"maxcd": "5",
+			"mincd": "5",
+			"books": "Level 2: Shield +5%\nLevel 3: Shield +5%\nLevel 4: Shield +5%\nLevel 5: Shield +5%\n",
+			"multiplier": "",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy. Has an 80% chance of placing a [Provoke] debuff for 2 turns. Places a 15% [Continuous Heal] buff on this Champion for 2 turns.",
+			"basedOn": "[DEF]",
+			"name": "Rile",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Cooldown -1\n",
+			"multiplier": "5.8*DEF",
+			"numBooksToMax": "5"
+		}
+	]
+}

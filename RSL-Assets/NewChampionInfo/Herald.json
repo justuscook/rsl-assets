@@ -1,0 +1,42 @@
+{
+	"key": "l10n:hero-type/name?id=1380#static",
+	"name": "Herald",
+	"id": 1386,
+	"acc": "0",
+	"affinity": "Spirit",
+	"atk": "782",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "99",
+	"def": "848",
+	"hp": "16845",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Knight Revenant",
+	"rarity": "Uncommon",
+	"type": "Support",
+	"aura": "",
+	"totalBooks": "7",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 15% chance of placing a 15% [Decrease SPD] debuff for 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Doombolt",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Buff/Debuff Chance +5%\n",
+			"multiplier": "3.3*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Places a 30% [Increase C. RATE] buff on all allies for 2 turns.",
+			"basedOn": "",
+			"name": "Unholy Grace",
+			"maxcd": "4",
+			"mincd": "2",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
+		}
+	]
+}

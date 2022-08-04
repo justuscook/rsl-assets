@@ -1,0 +1,42 @@
+{
+	"key": "l10n:hero-type/name?id=1240#static",
+	"name": "Windtalker",
+	"id": 1246,
+	"acc": "0",
+	"affinity": "Magic",
+	"atk": "903",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "87",
+	"def": "936",
+	"hp": "13710",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Skinwalkers",
+	"rarity": "Uncommon",
+	"type": "Support",
+	"aura": "",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 15% chance of placing a 25% [Decrease ACC] debuff for 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Thunder",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Damage +10%\nLevel 6: Buff/Debuff Chance +10%\n",
+			"multiplier": "3.4*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Places a 60% [Increase DEF] buff on a target ally for 2 turns. Heals the target by 20% of their MAX HP.",
+			"basedOn": "",
+			"name": "Spiritual Wind",
+			"maxcd": "4",
+			"mincd": "2",
+			"books": "Level 2: Heal +10%\nLevel 3: Heal +10%\nLevel 4: Cooldown -1\nLevel 5: Heal +0\nLevel 6: Heal +0\nLevel 7: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "6"
+		}
+	]
+}

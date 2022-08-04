@@ -1,0 +1,40 @@
+{
+	"typeId": 5546,
+	"name": {
+		"key": "l10n:hero-type/name?id=5540#static",
+		"defaultValue": "Achak the Wendarin",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "Demonspawn",
+	"role": "Support",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0475_yeti_id5540",
+	"avatarKey": "5540",
+	"leaderSkill": {
+		"area": null,
+		"affinity": null,
+		"kind": "Defence",
+		"absolute": false,
+		"value": 0.25
+	},
+	"skillTypeIds": [
+		55401,
+		55402,
+		55403,
+		55404
+	],
+	"unscaledStats": {
+		"Health": 106,
+		"Attack": 86,
+		"Defense": 108,
+		"Speed": 94,
+		"Resistance": 30,
+		"Accuracy": 15,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

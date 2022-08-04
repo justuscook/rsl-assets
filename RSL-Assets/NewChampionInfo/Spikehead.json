@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=1650#static",
+	"name": "Spikehead",
+	"id": 1656,
+	"acc": "0",
+	"affinity": "Magic",
+	"atk": "1465",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "102",
+	"def": "771",
+	"hp": "11895",
+	"cheal": "50",
+	"res": "40",
+	"faction": "Orcs",
+	"rarity": "Rare",
+	"type": "Attack",
+	"aura": "Increases Ally DEF in Arena Battles by 30%.",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times.",
+			"basedOn": "[ATK]",
+			"name": "Stomp",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\nLevel 6: Damage +10%\n",
+			"multiplier": "1.5*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Places a 15% [Increase C. RATE] buff and a 50% [Increase ATK] buff on this Champion for 2 turns.",
+			"basedOn": "",
+			"name": "Battle Cry",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "1"
+		},
+		{
+			"desc": "Attacks 1 enemy 3 times. Has an extra 20% chance of inflicting a critical hit.",
+			"basedOn": "[ATK]",
+			"name": "Rip",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\nLevel 6: Cooldown -1\n",
+			"multiplier": "1.4*ATK",
+			"numBooksToMax": "5"
+		}
+	]
+}

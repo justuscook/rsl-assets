@@ -1,0 +1,40 @@
+{
+	"typeId": 5946,
+	"name": {
+		"key": "l10n:hero-type/name?id=5940#static",
+		"defaultValue": "Riho Bonespear",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "Samurai",
+	"role": "Support",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0440_Samurai_id5940",
+	"avatarKey": "5940",
+	"leaderSkill": {
+		"area": "Fractions",
+		"affinity": null,
+		"kind": "Attack",
+		"absolute": false,
+		"value": 0.42
+	},
+	"skillTypeIds": [
+		59401,
+		59402,
+		59403,
+		59404
+	],
+	"unscaledStats": {
+		"Health": 113,
+		"Attack": 108,
+		"Defense": 104,
+		"Speed": 105,
+		"Resistance": 40,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

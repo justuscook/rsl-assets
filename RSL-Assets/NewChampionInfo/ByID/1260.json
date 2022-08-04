@@ -1,0 +1,39 @@
+{
+	"typeId": 1266,
+	"name": {
+		"key": "l10n:hero-type/name?id=1260#static",
+		"defaultValue": "Goremask",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "Orcs",
+	"role": "Attack",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0251_OrcDog",
+	"avatarKey": "1260",
+	"leaderSkill": {
+		"area": "Arena",
+		"affinity": null,
+		"kind": "Health",
+		"absolute": false,
+		"value": 0.25
+	},
+	"skillTypeIds": [
+		12601,
+		12602,
+		12604
+	],
+	"unscaledStats": {
+		"Health": 74,
+		"Attack": 137,
+		"Defense": 64,
+		"Speed": 98,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 57,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=3790#static",
+	"name": "Chancellor Yasmin",
+	"id": 3796,
+	"acc": "0",
+	"affinity": "Force",
+	"atk": "1101",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "109",
+	"def": "1090",
+	"hp": "16680",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Banner Lords",
+	"rarity": "Epic",
+	"type": "Support",
+	"aura": "Increases Ally SPD in All Battles by 20.",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Places an extra hit if the target has no active buffs.",
+			"basedOn": "[ATK]",
+			"name": "Resounding Smash",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Damage +10%\n",
+			"multiplier": "2*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Heals an ally by 40% of their MAX HP. Heals by 60% instead if the ally has 50% HP or less.",
+			"basedOn": "",
+			"name": "Touch of Vigor",
+			"maxcd": "3",
+			"mincd": "2",
+			"books": "Level 2: Heal +5%\nLevel 3: Heal +5%\nLevel 4: Heal +10%\nLevel 5: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Has a 50% chance of removing all buffs from all enemies. Then places a [Sleep] debuff for 1 turn all enemies who have active buffs.",
+			"basedOn": "",
+			"name": "Lulling Chant",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "4"
+		}
+	]
+}

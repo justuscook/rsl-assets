@@ -1,0 +1,41 @@
+{
+	"typeId": 5076,
+	"name": {
+		"key": "l10n:hero-type/name?id=5070#static",
+		"defaultValue": "Akoth the Seared",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "Demonspawn",
+	"role": "Defense",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0504_FireGolem",
+	"avatarKey": "5070",
+	"leaderSkill": {
+		"area": null,
+		"affinity": null,
+		"kind": "Health",
+		"absolute": false,
+		"value": 0.25
+	},
+	"skillTypeIds": [
+		50701,
+		50702,
+		50703,
+		50705,
+		50704
+	],
+	"unscaledStats": {
+		"Health": 101,
+		"Attack": 81,
+		"Defense": 118,
+		"Speed": 95,
+		"Resistance": 30,
+		"Accuracy": 15,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

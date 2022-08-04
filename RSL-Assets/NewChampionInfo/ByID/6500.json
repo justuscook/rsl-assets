@@ -1,0 +1,34 @@
+{
+	"typeId": 6506,
+	"name": {
+		"key": "l10n:hero-type/name?id=6500#static",
+		"defaultValue": "Scabrius",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "Skinwalkers",
+	"role": "Attack",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0642_skinwalkers_id6500",
+	"avatarKey": "6500",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		65001,
+		65002,
+		65003,
+		65004
+	],
+	"unscaledStats": {
+		"Health": 80,
+		"Attack": 124,
+		"Defense": 96,
+		"Speed": 95,
+		"Resistance": 30,
+		"Accuracy": 15,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

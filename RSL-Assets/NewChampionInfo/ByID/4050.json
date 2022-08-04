@@ -1,0 +1,39 @@
+{
+	"typeId": 4056,
+	"name": {
+		"key": "l10n:hero-type/name?id=4050#static",
+		"defaultValue": "Ogryn Jailer",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "OgrynTribes",
+	"role": "Attack",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0311_ogre_id4050",
+	"avatarKey": "4050",
+	"leaderSkill": {
+		"area": "Dungeon",
+		"affinity": null,
+		"kind": "Accuracy",
+		"absolute": true,
+		"value": 20
+	},
+	"skillTypeIds": [
+		40501,
+		40502,
+		40503
+	],
+	"unscaledStats": {
+		"Health": 68,
+		"Attack": 118,
+		"Defense": 89,
+		"Speed": 99,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 57,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

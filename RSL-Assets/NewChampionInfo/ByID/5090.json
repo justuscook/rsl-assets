@@ -1,0 +1,39 @@
+{
+	"typeId": 5096,
+	"name": {
+		"key": "l10n:hero-type/name?id=5090#static",
+		"defaultValue": "Tainix Hateflower",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "Demonspawn",
+	"role": "Support",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0321_Demon",
+	"avatarKey": "5090",
+	"leaderSkill": {
+		"area": "Fractions",
+		"affinity": null,
+		"kind": "Health",
+		"absolute": false,
+		"value": 0.3
+	},
+	"skillTypeIds": [
+		50901,
+		50902,
+		50903
+	],
+	"unscaledStats": {
+		"Health": 103,
+		"Attack": 108,
+		"Defense": 89,
+		"Speed": 100,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

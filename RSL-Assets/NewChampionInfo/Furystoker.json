@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=640#static",
+	"name": "Furystoker",
+	"id": 646,
+	"acc": "0",
+	"affinity": "Spirit",
+	"atk": "1024",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "100",
+	"def": "1013",
+	"hp": "14865",
+	"cheal": "50",
+	"res": "40",
+	"faction": "Ogryn Tribes",
+	"rarity": "Rare",
+	"type": "Support",
+	"aura": "",
+	"totalBooks": "8",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 15% chance of placing an extra hit.",
+			"basedOn": "[ATK]",
+			"name": "Crush",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\n",
+			"multiplier": "3.3*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Removes all debuffs from a target ally. Heals the target by 20%. The heal increases according to the amount of debuffs removed.",
+			"basedOn": "",
+			"name": "Remedy",
+			"maxcd": "3",
+			"mincd": "3",
+			"books": "Level 2: Heal +5%\nLevel 3: Heal +5%\nLevel 4: Heal +5%\nLevel 5: Heal +5%\n",
+			"multiplier": "",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Heals the ally with the lowest HP by 7.5% each turn. This heal can be critical. Will not heal this Champion.",
+			"basedOn": "",
+			"name": "Forest Kin [Passive]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": ""
+		}
+	]
+}

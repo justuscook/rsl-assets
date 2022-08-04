@@ -1,0 +1,42 @@
+{
+	"key": "l10n:hero-type/name?id=1680#static",
+	"name": "Hardscale",
+	"id": 1686,
+	"acc": "0",
+	"affinity": "Magic",
+	"atk": "716",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "99",
+	"def": "1167",
+	"hp": "13050",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Lizardmen",
+	"rarity": "Uncommon",
+	"type": "Defense",
+	"aura": "",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 25% chance of placing a 15% [Decrease SPD] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Ambush",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Damage +10%\nLevel 7: Buff/Debuff Chance +10%\n",
+			"multiplier": "4.6*ATK",
+			"numBooksToMax": "6"
+		},
+		{
+			"desc": "Attacks 1 enemy. Places a [Stun] debuff if the target has a [Decrease SPD] debuff. Has a 20% chance of placing a [Stun] debuff for 1 turn if the target has no [Decrease SPD] debuffs.",
+			"basedOn": "[ATK]",
+			"name": "Shocking Wound",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Cooldown -1\n",
+			"multiplier": "7*ATK",
+			"numBooksToMax": "5"
+		}
+	]
+}

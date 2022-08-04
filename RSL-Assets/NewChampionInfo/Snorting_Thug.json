@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=3540#static",
+	"name": "Snorting Thug",
+	"id": 3546,
+	"acc": "15",
+	"affinity": "Force",
+	"atk": "870",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "95",
+	"def": "1057",
+	"hp": "20640",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Skinwalkers",
+	"rarity": "Epic",
+	"type": "HP",
+	"aura": "Increases Ally ACC in All Battles by 40.",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Each hit has a 20% chance of stealing one random buff.",
+			"basedOn": "[HP]",
+			"name": "Wanton Mugging",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Damage +10%\nLevel 7: Buff/Debuff Chance +10%\n",
+			"multiplier": "0.08*HP",
+			"numBooksToMax": "6"
+		},
+		{
+			"desc": "Attacks 1 enemy. Will ignore the target's DEF if they have no active buffs. Steals 2 random buffs from the target.",
+			"basedOn": "[HP]",
+			"name": "Ruckus",
+			"maxcd": "4",
+			"mincd": "4",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\n",
+			"multiplier": "0.15*HP",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "Has a 30% chance of stealing 1 random buff from the attacker when hit. Occurs once per hit.\r\n\r\nCounterattacks the attacker if they have no active buffs.",
+			"basedOn": "",
+			"name": "Dire Defense",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Buff/Debuff Chance +10%\nLevel 3: Buff/Debuff Chance +10%\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
+		}
+	]
+}

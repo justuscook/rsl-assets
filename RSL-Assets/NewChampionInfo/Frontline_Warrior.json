@@ -1,0 +1,42 @@
+{
+	"key": "l10n:hero-type/name?id=3810#static",
+	"name": "Frontline Warrior",
+	"id": 3816,
+	"acc": "0",
+	"affinity": "Spirit",
+	"atk": "595",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "93",
+	"def": "1299",
+	"hp": "12885",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Banner Lords",
+	"rarity": "Uncommon",
+	"type": "Defense",
+	"aura": "",
+	"totalBooks": "4",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy.",
+			"basedOn": "[DEF]",
+			"name": "Wrath Hew",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\n",
+			"multiplier": "3*DEF",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "Places a 25% [Ally Protection] buff on the ally with the lowest HP for 2 turns. Grants an Extra Turn.",
+			"basedOn": "",
+			"name": "Comrades in Arms",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Level 2: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "1"
+		}
+	]
+}
