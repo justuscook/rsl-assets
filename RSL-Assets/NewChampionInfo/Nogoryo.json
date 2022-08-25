@@ -1,0 +1,63 @@
+{
+	"name": "Nogoryo",
+	"key": "l10n:hero-type/name?id=6580#static",
+	"id": 6586,
+	"avatar": "6580",
+	"affinity": "Magic",
+	"hp": "16680",
+	"atk": "1376",
+	"def": "815",
+	"spd": "98",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "60",
+	"cheal": "50",
+	"faction": "Samurai",
+	"aura": "",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Places an extra hit if this Champion is under an [Increase ATK] buff. Each hit has a 20% chance of placing a [Block Active Skills] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Double Kamas",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "1.2*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy. Places a [Block Buffs] debuff for 2 turns.\r\n\r\nIf this Champion is under an [Increase ATK] buff, steals all buffs from the target enemy before attacking.",
+			"basedOn": "",
+			"name": "Abduct By Night",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\n",
+			"multiplier": null,
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "Attacks all enemies. Decreases the cooldown of this skill by 1 turn when attacking under an [Increase ATK] buff.",
+			"basedOn": "[ATK]",
+			"name": "Faster Than The Eye",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
+			"multiplier": "4.5*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Places a 50% [Increase ATK] buff on this Champion for 2 turns whenever an enemy’s HP drops below 30%. This buff cannot be removed.",
+			"basedOn": "",
+			"name": "Murderer's Lust [P]",
+			"maxcd": "3",
+			"mincd": "3",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Epic",
+	"type": "Attack"
+}
