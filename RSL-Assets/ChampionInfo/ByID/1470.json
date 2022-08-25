@@ -13,8 +13,8 @@
 	"modelName": "0234_Demonspalm_dog_id1470",
 	"avatarKey": "1470",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Dungeon",
+		"affinity": null,
 		"kind": "Attack",
 		"absolute": false,
 		"value": 0.21

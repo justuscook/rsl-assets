@@ -13,8 +13,8 @@
 	"modelName": "0504_FireGolem",
 	"avatarKey": "5070",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Health",
 		"absolute": false,
 		"value": 0.25

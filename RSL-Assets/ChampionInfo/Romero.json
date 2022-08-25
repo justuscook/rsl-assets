@@ -33,7 +33,7 @@
 			"name": "Succor",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		},
@@ -43,7 +43,7 @@
 			"name": "Divine Benefaction",
 			"maxcd": "6",
 			"mincd": "5",
-			"books": "Lvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 4 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "3"
 		},

@@ -13,8 +13,8 @@
 	"modelName": "0385_order",
 	"avatarKey": "5610",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "DoomTower",
+		"affinity": null,
 		"kind": "Health",
 		"absolute": false,
 		"value": 0.25

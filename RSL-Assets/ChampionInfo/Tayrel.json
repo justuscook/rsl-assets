@@ -14,7 +14,7 @@
 	"cdamage": "50",
 	"cheal": "50",
 	"faction": "High Elves",
-	"aura": "Increase Ally  in  by 25",
+	"aura": "Increase Ally  in in all Battles by 25",
 	"totalBooks": "12",
 	"skills": [
 		{
@@ -43,7 +43,7 @@
 			"name": "Preemptive Strike",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1\n",
 			"multiplier": "5.3*DEF",
 			"numBooksToMax": "4"
 		}

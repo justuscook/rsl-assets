@@ -13,8 +13,8 @@
 	"modelName": "0221_Order_Warrior_id1400",
 	"avatarKey": "1400",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Attack",
 		"absolute": false,
 		"value": 0.21

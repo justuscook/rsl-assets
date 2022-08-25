@@ -13,8 +13,8 @@
 	"modelName": "0507_AcidGolem_id5080",
 	"avatarKey": "5080",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Resistance",
 		"absolute": true,
 		"value": 80

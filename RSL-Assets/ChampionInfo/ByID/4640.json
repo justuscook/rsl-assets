@@ -13,8 +13,8 @@
 	"modelName": "0414_Ogre_4640",
 	"avatarKey": "4640",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Resistance",
 		"absolute": true,
 		"value": 50

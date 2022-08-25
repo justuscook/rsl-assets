@@ -14,7 +14,7 @@
 	"cdamage": "50",
 	"cheal": "50",
 	"faction": "Knights Revenant",
-	"aura": "Increase Ally ACC in  by 40",
+	"aura": "Increase Ally ACC in Faction Crypts by 40",
 	"totalBooks": "12",
 	"skills": [
 		{
@@ -43,7 +43,7 @@
 			"name": "Alacrity",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		}

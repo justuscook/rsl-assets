@@ -13,8 +13,8 @@
 	"modelName": "0192_Orc",
 	"avatarKey": "1320",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Arena",
+		"affinity": null,
 		"kind": "Accuracy",
 		"absolute": true,
 		"value": 40

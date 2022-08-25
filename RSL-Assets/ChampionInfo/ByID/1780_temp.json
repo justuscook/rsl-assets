@@ -13,8 +13,8 @@
 	"modelName": "0200_order_knight",
 	"avatarKey": "1780_temp",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Defence",
 		"absolute": false,
 		"value": 0.33

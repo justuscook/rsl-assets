@@ -33,7 +33,7 @@
 			"name": "Electric Storm",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Cooldown -1\n",
 			"multiplier": "3.6*ATK",
 			"numBooksToMax": "3"
 		},
@@ -43,7 +43,7 @@
 			"name": "Positive Charge",
 			"maxcd": "6",
 			"mincd": "4",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		}

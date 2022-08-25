@@ -13,8 +13,8 @@
 	"modelName": "0231_Canoness_id2140",
 	"avatarKey": "2140",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Fractions",
+		"affinity": null,
 		"kind": "Speed",
 		"absolute": false,
 		"value": 0.2

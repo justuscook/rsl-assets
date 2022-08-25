@@ -14,7 +14,7 @@
 	"cdamage": "50",
 	"cheal": "50",
 	"faction": "Demonspawn",
-	"aura": "Increase Ally  in  by 25",
+	"aura": "Increase Ally  in in all Battles by 25",
 	"totalBooks": "15",
 	"skills": [
 		{
@@ -33,7 +33,7 @@
 			"name": "Cannibal Might",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		},
@@ -43,7 +43,7 @@
 			"name": "Frostfire Gale",
 			"maxcd": "5",
 			"mincd": "3",
-			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\nLvl. 7 Cooldown -1Lvl. 7 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Cooldown -1\nLvl. 7 Cooldown -1\n",
 			"multiplier": "5.5*ATK",
 			"numBooksToMax": "6"
 		},

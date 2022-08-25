@@ -13,8 +13,8 @@
 	"modelName": "0623_samurai_id5860",
 	"avatarKey": "5860",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Resistance",
 		"absolute": true,
 		"value": 40

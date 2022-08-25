@@ -13,8 +13,8 @@
 	"modelName": "0300_Skinwalkers",
 	"avatarKey": "2710",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Dungeon",
+		"affinity": null,
 		"kind": "CriticalChance",
 		"absolute": false,
 		"value": 0.23

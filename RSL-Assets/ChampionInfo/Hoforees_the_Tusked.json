@@ -14,7 +14,7 @@
 	"cdamage": "50",
 	"cheal": "50",
 	"faction": "Skinwalkers",
-	"aura": "Increase Ally  in  by 40",
+	"aura": "Increase Ally  in in all Battles by 40",
 	"totalBooks": "9",
 	"skills": [
 		{
@@ -33,7 +33,7 @@
 			"name": "War Whoop",
 			"maxcd": "5",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		},
@@ -43,7 +43,7 @@
 			"name": "Eternal War",
 			"maxcd": "7",
 			"mincd": "5",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		}

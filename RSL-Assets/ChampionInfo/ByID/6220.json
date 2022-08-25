@@ -13,8 +13,8 @@
 	"modelName": "0501_revenant_id6220",
 	"avatarKey": "6220",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Health",
 		"absolute": false,
 		"value": 0.33

@@ -13,8 +13,8 @@
 	"modelName": "0240_BigUn",
 	"avatarKey": "21090",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Dungeon",
+		"affinity": null,
 		"kind": "Accuracy",
 		"absolute": true,
 		"value": 90

@@ -14,7 +14,7 @@
 	"cdamage": "60",
 	"cheal": "50",
 	"faction": "Banner Lords",
-	"aura": "Increase Ally SPD in  by 20",
+	"aura": "Increase Ally SPD in Arena battles by 20",
 	"totalBooks": "8",
 	"skills": [
 		{
@@ -33,7 +33,7 @@
 			"name": "Ring True",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Cooldown -1\n",
 			"multiplier": null,
 			"numBooksToMax": "3"
 		},

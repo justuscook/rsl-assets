@@ -13,8 +13,8 @@
 	"modelName": "0316_Demons_id3180",
 	"avatarKey": "3180",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Attack",
 		"absolute": false,
 		"value": 0.33

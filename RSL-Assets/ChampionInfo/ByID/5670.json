@@ -13,8 +13,8 @@
 	"modelName": "0514_Orc_id5670",
 	"avatarKey": "5670",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "DoomTower",
+		"affinity": null,
 		"kind": "Defence",
 		"absolute": false,
 		"value": 0.34

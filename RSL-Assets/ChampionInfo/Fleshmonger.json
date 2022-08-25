@@ -14,7 +14,7 @@
 	"cdamage": "57",
 	"cheal": "50",
 	"faction": "Skinwalkers",
-	"aura": "Increase Ally ATK in  by 23",
+	"aura": "Increase Ally ATK in Dungeons by 23",
 	"totalBooks": "13",
 	"skills": [
 		{
@@ -33,7 +33,7 @@
 			"name": "Fresh Meat",
 			"maxcd": "5",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		},

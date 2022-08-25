@@ -14,7 +14,7 @@
 	"cdamage": "50",
 	"cheal": "50",
 	"faction": "Demonspawn",
-	"aura": "Increase Ally HP in  by 25",
+	"aura": "Increase Ally HP in in all Battles by 25",
 	"totalBooks": "18",
 	"skills": [
 		{
@@ -43,7 +43,7 @@
 			"name": "Pyretic Release",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +10%\nLvl. 7 Cooldown -1Lvl. 7 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +10%\nLvl. 7 Cooldown -1\n",
 			"multiplier": "3.5*DEF",
 			"numBooksToMax": "6"
 		},

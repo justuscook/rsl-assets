@@ -13,8 +13,8 @@
 	"modelName": "0762_revenant_id7070",
 	"avatarKey": "7070",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Attack",
 		"absolute": false,
 		"value": 0.25

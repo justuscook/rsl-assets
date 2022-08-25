@@ -14,7 +14,7 @@
 	"cdamage": "50",
 	"cheal": "50",
 	"faction": "Skinwalkers",
-	"aura": "Increase Ally HP in  by 33",
+	"aura": "Increase Ally HP in Dungeons by 33",
 	"totalBooks": "9",
 	"skills": [
 		{
@@ -43,7 +43,7 @@
 			"name": "Blood Offering",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Cooldown -1\n",
 			"multiplier": "0.25*HP",
 			"numBooksToMax": "1"
 		}

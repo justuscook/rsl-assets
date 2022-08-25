@@ -14,7 +14,7 @@
 	"cdamage": "50",
 	"cheal": "50",
 	"faction": "Skinwalkers",
-	"aura": "Increase Ally  in  by 40",
+	"aura": "Increase Ally  in Dungeons by 40",
 	"totalBooks": "7",
 	"skills": [
 		{
@@ -33,7 +33,7 @@
 			"name": "Ice Pillar",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Cooldown -1\n",
 			"multiplier": "3.8*DEF",
 			"numBooksToMax": "3"
 		},

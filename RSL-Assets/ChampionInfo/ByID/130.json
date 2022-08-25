@@ -13,8 +13,8 @@
 	"modelName": "0113_Elf_combined",
 	"avatarKey": "130",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Dungeon",
+		"affinity": null,
 		"kind": "Attack",
 		"absolute": false,
 		"value": 0.35

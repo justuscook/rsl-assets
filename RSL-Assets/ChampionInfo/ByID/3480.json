@@ -13,8 +13,8 @@
 	"modelName": "0368_ValentineDemon",
 	"avatarKey": "3480",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Attack",
 		"absolute": false,
 		"value": 0.33

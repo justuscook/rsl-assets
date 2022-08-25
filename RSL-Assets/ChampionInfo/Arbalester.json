@@ -43,7 +43,7 @@
 			"name": "Soulbreak",
 			"maxcd": "6",
 			"mincd": "5",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Cooldown -1\n",
 			"multiplier": "ATK*(2+TRG_DEBUFF_COUNT)",
 			"numBooksToMax": "3"
 		}

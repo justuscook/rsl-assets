@@ -13,8 +13,8 @@
 	"modelName": "0725_ogres_id6710",
 	"avatarKey": "6710",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Arena",
+		"affinity": null,
 		"kind": "Resistance",
 		"absolute": true,
 		"value": 65

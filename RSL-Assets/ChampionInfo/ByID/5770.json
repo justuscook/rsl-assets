@@ -13,8 +13,8 @@
 	"modelName": "0613_val_lvl4",
 	"avatarKey": "5770",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Accuracy",
 		"absolute": true,
 		"value": 60

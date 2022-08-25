@@ -14,7 +14,7 @@
 	"cdamage": "63",
 	"cheal": "50",
 	"faction": "Undead Hordes",
-	"aura": "Increase Ally ATK in  by 34",
+	"aura": "Increase Ally ATK in Dungeons by 34",
 	"totalBooks": "9",
 	"skills": [
 		{
@@ -33,7 +33,7 @@
 			"name": "Tornado",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		},
@@ -43,7 +43,7 @@
 			"name": "Open Wounds",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Cooldown -1\n",
 			"multiplier": "6.6*ATK",
 			"numBooksToMax": "3"
 		}

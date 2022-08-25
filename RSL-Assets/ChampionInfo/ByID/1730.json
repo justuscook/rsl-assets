@@ -13,8 +13,8 @@
 	"modelName": "0099_High_Elf_Archer",
 	"avatarKey": "1730",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Dungeon",
+		"affinity": null,
 		"kind": "CriticalChance",
 		"absolute": false,
 		"value": 0.33

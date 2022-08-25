@@ -14,7 +14,7 @@
 	"cdamage": "50",
 	"cheal": "50",
 	"faction": "Ogryn Tribes",
-	"aura": "Increase Ally  in  by 50",
+	"aura": "Increase Ally  in in all Battles by 50",
 	"totalBooks": "12",
 	"skills": [
 		{
@@ -33,7 +33,7 @@
 			"name": "Druidic Boon",
 			"maxcd": "3",
 			"mincd": "2",
-			"books": "Lvl. 2  Heal +5%\nLvl. 4  Heal +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2  Heal +5%\nLvl. 4  Heal +10%\nLvl. 6 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "5"
 		},
@@ -43,7 +43,7 @@
 			"name": "Cloud of Spores",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "4"
 		},

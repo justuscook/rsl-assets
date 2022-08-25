@@ -14,7 +14,7 @@
 	"cdamage": "50",
 	"cheal": "50",
 	"faction": "Banner Lords",
-	"aura": "Increase Ally HP in  by 22",
+	"aura": "Increase Ally HP in Faction Crypts by 22",
 	"totalBooks": "9",
 	"skills": [
 		{
@@ -33,7 +33,7 @@
 			"name": "Energizing Presence",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		},

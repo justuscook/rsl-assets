@@ -33,7 +33,7 @@
 			"name": "Rain of Arrows",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Damage +10%\nLvl. 6 Buff/Debuff Chance +5%\nLvl. 7 Damage +15%\nLvl. 8 Buff/Debuff Chance +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Cooldown -1\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Damage +10%\nLvl. 6 Buff/Debuff Chance +5%\nLvl. 7 Damage +15%\nLvl. 8 Buff/Debuff Chance +5%\n",
 			"multiplier": "1.9*ATK",
 			"numBooksToMax": "7"
 		}

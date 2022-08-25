@@ -13,8 +13,8 @@
 	"modelName": "0071_Undead",
 	"avatarKey": "1210",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Arena",
+		"affinity": null,
 		"kind": "Health",
 		"absolute": false,
 		"value": 0.3

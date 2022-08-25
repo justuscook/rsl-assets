@@ -14,7 +14,7 @@
 	"cdamage": "50",
 	"cheal": "50",
 	"faction": "Dark Elves",
-	"aura": "Increase Ally HP in  by 33",
+	"aura": "Increase Ally HP in Dungeons by 33",
 	"totalBooks": "11",
 	"skills": [
 		{
@@ -33,7 +33,7 @@
 			"name": "Vile Tongue",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Cooldown -1\n",
 			"multiplier": null,
 			"numBooksToMax": "5"
 		},
@@ -43,7 +43,7 @@
 			"name": "En Garde!",
 			"maxcd": "6",
 			"mincd": "4",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		}

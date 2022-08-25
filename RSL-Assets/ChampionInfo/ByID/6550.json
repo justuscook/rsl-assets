@@ -13,8 +13,8 @@
 	"modelName": "0710_ComplexHero_id6550",
 	"avatarKey": "6550",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Accuracy",
 		"absolute": true,
 		"value": 60

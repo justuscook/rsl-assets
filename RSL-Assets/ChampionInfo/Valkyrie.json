@@ -14,7 +14,7 @@
 	"cdamage": "50",
 	"cheal": "50",
 	"faction": "Barbarians",
-	"aura": "Increase Ally  in  by 33",
+	"aura": "Increase Ally  in Faction Crypts by 33",
 	"totalBooks": "11",
 	"skills": [
 		{
@@ -33,7 +33,7 @@
 			"name": "Stand Firm",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 4 Damage +5%\nLvl. 6 Damage +10%\nLvl. 7 Cooldown -1Lvl. 7 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 4 Damage +5%\nLvl. 6 Damage +10%\nLvl. 7 Cooldown -1\n",
 			"multiplier": "3*DEF",
 			"numBooksToMax": "6"
 		},

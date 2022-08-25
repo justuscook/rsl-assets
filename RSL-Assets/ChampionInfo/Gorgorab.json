@@ -14,7 +14,7 @@
 	"cdamage": "50",
 	"cheal": "50",
 	"faction": "Undead Hordes",
-	"aura": "Increase Ally SPD in  by 23",
+	"aura": "Increase Ally SPD in Arena battles by 23",
 	"totalBooks": "10",
 	"skills": [
 		{
@@ -33,7 +33,7 @@
 			"name": "Resurge",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		},
@@ -43,7 +43,7 @@
 			"name": "Animate",
 			"maxcd": "6",
 			"mincd": "5",
-			"books": "Lvl. 2  Heal +5%\nLvl. 3  Heal +5%\nLvl. 4  Heal +10%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2  Heal +5%\nLvl. 3  Heal +5%\nLvl. 4  Heal +10%\nLvl. 5 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "4"
 		}

@@ -13,8 +13,8 @@
 	"modelName": "0457_undead_5490",
 	"avatarKey": "5490",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Fractions",
+		"affinity": null,
 		"kind": "Defence",
 		"absolute": false,
 		"value": 0.3

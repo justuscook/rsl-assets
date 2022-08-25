@@ -13,8 +13,8 @@
 	"modelName": "0238_HighElf_F",
 	"avatarKey": "2360",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Fractions",
+		"affinity": null,
 		"kind": "CriticalChance",
 		"absolute": false,
 		"value": 0.24

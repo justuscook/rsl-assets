@@ -14,7 +14,7 @@
 	"cdamage": "50",
 	"cheal": "50",
 	"faction": "Undead Hordes",
-	"aura": "Increase Ally HP in  by 30",
+	"aura": "Increase Ally HP in Arena battles by 30",
 	"totalBooks": "13",
 	"skills": [
 		{
@@ -33,7 +33,7 @@
 			"name": "Despair",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1\n",
 			"multiplier": "0.1*TRG_HP",
 			"numBooksToMax": "5"
 		},
@@ -43,7 +43,7 @@
 			"name": "Retaliate",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Cooldown -1\n",
 			"multiplier": "0.33*HP",
 			"numBooksToMax": "3"
 		}

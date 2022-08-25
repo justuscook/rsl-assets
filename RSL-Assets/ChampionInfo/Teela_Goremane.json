@@ -14,7 +14,7 @@
 	"cdamage": "63",
 	"cheal": "50",
 	"faction": "Orcs",
-	"aura": "Increase Ally  in  by 50",
+	"aura": "Increase Ally  in in all Battles by 50",
 	"totalBooks": "13",
 	"skills": [
 		{
@@ -43,7 +43,7 @@
 			"name": "Life Worm",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1\n",
 			"multiplier": "0.2*HP",
 			"numBooksToMax": "5"
 		}

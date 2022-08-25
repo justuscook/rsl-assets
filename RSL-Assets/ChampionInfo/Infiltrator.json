@@ -33,7 +33,7 @@
 			"name": "Throwing Knives",
 			"maxcd": "4",
 			"mincd": "2",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\nLvl. 7 Cooldown -1Lvl. 7 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Cooldown -1\nLvl. 7 Cooldown -1\n",
 			"multiplier": "3.4*ATK",
 			"numBooksToMax": "6"
 		}

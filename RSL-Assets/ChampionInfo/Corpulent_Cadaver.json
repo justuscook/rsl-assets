@@ -14,7 +14,7 @@
 	"cdamage": "50",
 	"cheal": "50",
 	"faction": "Undead Hordes",
-	"aura": "Increase Ally  in  by 15",
+	"aura": "Increase Ally  in in all Battles by 15",
 	"totalBooks": "15",
 	"skills": [
 		{
@@ -43,7 +43,7 @@
 			"name": "Baleful Tenacity",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +10%\nLvl. 7 Buff/Debuff Chance +10%\nLvl. 8 Cooldown -1Lvl. 8 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +10%\nLvl. 7 Buff/Debuff Chance +10%\nLvl. 8 Cooldown -1\n",
 			"multiplier": "0.3*HP",
 			"numBooksToMax": "7"
 		}

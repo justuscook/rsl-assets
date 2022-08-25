@@ -13,8 +13,8 @@
 	"modelName": "0310_Ogres_lady_lvl5",
 	"avatarKey": "2530",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Fractions",
+		"affinity": null,
 		"kind": "Accuracy",
 		"absolute": true,
 		"value": 65

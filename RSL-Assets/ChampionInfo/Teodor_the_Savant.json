@@ -14,7 +14,7 @@
 	"cdamage": "50",
 	"cheal": "50",
 	"faction": "Knights Revenant",
-	"aura": "Increase Ally ACC in  by 50",
+	"aura": "Increase Ally ACC in in all Battles by 50",
 	"totalBooks": "9",
 	"skills": [
 		{
@@ -33,7 +33,7 @@
 			"name": "Savant's Savvy",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Buff/Debuff Chance +15%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Buff/Debuff Chance +15%\nLvl. 4 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "3"
 		},
@@ -43,7 +43,7 @@
 			"name": "Chymistry",
 			"maxcd": "5",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		},

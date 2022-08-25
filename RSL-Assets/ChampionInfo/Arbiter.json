@@ -14,7 +14,7 @@
 	"cdamage": "50",
 	"cheal": "50",
 	"faction": "High Elves",
-	"aura": "Increase Ally SPD in  by 30",
+	"aura": "Increase Ally SPD in Arena battles by 30",
 	"totalBooks": "9",
 	"skills": [
 		{
@@ -43,7 +43,7 @@
 			"name": "Mentor of Heroes",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		},
@@ -53,7 +53,7 @@
 			"name": "Destiny's Call",
 			"maxcd": "7",
 			"mincd": "5",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		}

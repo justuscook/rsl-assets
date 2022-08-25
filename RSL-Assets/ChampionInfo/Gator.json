@@ -14,7 +14,7 @@
 	"cdamage": "50",
 	"cheal": "50",
 	"faction": "Lizard Men",
-	"aura": "Increase Ally C. RATE in  by 22",
+	"aura": "Increase undefined Ally C. RATE in in all Battles by 22",
 	"totalBooks": "6",
 	"skills": [
 		{
@@ -33,7 +33,7 @@
 			"name": "Radiate Frenzy",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		},
@@ -43,7 +43,7 @@
 			"name": "Defy the Witch",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		}

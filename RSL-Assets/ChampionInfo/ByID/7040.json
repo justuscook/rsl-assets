@@ -13,8 +13,8 @@
 	"modelName": "0658_darkelves_id7040",
 	"avatarKey": "7040",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Accuracy",
 		"absolute": true,
 		"value": 70

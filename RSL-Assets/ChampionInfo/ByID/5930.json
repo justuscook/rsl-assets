@@ -13,8 +13,8 @@
 	"modelName": "0397_dwarf_id5930",
 	"avatarKey": "5930",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "DoomTower",
+		"affinity": null,
 		"kind": "Resistance",
 		"absolute": true,
 		"value": 60

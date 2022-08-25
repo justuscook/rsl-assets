@@ -13,8 +13,8 @@
 	"modelName": "0698_demonspawn_id6520",
 	"avatarKey": "6520",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Speed",
 		"absolute": false,
 		"value": 0.15

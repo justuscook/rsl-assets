@@ -13,8 +13,8 @@
 	"modelName": "0168_Goat",
 	"avatarKey": "1930",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Fractions",
+		"affinity": null,
 		"kind": "Resistance",
 		"absolute": true,
 		"value": 30

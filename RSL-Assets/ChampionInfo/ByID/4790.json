@@ -13,8 +13,8 @@
 	"modelName": "0411_ogre_lvl5_id4790",
 	"avatarKey": "4790",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Health",
 		"absolute": false,
 		"value": 0.25

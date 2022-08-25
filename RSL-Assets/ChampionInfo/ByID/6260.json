@@ -13,8 +13,8 @@
 	"modelName": "0705_Lizardmen_6260",
 	"avatarKey": "6260",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Health",
 		"absolute": false,
 		"value": 0.31

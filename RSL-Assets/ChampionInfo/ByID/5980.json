@@ -13,8 +13,8 @@
 	"modelName": "0500_dark_elf_id5980",
 	"avatarKey": "5980",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "CriticalChance",
 		"absolute": false,
 		"value": 0.2

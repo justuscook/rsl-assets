@@ -13,8 +13,8 @@
 	"modelName": "0431_Skinwalker_id4690",
 	"avatarKey": "4690",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Dungeon",
+		"affinity": null,
 		"kind": "Attack",
 		"absolute": false,
 		"value": 0.23

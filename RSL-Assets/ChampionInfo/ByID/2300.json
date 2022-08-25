@@ -13,8 +13,8 @@
 	"modelName": "0169_Crocodile(2300)",
 	"avatarKey": "2300",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Fractions",
+		"affinity": null,
 		"kind": "Defence",
 		"absolute": false,
 		"value": 0.15

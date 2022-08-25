@@ -13,8 +13,8 @@
 	"modelName": "0564_Lizardmen_id6140",
 	"avatarKey": "6140",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Resistance",
 		"absolute": true,
 		"value": 40

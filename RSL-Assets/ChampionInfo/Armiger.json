@@ -33,7 +33,7 @@
 			"name": "Lay to Rest",
 			"maxcd": "3",
 			"mincd": "2",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Cooldown -1\n",
 			"multiplier": "2.9*DEF+0.05*TRG_HP",
 			"numBooksToMax": "5"
 		}

@@ -14,7 +14,7 @@
 	"cdamage": "50",
 	"cheal": "50",
 	"faction": "Lizard Men",
-	"aura": "Increase Ally HP in  by 33",
+	"aura": "Increase Ally HP in in all Battles by 33",
 	"totalBooks": "7",
 	"skills": [
 		{
@@ -33,7 +33,7 @@
 			"name": "Pack Leader",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		},

@@ -13,8 +13,8 @@
 	"modelName": "0447_samurai_id6030",
 	"avatarKey": "6030",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Accuracy",
 		"absolute": true,
 		"value": 40

@@ -13,8 +13,8 @@
 	"modelName": "0165_Ogre(670)",
 	"avatarKey": "670",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Dungeon",
+		"affinity": null,
 		"kind": "Accuracy",
 		"absolute": true,
 		"value": 40

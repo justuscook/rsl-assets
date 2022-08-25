@@ -13,8 +13,8 @@
 	"modelName": "0582_Marionette_id5340",
 	"avatarKey": "5340",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Attack",
 		"absolute": false,
 		"value": 0.33

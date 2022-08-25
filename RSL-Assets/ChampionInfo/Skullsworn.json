@@ -14,7 +14,7 @@
 	"cdamage": "57",
 	"cheal": "50",
 	"faction": "Lizard Men",
-	"aura": "Increase Ally SPD in  by 13",
+	"aura": "Increase Ally SPD in Faction Crypts by 13",
 	"totalBooks": "10",
 	"skills": [
 		{
@@ -33,7 +33,7 @@
 			"name": "Cry For Blood",
 			"maxcd": "7",
 			"mincd": "4",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\nLvl. 4 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "3"
 		},

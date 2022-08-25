@@ -13,8 +13,8 @@
 	"modelName": "0054_Archer_id3360",
 	"avatarKey": "3360",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Arena",
+		"affinity": null,
 		"kind": "Accuracy",
 		"absolute": true,
 		"value": 40

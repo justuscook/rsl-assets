@@ -13,8 +13,8 @@
 	"modelName": "0254_barbarians_3860",
 	"avatarKey": "3860",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Arena",
+		"affinity": null,
 		"kind": "CriticalChance",
 		"absolute": false,
 		"value": 0.3

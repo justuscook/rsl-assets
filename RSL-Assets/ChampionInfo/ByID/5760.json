@@ -13,8 +13,8 @@
 	"modelName": "0614_val_id5760",
 	"avatarKey": "5760",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Speed",
 		"absolute": false,
 		"value": 0.19

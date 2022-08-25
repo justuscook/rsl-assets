@@ -13,8 +13,8 @@
 	"modelName": "0226_Lizard",
 	"avatarKey": "1160",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Arena",
+		"affinity": null,
 		"kind": "Resistance",
 		"absolute": true,
 		"value": 90

@@ -13,8 +13,8 @@
 	"modelName": "0068_CursedDame_id3960",
 	"avatarKey": "3960",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Arena",
+		"affinity": null,
 		"kind": "Accuracy",
 		"absolute": true,
 		"value": 40

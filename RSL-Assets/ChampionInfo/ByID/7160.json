@@ -13,8 +13,8 @@
 	"modelName": "0743_knight_f_id7160",
 	"avatarKey": "7160",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Resistance",
 		"absolute": true,
 		"value": 35

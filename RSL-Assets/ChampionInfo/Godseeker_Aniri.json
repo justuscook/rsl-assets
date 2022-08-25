@@ -33,7 +33,7 @@
 			"name": "Quest For Meaning",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2  Heal +5%\nLvl. 3  Heal +5%\nLvl. 4  Heal +5%\nLvl. 5  Heal +5%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2  Heal +5%\nLvl. 3  Heal +5%\nLvl. 4  Heal +5%\nLvl. 5  Heal +5%\nLvl. 6 Cooldown -1\n",
 			"multiplier": "3*DEF",
 			"numBooksToMax": "5"
 		},
@@ -43,7 +43,7 @@
 			"name": "Rise of Glory",
 			"maxcd": "7",
 			"mincd": "4",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\nLvl. 4 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "3"
 		},
@@ -53,7 +53,7 @@
 			"name": "Guardian Angel [P]",
 			"maxcd": "7",
 			"mincd": "4",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\nLvl. 4 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "3"
 		}

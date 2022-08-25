@@ -13,8 +13,8 @@
 	"modelName": "401_athel_undead_id4030",
 	"avatarKey": "4030",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Attack",
 		"absolute": false,
 		"value": 0.2

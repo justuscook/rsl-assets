@@ -13,8 +13,8 @@
 	"modelName": "0216_Demonspalm_tank",
 	"avatarKey": "1430",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Arena",
+		"affinity": null,
 		"kind": "Speed",
 		"absolute": false,
 		"value": 0.32

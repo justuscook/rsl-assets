@@ -14,7 +14,7 @@
 	"cdamage": "50",
 	"cheal": "50",
 	"faction": "Ogryn Tribes",
-	"aura": "Increase Ally  in  by 45",
+	"aura": "Increase Ally  in Faction Crypts by 45",
 	"totalBooks": "5",
 	"skills": [
 		{
@@ -33,7 +33,7 @@
 			"name": "Stonewall",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		},

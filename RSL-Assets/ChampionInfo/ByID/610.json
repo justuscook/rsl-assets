@@ -13,8 +13,8 @@
 	"modelName": "0069_Undead_combined",
 	"avatarKey": "610",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Arena",
+		"affinity": null,
 		"kind": "Resistance",
 		"absolute": true,
 		"value": 70

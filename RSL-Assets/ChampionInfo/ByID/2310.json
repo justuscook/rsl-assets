@@ -13,8 +13,8 @@
 	"modelName": "0133_ORDER_archer",
 	"avatarKey": "2310",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Fractions",
+		"affinity": null,
 		"kind": "Attack",
 		"absolute": false,
 		"value": 0.34

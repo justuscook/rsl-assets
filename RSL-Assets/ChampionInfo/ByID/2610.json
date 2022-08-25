@@ -13,8 +13,8 @@
 	"modelName": "0282_Blessed_id2610",
 	"avatarKey": "2610",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Fractions",
+		"affinity": null,
 		"kind": "Health",
 		"absolute": false,
 		"value": 0.31

@@ -13,8 +13,8 @@
 	"modelName": "0043_Knight_id3790",
 	"avatarKey": "3790",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Speed",
 		"absolute": false,
 		"value": 0.2

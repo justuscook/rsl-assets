@@ -13,8 +13,8 @@
 	"modelName": "0792_kostya_id6670",
 	"avatarKey": "6670",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Arena",
+		"affinity": null,
 		"kind": "Attack",
 		"absolute": false,
 		"value": 0.3

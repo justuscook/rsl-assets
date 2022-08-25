@@ -13,8 +13,8 @@
 	"modelName": "0489_Bannerlord_id5990",
 	"avatarKey": "5990",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Resistance",
 		"absolute": true,
 		"value": 60

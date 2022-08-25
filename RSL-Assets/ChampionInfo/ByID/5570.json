@@ -13,8 +13,8 @@
 	"modelName": "496_Ogre_id5570",
 	"avatarKey": "5570",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "DoomTower",
+		"affinity": null,
 		"kind": "Defence",
 		"absolute": false,
 		"value": 0.3

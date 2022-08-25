@@ -13,8 +13,8 @@
 	"modelName": "0179_Orc_Warrior_id2560",
 	"avatarKey": "2560",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Fractions",
+		"affinity": null,
 		"kind": "Defence",
 		"absolute": false,
 		"value": 0.23

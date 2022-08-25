@@ -14,7 +14,7 @@
 	"cdamage": "50",
 	"cheal": "50",
 	"faction": "Demonspawn",
-	"aura": "Increase Ally  in  by 19",
+	"aura": "Increase Ally  in Faction Crypts by 19",
 	"totalBooks": "7",
 	"skills": [
 		{
@@ -33,7 +33,7 @@
 			"name": "Flameborn Vigor",
 			"maxcd": "4",
 			"mincd": "2",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		},
@@ -43,7 +43,7 @@
 			"name": "Deflect",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		}

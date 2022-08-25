@@ -13,8 +13,8 @@
 	"modelName": "0045_Enforcer",
 	"avatarKey": "1590",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Arena",
+		"affinity": null,
 		"kind": "Resistance",
 		"absolute": true,
 		"value": 70

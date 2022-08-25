@@ -14,7 +14,7 @@
 	"cdamage": "60",
 	"cheal": "50",
 	"faction": "Sacred Order",
-	"aura": "Increase Ally C. RATE in  by 15",
+	"aura": "Increase Ally C. RATE in Dungeons by 15",
 	"totalBooks": "12",
 	"skills": [
 		{
@@ -33,7 +33,7 @@
 			"name": "Rise to Duty",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\nLvl. 6 Cooldown -1\n",
 			"multiplier": "3.9*ATK",
 			"numBooksToMax": "5"
 		},
@@ -43,7 +43,7 @@
 			"name": "Awesome Presence",
 			"maxcd": "6",
 			"mincd": "5",
-			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Buff/Debuff Chance +15%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Buff/Debuff Chance +15%\nLvl. 4 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "3"
 		}

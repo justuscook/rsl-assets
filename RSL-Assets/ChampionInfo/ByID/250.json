@@ -13,8 +13,8 @@
 	"modelName": "0019_Mage",
 	"avatarKey": "250",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Arena",
+		"affinity": null,
 		"kind": "Defence",
 		"absolute": false,
 		"value": 0.25

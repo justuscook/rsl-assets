@@ -14,7 +14,7 @@
 	"cdamage": "60",
 	"cheal": "50",
 	"faction": "Banner Lords",
-	"aura": "Increase Ally SPD in  by 20",
+	"aura": "Increase Ally SPD in Faction Crypts by 20",
 	"totalBooks": "9",
 	"skills": [
 		{
@@ -43,7 +43,7 @@
 			"name": "Burning Hatred",
 			"maxcd": "6",
 			"mincd": "5",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		}

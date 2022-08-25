@@ -13,8 +13,8 @@
 	"modelName": "0319_Incendiary_id2550",
 	"avatarKey": "2550",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Defence",
 		"absolute": false,
 		"value": 0.33

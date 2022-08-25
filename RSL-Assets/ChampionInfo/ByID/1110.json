@@ -13,8 +13,8 @@
 	"modelName": "1110_Nightcrawler",
 	"avatarKey": "1110",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Fractions",
+		"affinity": null,
 		"kind": "Health",
 		"absolute": false,
 		"value": 0.21

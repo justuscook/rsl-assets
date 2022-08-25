@@ -13,8 +13,8 @@
 	"modelName": "0213_Succub",
 	"avatarKey": "2340",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Fractions",
+		"affinity": null,
 		"kind": "Attack",
 		"absolute": false,
 		"value": 0.27

@@ -14,7 +14,7 @@
 	"cdamage": "50",
 	"cheal": "50",
 	"faction": "Lizard Men",
-	"aura": "Increase Ally ATK in  by 18",
+	"aura": "Increase Ally ATK in in all Battles by 18",
 	"totalBooks": "12",
 	"skills": [
 		{
@@ -43,7 +43,7 @@
 			"name": "Rile",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1\n",
 			"multiplier": "5.8*DEF",
 			"numBooksToMax": "5"
 		}

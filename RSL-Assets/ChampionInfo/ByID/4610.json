@@ -13,8 +13,8 @@
 	"modelName": "0287_Barbarian_f",
 	"avatarKey": "4610",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Arena",
+		"affinity": null,
 		"kind": "Resistance",
 		"absolute": true,
 		"value": 45

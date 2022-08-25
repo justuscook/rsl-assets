@@ -14,7 +14,7 @@
 	"cdamage": "50",
 	"cheal": "50",
 	"faction": "Dark Elves",
-	"aura": "Increase Ally  in  by 45",
+	"aura": "Increase Ally  in Faction Crypts by 45",
 	"totalBooks": "10",
 	"skills": [
 		{
@@ -33,7 +33,7 @@
 			"name": "Stay In The Fight",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2  Heal +5%\nLvl. 3  Heal +5%\nLvl. 4  Heal +5%\nLvl. 5  Heal +5%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2  Heal +5%\nLvl. 3  Heal +5%\nLvl. 4  Heal +5%\nLvl. 5  Heal +5%\nLvl. 6 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "5"
 		},
@@ -43,7 +43,7 @@
 			"name": "Exalted Guardian",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		}

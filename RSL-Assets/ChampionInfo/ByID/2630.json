@@ -13,8 +13,8 @@
 	"modelName": "0144_Warleader_id2630",
 	"avatarKey": "2630",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Fractions",
+		"affinity": null,
 		"kind": "Attack",
 		"absolute": false,
 		"value": 0.18

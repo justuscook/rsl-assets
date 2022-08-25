@@ -14,7 +14,7 @@
 	"cdamage": "50",
 	"cheal": "50",
 	"faction": "Dark Elves",
-	"aura": "Increase Ally HP in  by 25",
+	"aura": "Increase Ally HP in Dungeons by 25",
 	"totalBooks": "12",
 	"skills": [
 		{
@@ -43,7 +43,7 @@
 			"name": "Soul Link",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2  Heal +5%\nLvl. 3  Heal +5%\nLvl. 4  Heal +10%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2  Heal +5%\nLvl. 3  Heal +5%\nLvl. 4  Heal +10%\nLvl. 5 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "4"
 		}

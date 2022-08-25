@@ -13,8 +13,8 @@
 	"modelName": "0303_undead_id4960",
 	"avatarKey": "4960",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Accuracy",
 		"absolute": true,
 		"value": 40

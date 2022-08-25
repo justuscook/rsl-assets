@@ -14,7 +14,7 @@
 	"cdamage": "50",
 	"cheal": "50",
 	"faction": "High Elves",
-	"aura": "Increase Ally ATK in  by 23",
+	"aura": "Increase Ally ATK in Dungeons by 23",
 	"totalBooks": "19",
 	"skills": [
 		{
@@ -43,7 +43,7 @@
 			"name": "Blade Flourish",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +10%\nLvl. 7 Cooldown -1Lvl. 7 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +10%\nLvl. 7 Cooldown -1\n",
 			"multiplier": "3.5*ATK",
 			"numBooksToMax": "6"
 		}

@@ -13,8 +13,8 @@
 	"modelName": "108_high_elf_support",
 	"avatarKey": "1750",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Speed",
 		"absolute": false,
 		"value": 0.24

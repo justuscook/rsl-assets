@@ -13,8 +13,8 @@
 	"modelName": "0227_BoneKnight_f_id2780",
 	"avatarKey": "2780",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Fractions",
+		"affinity": null,
 		"kind": "Speed",
 		"absolute": false,
 		"value": 0.2

@@ -13,8 +13,8 @@
 	"modelName": "0222_Lizard_ranger_lvl4",
 	"avatarKey": "1130",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Fractions",
+		"affinity": null,
 		"kind": "Resistance",
 		"absolute": true,
 		"value": 30

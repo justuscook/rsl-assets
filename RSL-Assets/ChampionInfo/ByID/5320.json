@@ -13,8 +13,8 @@
 	"modelName": "0579_dragon_id5320",
 	"avatarKey": "5320",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Resistance",
 		"absolute": true,
 		"value": 55

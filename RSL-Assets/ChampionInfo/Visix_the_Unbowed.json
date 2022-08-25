@@ -14,7 +14,7 @@
 	"cdamage": "50",
 	"cheal": "50",
 	"faction": "Dark Elves",
-	"aura": "Increase Ally  in  by 37",
+	"aura": "Increase Ally  in Faction Crypts by 37",
 	"totalBooks": "10",
 	"skills": [
 		{
@@ -33,7 +33,7 @@
 			"name": "Sinister Allies",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1\n",
 			"multiplier": "3.5*DEF",
 			"numBooksToMax": "5"
 		},
@@ -43,7 +43,7 @@
 			"name": "Single Combat",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Cooldown -1\n",
 			"multiplier": "4.1*DEF",
 			"numBooksToMax": "1"
 		}

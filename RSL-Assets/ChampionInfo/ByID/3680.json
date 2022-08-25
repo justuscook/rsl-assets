@@ -13,8 +13,8 @@
 	"modelName": "0189_Bloodthirster_id3680",
 	"avatarKey": "3680",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Dungeon",
+		"affinity": null,
 		"kind": "Speed",
 		"absolute": false,
 		"value": 0.24

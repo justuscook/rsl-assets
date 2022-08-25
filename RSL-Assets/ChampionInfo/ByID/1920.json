@@ -13,8 +13,8 @@
 	"modelName": "0092_DarkElfMage",
 	"avatarKey": "1920",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Fractions",
+		"affinity": null,
 		"kind": "Speed",
 		"absolute": false,
 		"value": 0.22

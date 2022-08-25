@@ -14,7 +14,7 @@
 	"cdamage": "60",
 	"cheal": "50",
 	"faction": "Sacred Order",
-	"aura": "Increase Ally ATK in  by 40",
+	"aura": "Increase Ally ATK in Campaign Battles by 40",
 	"totalBooks": "8",
 	"skills": [
 		{
@@ -33,7 +33,7 @@
 			"name": "Surging Strength",
 			"maxcd": "6",
 			"mincd": "4",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		},
@@ -43,7 +43,7 @@
 			"name": "Ageless Endurance [Passive]",
 			"maxcd": "5",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		}

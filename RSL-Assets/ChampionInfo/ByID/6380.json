@@ -13,8 +13,8 @@
 	"modelName": "0459_ogres_id6380",
 	"avatarKey": "6380",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Speed",
 		"absolute": false,
 		"value": 0.2

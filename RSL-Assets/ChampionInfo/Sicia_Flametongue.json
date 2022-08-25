@@ -14,7 +14,7 @@
 	"cdamage": "60",
 	"cheal": "50",
 	"faction": "Demonspawn",
-	"aura": "Increase Ally ACC in  by 60",
+	"aura": "Increase Ally ACC in in all Battles by 60",
 	"totalBooks": "14",
 	"skills": [
 		{
@@ -33,7 +33,7 @@
 			"name": "Flame Eruption",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1\n",
 			"multiplier": "3.7*ATK",
 			"numBooksToMax": "5"
 		},
@@ -43,7 +43,7 @@
 			"name": "Firestorm Rite",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +15%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +15%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1\n",
 			"multiplier": null,
 			"numBooksToMax": "5"
 		},

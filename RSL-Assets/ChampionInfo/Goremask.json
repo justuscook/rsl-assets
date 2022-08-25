@@ -14,7 +14,7 @@
 	"cdamage": "57",
 	"cheal": "50",
 	"faction": "Orcs",
-	"aura": "Increase Ally HP in  by 25",
+	"aura": "Increase Ally HP in Arena battles by 25",
 	"totalBooks": "17",
 	"skills": [
 		{
@@ -33,7 +33,7 @@
 			"name": "Go for the Throat",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\nLvl. 6 Damage +10%\nLvl. 7 Cooldown -1Lvl. 7 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\nLvl. 6 Damage +10%\nLvl. 7 Cooldown -1\n",
 			"multiplier": "4.4*ATK",
 			"numBooksToMax": "6"
 		},
@@ -43,7 +43,7 @@
 			"name": "Tearing Jaws",
 			"maxcd": "5",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\nLvl. 7 Cooldown -1Lvl. 7 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\nLvl. 6 Cooldown -1\nLvl. 7 Cooldown -1\n",
 			"multiplier": "4.8*ATK",
 			"numBooksToMax": "6"
 		}

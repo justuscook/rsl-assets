@@ -13,8 +13,8 @@
 	"modelName": "0294_OrderTank_id3870",
 	"avatarKey": "3870",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Speed",
 		"absolute": false,
 		"value": 0.19

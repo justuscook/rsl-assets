@@ -13,8 +13,8 @@
 	"modelName": "0091_undead_tank",
 	"avatarKey": "1120",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Arena",
+		"affinity": null,
 		"kind": "Defence",
 		"absolute": false,
 		"value": 0.3

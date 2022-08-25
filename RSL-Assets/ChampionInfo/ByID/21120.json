@@ -13,8 +13,8 @@
 	"modelName": "990_Fiend",
 	"avatarKey": "21120",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Speed",
 		"absolute": false,
 		"value": 0.24

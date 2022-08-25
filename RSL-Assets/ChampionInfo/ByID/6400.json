@@ -13,8 +13,8 @@
 	"modelName": "0717_Boneknignt_id6400",
 	"avatarKey": "6400",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Speed",
 		"absolute": false,
 		"value": 0.12

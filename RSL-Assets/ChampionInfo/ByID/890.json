@@ -13,8 +13,8 @@
 	"modelName": "161_Wildest_Reptile_combined",
 	"avatarKey": "890",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Fractions",
+		"affinity": null,
 		"kind": "Speed",
 		"absolute": false,
 		"value": 0.13

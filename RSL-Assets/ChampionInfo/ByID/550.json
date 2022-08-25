@@ -13,8 +13,8 @@
 	"modelName": "0049_Saracene_combined",
 	"avatarKey": "550",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Fractions",
+		"affinity": null,
 		"kind": "Resistance",
 		"absolute": true,
 		"value": 30

@@ -13,8 +13,8 @@
 	"modelName": "0629_Samurai_id6180",
 	"avatarKey": "6180",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Dungeon",
+		"affinity": null,
 		"kind": "Defence",
 		"absolute": false,
 		"value": 0.25

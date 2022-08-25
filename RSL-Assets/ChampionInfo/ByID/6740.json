@@ -13,8 +13,8 @@
 	"modelName": "0797_Hydra_6740",
 	"avatarKey": "6740",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Accuracy",
 		"absolute": true,
 		"value": 80

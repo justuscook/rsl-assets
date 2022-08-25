@@ -14,7 +14,7 @@
 	"cdamage": "50",
 	"cheal": "50",
 	"faction": "Undead Hordes",
-	"aura": "Increase Ally SPD in  by 13",
+	"aura": "Increase Ally SPD in Faction Crypts by 13",
 	"totalBooks": "10",
 	"skills": [
 		{
@@ -33,7 +33,7 @@
 			"name": "Frost Armaments",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		},

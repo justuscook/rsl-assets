@@ -14,7 +14,7 @@
 	"cdamage": "57",
 	"cheal": "50",
 	"faction": "Dwarves",
-	"aura": "Increase Ally ATK in  by 21",
+	"aura": "Increase Ally ATK in Dungeons by 21",
 	"totalBooks": "14",
 	"skills": [
 		{
@@ -33,7 +33,7 @@
 			"name": "Utter Destruction",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Cooldown -1\n",
 			"multiplier": "5.9*ATK",
 			"numBooksToMax": "5"
 		},
@@ -43,7 +43,7 @@
 			"name": "Helpless Victim",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\nLvl. 6 Cooldown -1\n",
 			"multiplier": "6*ATK",
 			"numBooksToMax": "5"
 		}

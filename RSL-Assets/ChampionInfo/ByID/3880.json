@@ -13,8 +13,8 @@
 	"modelName": "0237_Boneknights_tank",
 	"avatarKey": "3880",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Defence",
 		"absolute": false,
 		"value": 0.25

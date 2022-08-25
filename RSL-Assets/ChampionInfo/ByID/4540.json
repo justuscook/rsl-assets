@@ -13,8 +13,8 @@
 	"modelName": "347_hot_man_black",
 	"avatarKey": "4540",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "DoomTower",
+		"affinity": null,
 		"kind": "Accuracy",
 		"absolute": true,
 		"value": 60

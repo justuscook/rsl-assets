@@ -13,8 +13,8 @@
 	"modelName": "0756_Highelves_id2750",
 	"avatarKey": "2750",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "DoomTower",
+		"affinity": null,
 		"kind": "Health",
 		"absolute": false,
 		"value": 0.35

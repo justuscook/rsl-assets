@@ -33,7 +33,7 @@
 			"name": "Sap Strength",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2  Heal +10%\nLvl. 3  Heal +10%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2  Heal +10%\nLvl. 3  Heal +10%\nLvl. 4 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "3"
 		}

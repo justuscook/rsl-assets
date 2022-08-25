@@ -13,8 +13,8 @@
 	"modelName": "0270_Order_Support",
 	"avatarKey": "2570",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": "Magic",
 		"kind": "Speed",
 		"absolute": false,
 		"value": 0.21

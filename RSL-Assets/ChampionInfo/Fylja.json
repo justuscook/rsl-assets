@@ -33,7 +33,7 @@
 			"name": "Crushing Eternity",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Buff/Debuff Chance +15%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Buff/Debuff Chance +15%\nLvl. 4 Cooldown -1\n",
 			"multiplier": "6.5*ATK",
 			"numBooksToMax": "3"
 		},
@@ -43,7 +43,7 @@
 			"name": "Righteous Evocation",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +10%\nLvl. 3  Heal +10%\nLvl. 4 Damage +10%\nLvl. 5  Heal +10%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3  Heal +10%\nLvl. 4 Damage +10%\nLvl. 5  Heal +10%\nLvl. 6 Cooldown -1\n",
 			"multiplier": "3.5*ATK",
 			"numBooksToMax": "5"
 		},

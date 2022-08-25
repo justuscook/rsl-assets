@@ -13,8 +13,8 @@
 	"modelName": "0240_BigUn_2600",
 	"avatarKey": "2600",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Defence",
 		"absolute": false,
 		"value": 0.25

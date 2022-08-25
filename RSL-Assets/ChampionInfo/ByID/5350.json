@@ -13,8 +13,8 @@
 	"modelName": "0580_halloween_hell_id5350",
 	"avatarKey": "5350",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Dungeon",
+		"affinity": null,
 		"kind": "Accuracy",
 		"absolute": true,
 		"value": 80

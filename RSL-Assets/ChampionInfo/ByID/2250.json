@@ -13,8 +13,8 @@
 	"modelName": "0109_high_elf_mage",
 	"avatarKey": "2250",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Fractions",
+		"affinity": null,
 		"kind": "Defence",
 		"absolute": false,
 		"value": 0.33

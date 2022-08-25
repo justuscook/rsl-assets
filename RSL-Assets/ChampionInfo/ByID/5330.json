@@ -13,8 +13,8 @@
 	"modelName": "0578_OctoberFest_5330",
 	"avatarKey": "5330",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Health",
 		"absolute": false,
 		"value": 0.33

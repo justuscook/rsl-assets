@@ -13,8 +13,8 @@
 	"modelName": "0454_Skinwalkers_id5420",
 	"avatarKey": "5420",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Dungeon",
+		"affinity": null,
 		"kind": "Accuracy",
 		"absolute": true,
 		"value": 40

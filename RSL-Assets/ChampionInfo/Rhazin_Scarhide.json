@@ -14,7 +14,7 @@
 	"cdamage": "50",
 	"cheal": "50",
 	"faction": "Lizard Men",
-	"aura": "Increase Ally  in  by 90",
+	"aura": "Increase Ally  in Arena battles by 90",
 	"totalBooks": "12",
 	"skills": [
 		{
@@ -33,7 +33,7 @@
 			"name": "Shear",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1Lvl. 6 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1\n",
 			"multiplier": "DEF*6",
 			"numBooksToMax": "5"
 		},
@@ -43,7 +43,7 @@
 			"name": "Bog Down",
 			"maxcd": "7",
 			"mincd": "6",
-			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +15%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +15%\nLvl. 4 Cooldown -1\n",
 			"multiplier": "DEF*4",
 			"numBooksToMax": "3"
 		}

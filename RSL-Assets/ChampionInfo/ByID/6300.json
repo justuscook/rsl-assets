@@ -13,8 +13,8 @@
 	"modelName": "0667_revenant_6300",
 	"avatarKey": "6300",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Speed",
 		"absolute": false,
 		"value": 0.24

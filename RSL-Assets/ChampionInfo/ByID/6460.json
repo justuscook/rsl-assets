@@ -13,8 +13,8 @@
 	"modelName": "0706_DragonSlayer_id6460",
 	"avatarKey": "6460",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Speed",
 		"absolute": false,
 		"value": 0.19

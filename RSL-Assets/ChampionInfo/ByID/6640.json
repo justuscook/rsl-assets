@@ -13,8 +13,8 @@
 	"modelName": "0720_Duke_of_Doom_id6640",
 	"avatarKey": "6640",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Speed",
 		"absolute": false,
 		"value": 0.19

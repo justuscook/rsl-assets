@@ -33,7 +33,7 @@
 			"name": "Might of Undeath",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		},
@@ -43,7 +43,7 @@
 			"name": "Winds of Purging",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2  Heal +10%\nLvl. 3  Heal +10%\nLvl. 4  Heal +10%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2  Heal +10%\nLvl. 3  Heal +10%\nLvl. 4  Heal +10%\nLvl. 5 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "4"
 		}

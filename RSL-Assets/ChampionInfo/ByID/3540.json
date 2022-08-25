@@ -13,8 +13,8 @@
 	"modelName": "0173_Goat_Ax_id3540",
 	"avatarKey": "3540",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Accuracy",
 		"absolute": true,
 		"value": 40

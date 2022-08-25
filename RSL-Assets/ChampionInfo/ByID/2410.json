@@ -13,8 +13,8 @@
 	"modelName": "0302_Ogres_2410",
 	"avatarKey": "2410",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Fractions",
+		"affinity": null,
 		"kind": "Health",
 		"absolute": false,
 		"value": 0.22

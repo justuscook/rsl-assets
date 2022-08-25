@@ -13,8 +13,8 @@
 	"modelName": "910_Overseer",
 	"avatarKey": "21010",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Dungeon",
+		"affinity": null,
 		"kind": "Health",
 		"absolute": false,
 		"value": 0.5

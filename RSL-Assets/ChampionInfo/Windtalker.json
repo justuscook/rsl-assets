@@ -33,7 +33,7 @@
 			"name": "Spiritual Wind",
 			"maxcd": "4",
 			"mincd": "2",
-			"books": "Lvl. 2  Heal +10%\nLvl. 3  Heal +10%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\nLvl. 5  Heal +10%\nLvl. 6  Heal +10%\nLvl. 7 Cooldown -1Lvl. 7 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2  Heal +10%\nLvl. 3  Heal +10%\nLvl. 4 Cooldown -1\nLvl. 5  Heal +10%\nLvl. 6  Heal +10%\nLvl. 7 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "6"
 		}

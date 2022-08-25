@@ -13,8 +13,8 @@
 	"modelName": "0244_lizard_ranger_id1340",
 	"avatarKey": "1340",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Dungeon",
+		"affinity": null,
 		"kind": "Speed",
 		"absolute": false,
 		"value": 0.23

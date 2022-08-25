@@ -13,8 +13,8 @@
 	"modelName": "960_Warlock",
 	"avatarKey": "21080",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "CriticalChance",
 		"absolute": false,
 		"value": 0.25

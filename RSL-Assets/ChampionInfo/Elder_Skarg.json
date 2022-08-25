@@ -14,7 +14,7 @@
 	"cdamage": "63",
 	"cheal": "50",
 	"faction": "Barbarians",
-	"aura": "Increase Ally C. RATE in  by 30",
+	"aura": "Increase Ally C. RATE in Arena battles by 30",
 	"totalBooks": "8",
 	"skills": [
 		{
@@ -43,7 +43,7 @@
 			"name": "Elder's Clarion",
 			"maxcd": "5",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		},

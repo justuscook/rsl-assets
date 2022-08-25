@@ -13,8 +13,8 @@
 	"modelName": "1480_Slayer",
 	"avatarKey": "1480",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Health",
 		"absolute": false,
 		"value": 0.15

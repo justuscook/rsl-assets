@@ -33,7 +33,7 @@
 			"name": "Stunning Slice",
 			"maxcd": "3",
 			"mincd": "2",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Damage +10%\nLvl. 6 Buff/Debuff Chance +15%\nLvl. 7 Damage +10%\nLvl. 8 Cooldown -1Lvl. 8 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Damage +10%\nLvl. 6 Buff/Debuff Chance +15%\nLvl. 7 Damage +10%\nLvl. 8 Cooldown -1\n",
 			"multiplier": "5.6*ATK",
 			"numBooksToMax": "7"
 		}

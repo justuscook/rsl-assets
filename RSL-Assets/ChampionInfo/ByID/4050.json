@@ -13,8 +13,8 @@
 	"modelName": "0311_ogre_id4050",
 	"avatarKey": "4050",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Dungeon",
+		"affinity": null,
 		"kind": "Accuracy",
 		"absolute": true,
 		"value": 20

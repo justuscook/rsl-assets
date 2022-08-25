@@ -13,8 +13,8 @@
 	"modelName": "0519_Banner_lords",
 	"avatarKey": "5620",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "DoomTower",
+		"affinity": null,
 		"kind": "Speed",
 		"absolute": false,
 		"value": 0.24

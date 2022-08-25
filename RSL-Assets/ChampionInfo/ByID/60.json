@@ -13,8 +13,8 @@
 	"modelName": "0074_DarkElf",
 	"avatarKey": "60",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Dungeon",
+		"affinity": null,
 		"kind": "Health",
 		"absolute": false,
 		"value": 0.25

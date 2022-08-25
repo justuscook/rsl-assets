@@ -13,8 +13,8 @@
 	"modelName": "0164_Goat_id4020",
 	"avatarKey": "4020",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Accuracy",
 		"absolute": true,
 		"value": 40

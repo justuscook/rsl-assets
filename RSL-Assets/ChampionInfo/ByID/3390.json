@@ -13,8 +13,8 @@
 	"modelName": "0334_Hot_man_id3390",
 	"avatarKey": "3390",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Health",
 		"absolute": false,
 		"value": 0.25

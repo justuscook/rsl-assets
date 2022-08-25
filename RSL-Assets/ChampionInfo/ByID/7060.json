@@ -13,8 +13,8 @@
 	"modelName": "0597_Skinwalker_id7060",
 	"avatarKey": "7060",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Speed",
 		"absolute": false,
 		"value": 0.1

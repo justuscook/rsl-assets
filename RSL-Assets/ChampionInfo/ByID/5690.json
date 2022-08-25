@@ -13,8 +13,8 @@
 	"modelName": "0542_bannerlords_id5690",
 	"avatarKey": "5690",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "DoomTower",
+		"affinity": null,
 		"kind": "Accuracy",
 		"absolute": true,
 		"value": 55

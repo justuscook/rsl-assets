@@ -13,8 +13,8 @@
 	"modelName": "0361_Dwarf",
 	"avatarKey": "4150",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Dungeon",
+		"affinity": null,
 		"kind": "Health",
 		"absolute": false,
 		"value": 0.25

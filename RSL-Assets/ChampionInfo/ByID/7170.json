@@ -13,8 +13,8 @@
 	"modelName": "0693_Orc_f_id7170",
 	"avatarKey": "7170",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Fractions",
+		"affinity": null,
 		"kind": "Attack",
 		"absolute": false,
 		"value": 0.3

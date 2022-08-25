@@ -13,8 +13,8 @@
 	"modelName": "0549_Demonspawn_id6480",
 	"avatarKey": "6480_avatar",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Fractions",
+		"affinity": null,
 		"kind": "Defence",
 		"absolute": false,
 		"value": 0.3

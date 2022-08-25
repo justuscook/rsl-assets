@@ -13,8 +13,8 @@
 	"modelName": "0321_Demon",
 	"avatarKey": "5090",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Fractions",
+		"affinity": null,
 		"kind": "Health",
 		"absolute": false,
 		"value": 0.3

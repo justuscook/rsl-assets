@@ -14,7 +14,7 @@
 	"cdamage": "50",
 	"cheal": "50",
 	"faction": "Banner Lords",
-	"aura": "Increase Ally C. RATE in  by 12",
+	"aura": "Increase Ally C. RATE in in all Battles by 12",
 	"totalBooks": "14",
 	"skills": [
 		{
@@ -43,7 +43,7 @@
 			"name": "Septic Shot",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +10%\nLvl. 7 Cooldown -1Lvl. 7 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +10%\nLvl. 7 Cooldown -1\n",
 			"multiplier": "1.6*ATK",
 			"numBooksToMax": "6"
 		}

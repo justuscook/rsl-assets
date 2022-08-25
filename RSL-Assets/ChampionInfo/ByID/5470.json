@@ -13,8 +13,8 @@
 	"modelName": "0375_dwarf_id5470",
 	"avatarKey": "5470",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Fractions",
+		"affinity": null,
 		"kind": "Attack",
 		"absolute": false,
 		"value": 0.2

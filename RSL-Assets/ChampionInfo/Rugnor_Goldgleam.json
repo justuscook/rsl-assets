@@ -14,7 +14,7 @@
 	"cdamage": "60",
 	"cheal": "50",
 	"faction": "Dwarves",
-	"aura": "Increase Ally ATK in  by 35",
+	"aura": "Increase Ally ATK in Doom Tower battles by 35",
 	"totalBooks": "11",
 	"skills": [
 		{
@@ -33,7 +33,7 @@
 			"name": "Gold-Mad Frenzy",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Cooldown -1\n",
 			"multiplier": "0.15*HP",
 			"numBooksToMax": "1"
 		},
@@ -43,7 +43,7 @@
 			"name": "Gleam of Avarice",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +10%\nLvl. 7 Cooldown -1Lvl. 7 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +10%\nLvl. 7 Cooldown -1\n",
 			"multiplier": null,
 			"numBooksToMax": "6"
 		},

@@ -13,8 +13,8 @@
 	"modelName": "0777_samurai_f_id7150",
 	"avatarKey": "7150",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Attack",
 		"absolute": false,
 		"value": 0.2

@@ -13,8 +13,8 @@
 	"modelName": "0021_Knight_combined",
 	"avatarKey": "170",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Fractions",
+		"affinity": null,
 		"kind": "Speed",
 		"absolute": false,
 		"value": 0.2

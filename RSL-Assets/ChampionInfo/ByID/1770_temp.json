@@ -13,8 +13,8 @@
 	"modelName": "203_order_warrior",
 	"avatarKey": "1770_temp",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Dungeon",
+		"affinity": null,
 		"kind": "Attack",
 		"absolute": false,
 		"value": 0.35

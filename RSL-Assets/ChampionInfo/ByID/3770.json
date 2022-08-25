@@ -13,8 +13,8 @@
 	"modelName": "0060_Elven_id3770",
 	"avatarKey": "3770",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "Fractions",
+		"affinity": null,
 		"kind": "Resistance",
 		"absolute": true,
 		"value": 45

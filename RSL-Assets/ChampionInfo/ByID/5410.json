@@ -13,8 +13,8 @@
 	"modelName": "0389_order_id5410",
 	"avatarKey": "5410",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "DoomTower",
+		"affinity": null,
 		"kind": "Resistance",
 		"absolute": true,
 		"value": 50

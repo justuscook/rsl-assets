@@ -13,8 +13,8 @@
 	"modelName": "0806_Barbarian_id7240",
 	"avatarKey": "7240",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Accuracy",
 		"absolute": true,
 		"value": 50

@@ -14,7 +14,7 @@
 	"cdamage": "50",
 	"cheal": "50",
 	"faction": "Knights Revenant",
-	"aura": "Increase Ally  in  by 25",
+	"aura": "Increase Ally  in in all Battles by 25",
 	"totalBooks": "11",
 	"skills": [
 		{
@@ -33,7 +33,7 @@
 			"name": "Sepulcher Shield",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\n",
+			"books": "Lvl. 2 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		},

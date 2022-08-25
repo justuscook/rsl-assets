@@ -13,8 +13,8 @@
 	"modelName": "0366_Valentine_m",
 	"avatarKey": "3510",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": null,
+		"affinity": null,
 		"kind": "Attack",
 		"absolute": false,
 		"value": 0.33

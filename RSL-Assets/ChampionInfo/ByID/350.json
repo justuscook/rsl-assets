@@ -13,8 +13,8 @@
 	"modelName": "0037_Knight",
 	"avatarKey": "350",
 	"leaderSkill": {
-		"area": "",
-		"affinity": "",
+		"area": "DoomTower",
+		"affinity": null,
 		"kind": "Accuracy",
 		"absolute": true,
 		"value": 70
