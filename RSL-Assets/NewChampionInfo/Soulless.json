@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=2350#static",
+	"name": "Soulless",
+	"id": 2356,
+	"acc": "10",
+	"affinity": "Void",
+	"atk": "848",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "97",
+	"def": "1421",
+	"hp": "19650",
+	"cheal": "50",
+	"res": "50",
+	"faction": "Knight Revenant",
+	"rarity": "Legendary",
+	"type": "Defense",
+	"aura": "Increases Ally DEF in Faction Crypts by 44%.",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 35% chance of placing a [Stun] debuff for 1 turn.",
+			"basedOn": "[DEF]",
+			"name": "Bewildering Blow",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +15%\n",
+			"multiplier": "2.8*DEF",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 3 times at random. Each hit has a 75% chance to remove all buffs. \r\n\r\nAlso places a [Provoke] debuff for 1 turn. If a buff was removed by this skill, the [Provoke] debuff cannot be resisted.",
+			"basedOn": "[DEF]",
+			"name": "Wave of Despair",
+			"maxcd": "3",
+			"mincd": "3",
+			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +15%\n",
+			"multiplier": "1.8*DEF",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Increases the duration of all debuffs on each target by 1 turn, then places a [Provoke] debuff on all enemies for 1 turn. Places a [Shield] buff on this Champion for 2 turns equal to 30% of damage inflicted. Damage increases by 10% for each debuff on the target.",
+			"basedOn": "[DEF]",
+			"name": "Reign of Terror",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Level 2: Damage +10%\nLevel 3: Shield +10%\nLevel 4: Shield +10%\nLevel 5: Cooldown -1\n",
+			"multiplier": "4.9*DEF",
+			"numBooksToMax": "4"
+		}
+	]
+}

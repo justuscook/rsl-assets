@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=6380#static",
+	"name": "Urogrim",
+	"id": 6386,
+	"acc": "15",
+	"affinity": "Void",
+	"atk": "881",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "102",
+	"def": "1145",
+	"hp": "19155",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Ogryn Tribes",
+	"rarity": "Epic",
+	"type": "Support",
+	"aura": "Increases Ally SPD in All Battles by 20.",
+	"totalBooks": "13",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Each hit has a 25% chance of placing a 5% [Poison] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Skullstaff",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Damage +10%\nLevel 7: Buff/Debuff Chance +10%\n",
+			"multiplier": "1.5*ATK",
+			"numBooksToMax": "6"
+		},
+		{
+			"desc": "Removes all debuffs from an ally, then heals them by 40% of their MAX HP.",
+			"basedOn": "",
+			"name": "Tingly Tincture",
+			"maxcd": "5",
+			"mincd": "3",
+			"books": "Level 2: Heal +5%\nLevel 3: Heal +5%\nLevel 4: Heal +5%\nLevel 5: Cooldown -1\nLevel 6: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Places two 5% [Poison] debuffs on all enemies for 2 turns. Also places a 15% [Continuous Heal] buff on all allies for 2 turns.",
+			"basedOn": "",
+			"name": "Bizarre Vapors",
+			"maxcd": "6",
+			"mincd": "4",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
+		}
+	]
+}

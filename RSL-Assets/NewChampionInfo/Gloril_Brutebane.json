@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=5130#static",
+	"name": "Gloril Brutebane",
+	"id": 5136,
+	"acc": "0",
+	"affinity": "Spirit",
+	"atk": "1244",
+	"cdamage": "57",
+	"crate": "15",
+	"spd": "90",
+	"def": "705",
+	"hp": "16185",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Dwarves",
+	"rarity": "Rare",
+	"type": "Attack",
+	"aura": "Increases Ally RES in All Battles by 30.",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Each hit has a 30% chance of placing a 30% [Decrease DEF] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Scale Hacker",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\n",
+			"multiplier": "1.68*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy. Damage increases by 5% for each debuff on the target.",
+			"basedOn": "[ATK]",
+			"name": "Prey Acquired",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Cooldown -1\n",
+			"multiplier": "6.1*ATK*(1+0.05*TRG_DEBUFF_COUNT)",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy. Places a 15% [Increase C. RATE] buff on all allies for 2 turns if this attack is critical.",
+			"basedOn": "[ATK]",
+			"name": "Heroic Company",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Cooldown -1\n",
+			"multiplier": "6.04*ATK",
+			"numBooksToMax": "4"
+		}
+	]
+}

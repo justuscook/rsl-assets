@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=3350#static",
+	"name": "Tormentor",
+	"id": 3356,
+	"acc": "0",
+	"affinity": "Magic",
+	"atk": "1156",
+	"cdamage": "57",
+	"crate": "15",
+	"spd": "96",
+	"def": "947",
+	"hp": "13875",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Demonspawn",
+	"rarity": "Rare",
+	"type": "Attack",
+	"aura": "",
+	"totalBooks": "14",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Places an extra hit if this attack is critical. The extra hit is always a normal hit.",
+			"basedOn": "[ATK]",
+			"name": "Endless Agonies",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\n",
+			"multiplier": "3.7*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 2 times at random. Each hit has a 50% chance of placing a 25% [Decrease ACC] debuff.",
+			"basedOn": "[ATK]",
+			"name": "Infernal Miasma",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Buff/Debuff Chance +10%\nLevel 7: Cooldown -1\n",
+			"multiplier": "3.3*ATK",
+			"numBooksToMax": "6"
+		},
+		{
+			"desc": "Attacks 1 enemy 2 times. Each hit has a 50% chance of placing a [Block Buffs] debuff for 2 turns. Places a [Stun] debuff for 1 turn if the target is under a [Block Buffs] debuff.",
+			"basedOn": "[ATK]",
+			"name": "Creeping Doom",
+			"maxcd": "4",
+			"mincd": "4",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\n",
+			"multiplier": "3.5*ATK",
+			"numBooksToMax": "4"
+		}
+	]
+}

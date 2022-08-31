@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=6060#static",
+	"name": "Marauder",
+	"id": 6066,
+	"acc": "10",
+	"affinity": "Spirit",
+	"atk": "749",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "93",
+	"def": "826",
+	"hp": "21810",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Shadowkin",
+	"rarity": "Rare",
+	"type": "HP",
+	"aura": "Increases Ally HP in All Battles by 15%.",
+	"totalBooks": "14",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 15% chance of placing a [Stun] debuff for 1 turn.",
+			"basedOn": "[HP]",
+			"name": "Kanabo Jutsu",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Buff/Debuff Chance +5%\n",
+			"multiplier": "0.2*HP",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 50% chance of placing a 25% [Decrease ATK] debuff for 2 turns.",
+			"basedOn": "[HP]",
+			"name": "Reckless Sweep",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
+			"multiplier": "0.2*HP",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Has a 50% chance of placing a [Provoke] debuff for 1 turn.\r\n\r\nPlaces a [Shield] buff on this Champion for 2 turns equal to 20% of their MAX HP. Also places a 15% [Reflect Damage] buff on all allies except this Champion for 2 turns.",
+			"basedOn": "",
+			"name": "Roaring Challenge",
+			"maxcd": "5",
+			"mincd": "3",
+			"books": "Level 2: Buff/Debuff Chance +10%\nLevel 3: Buff/Debuff Chance +15%\nLevel 4: Cooldown -1\nLevel 5: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "4"
+		}
+	]
+}

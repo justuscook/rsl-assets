@@ -1,0 +1,62 @@
+{
+	"key": "l10n:hero-type/name?id=5790#static",
+	"name": "Godseeker Aniri",
+	"id": 5796,
+	"acc": "0",
+	"affinity": "Void",
+	"atk": "1046",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "99",
+	"def": "1244",
+	"hp": "15195",
+	"cheal": "50",
+	"res": "45",
+	"faction": "Sacred Order",
+	"rarity": "Epic",
+	"type": "Defense",
+	"aura": "",
+	"totalBooks": "17",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Heal the ally with the lowest HP by 5% of their MAX HP. \r\n\r\nCannot heal this Champion.",
+			"basedOn": "[DEF]",
+			"name": "Blade of Blessings",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Heal +5%\nLevel 4: Damage +5%\nLevel 5: Heal +5%\nLevel 6: Damage +5%\nLevel 7: Heal +5%\n",
+			"multiplier": "3.6*DEF",
+			"numBooksToMax": "6"
+		},
+		{
+			"desc": "Attacks all enemies. Heals all allies by 15% of their MAX HP, then decreases the duration of all buffs on all enemies by 1 turn and increases the duration of all buffs on all allies by 1 turn.",
+			"basedOn": "[DEF]",
+			"name": "Quest For Meaning",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Heal +5%\nLevel 3: Heal +5%\nLevel 4: Heal +5%\nLevel 5: Heal +5%\nLevel 6: Cooldown -1\n",
+			"multiplier": "3*DEF",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Revives a dead ally with 50% HP, then fills their Turn Meter by 50% and resets the cooldowns on all their skills.",
+			"basedOn": "",
+			"name": "Rise of Glory",
+			"maxcd": "7",
+			"mincd": "4",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\nLevel 4: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "[Passive Effect]\r\n\r\nIncreases the amount of healing allies receive by 10%.\r\n\r\n[Active Effect]\r\n\r\nIf an ally is about to get killed by a fatal hit, preempts that hit and instantly places a [Revive On Death] buff on them for 1 turn before the damage is taken.",
+			"basedOn": "",
+			"name": "Guardian Angel [P]",
+			"maxcd": "7",
+			"mincd": "4",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\nLevel 4: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "3"
+		}
+	]
+}

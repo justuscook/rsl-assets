@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=960#static",
+	"name": "Bad-el-Kazar",
+	"id": 966,
+	"acc": "20",
+	"affinity": "Force",
+	"atk": "1079",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "102",
+	"def": "1156",
+	"hp": "20145",
+	"cheal": "50",
+	"res": "40",
+	"faction": "Undead Hordes",
+	"rarity": "Legendary",
+	"type": "Support",
+	"aura": "Increases Ally C. RATE in All Battles by 25%.",
+	"totalBooks": "7",
+	"skills": [
+		{
+			"desc": "Attacks all enemies. Heals this Champion and all allies by 20% of the damage inflicted.",
+			"basedOn": "[ATK]",
+			"name": "Dark Sphere",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Heal +10%\nLevel 5: Damage +10%\nLevel 6: Heal +10%\n",
+			"multiplier": "2.8*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Removes all debuffs from all allies. Places two 15% [Continuous Heal] buffs on all allies for 2 turns. Places two 5% [Poison] debuffs on all enemies for 2 turns.",
+			"basedOn": "",
+			"name": "Malice",
+			"maxcd": "5",
+			"mincd": "3",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
+		},
+		{
+			"desc": "All allies inflict 20% more damage against targets under [Poison] debuffs.",
+			"basedOn": "",
+			"name": "Prey Upon [Passive]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": ""
+		}
+	]
+}

@@ -1,0 +1,62 @@
+{
+	"key": "l10n:hero-type/name?id=3530#static",
+	"name": "Tyrant Ixlimor",
+	"id": 3536,
+	"acc": "0",
+	"affinity": "Magic",
+	"atk": "771",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "103",
+	"def": "1343",
+	"hp": "21975",
+	"cheal": "50",
+	"res": "50",
+	"faction": "Demonspawn",
+	"rarity": "Legendary",
+	"type": "HP",
+	"aura": "Increases Ally HP in All Battles by 25%.",
+	"totalBooks": "9",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Heals this Champion by 25% of the damage inflicted. Heals this Champion by 50% of the damage inflicted instead if the target is under a [HP Burn] debuff.",
+			"basedOn": "[DEF]",
+			"name": "Feast of Flame",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\n",
+			"multiplier": "2.5*DEF",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 75% chance of placing a [HP Burn] debuff on all enemies for 3 turns.",
+			"basedOn": "[DEF]",
+			"name": "Hellfire Torrent",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
+			"multiplier": "3.6*DEF",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Places a 50% [Ally Protection] buff on all allies except this Champion for 2 turns. Places a 60% [Increase DEF] buff on all allies for 2 turns.",
+			"basedOn": "",
+			"name": "Infernal Minions",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "1"
+		},
+		{
+			"desc": "Decreases damage inflicted by enemies under [HP Burn] debuffs by 10%.",
+			"basedOn": "",
+			"name": "Fires of Doom [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=2270#static",
+	"name": "Angar",
+	"id": 2276,
+	"acc": "10",
+	"affinity": "Void",
+	"atk": "826",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "98",
+	"def": "1288",
+	"hp": "21975",
+	"cheal": "50",
+	"res": "45",
+	"faction": "Orcs",
+	"rarity": "Legendary",
+	"type": "HP",
+	"aura": "Increases Ally HP in Faction Crypts by 44%.",
+	"totalBooks": "9",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Places an extra hit if the enemy has a [Provoke] debuff.",
+			"basedOn": "[HP]",
+			"name": "Exacerbate",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\n",
+			"multiplier": "0.12*HP",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "Attacks all enemies. Places a [Provoke] debuff on them for 1 turn. Places a 30% [Reflect Damage] buff on all allies for 2 turns. Also places a [Counterattack] buff on this Champion for 2 turns.",
+			"basedOn": "[HP]",
+			"name": "Infuriate",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Cooldown -1\n",
+			"multiplier": "0.2*HP",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "If an enemy with a [Provoke] debuff attacks, has a 40% chance of placing a [Provoke] debuff on them for 1 turn. Each hit taken will reduce damage taken by 5% (up to 30% in one round).",
+			"basedOn": "",
+			"name": "Bravado [Passive]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Buff/Debuff Chance +5%\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=670#static",
+	"name": "Magmablood",
+	"id": 676,
+	"acc": "15",
+	"affinity": "Force",
+	"atk": "1387",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "93",
+	"def": "727",
+	"hp": "13710",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Ogryn Tribes",
+	"rarity": "Rare",
+	"type": "Attack",
+	"aura": "Increases Ally ACC in Dungeons by 40.",
+	"totalBooks": "14",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 15% chance of placing a [Stun] debuff for 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Hurl",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Damage +5%\n",
+			"multiplier": "3.6*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 30% chance of placing a 50% [Decrease ACC] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Splinters",
+			"maxcd": "4",
+			"mincd": "4",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +10%\n",
+			"multiplier": "3.6*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 2 times at random. Each hit has a 60% chance of placing a [Bomb] debuff for 3 turns.",
+			"basedOn": "[ATK]",
+			"name": "Magma Bomb",
+			"maxcd": "5",
+			"mincd": "5",
+			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Buff/Debuff Chance +10%\n",
+			"multiplier": "3.2*ATK",
+			"numBooksToMax": "5"
+		}
+	]
+}

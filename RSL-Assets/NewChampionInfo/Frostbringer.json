@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=3030#static",
+	"name": "Frostbringer",
+	"id": 3036,
+	"acc": "0",
+	"affinity": "Magic",
+	"atk": "870",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "110",
+	"def": "1079",
+	"hp": "20310",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Sacred Order",
+	"rarity": "Epic",
+	"type": "Support",
+	"aura": "Increases Ally DEF in Dungeons by 33%.",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 2 times at random. Has a 30% chance of placing a 100% [Heal Reduction] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Cones of Cold",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Buff/Debuff Chance +10%\n",
+			"multiplier": "2*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks 3 times at random. Each hit has a 75% chance of placing a 60% [Decrease DEF] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Snow Flurry",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
+			"multiplier": "2.2*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Places a 30% [Increase SPD] and a 50% [Increase ATK] buff on all allies for 2 turns.",
+			"basedOn": "",
+			"name": "Arctic Winds",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Level 2: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "1"
+		}
+	]
+}

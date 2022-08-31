@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=2570#static",
+	"name": "Adriel",
+	"id": 2576,
+	"acc": "15",
+	"affinity": "Magic",
+	"atk": "1101",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "98",
+	"def": "980",
+	"hp": "18330",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Sacred Order",
+	"rarity": "Epic",
+	"type": "Support",
+	"aura": "Increases Magic Ally SPD in All Battles by 21.",
+	"totalBooks": "13",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 20% chance of placing a 50% [Decrease ACC] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Humiliate",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +10%\n",
+			"multiplier": "4.4*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Heals all allies by 20% of their MAX HP and places a 30% [Reflect Damage] buff on them for 2 turns.",
+			"basedOn": "",
+			"name": "Curtain of Light",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Heal +5%\nLevel 3: Heal +5%\nLevel 4: Heal +10%\nLevel 5: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 50% chance of placing a 50% [Decrease ATK] debuff for 2 turns. Has a 100% chance if this attack is critical.",
+			"basedOn": "[ATK]",
+			"name": "Blinding Flash",
+			"maxcd": "6",
+			"mincd": "5",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Damage +10%\nLevel 6: Cooldown -1\n",
+			"multiplier": "3.25*ATK",
+			"numBooksToMax": "5"
+		}
+	]
+}

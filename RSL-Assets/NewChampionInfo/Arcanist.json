@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=250#static",
+	"name": "Arcanist",
+	"id": 256,
+	"acc": "0",
+	"affinity": "Force",
+	"atk": "991",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "98",
+	"def": "848",
+	"hp": "17835",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Knight Revenant",
+	"rarity": "Rare",
+	"type": "Support",
+	"aura": "Increases Ally DEF in Arena Battles by 25%.",
+	"totalBooks": "8",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 20% chance of placing a [Sleep] debuff for 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Paralyzing Touch",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Damage +10%\nLevel 6: Buff/Debuff Chance +10%\nLevel 7: Damage +10%\n",
+			"multiplier": "4*ATK",
+			"numBooksToMax": "6"
+		},
+		{
+			"desc": "Places a 15% [Continuous Heal] buff on all allies for 2 turns.",
+			"basedOn": "",
+			"name": "Unnatural Recovery",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "1"
+		},
+		{
+			"desc": "Places a 25% [Increase ATK] buff and a 15% [Increase C. RATE] buff on all allies for 3 turns.",
+			"basedOn": "",
+			"name": "Vigor",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Level 2: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "1"
+		}
+	]
+}

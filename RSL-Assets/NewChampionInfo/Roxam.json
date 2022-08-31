@@ -1,0 +1,62 @@
+{
+	"key": "l10n:hero-type/name?id=5560#static",
+	"name": "Roxam",
+	"id": 5566,
+	"acc": "10",
+	"affinity": "Magic",
+	"atk": "1553",
+	"cdamage": "63",
+	"crate": "15",
+	"spd": "98",
+	"def": "958",
+	"hp": "16020",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Lizardmen",
+	"rarity": "Legendary",
+	"type": "Attack",
+	"aura": "Increases Ally C. RATE in Doom Tower Battles by 23%.",
+	"totalBooks": "14",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy.\r\n\r\nHas a 50% chance of filling this Champion’s Turn Meter by 10%. Also has a 50% chance of placing a [Perfect Veil] buff on this Champion for 1 turn if this attack is critical.",
+			"basedOn": "[ATK]",
+			"name": "Chroma Shift",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\n",
+			"multiplier": "3.6*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy. Fills this Champion’s Turn Meter by 50%.\r\n\r\nHas a 75% chance of placing a [Stun] debuff on the target for 1 turn when attacking while under a [Veil] or [Perfect Veil] buff.\r\n\r\nHas a 75% chance of placing a [Sleep] debuff on the target for 1 turn when attacking without a [Veil] or [Perfect Veil] buff.\r\n\r\nPlaces a [Perfect Veil] buff on this Champion for 2 turns after attacking without a [Veil] or [Perfect Veil] buff.",
+			"basedOn": "[ATK]",
+			"name": "Jungle Ambush",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Cooldown -1\n",
+			"multiplier": "6.1*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "[While under a [Veil] or [Perfect Veil] buff]\r\n\r\nAttacks all enemies. Has a 75% chance of placing a 60% [Decrease DEF] debuff and a 25% [Weaken] debuff. Decreases the cooldown of the Jungle Ambush skill by 2 turns.\r\n\r\n[While not under a [Veil] or [Perfect Veil] buff]\r\n\r\nAttacks 1 enemy. Has a 75% chance of placing a 60% [Decrease DEF] debuff and a 25% [Weaken] debuff on the target for 2 turns before attacking. Places a [Perfect Veil] buff on this Champion for 2 turns after attacking.",
+			"basedOn": "",
+			"name": "Flicker Step",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Places a [Block Debuffs] and a 25% [Strengthen] buff on this Champion for 1 turn, and a 15% [Continuous Heal] buff for 2 turns whenever they receive a [Veil] or [Perfect Veil] buff.",
+			"basedOn": "",
+			"name": "Chameleon [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": ""
+		}
+	]
+}

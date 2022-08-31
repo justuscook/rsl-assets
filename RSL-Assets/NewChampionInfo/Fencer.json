@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=4700#static",
+	"name": "Fencer",
+	"id": 4706,
+	"acc": "10",
+	"affinity": "Force",
+	"atk": "1211",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "100",
+	"def": "793",
+	"hp": "15360",
+	"cheal": "50",
+	"res": "30",
+	"faction": "High Elves",
+	"rarity": "Rare",
+	"type": "Attack",
+	"aura": "Increases Ally ATK in Dungeons by 23%.",
+	"totalBooks": "19",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Each hit has a 15% chance of placing a 15% [Decrease SPD] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Enchanted Rapier",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Damage +5%\nLevel 7: Buff/Debuff Chance +5%\n",
+			"multiplier": "2.3*ATK",
+			"numBooksToMax": "6"
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 75% chance of placing a [Stun] debuff for 1 turn. Steals 20% of the target’s Turn Meter if the [Stun] debuff is not placed.",
+			"basedOn": "[ATK]",
+			"name": "Pommel Strike",
+			"maxcd": "4",
+			"mincd": "4",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Damage +5%\nLevel 7: Buff/Debuff Chance +5%\nLevel 8: Buff/Debuff Chance +10%\n",
+			"multiplier": "5.9*ATK",
+			"numBooksToMax": "7"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 75% chance of placing a 30% [Decrease DEF] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Blade Flourish",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Buff/Debuff Chance +10%\nLevel 7: Cooldown -1\n",
+			"multiplier": "3.5*ATK",
+			"numBooksToMax": "6"
+		}
+	]
+}

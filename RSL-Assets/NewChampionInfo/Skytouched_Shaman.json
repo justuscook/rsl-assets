@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=4530#static",
+	"name": "Skytouched Shaman",
+	"id": 4536,
+	"acc": "0",
+	"affinity": "Void",
+	"atk": "958",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "102",
+	"def": "1123",
+	"hp": "18330",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Barbarians",
+	"rarity": "Epic",
+	"type": "Support",
+	"aura": "Increases Ally HP in All Battles by 25%.",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks all enemies. Heals by 15% of the damage inflicted if this Champion has less than 50% HP. Boosts this Champion’s Turn Meter by 20% instead if this Champion has 50% HP or higher.",
+			"basedOn": "[ATK]",
+			"name": "Talon Knives",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\nLevel 6: Damage +10%\n",
+			"multiplier": "2.2*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Removes all debuffs from all allies, then places a [Block Debuffs] buff and a [Revive On Death] buff on all allies for 2 turns.",
+			"basedOn": "",
+			"name": "Immortal Skies",
+			"maxcd": "6",
+			"mincd": "4",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
+		},
+		{
+			"desc": "Damages this Champion by 10% of their MAX HP at the start of each turn. Heals all allies except this Champion equal to half of the lost HP. Places a 30% [Decrease SPD] debuff on this Champion for 1 turn at the start of each turn. Also has a 50% chance of placing a [Fear] debuff on this Champion for 1 turn.",
+			"basedOn": "",
+			"name": "Bloodstain Ritual [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Heal +5%\nLevel 3: Heal +5%\nLevel 4: Heal +5%\nLevel 5: Heal +5%\n",
+			"multiplier": "",
+			"numBooksToMax": "4"
+		}
+	]
+}

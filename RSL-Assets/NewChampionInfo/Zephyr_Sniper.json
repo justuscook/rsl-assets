@@ -1,0 +1,32 @@
+{
+	"key": "l10n:hero-type/name?id=2970#static",
+	"name": "Zephyr Sniper",
+	"id": 2976,
+	"acc": "0",
+	"affinity": "Spirit",
+	"atk": "617",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "100",
+	"def": "1244",
+	"hp": "13380",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Barbarians",
+	"rarity": "Uncommon",
+	"type": "Defense",
+	"aura": "",
+	"totalBooks": "4",
+	"skills": [
+		{
+			"desc": "Attacks all enemies. Has a 15% chance of increasing the cooldown of a random Skill on each target by 1 turn.",
+			"basedOn": "[DEF]",
+			"name": "Suppressive Fire",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Damage +10%\n",
+			"multiplier": "DEF*1.9",
+			"numBooksToMax": "4"
+		}
+	]
+}

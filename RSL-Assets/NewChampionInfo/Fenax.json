@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=3430#static",
+	"name": "Fenax",
+	"id": 3436,
+	"acc": "0",
+	"affinity": "Spirit",
+	"atk": "1454",
+	"cdamage": "60",
+	"crate": "15",
+	"spd": "96",
+	"def": "925",
+	"hp": "13875",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Sacred Order",
+	"rarity": "Epic",
+	"type": "Attack",
+	"aura": "",
+	"totalBooks": "13",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Places an extra hit if the target has any debuffs. Enemies killed by this skill cannot be revived.",
+			"basedOn": "[ATK]",
+			"name": "Put Down",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\n",
+			"multiplier": "4.1*ATK",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 75% chance of placing a [Block Buffs] debuff for 2 turns. Places a [Block Active Skills] debuff for 1 turn if this Skill does not place a [Block Buffs] debuff.\r\n\r\n[Decreases [Bomb] debuff detonation countdowns by 1 turn when Tallia is on the same team.]",
+			"basedOn": "[ATK]",
+			"name": "Stern Partner",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Cooldown -1\n",
+			"multiplier": "3.5*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 60% chance of placing a 60% [Decrease DEF] debuff and a 30% [Decrease SPD] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Sow Feebleness",
+			"maxcd": "6",
+			"mincd": "4",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Cooldown -1\nLevel 6: Cooldown -1\n",
+			"multiplier": "6.7*ATK",
+			"numBooksToMax": "5"
+		}
+	]
+}

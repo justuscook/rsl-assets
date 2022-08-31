@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=2050#static",
+	"name": "Roshcard the Tower",
+	"id": 2056,
+	"acc": "0",
+	"affinity": "Magic",
+	"atk": "947",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "100",
+	"def": "980",
+	"hp": "24780",
+	"cheal": "50",
+	"res": "50",
+	"faction": "Sacred Order",
+	"rarity": "Legendary",
+	"type": "HP",
+	"aura": "Increases Ally HP in All Battles by 33%.",
+	"totalBooks": "8",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 50% chance of removing 1 random buff from the target.",
+			"basedOn": "[ATK]",
+			"name": "Rebuke",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\n",
+			"multiplier": "5*ATK",
+			"numBooksToMax": "2"
+		},
+		{
+			"desc": "Attacks 1 enemy. Places a [Block Active Skills] debuff and a [Block Buffs] debuff for 2 turns. These debuffs cannot be resisted.",
+			"basedOn": "[HP]",
+			"name": "Sanction",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Damage +10%\nLevel 5: Cooldown -1\n",
+			"multiplier": "0.3*HP",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Places a [Block Damage] buff on all allies for 2 turns.",
+			"basedOn": "",
+			"name": "Zone of Protection",
+			"maxcd": "6",
+			"mincd": "4",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
+		}
+	]
+}

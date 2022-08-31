@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=2740#static",
+	"name": "Gator",
+	"id": 2746,
+	"acc": "0",
+	"affinity": "Magic",
+	"atk": "881",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "99",
+	"def": "1046",
+	"hp": "16515",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Lizardmen",
+	"rarity": "Rare",
+	"type": "Support",
+	"aura": "Increases Magic Ally C. RATE in All Battles by 22%.",
+	"totalBooks": "6",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 30% chance of placing a 50% [Heal Reduction] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Hex Smash",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +10%\n",
+			"multiplier": "5.1*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Places a 25% [Increase ATK] buff on all allies for 2 turns.",
+			"basedOn": "",
+			"name": "Radiate Frenzy",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "1"
+		},
+		{
+			"desc": "Removes all debuffs from all allies.",
+			"basedOn": "",
+			"name": "Defy the Witch",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "1"
+		}
+	]
+}

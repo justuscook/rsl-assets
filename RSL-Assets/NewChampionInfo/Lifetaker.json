@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=5890#static",
+	"name": "Lifetaker",
+	"id": 5896,
+	"acc": "0",
+	"affinity": "Magic",
+	"atk": "1145",
+	"cdamage": "57",
+	"crate": "15",
+	"spd": "99",
+	"def": "727",
+	"hp": "17340",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Shadowkin",
+	"rarity": "Rare",
+	"type": "Attack",
+	"aura": "",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Each hit has a 30% chance of placing a 100% [Heal Reduction] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Bleeding Serum",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\n",
+			"multiplier": "2*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy 3 times. Each hit has a 50% chance of decreasing the target’s Turn Meter by 10%. The third hit has a 50% chance of placing a 30% [Decrease SPD] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Leg Bind",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Buff/Debuff Chance +5%\nLevel 7: Buff/Debuff Chance +10%\nLevel 8: Cooldown -1\n",
+			"multiplier": "2.3*ATK",
+			"numBooksToMax": "7"
+		},
+		{
+			"desc": "Places a [Veil] buff on this Champion for 1 turn and a 30% [Reflect Damage] buff on this Champion for 2 turns.",
+			"basedOn": "",
+			"name": "Diamond Body",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "1"
+		}
+	]
+}

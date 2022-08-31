@@ -1,0 +1,62 @@
+{
+	"key": "l10n:hero-type/name?id=7000#static",
+	"name": "Gronjarr",
+	"id": 7006,
+	"acc": "20",
+	"affinity": "Force",
+	"atk": "837",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "100",
+	"def": "1222",
+	"hp": "22800",
+	"cheal": "50",
+	"res": "40",
+	"faction": "Dwarves",
+	"rarity": "Legendary",
+	"type": "HP",
+	"aura": "",
+	"totalBooks": "14",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Each hit has a 30% chance of increasing the duration of [HP Burn] debuffs by 1 turn.",
+			"basedOn": "[HP]",
+			"name": "Pyro Pummel",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +5%\n",
+			"multiplier": "0.1*HP",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy 2 times. The first hit has a 75% chance of removing any [Block Debuffs] buffs. The second hit has a 75% chance of removing 1 random buff except [Block Debuffs] buffs.",
+			"basedOn": "[HP]",
+			"name": "Shatter Falsity",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
+			"multiplier": "0.15*HP",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 75% chance of placing a [HP Burn] debuff for 2 turns. Also fills this Champion’s Turn Meter by 5% for every [HP Burn] debuff the enemy team had before this attack.",
+			"basedOn": "[HP]",
+			"name": "Fires of Auld",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
+			"multiplier": "0.2*HP",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "[Passive Effect]\r\n\r\nThis Champion will not receive any damage from [HP Burn] debuffs. Instead, [HP Burn] debuffs will heal this Champion by 5% MAX HP each time the debuff activates. \r\n\r\n[Active Effect]\r\n\r\nWhenever an enemy attempts to place a [Freeze] debuff on this Champion, instantly removes it and places it on the attacker. Also places a [HP Burn] debuff on the attacker for 1 turn. The [HP Burn] debuff cannot be resisted.",
+			"basedOn": "",
+			"name": "Keeper of Flame [P]",
+			"maxcd": "3",
+			"mincd": "3",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": ""
+		}
+	]
+}

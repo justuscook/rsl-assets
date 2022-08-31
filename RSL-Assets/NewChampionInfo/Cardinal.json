@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=2000#static",
+	"name": "Cardinal",
+	"id": 2006,
+	"acc": "0",
+	"affinity": "Void",
+	"atk": "1002",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "104",
+	"def": "1145",
+	"hp": "17340",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Sacred Order",
+	"rarity": "Epic",
+	"type": "Support",
+	"aura": "",
+	"totalBooks": "9",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 10% chance of placing a 5% [Poison] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Evaporation",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\n",
+			"multiplier": "4*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Heals a target ally by 30% of their MAX HP. Places a 60% [Increase DEF] buff for 2 turns.",
+			"basedOn": "",
+			"name": "Mending Touch",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Heal +5%\nLevel 3: Heal +5%\nLevel 4: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "Revives all dead allies, heals them by 25% of their MAX HP, and boosts their Turn Meter to max.",
+			"basedOn": "",
+			"name": "Redemption",
+			"maxcd": "7",
+			"mincd": "5",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
+		}
+	]
+}

@@ -1,0 +1,62 @@
+{
+	"key": "l10n:hero-type/name?id=5650#static",
+	"name": "Anax",
+	"id": 5656,
+	"acc": "0",
+	"affinity": "Spirit",
+	"atk": "1542",
+	"cdamage": "60",
+	"crate": "15",
+	"spd": "90",
+	"def": "815",
+	"hp": "14205",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Undead Hordes",
+	"rarity": "Epic",
+	"type": "Attack",
+	"aura": "",
+	"totalBooks": "15",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Each hit has a 30% chance of placing a 60% [Decrease DEF] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Piercing Shotels",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\n",
+			"multiplier": "3.2*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy 2 times. Each hit has a 75% chance of placing a 50% [Decrease ACC] debuff and a 5% [Poison] debuff for 3 turns.",
+			"basedOn": "[ATK]",
+			"name": "Deathly Ichors",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Buff/Debuff Chance +10%\nLevel 7: Cooldown -1\n",
+			"multiplier": "2.8*ATK",
+			"numBooksToMax": "6"
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 75% chance of placing a 25% [Weaken] debuff for 2 turns. Heals this Champion by 50% of the damage inflicted.",
+			"basedOn": "[ATK]",
+			"name": "Soul Feast",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Cooldown -1\n",
+			"multiplier": "6*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "[Passive Effect]\r\n\r\nPlaces a 60% [Increase DEF] buff on this Champion for 2 turns when their HP drops below 75%.\r\n\r\nPlaces a 50% [Increase ATK] buff on this Champion for 2 turns when their HP drops below 50%.\r\n\r\n[Active Effect]\r\n\r\nGrants an Extra Turn when this Champion's HP drops below 10%.",
+			"basedOn": "",
+			"name": "Revenant [P]",
+			"maxcd": "5",
+			"mincd": "5",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": ""
+		}
+	]
+}

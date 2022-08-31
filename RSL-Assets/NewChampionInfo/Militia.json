@@ -1,0 +1,42 @@
+{
+	"key": "l10n:hero-type/name?id=80#static",
+	"name": "Militia",
+	"id": 86,
+	"acc": "0",
+	"affinity": "Spirit",
+	"atk": "1178",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "102",
+	"def": "694",
+	"hp": "13215",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Sacred Order",
+	"rarity": "Uncommon",
+	"type": "Attack",
+	"aura": "",
+	"totalBooks": "8",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. If the target has less than 30% HP, this attack is always critical.",
+			"basedOn": "[ATK]",
+			"name": "Headshot",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\n",
+			"multiplier": "ATK*3.8",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 50% chance of placing a 60% [Decrease DEF] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Piercing Bolt",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Cooldown -1\n",
+			"multiplier": "ATK*6",
+			"numBooksToMax": "4"
+		}
+	]
+}

@@ -1,0 +1,62 @@
+{
+	"key": "l10n:hero-type/name?id=5320#static",
+	"name": "Vergumkaar",
+	"id": 5326,
+	"acc": "10",
+	"affinity": "Spirit",
+	"atk": "914",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "99",
+	"def": "1189",
+	"hp": "22140",
+	"cheal": "50",
+	"res": "50",
+	"faction": "Lizardmen",
+	"rarity": "Legendary",
+	"type": "Support",
+	"aura": "Increases Ally RES in All Battles by 55.",
+	"totalBooks": "13",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 35% chance of placing a [Stun] debuff for 1 turn. The chance increases by 15% for each buff on the target.",
+			"basedOn": "[ATK]",
+			"name": "Bejeweled Bulk",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\n",
+			"multiplier": "5*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Removes all [Provoke] debuffs and 1 random debuff from all allies. Places a 60% [Increase DEF] buff for 2 turns on allies who have debuffs removed. Also places a [Shield] buff on all allies equal to 20% of this Champion's MAX HP for 2 turns.",
+			"basedOn": "",
+			"name": "Honored Ancient",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Shield +5%\nLevel 3: Shield +5%\nLevel 4: Shield +10%\nLevel 5: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Removes 1 random buff from each enemy. Has a 75% chance of removing 2 random buffs from each enemy. Places a 100% [Heal Reduction] debuff for 3 turns on enemies who have 1 or more buffs removed. Also places a 60% [Decrease DEF] debuff for 2 turns on enemies who have 2 buffs removed.",
+			"basedOn": "[ATK]",
+			"name": "Crushing Trample",
+			"maxcd": "5",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Cooldown -1\nLevel 6: Cooldown -1\n",
+			"multiplier": "4.85*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Immune to [Provoke] debuffs. Fills this Champion's Turn Meter by 20% each time an enemy attempts to place a [Provoke] debuff on this Champion.",
+			"basedOn": "",
+			"name": "Saurian Stoic [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": ""
+		}
+	]
+}

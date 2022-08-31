@@ -1,0 +1,42 @@
+{
+	"key": "l10n:hero-type/name?id=2420#static",
+	"name": "Crusher",
+	"id": 2426,
+	"acc": "0",
+	"affinity": "Spirit",
+	"atk": "870",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "96",
+	"def": "925",
+	"hp": "14370",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Barbarians",
+	"rarity": "Uncommon",
+	"type": "Defense",
+	"aura": "",
+	"totalBooks": "8",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 25% chance of placing a 25% [Decrease ATK] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Scythe",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\n",
+			"multiplier": "4*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy. Places a [Counterattack] buff on this Champion for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Savage Swipe",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Cooldown -1\n",
+			"multiplier": "6.2*ATK",
+			"numBooksToMax": "4"
+		}
+	]
+}

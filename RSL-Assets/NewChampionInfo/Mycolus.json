@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=6160#static",
+	"name": "Mycolus",
+	"id": 6166,
+	"acc": "0",
+	"affinity": "Void",
+	"atk": "892",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "93",
+	"def": "1079",
+	"hp": "15855",
+	"cheal": "50",
+	"res": "40",
+	"faction": "Ogryn Tribes",
+	"rarity": "Rare",
+	"type": "Support",
+	"aura": "Increases Ally DEF in Faction Crypts by 21%.",
+	"totalBooks": "9",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Heals this Champion by 30% of the damage inflicted. \r\n\r\nAlso heals the ally with the lowest HP by 10% of their MAX HP. This heal will not affect this Champion.",
+			"basedOn": "[ATK]",
+			"name": "Vigor Spores",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\nLevel 6: Damage +5%\n",
+			"multiplier": "4.2*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Places a [Shield] buff on this Champion for 2 turns equal to 20% of their MAX HP, then places a 25% [Ally Protection] buff on all allies except this Champion for 2 turns. \r\n\r\nWill also heal all allies except this Champion by 10% of their MAX HP.",
+			"basedOn": "",
+			"name": "Fungal Privilege",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Heal +5%\nLevel 3: Heal +5%\nLevel 4: Heal +5%\nLevel 5: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Decreases the damage all allies receive by 5%. This Champion will receive that damage instead.",
+			"basedOn": "",
+			"name": "Absorbtion Roots [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": ""
+		}
+	]
+}

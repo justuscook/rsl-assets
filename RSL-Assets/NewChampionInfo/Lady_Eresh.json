@@ -1,0 +1,62 @@
+{
+	"key": "l10n:hero-type/name?id=6530#static",
+	"name": "Lady Eresh",
+	"id": 6536,
+	"acc": "0",
+	"affinity": "Force",
+	"atk": "1365",
+	"cdamage": "60",
+	"crate": "15",
+	"spd": "96",
+	"def": "936",
+	"hp": "15030",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Knight Revenant",
+	"rarity": "Epic",
+	"type": "Attack",
+	"aura": "",
+	"totalBooks": "9",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Each hit has a 25% chance of placing a 25% [Weaken] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Meticulous Adversary",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\n",
+			"multiplier": "1.8*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 20% chance of granting an Extra Turn. If an Extra Turn is not granted, fills this Champion’s Turn Meter by 10% for each living enemy instead.",
+			"basedOn": "[ATK]",
+			"name": "Blur of Knives",
+			"maxcd": "4",
+			"mincd": "4",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Damage +10%\n",
+			"multiplier": "3.8*ATK",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "Places a 50% [Increase ATK] buff and a 30% [Increase C. DMG] buff on this Champion for 3 turns, then grants an Extra Turn.",
+			"basedOn": "",
+			"name": "Deathrite Evocation",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Level 2: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "1"
+		},
+		{
+			"desc": "Places a [Perfect Veil] buff on this Champion for 2 turns whenever their HP drops below 50%.",
+			"basedOn": "",
+			"name": "Slip Between [P]",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Level 2: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "1"
+		}
+	]
+}

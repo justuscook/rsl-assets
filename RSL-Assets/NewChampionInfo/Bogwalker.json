@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=870#static",
+	"name": "Bogwalker",
+	"id": 876,
+	"acc": "0",
+	"affinity": "Force",
+	"atk": "848",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "93",
+	"def": "1112",
+	"hp": "16020",
+	"cheal": "50",
+	"res": "40",
+	"faction": "Lizardmen",
+	"rarity": "Rare",
+	"type": "Defense",
+	"aura": "Increases Ally HP in Dungeons by 25%.",
+	"totalBooks": "14",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 30% chance of placing a 50% [Decrease ATK] debuff for 2 turns.",
+			"basedOn": "[DEF]",
+			"name": "Bone Katars",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Damage +10%\nLevel 7: Buff/Debuff Chance +10%\n",
+			"multiplier": "3.8*DEF",
+			"numBooksToMax": "6"
+		},
+		{
+			"desc": "Attacks all enemies. Places a 30% [Increase DEF] buff on all allies for 2 turns.",
+			"basedOn": "[ATK][DEF]",
+			"name": "Combo Attack",
+			"maxcd": "5",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Cooldown -1\nLevel 5: Damage +0\nLevel 6: Damage +0\nLevel 7: Damage +0\nLevel 8: Cooldown -1\n",
+			"multiplier": "2*ATK+2.3*DEF",
+			"numBooksToMax": "7"
+		},
+		{
+			"desc": "Places a 30% [Reflect Damage] buff on all allies for 1 turn when attacked with a critical hit.",
+			"basedOn": "",
+			"name": "Scout [Passive]",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "1"
+		}
+	]
+}

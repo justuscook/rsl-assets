@@ -1,0 +1,42 @@
+{
+	"key": "l10n:hero-type/name?id=860#static",
+	"name": "Vigilante",
+	"id": 866,
+	"acc": "0",
+	"affinity": "Spirit",
+	"atk": "760",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "98",
+	"def": "826",
+	"hp": "17505",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Sacred Order",
+	"rarity": "Uncommon",
+	"type": "HP",
+	"aura": "",
+	"totalBooks": "10",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times.",
+			"basedOn": "[ATK]",
+			"name": "Holy Blade",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\n",
+			"multiplier": "2.1*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 3 times at random. Each hit has a 50% chance of placing a 15% [Weaken] debuff for 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Branding Iron",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Damage +10%\nLevel 6: Buff/Debuff Chance +10%\nLevel 7: Cooldown -1\n",
+			"multiplier": "2.1*ATK",
+			"numBooksToMax": "6"
+		}
+	]
+}

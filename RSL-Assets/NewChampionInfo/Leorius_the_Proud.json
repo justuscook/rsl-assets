@@ -1,0 +1,62 @@
+{
+	"key": "l10n:hero-type/name?id=6290#static",
+	"name": "Leorius the Proud",
+	"id": 6296,
+	"acc": "0",
+	"affinity": "Void",
+	"atk": "1409",
+	"cdamage": "63",
+	"crate": "15",
+	"spd": "106",
+	"def": "936",
+	"hp": "18495",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Skinwalkers",
+	"rarity": "Legendary",
+	"type": "Attack",
+	"aura": "Increases Ally C. RATE in All Battles by 24%.",
+	"totalBooks": "10",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Each hit has a 60% chance of placing a 60% [Decrease DEF] debuff for 2 turns.\r\n\r\nDamage increases by 20% if the target’s has less than 60% HP.",
+			"basedOn": "[ATK]",
+			"name": "Lion's Twinclaws",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Damage +10%\n",
+			"multiplier": "1.65*ATK",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "Attacks all enemies 2 times.\r\n\r\n[Passive Effect]\r\n\r\nThis Champion is immune to [Stun], [Freeze], [Sleep], [Provoke], [Fear], [True Fear], [Petrification] debuffs when this Skill is not on cooldown.",
+			"basedOn": "[ATK]",
+			"name": "Rage of the Pride",
+			"maxcd": "3",
+			"mincd": "3",
+			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Damage +10%\n",
+			"multiplier": "2*ATK",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "Attacks all enemies. Has an 80% chance of placing a [True Fear] debuff for 1 turn. \r\n\r\nBefore attacking, has an 80% chance of placing a 25% [Weaken] debuff on all enemies for 2 turns.",
+			"basedOn": "",
+			"name": "Awesome Roar",
+			"maxcd": "4",
+			"mincd": "4",
+			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +10%\n",
+			"multiplier": "",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "[Active Effect]\r\n\r\nInstantly places an [Unkillable] buff on this Champion for 1 turn before receiving a fatal hit.\r\n\r\n[Passive Effect]\r\n\r\nDamage increases as the Champion's HP decreases (by 1% for every 1% of HP lost).",
+			"basedOn": "",
+			"name": "True Grit [P]",
+			"maxcd": "4",
+			"mincd": "4",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": ""
+		}
+	]
+}

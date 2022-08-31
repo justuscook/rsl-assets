@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=4330#static",
+	"name": "Stout Axeman",
+	"id": 4336,
+	"acc": "0",
+	"affinity": "Magic",
+	"atk": "859",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "94",
+	"def": "892",
+	"hp": "19155",
+	"cheal": "50",
+	"res": "55",
+	"faction": "Dwarves",
+	"rarity": "Rare",
+	"type": "HP",
+	"aura": "",
+	"totalBooks": "8",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy.",
+			"basedOn": "[ATK]",
+			"name": "Go No Further",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\n",
+			"multiplier": "4.5*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Places a 15% [Reflect Damage] buff on this Champion for 2 turns.\r\nHas an 85% chance of placing a 15% [Reflect Damage] buff on a random ally for 2 turns.\r\nAlso has a 35% chance of placing a [Provoke] debuff on 2 random enemies for 1 turn.",
+			"basedOn": "",
+			"name": "Repel the Horde",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Heals this Champion by 50% of the damage taken while under a [Reflect Damage] buff. Also, has a 25% chance of increasing the duration of all attacker’s debuffs by 1 turn when hit while under a [Reflect Damage] buff.",
+			"basedOn": "",
+			"name": "Thrives on Danger [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": ""
+		}
+	]
+}

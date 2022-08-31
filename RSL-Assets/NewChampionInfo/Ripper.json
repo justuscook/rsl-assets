@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=2680#static",
+	"name": "Ripper",
+	"id": 2686,
+	"acc": "0",
+	"affinity": "Force",
+	"atk": "1299",
+	"cdamage": "60",
+	"crate": "15",
+	"spd": "96",
+	"def": "936",
+	"hp": "16020",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Skinwalkers",
+	"rarity": "Epic",
+	"type": "Attack",
+	"aura": "Increases Ally C. RATE in All Battles by 23%.",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Decreases their MAX HP by 10% of the damage inflicted.",
+			"basedOn": "[ATK]",
+			"name": "Scar for Life",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\n",
+			"multiplier": "4*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy 2 times. Damage increases as the target's HP decreases.",
+			"basedOn": "[ATK][Enemy MAX ]",
+			"name": "No Quarter",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\nLevel 6: Cooldown -1\n",
+			"multiplier": "3*ATK+(1.5*ATK*(1-TRG_HP_PERC))",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks 1 enemy. Will ignore 50% of the target's DEF. Decreases their MAX HP by 30% of the damage inflicted.",
+			"basedOn": "[ATK]",
+			"name": "Heavy Slam",
+			"maxcd": "5",
+			"mincd": "5",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Damage +10%\n",
+			"multiplier": "3.3*ATK",
+			"numBooksToMax": "3"
+		}
+	]
+}

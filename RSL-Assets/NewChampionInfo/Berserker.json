@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=830#static",
+	"name": "Berserker",
+	"id": 836,
+	"acc": "0",
+	"affinity": "Spirit",
+	"atk": "1266",
+	"cdamage": "57",
+	"crate": "15",
+	"spd": "98",
+	"def": "793",
+	"hp": "14535",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Barbarians",
+	"rarity": "Rare",
+	"type": "Attack",
+	"aura": "",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Fills this Champion's Turn Meter by 30% if this attack is critical.",
+			"basedOn": "[ATK]",
+			"name": "All-Out Attack",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\n",
+			"multiplier": "3.9*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy. Grants an Extra Turn if the target is killed.",
+			"basedOn": "[ATK]",
+			"name": "Havoc",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Cooldown -1\n",
+			"multiplier": "5.6*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies 2 times. Will ignore 20% of each target's DEF.",
+			"basedOn": "[ATK]",
+			"name": "Sweep",
+			"maxcd": "4",
+			"mincd": "4",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\n",
+			"multiplier": "1.5*ATK",
+			"numBooksToMax": "3"
+		}
+	]
+}

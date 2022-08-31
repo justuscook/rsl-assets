@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=5100#static",
+	"name": "Ghrush the Mangler",
+	"id": 5106,
+	"acc": "0",
+	"affinity": "Spirit",
+	"atk": "694",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "94",
+	"def": "1321",
+	"hp": "19320",
+	"cheal": "50",
+	"res": "45",
+	"faction": "Ogryn Tribes",
+	"rarity": "Epic",
+	"type": "Defense",
+	"aura": "Increases Ally DEF in Faction Crypts by 30%.",
+	"totalBooks": "15",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 50% chance of placing a [Leech] debuff on the target for 2 turns before attacking.",
+			"basedOn": "[DEF]",
+			"name": "Gore-Slick Maul",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Buff/Debuff Chance +10%\n",
+			"multiplier": "3.5*DEF",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 60% chance of placing a 50% [Decrease ATK] debuff or a 25% [Decrease C. DMG] debuff for 2 turns.",
+			"basedOn": "[DEF]",
+			"name": "Bonebreaker Stomp",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Buff/Debuff Chance +20%\nLevel 7: Cooldown -1\n",
+			"multiplier": "3.6*DEF",
+			"numBooksToMax": "6"
+		},
+		{
+			"desc": "Attacks all enemies. Places a 15% [Continuous Heal] buff on all allies for 2 turns. Places an additional 7.5% [Continuous Heal] buff on all allies for 1 turn if at least one enemy is hit with a critical hit.",
+			"basedOn": "[DEF]",
+			"name": "Smothering Swath",
+			"maxcd": "6",
+			"mincd": "4",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Cooldown -1\nLevel 5: Cooldown -1\n",
+			"multiplier": "4*DEF",
+			"numBooksToMax": "4"
+		}
+	]
+}

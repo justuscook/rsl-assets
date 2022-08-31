@@ -1,0 +1,42 @@
+{
+	"key": "l10n:hero-type/name?id=730#static",
+	"name": "Warchanter",
+	"id": 736,
+	"acc": "0",
+	"affinity": "Magic",
+	"atk": "716",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "94",
+	"def": "771",
+	"hp": "18990",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Orcs",
+	"rarity": "Uncommon",
+	"type": "HP",
+	"aura": "",
+	"totalBooks": "10",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 20% chance of applying a [Stun] debuff for 1 turn.",
+			"basedOn": "[HP]",
+			"name": "Head Wound",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\n",
+			"multiplier": "0.2*HP",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 25% chance of placing a 25% [Decrease ATK] debuff for 1 turn. Also has a 25% chance of placing a [Provoke] debuff for 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Frenzy",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Cooldown -1\nLevel 7: Damage +0\n",
+			"multiplier": "5.6*ATK",
+			"numBooksToMax": "6"
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=1800#static",
+	"name": "Steelskull",
+	"id": 1806,
+	"acc": "0",
+	"affinity": "Spirit",
+	"atk": "1277",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "111",
+	"def": "958",
+	"hp": "16020",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Skinwalkers",
+	"rarity": "Epic",
+	"type": "Support",
+	"aura": "Increases Ally DEF in Faction Crypts by 27%.",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Has a 10% chance of placing a 5% [Poison] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Decay",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Buff/Debuff Chance +10%\n",
+			"multiplier": "2*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Removes all debuffs from a target ally, then heals them by 40%.",
+			"basedOn": "",
+			"name": "Cleansing Spell",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Heal +5%\nLevel 3: Heal +5%\nLevel 4: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "Places a 60% [Increase DEF] buff on all allies for 2 turns. Heals all allies by 20% of their MAX HP.",
+			"basedOn": "",
+			"name": "Protection",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Level 2: Heal +5%\nLevel 3: Heal +5%\nLevel 4: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "3"
+		}
+	]
+}

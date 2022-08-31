@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=1970#static",
+	"name": "Hexweaver",
+	"id": 1976,
+	"acc": "0",
+	"affinity": "Spirit",
+	"atk": "914",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "101",
+	"def": "1013",
+	"hp": "16515",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Dark Elves",
+	"rarity": "Rare",
+	"type": "Support",
+	"aura": "Increases Ally SPD in Faction Crypts by 13.",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 50% chance of placing a 25% [Decrease ACC] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Curse",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Buff/Debuff Chance +10%\n",
+			"multiplier": "4.3*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Heals all allies by 15% of their MAX HP.",
+			"basedOn": "",
+			"name": "Dark Embrace",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Heal +10%\nLevel 3: Heal +10%\nLevel 4: Heal +10%\nLevel 5: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Places a 30% [Increase C. RATE] buff and a 15% [Increase SPD] buff on all allies for 2 turns.",
+			"basedOn": "",
+			"name": "Wings of Doom",
+			"maxcd": "5",
+			"mincd": "3",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
+		}
+	]
+}

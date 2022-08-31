@@ -1,0 +1,42 @@
+{
+	"key": "l10n:hero-type/name?id=1690#static",
+	"name": "Stalker",
+	"id": 1696,
+	"acc": "0",
+	"affinity": "Magic",
+	"atk": "749",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "94",
+	"def": "925",
+	"hp": "16185",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Lizardmen",
+	"rarity": "Uncommon",
+	"type": "HP",
+	"aura": "",
+	"totalBooks": "9",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Heals this Champion by 10% of the damage dealt.",
+			"basedOn": "[ATK]",
+			"name": "Bloody Claws",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\n",
+			"multiplier": "4.3*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy 2 times. Has a 15% chance of placing a 25% [Decrease ATK] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Tear Apart",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Cooldown -1\n",
+			"multiplier": "3.5*ATK",
+			"numBooksToMax": "5"
+		}
+	]
+}

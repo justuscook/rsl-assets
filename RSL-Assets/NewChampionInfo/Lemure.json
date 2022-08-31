@@ -1,0 +1,42 @@
+{
+	"key": "l10n:hero-type/name?id=2150#static",
+	"name": "Lemure",
+	"id": 2156,
+	"acc": "0",
+	"affinity": "Magic",
+	"atk": "639",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "93",
+	"def": "903",
+	"hp": "18165",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Demonspawn",
+	"rarity": "Uncommon",
+	"type": "HP",
+	"aura": "",
+	"totalBooks": "7",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times.",
+			"basedOn": "[ATK]",
+			"name": "Vicious Swipes",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\n",
+			"multiplier": "2.7*ATK",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 60% chance of placing a [Bomb] that detonates in 3 turns.",
+			"basedOn": "[ATK][HP]",
+			"name": "Dark Burst",
+			"maxcd": "4",
+			"mincd": "4",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +10%\n",
+			"multiplier": "2.8*ATK+0.2*HP",
+			"numBooksToMax": "4"
+		}
+	]
+}

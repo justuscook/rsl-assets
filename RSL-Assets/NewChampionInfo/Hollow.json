@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=2520#static",
+	"name": "Hollow",
+	"id": 2526,
+	"acc": "0",
+	"affinity": "Void",
+	"atk": "1299",
+	"cdamage": "57",
+	"crate": "15",
+	"spd": "89",
+	"def": "859",
+	"hp": "13050",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Undead Hordes",
+	"rarity": "Rare",
+	"type": "Attack",
+	"aura": "Increases Ally ATK in Dungeons by 21%.",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 10% chance of placing a 2.5% [Poison] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Bleed Away",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Damage +10%\n",
+			"multiplier": "3.4*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy 4 times. Each hit decreases the target's Turn Meter and fills this Champion's Turn Meter by 5%.",
+			"basedOn": "[ATK]",
+			"name": "Creeping Dark",
+			"maxcd": "3",
+			"mincd": "2",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Cooldown -1\n",
+			"multiplier": "1.2*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy. Will ignore 25% of the target's DEF.",
+			"basedOn": "[ATK]",
+			"name": "Aether Strike",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Cooldown -1\n",
+			"multiplier": "4.5*ATK",
+			"numBooksToMax": "4"
+		}
+	]
+}

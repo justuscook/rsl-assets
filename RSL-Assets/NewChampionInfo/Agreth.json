@@ -1,0 +1,101 @@
+{
+	"key": "l10n:hero-type/name?id=22480#static",
+	"name": "Agreth",
+	"id": 22486,
+	"acc": "0",
+	"affinity": "Magic",
+	"atk": "1101",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "150",
+	"def": "1101",
+	"hp": "2064690",
+	"cheal": "50",
+	"res": "30",
+	"rarity": "Common",
+	"type": "Attack",
+	"aura": "",
+	"totalBooks": "0",
+	"skills": [
+		{
+			"desc": "Attacks all enemies. Places a 5% [Poison] debuff on all enemies for 4 turns.\r\n\r\nWill repeat the attack 1 time for each Spiderling without any active buffs. The [Poison] debuffs cannot be resisted or blocked.",
+			"basedOn": "[ATK]",
+			"name": "Envenomed Strands",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "2.5*ATK",
+			"numBooksToMax": ""
+		},
+		{
+			"desc": "Spawns 4 Spiderlings, then places a [Counterattack] buff on all Spiderlings for 3 turns. \r\n\r\nWill team up with all Spiderlings to attack all enemies if a Spiderling is spawned by this skill.\r\n\r\nAgreth will attack with this Skill at the beginning of the round.\r\n\r\n[Agreth can have a maximum of 4 Spiderlings in battle at any time.]",
+			"basedOn": "",
+			"name": "Brood Feast",
+			"maxcd": "3",
+			"mincd": "3",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": ""
+		},
+		{
+			"desc": "Counterattacks whenever an enemy decreases Agreth’s Turn Meter.\r\n\r\nThe damage inflicted is equal to the amount of Turn Meter lost. Will ignore 100% of DEF.",
+			"basedOn": "[CHANGED__AMOUNT][Enemy MAX HP]",
+			"name": "Elder Lurker [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "(-CHANGED_STAMINA_AMOUNT/100)*TRG_HP",
+			"numBooksToMax": ""
+		},
+		{
+			"desc": "Attacks all enemies at the start of each turn. Deals damage from all [Poison] debuffs on each enemy instantly.\r\n\r\nWhen attacked by an enemy under a [Poison] debuff, increases the duration of all debuffs on the attacker by 1 turn, then places a 25% [Poison Sensitivity] debuff on them for 3 turns.\r\n\r\nWhen attacked by an enemy that has no [Poison] debuff, places a 5% [Poison] debuff on the attacker for 4 turns. This debuff cannot be blocked or resisted.",
+			"basedOn": "",
+			"name": "Tide of Toxins [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": ""
+		},
+		{
+			"desc": "Decreases the damage taken from Poison debuffs by 90%.",
+			"basedOn": "",
+			"name": "Almighty Tolerance [Passive]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": ""
+		},
+		{
+			"desc": "Immune to [Stun], [Freeze], [Sleep], [Provoke], [Block Active Skills], [Block Passive Skills], [Fear], [True Fear], [Petrification] debuffs. Also immune to HP exchange effects, HP balancing effects, and cooldown increasing effects.",
+			"basedOn": "",
+			"name": "Almighty Immunity [Passive]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": ""
+		},
+		{
+			"desc": "Damage from skills that scale based on enemy MAX HP cannot exceed 10% of the Boss' MAX HP when attacking the Boss.",
+			"basedOn": "",
+			"name": "Almighty Strength [Passive]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": ""
+		},
+		{
+			"desc": "All Turn Meter reduction effects are decreased by 50% when used against the Boss.",
+			"basedOn": "",
+			"name": "Almighty Persistence [Passive]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": ""
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"key": "l10n:hero-type/name?id=4360#static",
+	"name": "Suntribe",
+	"id": 4366,
+	"acc": "0",
+	"affinity": "Magic",
+	"atk": "782",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "95",
+	"def": "870",
+	"hp": "16515",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Orcs",
+	"rarity": "Uncommon",
+	"type": "Support",
+	"aura": "",
+	"totalBooks": "8",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Heals this Champion by 10% of the damage inflicted.",
+			"basedOn": "[ATK]",
+			"name": "Inscribed Axes",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\n",
+			"multiplier": "3.6*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Sacrifices HP equal to 10% of this Champion's MAX HP, then heals a target ally by 10% of their MAX HP. Also has a 40% chance of placing a 7.5% [Continuous Heal] buff on that ally for 1 turn.",
+			"basedOn": "",
+			"name": "Spirits' Verdict",
+			"maxcd": "5",
+			"mincd": "3",
+			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Cooldown -1\nLevel 5: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "4"
+		}
+	]
+}

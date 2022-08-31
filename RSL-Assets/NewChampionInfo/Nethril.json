@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=1830#static",
+	"name": "Nethril",
+	"id": 1836,
+	"acc": "0",
+	"affinity": "Spirit",
+	"atk": "1454",
+	"cdamage": "63",
+	"crate": "15",
+	"spd": "94",
+	"def": "991",
+	"hp": "17010",
+	"cheal": "50",
+	"res": "40",
+	"faction": "Undead Hordes",
+	"rarity": "Legendary",
+	"type": "Attack",
+	"aura": "",
+	"totalBooks": "10",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 3 times. Has a 30% chance of placing a 5% [Poison] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Blood Harvest",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Buff/Debuff Chance +10%\n",
+			"multiplier": "ATK",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 50% chance of placing a [Stun] debuff on all enemies for 1 turn. Places a 30% [Decrease SPD] debuff for 2 turns if the target is not under a [Stun] debuff.",
+			"basedOn": "[ATK]",
+			"name": "Ghastly Horrors",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Cooldown -1\n",
+			"multiplier": "4.8*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Decreases the Turn Meter by 75%.",
+			"basedOn": "[ATK]",
+			"name": "Bat Swarm",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Cooldown -1\n",
+			"multiplier": "4*ATK",
+			"numBooksToMax": "3"
+		}
+	]
+}

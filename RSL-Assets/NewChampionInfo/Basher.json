@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=2660#static",
+	"name": "Basher",
+	"id": 2666,
+	"acc": "0",
+	"affinity": "Void",
+	"atk": "1498",
+	"cdamage": "60",
+	"crate": "15",
+	"spd": "95",
+	"def": "903",
+	"hp": "13545",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Skinwalkers",
+	"rarity": "Epic",
+	"type": "Attack",
+	"aura": "Increases Ally HP in All Battles by 25%.",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 75% chance of placing a 25% [Weaken] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Splintering Bash",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\n",
+			"multiplier": "3.2*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Increases the cooldown of all of the target's skills by 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Stinging Blast",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Cooldown -1\n",
+			"multiplier": "3.8*ATK",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "Attacks 4 times at random. Has a 75% chance of placing a [Block Buffs] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Cause Fear",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Buff/Debuff Chance +15%\nLevel 5: Cooldown -1\n",
+			"multiplier": "1.55*ATK",
+			"numBooksToMax": "4"
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=2820#static",
+	"name": "Pounder",
+	"id": 2826,
+	"acc": "10",
+	"affinity": "Magic",
+	"atk": "859",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "95",
+	"def": "1200",
+	"hp": "14535",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Ogryn Tribes",
+	"rarity": "Rare",
+	"type": "Defense",
+	"aura": "Increases Magic Ally ATK in All Battles by 20%.",
+	"totalBooks": "8",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 25% chance of placing a 25% [Decrease ATK] debuff for 2 turns.",
+			"basedOn": "[DEF]",
+			"name": "Bonebreaker",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\n",
+			"multiplier": "3.8*DEF",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 75% chance of placing a [Freeze] debuff for 1 turn. If the target has a [Freeze] debuff, has a 25% chance of placing it on another enemy.",
+			"basedOn": "[DEF]",
+			"name": "Spreading Ice",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Cooldown -1\n",
+			"multiplier": "6*DEF",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Increases the resistance of all allies by 15 for each active buff on this Champion.",
+			"basedOn": "",
+			"name": "Tower of Power [Passive]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": ""
+		}
+	]
+}

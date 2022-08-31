@@ -1,0 +1,42 @@
+{
+	"key": "l10n:hero-type/name?id=5910#static",
+	"name": "Conscript",
+	"id": 5916,
+	"acc": "0",
+	"affinity": "Spirit",
+	"atk": "1156",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "86",
+	"def": "826",
+	"hp": "11565",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Shadowkin",
+	"rarity": "Uncommon",
+	"type": "Attack",
+	"aura": "",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times.",
+			"basedOn": "[ATK]",
+			"name": "Peasant's Bow",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\nLevel 6: Damage +5%\n",
+			"multiplier": "1.5*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 50% chance of placing a 15% [Weaken] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Fusillade",
+			"maxcd": "4",
+			"mincd": "2",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\nLevel 6: Cooldown -1\nLevel 7: Cooldown -1\n",
+			"multiplier": "6.5*ATK",
+			"numBooksToMax": "6"
+		}
+	]
+}

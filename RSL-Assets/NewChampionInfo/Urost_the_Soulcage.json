@@ -1,0 +1,62 @@
+{
+	"key": "l10n:hero-type/name?id=5080#static",
+	"name": "Urost the Soulcage",
+	"id": 5086,
+	"acc": "10",
+	"affinity": "Void",
+	"atk": "782",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "95",
+	"def": "1167",
+	"hp": "24450",
+	"cheal": "50",
+	"res": "50",
+	"faction": "Undead Hordes",
+	"rarity": "Legendary",
+	"type": "HP",
+	"aura": "Increases Ally RES in All Battles by 80.",
+	"totalBooks": "15",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Places a [Shield] buff on this Champion equal to 10% of this Champion's MAX HP for 2 turns. The [Shield]'s value increases by 1% for each [Poison] debuff on the target.",
+			"basedOn": "[HP]",
+			"name": "Jagged Knuckles",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Shield +5%\nLevel 4: Damage +10%\nLevel 5: Shield +10%\n",
+			"multiplier": "0.22*HP",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 75% chance of decreasing the Turn Meters by 15% of enemies under 1 or more [Poison] debuffs. Also has a 75% chance of placing a 30% [Decrease SPD] debuff for 2 turns on enemies under 2 or more [Poison] debuffs. Has a 75% chance of placing a [Stun] debuff for 1 turn on enemies under 3 or more [Poison] debuffs.\r\n\r\n[Instantly activates this skill when this Champion is revived by Rian the Conjurer.]",
+			"basedOn": "[HP]",
+			"name": "Fetid Eruption",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Buff/Debuff Chance +10%\nLevel 7: Cooldown -1\n",
+			"multiplier": "0.24*HP",
+			"numBooksToMax": "6"
+		},
+		{
+			"desc": "Places a 25% [Strengthen] buff on all allies for 2 turns and a 50% [Ally Protection] buff on all allies except this Champion for 2 turns.",
+			"basedOn": "",
+			"name": "Soul Bounty",
+			"maxcd": "5",
+			"mincd": "3",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
+		},
+		{
+			"desc": "When attacked, has a 50% chance of placing a 5% [Poison] debuff on the attacker for 2 turns. \r\n\r\nWhenever an ally is attacked while under a [Strengthen] buff, has a 50% chance of placing a [Provoke] debuff on the attacker for 1 turn.\r\n\r\nIncreases this Champion’s MAX HP by 5% whenever an enemy receives damage from a [Poison] debuff placed by this Champion.\r\nWhenever an enemy receives damage from a [Poison] debuff placed by this Champion, also decreases their MAX HP by 5%.\r\n\r\n[Cannot decrease a single Champion's MAX HP by more than 25% in one Battle. Will not decrease Bosses' MAX HP. Cannot increase this Champion's MAX HP by more than 50%.]",
+			"basedOn": "",
+			"name": "Call of the Cage [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Buff/Debuff Chance +10%\n",
+			"multiplier": "",
+			"numBooksToMax": "3"
+		}
+	]
+}

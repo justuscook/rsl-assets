@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=1940#static",
+	"name": "Preserver",
+	"id": 1946,
+	"acc": "0",
+	"affinity": "Force",
+	"atk": "771",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "102",
+	"def": "1167",
+	"hp": "16350",
+	"cheal": "50",
+	"res": "40",
+	"faction": "Banner Lords",
+	"rarity": "Rare",
+	"type": "Defense",
+	"aura": "Increases Ally HP in All Battles by 17%.",
+	"totalBooks": "13",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Has a 15% chance of placing a 30% [Decrease SPD] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Exhausting Assault",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\n",
+			"multiplier": "5.5*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Places a 7.5% [Continuous Heal] buff and a [Shield] buff on this Champion for 2 turns. The value of the [Shield] is proportional to this Champion's MAX HP.",
+			"basedOn": "",
+			"name": "Recuperate",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Shield +5%\nLevel 3: Shield +5%\nLevel 4: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 75% chance of placing a [Freeze] debuff for 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Ice Blow",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Damage +10%\nLevel 6: Buff/Debuff Chance +10%\nLevel 7: Cooldown -1\n",
+			"multiplier": "6.7*ATK",
+			"numBooksToMax": "6"
+		}
+	]
+}

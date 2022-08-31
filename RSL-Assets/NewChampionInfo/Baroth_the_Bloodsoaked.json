@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=5310#static",
+	"name": "Baroth the Bloodsoaked",
+	"id": 5316,
+	"acc": "0",
+	"affinity": "Force",
+	"atk": "826",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "98",
+	"def": "1112",
+	"hp": "20475",
+	"cheal": "50",
+	"res": "45",
+	"faction": "Barbarians",
+	"rarity": "Epic",
+	"type": "HP",
+	"aura": "",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. The first hit has a 20% chance of filling this Champion’s Turn Meter by 10%. The second hit has a 20% chance of decreasing the target’s Turn Meter by 10%.",
+			"basedOn": "[HP]",
+			"name": "Gilded Weapons",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\n",
+			"multiplier": "0.12*HP",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy 2 times. The first hit places a [Shield] equal to 25% of the damage inflicted on all allies for 2 turns. The second hit heals all allies by 10% of the damage inflicted.",
+			"basedOn": "[HP]",
+			"name": "Splattering Hacks",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Cooldown -1\n",
+			"multiplier": "0.17*HP",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy 2 times. The first hit has a 75% chance of placing a 50% [Decrease ATK] debuff for 2 turns and a 75% chance of removing any [Increase ATK] buffs from the target.\r\n\r\nThe second hit has a 75% chance of placing a 60% [Decrease DEF] debuff for 2 turns and a 75% chance of removing any [Increase DEF] buffs from the target.",
+			"basedOn": "[HP]",
+			"name": "Serpent Axes",
+			"maxcd": "4",
+			"mincd": "4",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +15%\n",
+			"multiplier": "0.18*HP",
+			"numBooksToMax": "4"
+		}
+	]
+}

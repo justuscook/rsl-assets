@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=5870#static",
+	"name": "Fanatic",
+	"id": 5876,
+	"acc": "0",
+	"affinity": "Void",
+	"atk": "1013",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "97",
+	"def": "1024",
+	"hp": "14865",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Shadowkin",
+	"rarity": "Rare",
+	"type": "Support",
+	"aura": "",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 30% chance of placing a 30% [Decrease DEF] debuff for 2 turns. Has a 30% chance of placing a 60% [Decrease DEF] debuff instead if the target is under 2 or more debuffs.",
+			"basedOn": "[ATK]",
+			"name": "Devil Hunt",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\n",
+			"multiplier": "4*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 75% chance of transferring 2 random debuffs from this Champion to the target.",
+			"basedOn": "[ATK]",
+			"name": "Cursebearer",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Buff/Debuff Chance +15%\nLevel 7: Cooldown -1\n",
+			"multiplier": "5.5*ATK",
+			"numBooksToMax": "6"
+		},
+		{
+			"desc": "Places a 50% [Increase ATK] buff on all allies for 2 turns and removes one random debuff from each ally.",
+			"basedOn": "",
+			"name": "Rallying Cry",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Level 2: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "1"
+		}
+	]
+}

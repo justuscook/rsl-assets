@@ -1,0 +1,62 @@
+{
+	"key": "l10n:hero-type/name?id=7040#static",
+	"name": "Cromax Moonblood",
+	"id": 7046,
+	"acc": "10",
+	"affinity": "Force",
+	"atk": "958",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "100",
+	"def": "1421",
+	"hp": "18000",
+	"cheal": "50",
+	"res": "50",
+	"faction": "Dark Elves",
+	"rarity": "Legendary",
+	"type": "Defense",
+	"aura": "Increases Ally ACC in All Battles by 70.",
+	"totalBooks": "13",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 60% chance of placing a 50% [Decrease ATK] debuff for 2 turns.",
+			"basedOn": "[DEF]",
+			"name": "Lunar Lance",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +10%\n",
+			"multiplier": "3.3*DEF",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 75% chance of placing a [Block Buffs] debuff for 2 turns. Also fills this Champion’s Turn Meter by 30%.",
+			"basedOn": "[DEF]",
+			"name": "Moonlight Bonds",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Buff/Debuff Chance +10%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +15%\nLevel 5: Cooldown -1\n",
+			"multiplier": "4.5*DEF",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 75% chance of placing a [Provoke] debuff for 1 turn and a 50% [Decrease ACC] debuff for 2 turns.",
+			"basedOn": "[DEF]",
+			"name": "Blood Moon",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Level 2: Buff/Debuff Chance +10%\nLevel 3: Buff/Debuff Chance +15%\nLevel 4: Cooldown -1\n",
+			"multiplier": "3.6*DEF",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "When attacked, has a 35% chance of placing a [Hex] debuff on the attacker for 1 turn after each hit.",
+			"basedOn": "",
+			"name": "Silver Fear [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Buff/Debuff Chance +10%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Buff/Debuff Chance +15%\n",
+			"multiplier": "",
+			"numBooksToMax": "3"
+		}
+	]
+}

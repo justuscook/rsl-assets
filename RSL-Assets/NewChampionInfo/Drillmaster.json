@@ -1,0 +1,42 @@
+{
+	"key": "l10n:hero-type/name?id=290#static",
+	"name": "Drillmaster",
+	"id": 296,
+	"acc": "0",
+	"affinity": "Magic",
+	"atk": "1255",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "93",
+	"def": "793",
+	"hp": "10575",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Sacred Order",
+	"rarity": "Uncommon",
+	"type": "Attack",
+	"aura": "",
+	"totalBooks": "8",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Places a 25% [Increase ATK] buff on this Champion for 2 turns if the attack is critical.",
+			"basedOn": "[ATK]",
+			"name": "Piercing Shot",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +10%\n",
+			"multiplier": "3.8*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy 2 times.",
+			"basedOn": "[ATK]",
+			"name": "Double Tap",
+			"maxcd": "3",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\n",
+			"multiplier": "4*ATK",
+			"numBooksToMax": "4"
+		}
+	]
+}

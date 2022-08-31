@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=1730#static",
+	"name": "Luthiea",
+	"id": 1736,
+	"acc": "20",
+	"affinity": "Force",
+	"atk": "1277",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "93",
+	"def": "1068",
+	"hp": "14370",
+	"cheal": "50",
+	"res": "30",
+	"faction": "High Elves",
+	"rarity": "Epic",
+	"type": "Attack",
+	"aura": "Increases Ally C. RATE in Dungeons by 33%.",
+	"totalBooks": "14",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 30% chance of placing a 5% [Poison] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Burning Arrow",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Buff/Debuff Chance +10%\n",
+			"multiplier": "4.6*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks 3 times at random. Each hit has a 25% chance of placing a [Freeze] debuff for 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Ice Shot",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Damage +10%\nLevel 5: Cooldown -1\n",
+			"multiplier": "2.6*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 75% chance of placing a 30% [Decrease SPD] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Numbing Poison",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
+			"multiplier": "4.5*ATK",
+			"numBooksToMax": "5"
+		}
+	]
+}

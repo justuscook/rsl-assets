@@ -1,0 +1,62 @@
+{
+	"key": "l10n:hero-type/name?id=6340#static",
+	"name": "Magnarr",
+	"id": 6346,
+	"acc": "15",
+	"affinity": "Spirit",
+	"atk": "837",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "100",
+	"def": "1068",
+	"hp": "20970",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Demonspawn",
+	"rarity": "Epic",
+	"type": "HP",
+	"aura": "Increases Ally DEF in Doom Tower Battles by 30%.",
+	"totalBooks": "14",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 45% chance of placing a 60% [Decrease DEF] debuff for 2 turns. Has a 100% chance instead if the target is under a [HP Burn] debuff.",
+			"basedOn": "[HP]",
+			"name": "Superheated Hammer",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Damage +10%\nLevel 7: Buff/Debuff Chance +10%\n",
+			"multiplier": "0.23*HP",
+			"numBooksToMax": "6"
+		},
+		{
+			"desc": "Attacks all enemies. Places an extra hit on enemies without [HP Burn] debuffs. Has a 50% chance of placing a [Stun] debuff for 1 turn on enemies under [HP Burn] debuffs.",
+			"basedOn": "[HP]",
+			"name": "Percussive Pound",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Damage +10%\nLevel 6: Cooldown -1\n",
+			"multiplier": "0.22*HP",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks 1 enemy. Applies a [Debuff Spread] effect, taking 2 random debuffs from the target and placing them on all enemies under [HP Burn] debuffs. Also increases duration of [HP Burn] debuffs on all enemies by 1 turn.\r\n\r\n[Will not spread [Fear], [True Fear], [Freeze], [Provoke], [Sleep], or [Stun] debuffs.]",
+			"basedOn": "[HP]",
+			"name": "Fan the Flames",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Cooldown -1\n",
+			"multiplier": "0.37*HP",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "This Champion heals by 1% of their MAX HP every time anyone in the battle takes damage from a [HP Burn] debuff.",
+			"basedOn": "",
+			"name": "Fleshmelter [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": ""
+		}
+	]
+}

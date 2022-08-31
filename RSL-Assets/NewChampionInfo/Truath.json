@@ -1,0 +1,62 @@
+{
+	"key": "l10n:hero-type/name?id=7080#static",
+	"name": "Truath",
+	"id": 7086,
+	"acc": "0",
+	"affinity": "Magic",
+	"atk": "925",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "101",
+	"def": "1145",
+	"hp": "22635",
+	"cheal": "50",
+	"res": "50",
+	"faction": "Dark Elves",
+	"rarity": "Legendary",
+	"type": "HP",
+	"aura": "",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Heals this Champion by 5% of their MAX HP. Heals this Champion by 10% of their MAX HP instead if they have 50% HP or less.",
+			"basedOn": "[HP]",
+			"name": "Staff of Liferip",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +10%\nLevel 3: Heal +10%\nLevel 4: Damage +10%\nLevel 5: Heal +10%\n",
+			"multiplier": "0.2*HP",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Places a [Perfect Veil] buff on all allies except this Champion for 2 turns. Also places a [Counterattack] buff and a 25% [Strengthen] buff on this Champion for 2 turns.",
+			"basedOn": "[HP]",
+			"name": "Gaze Upon Me",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Damage +10%\nLevel 5: Cooldown -1\n",
+			"multiplier": "0.27*HP",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Heals a target ally by 20% of this Champion's MAX HP, then balances the HP of all allies. The HP levels of all allies will be brought up to the level of the ally with the highest HP. \r\n\r\nAfter balancing HP, places a 50% [Ally Protection] buff on the initial target for 2 turns.",
+			"basedOn": "",
+			"name": "Animus Infusion",
+			"maxcd": "4",
+			"mincd": "4",
+			"books": "Level 2: Heal +10%\nLevel 3: Heal +10%\nLevel 4: Heal +10%\nLevel 5: Heal +10%\n",
+			"multiplier": "",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Decreases the cooldown of the [Animus Infusion] skill by 1 turn for every 10% of HP this Champion loses.",
+			"basedOn": "",
+			"name": "Transmute Pain [P]",
+			"maxcd": "1",
+			"mincd": "1",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": ""
+		}
+	]
+}

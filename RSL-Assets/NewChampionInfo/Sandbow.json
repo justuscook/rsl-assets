@@ -1,0 +1,42 @@
+{
+	"key": "l10n:hero-type/name?id=3840#static",
+	"name": "Sandbow",
+	"id": 3846,
+	"acc": "0",
+	"affinity": "Spirit",
+	"atk": "1123",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "96",
+	"def": "771",
+	"hp": "12885",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Barbarians",
+	"rarity": "Uncommon",
+	"type": "Attack",
+	"aura": "",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy.",
+			"basedOn": "[ATK]",
+			"name": "Let Fly",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\nLevel 6: Damage +10%\n",
+			"multiplier": "3.7*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks 1 enemy 2 times. Each hit has a 15% chance of placing a 15% [Weaken] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Veinfire Venom",
+			"maxcd": "4",
+			"mincd": "4",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Damage +5%\nLevel 7: Buff/Debuff Chance +5%\nLevel 8: Damage +10%\n",
+			"multiplier": "3.2*ATK",
+			"numBooksToMax": "7"
+		}
+	]
+}

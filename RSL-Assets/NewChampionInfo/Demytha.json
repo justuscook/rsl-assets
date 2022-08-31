@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=6510#static",
+	"name": "Demytha",
+	"id": 6516,
+	"acc": "0",
+	"affinity": "Void",
+	"atk": "749",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "102",
+	"def": "1288",
+	"hp": "18990",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Dwarves",
+	"rarity": "Epic",
+	"type": "Support",
+	"aura": "Increases Ally DEF in All Battles by 20%.",
+	"totalBooks": "15",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Places a [Shield] buff for 2 turns, equal to 10% of this Champion's MAX HP, on the ally with the lowest HP (except this Champion).",
+			"basedOn": "[ATK]",
+			"name": "Fires of Old",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Shield +5%\nLevel 4: Damage +5%\nLevel 5: Shield +5%\nLevel 6: Damage +5%\nLevel 7: Shield +5%\nLevel 8: Damage +5%\nLevel 9: Shield +5%\n",
+			"multiplier": "3.2*ATK",
+			"numBooksToMax": "8"
+		},
+		{
+			"desc": "Increases the duration of all ally buffs by 1 turn, then decreases the duration of all ally debuffs by 1 turn.\r\n\r\nAlso heals all allies by 2.5% of their MAX HP. Heals by a further 2.5% MAX HP for each turn added to or removed from the duration of buffs and debuffs by this skill.",
+			"basedOn": "",
+			"name": "Light of the Deep",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Heal +5%\nLevel 3: Heal +5%\nLevel 4: Heal +5%\nLevel 5: Heal +5%\nLevel 6: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Places a [Block Damage] buff on all allies for 1 turn, and a 15% [Continuous Heal] buff on all allies for 2 turns.",
+			"basedOn": "",
+			"name": "Channel the Bloodline",
+			"maxcd": "5",
+			"mincd": "3",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
+		}
+	]
+}

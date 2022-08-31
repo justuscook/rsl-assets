@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=5250#static",
+	"name": "Avir the Alchemage",
+	"id": 5256,
+	"acc": "10",
+	"affinity": "Magic",
+	"atk": "881",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "102",
+	"def": "1035",
+	"hp": "16680",
+	"cheal": "50",
+	"res": "30",
+	"faction": "Dwarves",
+	"rarity": "Rare",
+	"type": "Support",
+	"aura": "",
+	"totalBooks": "13",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 30% chance of placing a 5% [Poison] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Flask of Vitreol",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +10%\n",
+			"multiplier": "4.7*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 50% chance of placing a 25% [Decrease ATK] debuff for 2 turns. Also places a 15% [Decrease SPD] debuff for 1 turn on targets under [Poison] debuffs.",
+			"basedOn": "[ATK]",
+			"name": "Corroding Catalyst",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Buff/Debuff Chance +15%\nLevel 7: Buff/Debuff Chance +20%\nLevel 8: Cooldown -1\n",
+			"multiplier": "4.2*ATK",
+			"numBooksToMax": "7"
+		},
+		{
+			"desc": "Fills the Turn Meters of all allies by 15% and heals all allies by 15% of this Champion’s MAX HP.",
+			"basedOn": "",
+			"name": "Vitalizing Potions",
+			"maxcd": "6",
+			"mincd": "4",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
+		}
+	]
+}

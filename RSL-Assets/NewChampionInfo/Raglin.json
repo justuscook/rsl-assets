@@ -1,0 +1,52 @@
+{
+	"key": "l10n:hero-type/name?id=160#static",
+	"name": "Raglin",
+	"id": 166,
+	"acc": "0",
+	"affinity": "Void",
+	"atk": "1156",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "104",
+	"def": "1068",
+	"hp": "20310",
+	"cheal": "50",
+	"res": "50",
+	"faction": "Banner Lords",
+	"rarity": "Legendary",
+	"type": "Support",
+	"aura": "Increases Ally DEF in All Battles by 33%.",
+	"totalBooks": "9",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 3 times. Fills the Turn Meter of 3 random allies by 15%. Allies can only have their Turn Meter filled once per turn by this Skill.",
+			"basedOn": "[ATK]",
+			"name": "Repent",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\n",
+			"multiplier": "1.6*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Removes all debuffs on all allies, then heals them. The heal amount is proportional to this Champion's ATK.",
+			"basedOn": "",
+			"name": "Mercy",
+			"maxcd": "4",
+			"mincd": "4",
+			"books": "Level 2: Heal +5%\nLevel 3: Heal +5%\nLevel 4: Heal +10%\nLevel 5: Heal +10%\n",
+			"multiplier": "",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Revives an ally with 75% HP and a full Turn Meter.",
+			"basedOn": "",
+			"name": "Miracle",
+			"maxcd": "3",
+			"mincd": "2",
+			"books": "Level 2: Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "1"
+		}
+	]
+}
