@@ -29,7 +29,7 @@
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Attacks 1 enemy 2 times. Has a 50% chance of placing a [Stun] debuff for 1 turn.",
+			"desc": "Attacks 1 enemy 2 times. Has a 75% chance of placing a [Stun] debuff for 1 turn.",
 			"basedOn": "[ATK]",
 			"name": "Stunning Toss",
 			"maxcd": "4",
@@ -39,7 +39,7 @@
 			"numBooksToMax": "5"
 		},
 		{
-			"desc": "Attacks 3 times at random. Has a 50% chance of placing a 50% [Decrease ATK] debuff and a 60% [Decrease DEF] debuff for 2 turns.",
+			"desc": "Attacks 3 times at random. Has a 75% chance of placing a 50% [Decrease ATK] debuff and a 60% [Decrease DEF] debuff for 2 turns.",
 			"basedOn": "[ATK]",
 			"name": "Talons",
 			"maxcd": "4",

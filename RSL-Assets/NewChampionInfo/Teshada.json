@@ -19,33 +19,33 @@
 	"totalBooks": "12",
 	"skills": [
 		{
-			"desc": "Attacks 1 enemy. Places a 50% [Increase ATK] buff on this Champion for 2 turns if this attack is critical.",
-			"basedOn": "[DEF][ATK]",
+			"desc": "Attacks 1 enemy. Has a 50% chance of placing a 60% [Increase DEF] buff on this Champion for 2 turns.",
+			"basedOn": "[DEF]",
 			"name": "Savage Fury",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Damage +10%\n",
-			"multiplier": "2*DEF+1.8*ATK",
+			"multiplier": "3.4*DEF",
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Attacks 3 times at random. Each hit has a 50% chance of placing a 25% [Weaken] debuff for 2 turns. The chance of placing the [Weaken] debuff increases to 100% on critical hits.",
-			"basedOn": "[DEF][ATK]",
+			"desc": "Attacks 3 times at random. Each hit has a 75% chance of placing a 25% [Weaken] debuff for 2 turns.",
+			"basedOn": "[DEF]",
 			"name": "Maximum Carnage",
 			"maxcd": "4",
 			"mincd": "3",
 			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Cooldown -1\n",
-			"multiplier": "1.4*DEF+1*ATK",
+			"multiplier": "2*DEF",
 			"numBooksToMax": "5"
 		},
 		{
-			"desc": "Attacks 1 enemy. Revives a random ally with 40% HP if this attack kills the target.\r\n\r\n[Only available when an ally is dead.]",
-			"basedOn": "[DEF][ATK]",
+			"desc": "Revives an ally with 40% HP and 40% Turn Meter, then heals all allies by 15% of their MAX HP.",
+			"basedOn": "",
 			"name": "Spirit Appeasement",
 			"maxcd": "3",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\n",
-			"multiplier": "4.5*DEF+1.4*ATK",
+			"books": "Level 2: Heal +5%\nLevel 3: Heal +5%\nLevel 4: Heal +10%\n",
+			"multiplier": "",
 			"numBooksToMax": "3"
 		}
 	]

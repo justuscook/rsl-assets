@@ -1,20 +1,21 @@
 {
-	"name": "Ultimate Deathknight",
 	"key": "l10n:hero-type/name?id=7090#static",
+	"name": "Ultimate Deathknight",
 	"id": 7096,
-	"avatar": "7090",
-	"affinity": "Force",
-	"hp": "20640",
-	"atk": "782",
-	"def": "1421",
-	"spd": "97",
-	"res": "40",
 	"acc": "20",
-	"crate": "15",
+	"affinity": "Force",
+	"atk": "782",
 	"cdamage": "50",
+	"crate": "15",
+	"spd": "97",
+	"def": "1421",
+	"hp": "20640",
 	"cheal": "50",
+	"res": "40",
 	"faction": "Undead Hordes",
-	"aura": "Increase Ally  in in all Battles by 30",
+	"rarity": "Legendary",
+	"type": "Defense",
+	"aura": "Increases Ally DEF in All Battles by 30%.",
 	"totalBooks": "10",
 	"skills": [
 		{
@@ -23,7 +24,7 @@
 			"name": "Heckler of Legends",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +10%\n",
 			"multiplier": "3.5*DEF",
 			"numBooksToMax": "4"
 		},
@@ -33,17 +34,17 @@
 			"name": "Rats Off To Ya",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Cooldown -1Lvl. 5 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Cooldown -1\n",
 			"multiplier": "4*DEF",
 			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Places a [Shield] buff and a 15% [Continuous Heal] buff on all allies for 2 turns.\r\n\r\nThe value of the [Shield] buff is proportional to this Champion’s DEF.",
-			"basedOn": "[DEF]",
+			"basedOn": "",
 			"name": "Get Comfy Everyone",
 			"maxcd": "5",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		},
@@ -55,19 +56,17 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": "0"
+			"numBooksToMax": ""
 		},
 		{
 			"desc": "Increases this Champion’s HP, DEF, and SPD by 10% for each dead ally.",
-			"basedOn": "[B_HP]",
+			"basedOn": "",
 			"name": "Didn't Need 'Em [P]",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": "0"
+			"numBooksToMax": ""
 		}
-	],
-	"rarity": "Legendary",
-	"type": "Defense"
+	]
 }

@@ -1,21 +1,22 @@
 {
-	"name": "Wuji",
 	"key": "l10n:hero-type/name?id=7150#static",
+	"name": "Wuji",
 	"id": 7156,
-	"avatar": "7150",
-	"affinity": "Force",
-	"hp": "10080",
-	"atk": "1498",
-	"def": "1134",
-	"spd": "97",
-	"res": "30",
 	"acc": "0",
-	"crate": "15",
+	"affinity": "Force",
+	"atk": "1498",
 	"cdamage": "60",
+	"crate": "15",
+	"spd": "97",
+	"def": "1134",
+	"hp": "10080",
 	"cheal": "50",
-	"faction": "Samurai",
-	"aura": "Increase Ally ATK in  by 20",
-	"totalBooks": "18",
+	"res": "30",
+	"faction": "Shadowkin",
+	"rarity": "Epic",
+	"type": "Attack",
+	"aura": "Increases Ally ATK in All Battles by 20%.",
+	"totalBooks": "13",
 	"skills": [
 		{
 			"desc": "Attacks 1 enemy. Has a 30% chance of placing a 25% [Weaken] debuff for 2 turns. \r\n\r\n[Will target all enemies instead of 1 when counterattacking with this skill.]",
@@ -23,7 +24,7 @@
 			"name": "Dire Twinblade",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Buff/Debuff Chance +10%\n",
 			"multiplier": "3*ATK",
 			"numBooksToMax": "5"
 		},
@@ -33,7 +34,7 @@
 			"name": "World of Darkness",
 			"maxcd": "4",
 			"mincd": "4",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +10%\n",
+			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Buff/Debuff Chance +10%\n",
 			"multiplier": "4*ATK",
 			"numBooksToMax": "5"
 		},
@@ -43,21 +44,9 @@
 			"name": "Shinobi Arts",
 			"maxcd": "6",
 			"mincd": "3",
-			"books": "Lvl. 2 Cooldown -1Lvl. 2 Buff/Debuff Chance +100%\nLvl. 3 Cooldown -1Lvl. 3 Buff/Debuff Chance +100%\nLvl. 4 Cooldown -1Lvl. 4 Buff/Debuff Chance +100%\n",
+			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\nLevel 4: Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "3"
-		},
-		{
-			"desc": "",
-			"basedOn": "[ATK]",
-			"name": "Skill 71505 name",
-			"maxcd": "0",
-			"mincd": "0",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +10%\n",
-			"multiplier": "2.5*ATK",
-			"numBooksToMax": "5"
 		}
-	],
-	"rarity": "Epic",
-	"type": "Attack"
+	]
 }

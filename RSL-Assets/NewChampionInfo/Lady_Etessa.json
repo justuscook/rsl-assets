@@ -19,7 +19,7 @@
 	"totalBooks": "12",
 	"skills": [
 		{
-			"desc": "Attacks 1 enemy. \r\n\r\nHas a 25% chance of placing a [Block Buffs] debuff for 2 turns.",
+			"desc": "Attacks 1 enemy. \r\n\r\nHas a 40% chance of placing a [Block Buffs] debuff for 2 turns.",
 			"basedOn": "[ATK]",
 			"name": "Blessed Missiles",
 			"maxcd": "0",
@@ -29,7 +29,7 @@
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Attacks 1 enemy. \r\n\r\nHas a 50% chance of placing a [Stun] debuff for 1 turn.",
+			"desc": "Attacks 1 enemy. \r\n\r\nHas a 75% chance of placing a [Stun] debuff for 1 turn.",
 			"basedOn": "[ATK]",
 			"name": "Whiplash",
 			"maxcd": "4",
@@ -39,7 +39,7 @@
 			"numBooksToMax": "7"
 		},
 		{
-			"desc": "Attacks 1 enemy with 2 random allies. \r\n\r\nDamage inflicted by this Champion and any allies joining this attack will be increased by 10% if the target is under a [Stun] debuff. Allies joining the attack use their default skills.",
+			"desc": "Attacks 1 enemy with 2 random allies.\r\n\r\nDamage inflicted by this Champion and any allies joining this attack will be increased by 20% if the target is under a [Fear], [True Fear], [Freeze], [Provoke], [Sleep], [Stun], or [Petrification] debuff. Allies joining the attack use their default skills.",
 			"basedOn": "",
 			"name": "Fiend Purge",
 			"maxcd": "5",
