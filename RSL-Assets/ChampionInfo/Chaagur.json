@@ -38,7 +38,7 @@
 			"numBooksToMax": "5"
 		},
 		{
-			"desc": "Attacks 1 enemy, then attacks 1 time at random. If the target is under a [Poison] debuff, will ignore [Shield], [Block Damage], and [Unkillable] buffs. \r\n\r\nGrants an Extra Turn if this attack kills an enemy. Also resets the cooldown of the [Venom Storm] skill if this attack kills 2 enemies.",
+			"desc": "Attacks 1 enemy, then attacks 1 time at random. If the target is under a [Poison] debuff, will ignore [Shield], [Block Damage], and [Unkillable] buffs. \r\n\r\nGrants an Extra Turn if this attack kills an enemy. Also resets the cooldown of the Venom Storm skill if this attack kills 2 enemies.",
 			"basedOn": "[ATK]",
 			"name": "Heart Stopper",
 			"maxcd": "4",

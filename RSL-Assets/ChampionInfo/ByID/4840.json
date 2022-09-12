@@ -1,0 +1,39 @@
+{
+	"typeId": 4846,
+	"name": {
+		"key": "l10n:hero-type/name?id=4840#static",
+		"defaultValue": "Dirandil",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "DarkElves",
+	"role": "Attack",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0654_Darkelves_id4840",
+	"avatarKey": "4840",
+	"leaderSkill": {
+		"area": null,
+		"affinity": null,
+		"kind": "CriticalChance",
+		"absolute": false,
+		"value": 0.15
+	},
+	"skillTypeIds": [
+		48401,
+		48402,
+		48403
+	],
+	"unscaledStats": {
+		"Health": 78,
+		"Attack": 125,
+		"Defense": 97,
+		"Speed": 98,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 60,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

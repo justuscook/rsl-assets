@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=6990#static",
 	"name": "Ginro the Stork",
+	"key": "l10n:hero-type/name?id=6990#static",
 	"id": 6996,
-	"acc": "0",
+	"avatar": "0001_Archer",
 	"affinity": "Void",
-	"atk": "936",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "98",
-	"def": "1387",
 	"hp": "18825",
-	"cheal": "50",
+	"atk": "936",
+	"def": "1387",
+	"spd": "98",
 	"res": "50",
-	"faction": "Shadowkin",
-	"rarity": "Legendary",
-	"type": "Defense",
-	"aura": "Increases Ally RES in All Battles by 80.",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Samurai",
+	"aura": "Increase Ally  in in all Battles by 80",
 	"totalBooks": "11",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Plunging Beak",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
 			"multiplier": "3.3*DEF",
 			"numBooksToMax": "4"
 		},
@@ -34,7 +33,7 @@
 			"name": "Befuddle",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Cooldown -1\n",
 			"multiplier": "4.9*DEF",
 			"numBooksToMax": "4"
 		},
@@ -44,19 +43,21 @@
 			"name": "Gatewatch Stance",
 			"maxcd": "7",
 			"mincd": "4",
-			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\nLevel 4: Cooldown -1\n",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\nLvl. 4 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "3"
 		},
 		{
 			"desc": "[Passive Effect]\r\n\r\nIncreases this Champion’s DEF each time they counterattack. DEF resets every time this Champion gets a turn.\r\n\r\nWhen attacking, converts this Champion’s RES into additional ACC.\r\n\r\n[Active Effect]\r\n\r\nAt the end of this Champion’s turn, places a [Provoke] debuff for 1 turn on all enemies under [Increase ATK] buffs.",
-			"basedOn": "",
+			"basedOn": "[RES]",
 			"name": "Laughing Gull [P]",
 			"maxcd": "4",
 			"mincd": "4",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": ""
+			"numBooksToMax": "0"
 		}
-	]
+	],
+	"rarity": "Legendary",
+	"type": "Defense"
 }

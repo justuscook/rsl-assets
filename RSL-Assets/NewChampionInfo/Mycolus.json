@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=6160#static",
 	"name": "Mycolus",
+	"key": "l10n:hero-type/name?id=6160#static",
 	"id": 6166,
-	"acc": "0",
+	"avatar": "6160",
 	"affinity": "Void",
-	"atk": "892",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "93",
-	"def": "1079",
 	"hp": "15855",
-	"cheal": "50",
+	"atk": "892",
+	"def": "1079",
+	"spd": "93",
 	"res": "40",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Ogryn Tribes",
-	"rarity": "Rare",
-	"type": "Support",
-	"aura": "Increases Ally DEF in Faction Crypts by 21%.",
+	"aura": "Increase Ally  in Faction Crypts by 21",
 	"totalBooks": "9",
 	"skills": [
 		{
@@ -24,17 +23,17 @@
 			"name": "Vigor Spores",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\nLevel 6: Damage +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Damage +5%\n",
 			"multiplier": "4.2*ATK",
 			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Places a [Shield] buff on this Champion for 2 turns equal to 20% of their MAX HP, then places a 25% [Ally Protection] buff on all allies except this Champion for 2 turns. \r\n\r\nWill also heal all allies except this Champion by 10% of their MAX HP.",
-			"basedOn": "",
+			"basedOn": "[HP]",
 			"name": "Fungal Privilege",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Heal +5%\nLevel 3: Heal +5%\nLevel 4: Heal +5%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2  Heal +5%\nLvl. 3  Heal +5%\nLvl. 4  Heal +5%\nLvl. 5 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "4"
 		},
@@ -46,7 +45,9 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": ""
+			"numBooksToMax": "0"
 		}
-	]
+	],
+	"rarity": "Rare",
+	"type": "Support"
 }

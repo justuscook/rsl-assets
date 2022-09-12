@@ -38,7 +38,7 @@
 			"numBooksToMax": "5"
 		},
 		{
-			"desc": "Attacks 1 enemy. Will ignore [Shield] buffs. \r\n\r\nDecreases the cooldown of the [Battle Flow] skill by 2 turns, fills this Champion’s Turn Meter by 30%, and places a 30% [Increase C. DMG] buff on this Champion for 2 turns if this attack kills an enemy.",
+			"desc": "Attacks 1 enemy. Will ignore [Shield] buffs. \r\n\r\nDecreases the cooldown of the Battle Flow skill by 2 turns, fills this Champion's Turn Meter by 30%, and places a 30% [Increase C. DMG] buff on this Champion for 2 turns if this attack kills an enemy.",
 			"basedOn": "[ATK]",
 			"name": "Battle Flow",
 			"maxcd": "5",

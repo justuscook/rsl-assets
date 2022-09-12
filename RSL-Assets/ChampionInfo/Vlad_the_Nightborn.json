@@ -28,7 +28,7 @@
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Attacks all enemies. Has a 75% chance of placing a [Leech] debuff for 2 turns.\r\n\r\nAlso has a 75% chance of stealing 50% of the Turn Meter from Champions from the Bannerlord, Sacred Order, or High Elf Factions. Has a 75% chance of decreasing the Turn Meter by 50% instead against targets not from those Factions.",
+			"desc": "Attacks all enemies. Has a 75% chance of placing a [Leech] debuff for 2 turns.\r\n\r\nAlso has a 75% chance of stealing 50% of the Turn Meter from Champions from the Banner Lord, Sacred Order, or High Elf Factions. Has a 75% chance of decreasing the Turn Meter by 50% instead against targets not from those Factions.",
 			"basedOn": "[ATK]",
 			"name": "Exsanguinate",
 			"maxcd": "4",

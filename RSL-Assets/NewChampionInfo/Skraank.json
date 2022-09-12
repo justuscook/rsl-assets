@@ -1,0 +1,63 @@
+{
+	"name": "Skraank",
+	"key": "l10n:hero-type/name?id=4850#static",
+	"id": 4856,
+	"avatar": "4850",
+	"affinity": "Void",
+	"hp": "13710",
+	"atk": "1421",
+	"def": "969",
+	"spd": "100",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "60",
+	"cheal": "50",
+	"faction": "Ogryn Tribes",
+	"aura": "",
+	"totalBooks": "14",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 40% chance of placing a 25% [Weaken] debuff for 2 turns. This chance increases to 75% if the target is under a [HP Burn] debuff.",
+			"basedOn": "",
+			"name": "Flitter In Chaos",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": null,
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy 2 times. Heals this Champion by 15% of their MAX HP on each critical hit. \r\n\r\nPlaces a 50% [Increase ATK] buff on this Champion for 2 turns if the target is under a [HP Burn] debuff.",
+			"basedOn": "",
+			"name": "Sup On Blood",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3  Heal +10%\nLvl. 4 Damage +10%\nLvl. 5  Heal +10%\nLvl. 6 Cooldown -1\n",
+			"multiplier": null,
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 75% chance of placing a [HP Burn] debuff for 2 turns. \r\n\r\nFills this Champion’s Turn Meter by 15% on each critical hit.",
+			"basedOn": "[ATK]",
+			"name": "Unleash Havoc",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "3.8*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Increases this Champion’s ATK and C. DMG by 5% every time a [HP Burn] debuff triggers on any enemy. Stacks up to 25%.",
+			"basedOn": "[heroCounter]",
+			"name": "Pyromania [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Epic",
+	"type": "Attack"
+}

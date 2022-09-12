@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=2350#static",
 	"name": "Soulless",
+	"key": "l10n:hero-type/name?id=2350#static",
 	"id": 2356,
-	"acc": "10",
+	"avatar": "2350",
 	"affinity": "Void",
-	"atk": "848",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "97",
-	"def": "1421",
 	"hp": "19650",
-	"cheal": "50",
+	"atk": "848",
+	"def": "1421",
+	"spd": "97",
 	"res": "50",
-	"faction": "Knight Revenant",
-	"rarity": "Legendary",
-	"type": "Defense",
-	"aura": "Increases Ally DEF in Faction Crypts by 44%.",
+	"acc": "10",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Knights Revenant",
+	"aura": "Increase Ally  in Faction Crypts by 44",
 	"totalBooks": "12",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Bewildering Blow",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +15%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +15%\n",
 			"multiplier": "2.8*DEF",
 			"numBooksToMax": "4"
 		},
@@ -34,7 +33,7 @@
 			"name": "Wave of Despair",
 			"maxcd": "3",
 			"mincd": "3",
-			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +15%\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +15%\n",
 			"multiplier": "1.8*DEF",
 			"numBooksToMax": "4"
 		},
@@ -44,9 +43,11 @@
 			"name": "Reign of Terror",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Level 2: Damage +10%\nLevel 3: Shield +10%\nLevel 4: Shield +10%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 5 Cooldown -1\n",
 			"multiplier": "4.9*DEF",
 			"numBooksToMax": "4"
 		}
-	]
+	],
+	"rarity": "Legendary",
+	"type": "Defense"
 }

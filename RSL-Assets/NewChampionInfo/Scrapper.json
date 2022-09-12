@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=5720#static",
 	"name": "Scrapper",
+	"key": "l10n:hero-type/name?id=5720#static",
 	"id": 5726,
-	"acc": "0",
+	"avatar": "5720",
 	"affinity": "Void",
-	"atk": "1233",
-	"cdamage": "57",
-	"crate": "15",
-	"spd": "102",
-	"def": "837",
 	"hp": "14370",
-	"cheal": "50",
+	"atk": "1233",
+	"def": "837",
+	"spd": "102",
 	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
 	"faction": "Barbarians",
-	"rarity": "Rare",
-	"type": "Attack",
-	"aura": "Increases Ally ATK in Doom Tower Battles by 25%.",
+	"aura": "Increase Ally ATK in Doom Tower battles by 25",
 	"totalBooks": "15",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Arena Arts",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Shield +5%\nLevel 4: Damage +5%\nLevel 5: Shield +5%\nLevel 6: Damage +5%\nLevel 7: Shield +5%\nLevel 8: Damage +5%\nLevel 9: Shield +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 4 Damage +5%\nLvl. 6 Damage +5%\nLvl. 8 Damage +5%\n",
 			"multiplier": "4*ATK",
 			"numBooksToMax": "8"
 		},
@@ -34,7 +33,7 @@
 			"name": "Crowd Pleaser",
 			"maxcd": "3",
 			"mincd": "2",
-			"books": "Level 2: Damage +5%\nLevel 3: Shield +5%\nLevel 4: Damage +5%\nLevel 5: Shield +5%\nLevel 6: Damage +5%\nLevel 7: Shield +10%\nLevel 8: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 4 Damage +5%\nLvl. 6 Damage +5%\nLvl. 8 Cooldown -1\n",
 			"multiplier": "6.5*ATK",
 			"numBooksToMax": "7"
 		},
@@ -46,7 +45,9 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": ""
+			"numBooksToMax": "0"
 		}
-	]
+	],
+	"rarity": "Rare",
+	"type": "Attack"
 }

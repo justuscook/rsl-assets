@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=140#static",
 	"name": "Cataphract",
+	"key": "l10n:hero-type/name?id=140#static",
 	"id": 146,
-	"acc": "0",
+	"avatar": "140",
 	"affinity": "Spirit",
-	"atk": "991",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "97",
-	"def": "815",
 	"hp": "18330",
-	"cheal": "50",
+	"atk": "991",
+	"def": "815",
+	"spd": "97",
 	"res": "40",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Banner Lords",
-	"rarity": "Rare",
-	"type": "HP",
-	"aura": "Increases Ally HP in Arena Battles by 25%.",
+	"aura": "Increase Ally HP in Arena battles by 25",
 	"totalBooks": "9",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Sure Strike",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +10%\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\n",
 			"multiplier": "4.3*ATK",
 			"numBooksToMax": "4"
 		},
@@ -34,7 +33,7 @@
 			"name": "Fortify",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Cooldown -1\n",
+			"books": "Lvl. 2 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		},
@@ -44,9 +43,11 @@
 			"name": "Helmcleaver",
 			"maxcd": "6",
 			"mincd": "6",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
 			"multiplier": "3.9*ATK+0.1*HP",
 			"numBooksToMax": "4"
 		}
-	]
+	],
+	"rarity": "Rare",
+	"type": "Health"
 }

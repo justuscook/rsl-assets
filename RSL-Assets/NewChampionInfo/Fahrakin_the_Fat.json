@@ -1,20 +1,19 @@
 {
-	"key": "l10n:hero-type/name?id=5660#static",
 	"name": "Fahrakin the Fat",
+	"key": "l10n:hero-type/name?id=5660#static",
 	"id": 5666,
-	"acc": "0",
+	"avatar": "5660",
 	"affinity": "Spirit",
-	"atk": "1244",
-	"cdamage": "60",
-	"crate": "15",
-	"spd": "100",
-	"def": "1090",
 	"hp": "14535",
-	"cheal": "50",
+	"atk": "1244",
+	"def": "1090",
+	"spd": "100",
 	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "60",
+	"cheal": "50",
 	"faction": "Barbarians",
-	"rarity": "Epic",
-	"type": "Attack",
 	"aura": "",
 	"totalBooks": "12",
 	"skills": [
@@ -24,7 +23,7 @@
 			"name": "Sizzling Strike",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
 			"multiplier": "4.3*ATK",
 			"numBooksToMax": "4"
 		},
@@ -34,7 +33,7 @@
 			"name": "Brand of Shame",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Buff/Debuff Chance +10%\nLevel 7: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +10%\nLvl. 7 Cooldown -1\n",
 			"multiplier": "7.3*ATK",
 			"numBooksToMax": "6"
 		},
@@ -44,7 +43,7 @@
 			"name": "Beatdown",
 			"maxcd": "6",
 			"mincd": "4",
-			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		},
@@ -55,8 +54,10 @@
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",
-			"multiplier": "",
-			"numBooksToMax": ""
+			"multiplier": "-0.2*DMG_MUL",
+			"numBooksToMax": "0"
 		}
-	]
+	],
+	"rarity": "Epic",
+	"type": "Attack"
 }

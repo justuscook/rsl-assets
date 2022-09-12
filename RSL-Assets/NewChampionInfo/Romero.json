@@ -1,20 +1,19 @@
 {
-	"key": "l10n:hero-type/name?id=3450#static",
 	"name": "Romero",
+	"key": "l10n:hero-type/name?id=3450#static",
 	"id": 3456,
-	"acc": "0",
+	"avatar": "3450",
 	"affinity": "Force",
-	"atk": "804",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "99",
-	"def": "1299",
 	"hp": "18000",
-	"cheal": "50",
+	"atk": "804",
+	"def": "1299",
+	"spd": "99",
 	"res": "45",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Sacred Order",
-	"rarity": "Epic",
-	"type": "Defense",
 	"aura": "",
 	"totalBooks": "8",
 	"skills": [
@@ -24,7 +23,7 @@
 			"name": "Bring Hope",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
 			"multiplier": "3.7*DEF",
 			"numBooksToMax": "4"
 		},
@@ -34,17 +33,17 @@
 			"name": "Succor",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Level 2: Cooldown -1\n",
+			"books": "Lvl. 2 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		},
 		{
 			"desc": "Places a [Shield] buff on all allies equal to 25% of their MAX HP for 2 turns. Places a 30% [Increase DEF] buff on this Champion for 2 turns.",
-			"basedOn": "",
+			"basedOn": "[Enemy MAX HP]",
 			"name": "Divine Benefaction",
 			"maxcd": "6",
 			"mincd": "5",
-			"books": "Level 2: Shield +25%\nLevel 3: Shield +25%\nLevel 4: Cooldown -1\n",
+			"books": "Lvl. 4 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "3"
 		},
@@ -56,7 +55,9 @@
 			"mincd": "3",
 			"books": "",
 			"multiplier": "1.4*DEF",
-			"numBooksToMax": ""
+			"numBooksToMax": "0"
 		}
-	]
+	],
+	"rarity": "Epic",
+	"type": "Defense"
 }

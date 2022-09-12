@@ -48,7 +48,7 @@
 			"numBooksToMax": "2"
 		},
 		{
-			"desc": "Whenever an ally is killed, instantly activates the [Hephraak's Scorn] skill. Will not put the skill on cooldown. \r\n\r\nIf there are multiple Champions on the team with this skill, only one will activate.",
+			"desc": "Whenever an ally is killed, instantly activates the Hephraak's Scorn skill. Will not put the skill on cooldown. \r\n\r\nIf there are multiple Champions on the team with this skill, only one will activate.",
 			"basedOn": "",
 			"name": "Prince of Pride [P]",
 			"maxcd": "5",

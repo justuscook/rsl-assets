@@ -1,20 +1,19 @@
 {
-	"key": "l10n:hero-type/name?id=790#static",
 	"name": "Archer",
+	"key": "l10n:hero-type/name?id=790#static",
 	"id": 796,
-	"acc": "0",
+	"avatar": "790",
 	"affinity": "Magic",
-	"atk": "1156",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "97",
-	"def": "727",
 	"hp": "13050",
-	"cheal": "50",
+	"atk": "1156",
+	"def": "727",
+	"spd": "97",
 	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Banner Lords",
-	"rarity": "Uncommon",
-	"type": "Attack",
 	"aura": "",
 	"totalBooks": "11",
 	"skills": [
@@ -24,7 +23,7 @@
 			"name": "Double Shot",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
 			"multiplier": "2.2*ATK",
 			"numBooksToMax": "4"
 		},
@@ -34,9 +33,11 @@
 			"name": "Rain of Arrows",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Cooldown -1\nLevel 4: Buff/Debuff Chance +0\nLevel 5: Damage +0\nLevel 6: Buff/Debuff Chance +0\nLevel 7: Damage +0\nLevel 8: Buff/Debuff Chance +0\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Cooldown -1\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Damage +10%\nLvl. 6 Buff/Debuff Chance +5%\nLvl. 7 Damage +15%\nLvl. 8 Buff/Debuff Chance +5%\n",
 			"multiplier": "1.9*ATK",
 			"numBooksToMax": "7"
 		}
-	]
+	],
+	"rarity": "Uncommon",
+	"type": "Attack"
 }

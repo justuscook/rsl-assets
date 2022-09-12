@@ -18,7 +18,7 @@
 	"totalBooks": "7",
 	"skills": [
 		{
-			"desc": "Attacks 2 times at random. Has a 75% chance of placing a [Hex] debuff for 5 turns. This debuff cannot be resisted. Each critical hit decreases the cooldown of the [Not Of This World] skill by 1 turn.",
+			"desc": "Attacks 2 times at random. Has a 75% chance of placing a [Hex] debuff for 5 turns. This debuff cannot be resisted. Each critical hit decreases the cooldown of the Not Of This World skill by 1 turn.",
 			"basedOn": "[ATK]",
 			"name": "Befoulment",
 			"maxcd": "0",

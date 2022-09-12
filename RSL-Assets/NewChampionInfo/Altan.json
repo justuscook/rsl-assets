@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=2550#static",
 	"name": "Altan",
+	"key": "l10n:hero-type/name?id=2550#static",
 	"id": 2556,
-	"acc": "0",
+	"avatar": "2550",
 	"affinity": "Magic",
-	"atk": "837",
-	"cdamage": "57",
-	"crate": "15",
-	"spd": "102",
-	"def": "1398",
 	"hp": "20145",
-	"cheal": "50",
+	"atk": "837",
+	"def": "1398",
+	"spd": "102",
 	"res": "50",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
 	"faction": "Barbarians",
-	"rarity": "Legendary",
-	"type": "Defense",
-	"aura": "Increases Ally DEF in All Battles by 33%.",
+	"aura": "Increase Ally  in in all Battles by 33",
 	"totalBooks": "9",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Searing Blow",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Damage +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Damage +10%\n",
 			"multiplier": "3.3*DEF",
 			"numBooksToMax": "5"
 		},
@@ -34,7 +33,7 @@
 			"name": "Wall of Flame",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1\n",
 			"multiplier": "5.6*DEF",
 			"numBooksToMax": "4"
 		},
@@ -46,7 +45,9 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": ""
+			"numBooksToMax": "0"
 		}
-	]
+	],
+	"rarity": "Legendary",
+	"type": "Defense"
 }

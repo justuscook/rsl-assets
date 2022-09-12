@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=6510#static",
 	"name": "Demytha",
+	"key": "l10n:hero-type/name?id=6510#static",
 	"id": 6516,
-	"acc": "0",
+	"avatar": "6510",
 	"affinity": "Void",
-	"atk": "749",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "102",
-	"def": "1288",
 	"hp": "18990",
-	"cheal": "50",
+	"atk": "749",
+	"def": "1288",
+	"spd": "102",
 	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Dwarves",
-	"rarity": "Epic",
-	"type": "Support",
-	"aura": "Increases Ally DEF in All Battles by 20%.",
+	"aura": "Increase Ally  in in all Battles by 20",
 	"totalBooks": "15",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Fires of Old",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Shield +5%\nLevel 4: Damage +5%\nLevel 5: Shield +5%\nLevel 6: Damage +5%\nLevel 7: Shield +5%\nLevel 8: Damage +5%\nLevel 9: Shield +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 4 Damage +5%\nLvl. 6 Damage +5%\nLvl. 8 Damage +5%\n",
 			"multiplier": "3.2*ATK",
 			"numBooksToMax": "8"
 		},
@@ -34,7 +33,7 @@
 			"name": "Light of the Deep",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Heal +5%\nLevel 3: Heal +5%\nLevel 4: Heal +5%\nLevel 5: Heal +5%\nLevel 6: Cooldown -1\n",
+			"books": "Lvl. 2  Heal +5%\nLvl. 3  Heal +5%\nLvl. 4  Heal +5%\nLvl. 5  Heal +5%\nLvl. 6 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "5"
 		},
@@ -44,9 +43,11 @@
 			"name": "Channel the Bloodline",
 			"maxcd": "5",
 			"mincd": "3",
-			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		}
-	]
+	],
+	"rarity": "Epic",
+	"type": "Support"
 }

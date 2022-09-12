@@ -18,7 +18,7 @@
 	"totalBooks": "11",
 	"skills": [
 		{
-			"desc": "Attacks 1 enemy. Has a 30% chance of placing a 5% [Poison] debuff for 2 turns.",
+			"desc": "Attacks 1 enemy. Has a 50% chance of placing a 5% [Poison] debuff for 2 turns.",
 			"basedOn": "[ATK]",
 			"name": "Bloodstained Swords",
 			"maxcd": "0",
@@ -28,13 +28,13 @@
 			"numBooksToMax": "3"
 		},
 		{
-			"desc": "Attacks 1 enemy. Has an extra 15% chance of inflicting a critical hit. Damage increases according to the amount of HP this Champion has lost.",
+			"desc": "Attacks 1 enemy. Has an extra 15% chance of inflicting a critical hit. Damage increases by 50% if this Champion has more than 50% HP.",
 			"basedOn": "[ATK]",
 			"name": "Fit of Rage",
 			"maxcd": "4",
 			"mincd": "3",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1\n",
-			"multiplier": "ATK*(4.8+(1-HP_PERC)*4)",
+			"multiplier": "6.1*ATK",
 			"numBooksToMax": "4"
 		},
 		{

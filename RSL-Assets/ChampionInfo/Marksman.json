@@ -7,18 +7,18 @@
 	"hp": "14700",
 	"atk": "1432",
 	"def": "892",
-	"spd": "92",
+	"spd": "98",
 	"res": "30",
 	"acc": "0",
 	"crate": "15",
 	"cdamage": "60",
 	"cheal": "50",
 	"faction": "High Elves",
-	"aura": "Increase Ally  in Arena battles by 32",
+	"aura": "Increase Ally SPD in Arena battles by 20",
 	"totalBooks": "12",
 	"skills": [
 		{
-			"desc": "Attacks 1 enemy. Places a 5% [Poison] debuff for 2 turns if the attack is critical. Has a 15% chance of granting an Extra Turn.",
+			"desc": "Attacks 1 enemy. Places a 5% [Poison] debuff for 2 turns if the attack is critical. Has a 25% chance of granting an Extra Turn.",
 			"basedOn": "[ATK]",
 			"name": "Venom Arrow",
 			"maxcd": "0",
@@ -28,7 +28,7 @@
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Attacks 1 enemy. Fills the Turn Meter of all allies by 20%. Has an extra 15% chance of inflicting a critical hit.",
+			"desc": "Attacks 1 enemy. Fills the Turn Meter of all allies by 20%. Has an extra 25% chance of inflicting a critical hit.",
 			"basedOn": "[ATK]",
 			"name": "Impressive Shot",
 			"maxcd": "4",
@@ -38,7 +38,7 @@
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Attacks 4 times at random. Each hit has a 25% chance to Ignore DEF.",
+			"desc": "Attacks 4 times at random. Each hit has a 35% chance to ignore DEF.",
 			"basedOn": "[ATK]",
 			"name": "Thorns",
 			"maxcd": "5",

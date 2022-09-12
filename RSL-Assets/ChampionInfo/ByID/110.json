@@ -15,9 +15,9 @@
 	"leaderSkill": {
 		"area": "Arena",
 		"affinity": null,
-		"kind": "Defence",
+		"kind": "Speed",
 		"absolute": false,
-		"value": 0.32
+		"value": 0.2
 	},
 	"skillTypeIds": [
 		1101,
@@ -28,7 +28,7 @@
 		"Health": 89,
 		"Attack": 130,
 		"Defense": 81,
-		"Speed": 92,
+		"Speed": 98,
 		"Resistance": 30,
 		"Accuracy": 0,
 		"CriticalChance": 15,

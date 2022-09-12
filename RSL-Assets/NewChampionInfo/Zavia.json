@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=3480#static",
 	"name": "Zavia",
+	"key": "l10n:hero-type/name?id=3480#static",
 	"id": 3486,
-	"acc": "10",
+	"avatar": "3480",
 	"affinity": "Force",
-	"atk": "1586",
-	"cdamage": "63",
-	"crate": "15",
-	"spd": "105",
-	"def": "749",
 	"hp": "18660",
-	"cheal": "50",
+	"atk": "1586",
+	"def": "749",
+	"spd": "105",
 	"res": "30",
+	"acc": "10",
+	"crate": "15",
+	"cdamage": "63",
+	"cheal": "50",
 	"faction": "Dark Elves",
-	"rarity": "Legendary",
-	"type": "Attack",
-	"aura": "Increases Ally ATK in All Battles by 33%.",
+	"aura": "Increase Ally ATK in in all Battles by 33",
 	"totalBooks": "10",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Transfix",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\n",
 			"multiplier": "1.1*ATK",
 			"numBooksToMax": "3"
 		},
@@ -34,7 +33,7 @@
 			"name": "Poison Rain",
 			"maxcd": "3",
 			"mincd": "3",
-			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +10%\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
 			"multiplier": "2*ATK",
 			"numBooksToMax": "4"
 		},
@@ -44,7 +43,7 @@
 			"name": "Deadly Catalyst",
 			"maxcd": "4",
 			"mincd": "4",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\n",
 			"multiplier": "4.1*ATK",
 			"numBooksToMax": "3"
 		},
@@ -56,7 +55,9 @@
 			"mincd": "5",
 			"books": "",
 			"multiplier": "4*ATK",
-			"numBooksToMax": ""
+			"numBooksToMax": "0"
 		}
-	]
+	],
+	"rarity": "Legendary",
+	"type": "Attack"
 }

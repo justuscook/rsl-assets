@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=6770#static",
 	"name": "Chaagur",
+	"key": "l10n:hero-type/name?id=6770#static",
 	"id": 6776,
-	"acc": "20",
+	"avatar": "6770",
 	"affinity": "Void",
-	"atk": "1542",
-	"cdamage": "57",
-	"crate": "15",
-	"spd": "100",
-	"def": "1134",
 	"hp": "13545",
-	"cheal": "50",
+	"atk": "1542",
+	"def": "1134",
+	"spd": "100",
 	"res": "30",
-	"faction": "Lizardmen",
-	"rarity": "Legendary",
-	"type": "Attack",
-	"aura": "Increases Ally ATK in All Battles by 33%.",
+	"acc": "20",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
+	"faction": "Lizard Men",
+	"aura": "Increase Ally ATK in in all Battles by 33",
 	"totalBooks": "11",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Stupor",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +15%\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +15%\n",
 			"multiplier": "3.5*ATK",
 			"numBooksToMax": "4"
 		},
@@ -34,17 +33,17 @@
 			"name": "Venom Storm",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1\n",
 			"multiplier": "1.9*ATK",
 			"numBooksToMax": "5"
 		},
 		{
-			"desc": "Attacks 1 enemy, then attacks 1 time at random. If the target is under a [Poison] debuff, will ignore [Shield], [Block Damage], and [Unkillable] buffs. \r\n\r\nGrants an Extra Turn if this attack kills an enemy. Also resets the cooldown of the [Venom Storm] skill if this attack kills 2 enemies.",
+			"desc": "Attacks 1 enemy, then attacks 1 time at random. If the target is under a [Poison] debuff, will ignore [Shield], [Block Damage], and [Unkillable] buffs. \r\n\r\nGrants an Extra Turn if this attack kills an enemy. Also resets the cooldown of the Venom Storm skill if this attack kills 2 enemies.",
 			"basedOn": "[ATK]",
 			"name": "Heart Stopper",
 			"maxcd": "4",
 			"mincd": "4",
-			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\n",
 			"multiplier": "2.9*ATK",
 			"numBooksToMax": "2"
 		},
@@ -56,7 +55,9 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": ""
+			"numBooksToMax": "0"
 		}
-	]
+	],
+	"rarity": "Legendary",
+	"type": "Attack"
 }

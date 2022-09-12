@@ -1,20 +1,19 @@
 {
-	"key": "l10n:hero-type/name?id=6200#static",
 	"name": "Ninja",
+	"key": "l10n:hero-type/name?id=6200#static",
 	"id": 6206,
-	"acc": "10",
+	"avatar": "6200",
 	"affinity": "Magic",
-	"atk": "1509",
-	"cdamage": "63",
-	"crate": "15",
-	"spd": "100",
-	"def": "947",
 	"hp": "16845",
-	"cheal": "50",
+	"atk": "1509",
+	"def": "947",
+	"spd": "100",
 	"res": "30",
-	"faction": "Shadowkin",
-	"rarity": "Legendary",
-	"type": "Attack",
+	"acc": "10",
+	"crate": "15",
+	"cdamage": "63",
+	"cheal": "50",
+	"faction": "Samurai",
 	"aura": "",
 	"totalBooks": "13",
 	"skills": [
@@ -24,7 +23,7 @@
 			"name": "Shatterbolt",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\n",
 			"multiplier": "3.7*ATK",
 			"numBooksToMax": "4"
 		},
@@ -34,7 +33,7 @@
 			"name": "Hailburn",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1\n",
 			"multiplier": "2*ATK",
 			"numBooksToMax": "5"
 		},
@@ -44,7 +43,7 @@
 			"name": "Cyan Slash",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Level 2: Damage +15%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Buff/Debuff Chance +15%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +15%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +15%\nLvl. 5 Cooldown -1\n",
 			"multiplier": "3*ATK",
 			"numBooksToMax": "4"
 		},
@@ -56,7 +55,9 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": ""
+			"numBooksToMax": "0"
 		}
-	]
+	],
+	"rarity": "Legendary",
+	"type": "Attack"
 }

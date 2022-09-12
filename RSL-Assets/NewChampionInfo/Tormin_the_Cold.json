@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=4630#static",
 	"name": "Tormin the Cold",
+	"key": "l10n:hero-type/name?id=4630#static",
 	"id": 4636,
-	"acc": "20",
+	"avatar": "4630",
 	"affinity": "Void",
-	"atk": "815",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "94",
-	"def": "1421",
 	"hp": "20145",
-	"cheal": "50",
+	"atk": "815",
+	"def": "1421",
+	"spd": "94",
 	"res": "70",
+	"acc": "20",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Dwarves",
-	"rarity": "Legendary",
-	"type": "Defense",
-	"aura": "Increases Ally DEF in All Battles by 33%.",
+	"aura": "Increase Ally  in in all Battles by 33",
 	"totalBooks": "11",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Rimefire",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Buff/Debuff Chance +5%\n",
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +5%\n",
 			"multiplier": "2*DEF",
 			"numBooksToMax": "2"
 		},
@@ -34,7 +33,7 @@
 			"name": "Iceberg Crush",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Cooldown -1\n",
 			"multiplier": "3*DEF",
 			"numBooksToMax": "3"
 		},
@@ -44,9 +43,19 @@
 			"name": "Blizzard Rage",
 			"maxcd": "4",
 			"mincd": "4",
-			"books": "Level 2: Buff/Debuff Chance +10%\nLevel 3: Buff/Debuff Chance +10%\n",
+			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Buff/Debuff Chance +10%\n",
 			"multiplier": "3.8*DEF",
 			"numBooksToMax": "2"
+		},
+		{
+			"desc": "",
+			"basedOn": "",
+			"name": "Activate Hidden Skill",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
 		},
 		{
 			"desc": "[Passive Effect]\r\n\r\nHas a 20% chance of placing a [Freeze] debuff on the enemy each time they receive a buff or have their Turn Meter filled. The 20% chance applies up to twice per enemy turn (once for buffs, once for Turn Meter fills) in cases where an enemy receives multiple of these effects at the same time. \r\n\r\nDoes not work with effects from Artifact Sets, Turn Meter filling effects from Masteries, healing, or those buffs or effects that take place at the start of a Round.\r\n\r\n[Active Effect]\r\n\r\nRevives this Champion to 100% HP when killed and places a [Freeze] debuff on this Champion for 1 turn.",
@@ -54,9 +63,11 @@
 			"name": "Wintry Wind [P]",
 			"maxcd": "8",
 			"mincd": "6",
-			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\nLevel 4: Buff/Debuff Chance +0\nLevel 5: Buff/Debuff Chance +0\n",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
 			"multiplier": "",
 			"numBooksToMax": "4"
 		}
-	]
+	],
+	"rarity": "Legendary",
+	"type": "Defense"
 }

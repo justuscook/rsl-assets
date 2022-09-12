@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=2900#static",
 	"name": "Wanderer",
+	"key": "l10n:hero-type/name?id=2900#static",
 	"id": 2906,
-	"acc": "0",
+	"avatar": "2900",
 	"affinity": "Spirit",
-	"atk": "1443",
-	"cdamage": "57",
-	"crate": "15",
-	"spd": "96",
-	"def": "716",
 	"hp": "13050",
-	"cheal": "50",
+	"atk": "1443",
+	"def": "716",
+	"spd": "96",
 	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
 	"faction": "Dark Elves",
-	"rarity": "Rare",
-	"type": "Attack",
-	"aura": "Increases Ally ATK in Dungeons by 21%.",
+	"aura": "Increase Ally ATK in Dungeons by 21",
 	"totalBooks": "14",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Lay On",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Damage +10%\nLevel 7: Buff/Debuff Chance +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +10%\nLvl. 7 Buff/Debuff Chance +10%\n",
 			"multiplier": "ATK*3.6",
 			"numBooksToMax": "6"
 		},
@@ -34,7 +33,7 @@
 			"name": "Blade Symphony",
 			"maxcd": "3",
 			"mincd": "2",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Cooldown -1\n",
 			"multiplier": "ATK*3",
 			"numBooksToMax": "4"
 		},
@@ -44,9 +43,11 @@
 			"name": "Pierce Through",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1\n",
 			"multiplier": "ATK*4",
 			"numBooksToMax": "4"
 		}
-	]
+	],
+	"rarity": "Rare",
+	"type": "Attack"
 }

@@ -1,20 +1,19 @@
 {
-	"key": "l10n:hero-type/name?id=2540#static",
 	"name": "Pitspawn",
+	"key": "l10n:hero-type/name?id=2540#static",
 	"id": 2546,
-	"acc": "0",
+	"avatar": "2540",
 	"affinity": "Spirit",
-	"atk": "881",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "86",
-	"def": "969",
 	"hp": "13545",
-	"cheal": "50",
+	"atk": "881",
+	"def": "969",
+	"spd": "86",
 	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Demonspawn",
-	"rarity": "Uncommon",
-	"type": "Defense",
 	"aura": "",
 	"totalBooks": "9",
 	"skills": [
@@ -24,7 +23,7 @@
 			"name": "Evil Touch",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
 			"multiplier": "3.5*DEF",
 			"numBooksToMax": "4"
 		},
@@ -34,9 +33,11 @@
 			"name": "Darkness",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1\n",
 			"multiplier": "3.7*DEF",
 			"numBooksToMax": "5"
 		}
-	]
+	],
+	"rarity": "Uncommon",
+	"type": "Defense"
 }

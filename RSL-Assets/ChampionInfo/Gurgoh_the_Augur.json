@@ -50,7 +50,7 @@
 		{
 			"desc": "Has a 50% chance of placing a [Freeze] debuff\r\non the attacker for 1 turn if this Champion loses more than 20% of their MAX HP on one attack.",
 			"basedOn": "",
-			"name": "Frost Embrace",
+			"name": "Frost Embrace [P]",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",

@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=6290#static",
 	"name": "Leorius the Proud",
+	"key": "l10n:hero-type/name?id=6290#static",
 	"id": 6296,
-	"acc": "0",
+	"avatar": "6290",
 	"affinity": "Void",
-	"atk": "1409",
-	"cdamage": "63",
-	"crate": "15",
-	"spd": "106",
-	"def": "936",
 	"hp": "18495",
-	"cheal": "50",
+	"atk": "1409",
+	"def": "936",
+	"spd": "106",
 	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "63",
+	"cheal": "50",
 	"faction": "Skinwalkers",
-	"rarity": "Legendary",
-	"type": "Attack",
-	"aura": "Increases Ally C. RATE in All Battles by 24%.",
+	"aura": "Increase Ally C. RATE in in all Battles by 24",
 	"totalBooks": "10",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Lion's Twinclaws",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Damage +10%\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Damage +10%\n",
 			"multiplier": "1.65*ATK",
 			"numBooksToMax": "3"
 		},
@@ -34,7 +33,7 @@
 			"name": "Rage of the Pride",
 			"maxcd": "3",
 			"mincd": "3",
-			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Damage +10%\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Damage +10%\n",
 			"multiplier": "2*ATK",
 			"numBooksToMax": "3"
 		},
@@ -44,8 +43,8 @@
 			"name": "Awesome Roar",
 			"maxcd": "4",
 			"mincd": "4",
-			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +10%\n",
-			"multiplier": "",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"multiplier": null,
 			"numBooksToMax": "4"
 		},
 		{
@@ -56,7 +55,9 @@
 			"mincd": "4",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": ""
+			"numBooksToMax": "0"
 		}
-	]
+	],
+	"rarity": "Legendary",
+	"type": "Attack"
 }

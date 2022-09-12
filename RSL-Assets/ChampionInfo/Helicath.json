@@ -56,16 +56,6 @@
 			"books": "",
 			"multiplier": "",
 			"numBooksToMax": "0"
-		},
-		{
-			"desc": "Skill 6666618 description",
-			"basedOn": "",
-			"name": "72005 (72003 passive part)",
-			"maxcd": "0",
-			"mincd": "0",
-			"books": "",
-			"multiplier": "",
-			"numBooksToMax": "0"
 		}
 	],
 	"rarity": "Legendary",

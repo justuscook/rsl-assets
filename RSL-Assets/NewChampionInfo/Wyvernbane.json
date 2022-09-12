@@ -1,20 +1,19 @@
 {
-	"key": "l10n:hero-type/name?id=5180#static",
 	"name": "Wyvernbane",
+	"key": "l10n:hero-type/name?id=5180#static",
 	"id": 5186,
-	"acc": "0",
+	"avatar": "5180",
 	"affinity": "Spirit",
-	"atk": "1288",
-	"cdamage": "57",
-	"crate": "15",
-	"spd": "94",
-	"def": "903",
 	"hp": "12555",
-	"cheal": "50",
+	"atk": "1288",
+	"def": "903",
+	"spd": "94",
 	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
 	"faction": "Orcs",
-	"rarity": "Rare",
-	"type": "Attack",
 	"aura": "",
 	"totalBooks": "16",
 	"skills": [
@@ -24,7 +23,7 @@
 			"name": "Hobble Pierce",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
 			"multiplier": "3.2*ATK",
 			"numBooksToMax": "4"
 		},
@@ -34,7 +33,7 @@
 			"name": "Setback",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Buff/Debuff Chance +10%\nLevel 7: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +10%\nLvl. 7 Cooldown -1\n",
 			"multiplier": "5.9*ATK",
 			"numBooksToMax": "6"
 		},
@@ -44,9 +43,11 @@
 			"name": "Cursefire Spear",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Buff/Debuff Chance +10%\nLevel 7: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +10%\nLvl. 7 Cooldown -1\n",
 			"multiplier": "6.1*ATK",
 			"numBooksToMax": "6"
 		}
-	]
+	],
+	"rarity": "Rare",
+	"type": "Attack"
 }

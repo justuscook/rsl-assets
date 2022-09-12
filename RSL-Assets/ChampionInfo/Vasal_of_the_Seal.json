@@ -48,7 +48,7 @@
 			"numBooksToMax": "2"
 		},
 		{
-			"desc": "Receives 20% less damage from Champions from the Bannerlord, High Elf, and Sacred Order Factions. \r\n\r\nIf there are 2 or more Demonspawn Champions on the team alongside this Champion, increases the C. DMG of all Demonspawn Champions on the team by 20%. \r\n[C. DMG increase only works when this Champion is alive.]",
+			"desc": "Receives 20% less damage from Champions from the Banner Lord, High Elf, and Sacred Order Factions. \r\n\r\nIf there are 2 or more Demonspawn Champions on the team alongside this Champion, increases the C. DMG of all Demonspawn Champions on the team by 20%. \r\n[C. DMG increase only works when this Champion is alive.]",
 			"basedOn": "",
 			"name": "Legion of Doom [P]",
 			"maxcd": "0",

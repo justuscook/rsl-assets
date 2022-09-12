@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=1300#static",
 	"name": "Veteran",
+	"key": "l10n:hero-type/name?id=1300#static",
 	"id": 1306,
-	"acc": "0",
+	"avatar": "1300",
 	"affinity": "Void",
-	"atk": "683",
-	"cdamage": "57",
-	"crate": "15",
-	"spd": "97",
-	"def": "1321",
 	"hp": "15360",
-	"cheal": "50",
+	"atk": "683",
+	"def": "1321",
+	"spd": "97",
 	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
 	"faction": "Orcs",
-	"rarity": "Rare",
-	"type": "Defense",
-	"aura": "Increases Ally SPD in Dungeons by 15.",
+	"aura": "Increase Ally SPD in Dungeons by 15",
 	"totalBooks": "15",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Disarm",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Damage +15%\nLevel 6: Buff/Debuff Chance +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Damage +15%\nLvl. 6 Buff/Debuff Chance +10%\n",
 			"multiplier": "1.6*DEF",
 			"numBooksToMax": "5"
 		},
@@ -34,7 +33,7 @@
 			"name": "Head Hunter",
 			"maxcd": "3",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +10%\nLevel 6: Damage +15%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\nLvl. 6 Damage +15%\n",
 			"multiplier": "3.7*DEF+ATK",
 			"numBooksToMax": "5"
 		},
@@ -44,9 +43,11 @@
 			"name": "Massacre",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Cooldown -1\n",
 			"multiplier": "DEF+0.23*HP",
 			"numBooksToMax": "5"
 		}
-	]
+	],
+	"rarity": "Rare",
+	"type": "Defense"
 }

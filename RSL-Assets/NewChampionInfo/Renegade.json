@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=420#static",
 	"name": "Renegade",
+	"key": "l10n:hero-type/name?id=420#static",
 	"id": 426,
-	"acc": "10",
+	"avatar": "420",
 	"affinity": "Void",
-	"atk": "1046",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "95",
-	"def": "749",
 	"hp": "18495",
-	"cheal": "50",
+	"atk": "1046",
+	"def": "749",
+	"spd": "95",
 	"res": "30",
-	"faction": "Knight Revenant",
-	"rarity": "Rare",
-	"type": "Support",
-	"aura": "Increases Ally RES in All Battles by 40.",
+	"acc": "10",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Knights Revenant",
+	"aura": "Increase Ally  in in all Battles by 40",
 	"totalBooks": "10",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Lingering Pain",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +15%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\n",
 			"multiplier": "1.2*ATK+SPD",
 			"numBooksToMax": "4"
 		},
@@ -34,7 +33,7 @@
 			"name": "Lash Out",
 			"maxcd": "3",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +15%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\n",
 			"multiplier": "1.8*ATK",
 			"numBooksToMax": "4"
 		},
@@ -44,9 +43,11 @@
 			"name": "Sacrificial Ritual",
 			"maxcd": "7",
 			"mincd": "5",
-			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
-			"multiplier": "",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
+			"multiplier": null,
 			"numBooksToMax": "2"
 		}
-	]
+	],
+	"rarity": "Rare",
+	"type": "Support"
 }

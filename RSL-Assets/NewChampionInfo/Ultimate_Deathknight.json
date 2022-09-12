@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=7090#static",
 	"name": "Ultimate Deathknight",
+	"key": "l10n:hero-type/name?id=7090#static",
 	"id": 7096,
-	"acc": "20",
+	"avatar": "7090",
 	"affinity": "Force",
-	"atk": "782",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "97",
-	"def": "1421",
 	"hp": "20640",
-	"cheal": "50",
+	"atk": "782",
+	"def": "1421",
+	"spd": "97",
 	"res": "40",
+	"acc": "20",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Undead Hordes",
-	"rarity": "Legendary",
-	"type": "Defense",
-	"aura": "Increases Ally DEF in All Battles by 30%.",
+	"aura": "Increase Ally  in in all Battles by 30",
 	"totalBooks": "10",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Heckler of Legends",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +10%\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
 			"multiplier": "3.5*DEF",
 			"numBooksToMax": "4"
 		},
@@ -34,39 +33,41 @@
 			"name": "Rats Off To Ya",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Cooldown -1\n",
 			"multiplier": "4*DEF",
 			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Places a [Shield] buff and a 15% [Continuous Heal] buff on all allies for 2 turns.\r\n\r\nThe value of the [Shield] buff is proportional to this Champion’s DEF.",
-			"basedOn": "",
+			"basedOn": "[DEF]",
 			"name": "Get Comfy Everyone",
 			"maxcd": "5",
 			"mincd": "3",
-			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		},
 		{
-			"desc": "Whenever an ally is attacked, has a 100% chance of completely blocking 1 hit, decreasing the incoming damage to zero. This Champion will receive that damage instead. The chance decreases to 50% if the attacker is a Boss. Does not work if the attack on the ally was an AoE attack.\r\n\r\nWhenever an enemy is healed, heals this Champion by 20% of that heal.",
+			"desc": "Whenever an ally is attacked, has a 100% chance of completely blocking 1 hit, decreasing the incoming damage to zero. This Champion will receive that damage instead. It will also redirect any debuffs from the hit to this Champion. The chance of blocking a hit and redirecting the debuffs decreases to 50% if the attacker is a Boss. Does not work if the attack on the ally was an AoE attack.\r\n\r\nWhenever an enemy is healed, heals this Champion by 20% of that heal.",
 			"basedOn": "",
 			"name": "Too Awesome To Die [P]",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": ""
+			"numBooksToMax": "0"
 		},
 		{
 			"desc": "Increases this Champion’s HP, DEF, and SPD by 10% for each dead ally.",
-			"basedOn": "",
+			"basedOn": "[B_HP]",
 			"name": "Didn't Need 'Em [P]",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": ""
+			"numBooksToMax": "0"
 		}
-	]
+	],
+	"rarity": "Legendary",
+	"type": "Defense"
 }

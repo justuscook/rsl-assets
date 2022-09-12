@@ -1,0 +1,53 @@
+{
+	"name": "Dirandil",
+	"key": "l10n:hero-type/name?id=4840#static",
+	"id": 4846,
+	"avatar": "4840",
+	"affinity": "Force",
+	"hp": "12885",
+	"atk": "1376",
+	"def": "1068",
+	"spd": "98",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "60",
+	"cheal": "50",
+	"faction": "Dark Elves",
+	"aura": "Increase Ally C. RATE in in all Battles by 15",
+	"totalBooks": "10",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Each hit has a 20% chance of placing a [Freeze] debuff for 1 turn. This chance increases to 30% on each critical hit.",
+			"basedOn": "[ATK]",
+			"name": "Brumal Razors",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "1.8*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Will ignore 15% of each target’s DEF. \r\n\r\nFills this Champion's Turn Meter by 10% on each critical hit.",
+			"basedOn": "[ATK]",
+			"name": "Dispatch Them",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Cooldown -1\n",
+			"multiplier": "3.9*ATK",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "Attacks 1 enemy. Will ignore 50% of the target’s DEF. \r\n\r\nPlaces a [Perfect Veil] buff on this Champion for 2 turns if the hit is critical.",
+			"basedOn": "[ATK]",
+			"name": "Royal Assassin",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Cooldown -1\n",
+			"multiplier": "5.8*ATK",
+			"numBooksToMax": "3"
+		}
+	],
+	"rarity": "Epic",
+	"type": "Attack"
+}

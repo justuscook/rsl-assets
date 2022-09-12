@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=5340#static",
 	"name": "Little Miss Annie",
+	"key": "l10n:hero-type/name?id=5340#static",
 	"id": 5346,
-	"acc": "0",
+	"avatar": "5340",
 	"affinity": "Void",
-	"atk": "1597",
-	"cdamage": "63",
-	"crate": "15",
-	"spd": "102",
-	"def": "793",
 	"hp": "17835",
-	"cheal": "50",
+	"atk": "1597",
+	"def": "793",
+	"spd": "102",
 	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "63",
+	"cheal": "50",
 	"faction": "Undead Hordes",
-	"rarity": "Legendary",
-	"type": "Attack",
-	"aura": "Increases Ally ATK in All Battles by 33%.",
+	"aura": "Increase Ally ATK in in all Battles by 33",
 	"totalBooks": "13",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Pretty Nails",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +10%\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
 			"multiplier": "1.3*ATK",
 			"numBooksToMax": "4"
 		},
@@ -34,7 +33,7 @@
 			"name": "Hollow Doll",
 			"maxcd": "4",
 			"mincd": "2",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Cooldown -1\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Cooldown -1\nLvl. 5 Cooldown -1\n",
 			"multiplier": "2.7*ATK",
 			"numBooksToMax": "4"
 		},
@@ -44,7 +43,7 @@
 			"name": "Playdate",
 			"maxcd": "6",
 			"mincd": "4",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Damage +10%\nLevel 5: Cooldown -1\nLevel 6: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1\nLvl. 6 Cooldown -1\n",
 			"multiplier": "5.7*ATK",
 			"numBooksToMax": "5"
 		},
@@ -56,17 +55,19 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": ""
+			"numBooksToMax": "0"
 		},
 		{
 			"desc": "Each hit has a 50% chance of decreasing the target's Turn Meter by 5% and a 100% chance of decreasing the target's MAX HP by 5% of the damage inflicted when attacking enemies under [Heal Reduction] debuffs.\r\n\r\nAlso heals this Champion by 5% of the damage inflicted when attacking enemies under [Heal Reduction] debuffs.\r\n\r\n[Will not heal from damage inflicted by Masteries.]",
-			"basedOn": "",
+			"basedOn": "[DEALT_DMG]",
 			"name": "Magical Heart [P]",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": ""
+			"numBooksToMax": "0"
 		}
-	]
+	],
+	"rarity": "Legendary",
+	"type": "Attack"
 }

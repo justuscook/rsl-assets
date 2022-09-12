@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=6800#static",
 	"name": "Visionary",
+	"key": "l10n:hero-type/name?id=6800#static",
 	"id": 6806,
-	"acc": "15",
+	"avatar": "6800",
 	"affinity": "Spirit",
-	"atk": "1277",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "98",
-	"def": "1002",
 	"hp": "15360",
-	"cheal": "50",
+	"atk": "1277",
+	"def": "1002",
+	"spd": "98",
 	"res": "30",
+	"acc": "15",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Dark Elves",
-	"rarity": "Epic",
-	"type": "Support",
-	"aura": "Increases Ally SPD in Dungeons by 24.",
+	"aura": "Increase Ally SPD in Dungeons by 24",
 	"totalBooks": "10",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Ectoplasm",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
 			"multiplier": "3.2*ATK",
 			"numBooksToMax": "4"
 		},
@@ -34,7 +33,7 @@
 			"name": "Haunt",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1\n",
 			"multiplier": "3.3*ATK",
 			"numBooksToMax": "5"
 		},
@@ -44,9 +43,11 @@
 			"name": "Dark Dealings",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Cooldown -1\n",
+			"books": "Lvl. 2 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		}
-	]
+	],
+	"rarity": "Epic",
+	"type": "Support"
 }

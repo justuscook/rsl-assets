@@ -48,7 +48,7 @@
 			"numBooksToMax": "6"
 		},
 		{
-			"desc": "Decreases the cooldown of this Champion's [Gleam of Avarice] skill by 1 turn every time this Champion loses 15% HP. \r\n\r\nThe HP loss is accumulated and tracked over multiple turns, attacks, or hits, and is not affected by healing or other HP increases.",
+			"desc": "Decreases the cooldown of this Champion's Gleam of Avarice skill by 1 turn every time this Champion loses 15% HP. \r\n\r\nThe HP loss is accumulated and tracked over multiple turns, attacks, or hits, and is not affected by healing or other HP increases.",
 			"basedOn": "",
 			"name": "Dire Grudge [P]",
 			"maxcd": "0",

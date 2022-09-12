@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=5970#static",
 	"name": "Skimfos the Consumed",
+	"key": "l10n:hero-type/name?id=5970#static",
 	"id": 5976,
-	"acc": "0",
+	"avatar": "5970",
 	"affinity": "Void",
-	"atk": "1432",
-	"cdamage": "60",
-	"crate": "15",
-	"spd": "102",
-	"def": "1002",
 	"hp": "13050",
-	"cheal": "50",
+	"atk": "1432",
+	"def": "1002",
+	"spd": "102",
 	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "60",
+	"cheal": "50",
 	"faction": "Demonspawn",
-	"rarity": "Epic",
-	"type": "Attack",
-	"aura": "Increases Ally ATK in Doom Tower Battles by 30%.",
+	"aura": "Increase Ally ATK in Doom Tower battles by 30",
 	"totalBooks": "14",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Growing Hunger",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
 			"multiplier": "1.85*ATK",
 			"numBooksToMax": "4"
 		},
@@ -34,7 +33,7 @@
 			"name": "Curse Feeder",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Buff/Debuff Chance +10%\nLevel 7: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +10%\nLvl. 7 Cooldown -1\n",
 			"multiplier": "3.75*ATK",
 			"numBooksToMax": "6"
 		},
@@ -44,19 +43,21 @@
 			"name": "Clutch of Woe",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Damage +10%\nLevel 5: Cooldown -1\n",
-			"multiplier": "",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1\n",
+			"multiplier": null,
 			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Heals this Champion by 5% of their MAX HP for each debuff on them at the start of each turn. \r\n\r\nIf this Champion is under 4 or more debuffs at the start of the turn, places a 50% [Increase ATK] buff and a 30% [Increase C. DMG] buff on this Champion for 2 turns.",
-			"basedOn": "",
+			"basedOn": "[Enemy MAX HP]",
 			"name": "Twisted [P]",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": ""
+			"numBooksToMax": "0"
 		}
-	]
+	],
+	"rarity": "Epic",
+	"type": "Attack"
 }

@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=6720#static",
 	"name": "Vildrax",
+	"key": "l10n:hero-type/name?id=6720#static",
 	"id": 6726,
-	"acc": "15",
+	"avatar": "6720",
 	"affinity": "Magic",
-	"atk": "738",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "97",
-	"def": "1255",
 	"hp": "19650",
-	"cheal": "50",
+	"atk": "738",
+	"def": "1255",
+	"spd": "97",
 	"res": "30",
+	"acc": "15",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Demonspawn",
-	"rarity": "Epic",
-	"type": "Support",
-	"aura": "Increases Ally ACC in All Battles by 40.",
+	"aura": "Increase Ally ACC in in all Battles by 40",
 	"totalBooks": "17",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Verminous Grasp",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Damage +5%\nLevel 7: Buff/Debuff Chance +5%\nLevel 8: Damage +5%\nLevel 9: Buff/Debuff Chance +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +5%\nLvl. 7 Buff/Debuff Chance +5%\nLvl. 8 Damage +5%\nLvl. 9 Buff/Debuff Chance +5%\n",
 			"multiplier": "2.3*ATK",
 			"numBooksToMax": "8"
 		},
@@ -34,7 +33,7 @@
 			"name": "Duke of Flies",
 			"maxcd": "3",
 			"mincd": "3",
-			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +10%\n",
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\n",
 			"multiplier": "5*ATK",
 			"numBooksToMax": "4"
 		},
@@ -44,7 +43,7 @@
 			"name": "Swarm of Horrors",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Level 2: Buff/Debuff Chance +10%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Cooldown -1\n",
+			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Cooldown -1\n",
 			"multiplier": "4.5*ATK",
 			"numBooksToMax": "3"
 		},
@@ -54,9 +53,11 @@
 			"name": "Pestiferous [P]",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Buff/Debuff Chance +10%\nLevel 3: Buff/Debuff Chance +10%\n",
+			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Buff/Debuff Chance +10%\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		}
-	]
+	],
+	"rarity": "Epic",
+	"type": "Support"
 }

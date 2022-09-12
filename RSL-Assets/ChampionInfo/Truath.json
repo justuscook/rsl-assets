@@ -48,7 +48,7 @@
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Decreases the cooldown of the [Animus Infusion] skill by 1 turn for every 10% of HP this Champion loses.",
+			"desc": "Decreases the cooldown of the Animus Infusion skill by 1 turn for every 10% of HP this Champion loses.",
 			"basedOn": "",
 			"name": "Transmute Pain [P]",
 			"maxcd": "1",

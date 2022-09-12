@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=3710#static",
 	"name": "Ragemonger",
+	"key": "l10n:hero-type/name?id=3710#static",
 	"id": 3716,
-	"acc": "0",
+	"avatar": "3710",
 	"affinity": "Void",
-	"atk": "1211",
-	"cdamage": "57",
-	"crate": "15",
-	"spd": "98",
-	"def": "969",
 	"hp": "12720",
-	"cheal": "50",
+	"atk": "1211",
+	"def": "969",
+	"spd": "98",
 	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
 	"faction": "Barbarians",
-	"rarity": "Rare",
-	"type": "Attack",
-	"aura": "Increases Ally ATK in Campaign Battles by 21%.",
+	"aura": "Increase Ally ATK in Campaign Battles by 21",
 	"totalBooks": "13",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Recoup",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Damage +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Damage +10%\n",
 			"multiplier": "3.4*ATK",
 			"numBooksToMax": "4"
 		},
@@ -34,7 +33,7 @@
 			"name": "Toxin Flurry",
 			"maxcd": "4",
 			"mincd": "4",
-			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +10%\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\n",
 			"multiplier": "1.75*ATK",
 			"numBooksToMax": "4"
 		},
@@ -44,9 +43,11 @@
 			"name": "Scorch Shot",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1\n",
 			"multiplier": "6*ATK",
 			"numBooksToMax": "5"
 		}
-	]
+	],
+	"rarity": "Rare",
+	"type": "Attack"
 }

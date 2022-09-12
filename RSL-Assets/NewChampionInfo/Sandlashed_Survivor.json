@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=4090#static",
 	"name": "Sandlashed Survivor",
+	"key": "l10n:hero-type/name?id=4090#static",
 	"id": 4096,
-	"acc": "0",
+	"avatar": "4090",
 	"affinity": "Spirit",
-	"atk": "936",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "94",
-	"def": "1365",
 	"hp": "15030",
-	"cheal": "50",
+	"atk": "936",
+	"def": "1365",
+	"spd": "94",
 	"res": "45",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Orcs",
-	"rarity": "Epic",
-	"type": "Defense",
-	"aura": "Increases Ally DEF in All Battles by 25%.",
+	"aura": "Increase Ally  in in all Battles by 25",
 	"totalBooks": "10",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Smell Weakness",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Damage +10%\nLevel 6: Buff/Debuff Chance +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Damage +10%\nLvl. 6 Buff/Debuff Chance +10%\n",
 			"multiplier": "1.6*DEF",
 			"numBooksToMax": "5"
 		},
@@ -34,7 +33,7 @@
 			"name": "Endless Sands",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1\n",
 			"multiplier": "3.3*DEF",
 			"numBooksToMax": "4"
 		},
@@ -44,9 +43,11 @@
 			"name": "Born Survivor [P]",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Level 2: Cooldown -1\n",
+			"books": "Lvl. 2 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		}
-	]
+	],
+	"rarity": "Epic",
+	"type": "Defense"
 }

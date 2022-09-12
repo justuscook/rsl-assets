@@ -1,20 +1,19 @@
 {
-	"key": "l10n:hero-type/name?id=4650#static",
 	"name": "Quargan the Crowned",
+	"key": "l10n:hero-type/name?id=4650#static",
 	"id": 4656,
-	"acc": "0",
+	"avatar": "4650",
 	"affinity": "Spirit",
-	"atk": "903",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "103",
-	"def": "1222",
 	"hp": "17670",
-	"cheal": "50",
+	"atk": "903",
+	"def": "1222",
+	"spd": "103",
 	"res": "30",
-	"faction": "Lizardmen",
-	"rarity": "Epic",
-	"type": "Support",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Lizard Men",
 	"aura": "",
 	"totalBooks": "12",
 	"skills": [
@@ -24,17 +23,17 @@
 			"name": "Nature's Cycle",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Buff/Debuff Chance +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +10%\n",
 			"multiplier": "4*ATK",
 			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Heals all allies by 15% of their MAX HP and places a [Shield] buff equal to 15% of their MAX HP on all allies for 2 turns.",
-			"basedOn": "",
+			"basedOn": "[Enemy MAX HP]",
 			"name": "Overgrowth",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Heal +5%\nLevel 3: Shield +5%\nLevel 4: Heal +10%\nLevel 5: Shield +10%\nLevel 6: Cooldown -1\n",
+			"books": "Lvl. 2  Heal +5%\nLvl. 4  Heal +10%\nLvl. 6 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "5"
 		},
@@ -44,9 +43,11 @@
 			"name": "Attunement",
 			"maxcd": "6",
 			"mincd": "4",
-			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		}
-	]
+	],
+	"rarity": "Epic",
+	"type": "Support"
 }

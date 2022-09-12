@@ -1,20 +1,19 @@
 {
-	"key": "l10n:hero-type/name?id=7000#static",
 	"name": "Gronjarr",
+	"key": "l10n:hero-type/name?id=7000#static",
 	"id": 7006,
-	"acc": "20",
+	"avatar": "7000",
 	"affinity": "Force",
-	"atk": "837",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "100",
-	"def": "1222",
 	"hp": "22800",
-	"cheal": "50",
+	"atk": "837",
+	"def": "1222",
+	"spd": "100",
 	"res": "40",
+	"acc": "20",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Dwarves",
-	"rarity": "Legendary",
-	"type": "HP",
 	"aura": "",
 	"totalBooks": "14",
 	"skills": [
@@ -24,7 +23,7 @@
 			"name": "Pyro Pummel",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +5%\n",
 			"multiplier": "0.1*HP",
 			"numBooksToMax": "4"
 		},
@@ -34,7 +33,7 @@
 			"name": "Shatter Falsity",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1\n",
 			"multiplier": "0.15*HP",
 			"numBooksToMax": "5"
 		},
@@ -44,7 +43,7 @@
 			"name": "Fires of Auld",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1\n",
 			"multiplier": "0.2*HP",
 			"numBooksToMax": "5"
 		},
@@ -56,7 +55,9 @@
 			"mincd": "3",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": ""
+			"numBooksToMax": "0"
 		}
-	]
+	],
+	"rarity": "Legendary",
+	"type": "Health"
 }

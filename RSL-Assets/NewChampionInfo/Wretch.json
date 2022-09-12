@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=2380#static",
 	"name": "Wretch",
+	"key": "l10n:hero-type/name?id=2380#static",
 	"id": 2386,
-	"acc": "0",
+	"avatar": "2380",
 	"affinity": "Force",
-	"atk": "1432",
-	"cdamage": "57",
-	"crate": "15",
-	"spd": "97",
-	"def": "716",
 	"hp": "13215",
-	"cheal": "50",
+	"atk": "1432",
+	"def": "716",
+	"spd": "97",
 	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
 	"faction": "Undead Hordes",
-	"rarity": "Rare",
-	"type": "Attack",
-	"aura": "Increases Ally ATK in All Battles by 30%.",
+	"aura": "Increase undefined Ally ATK in in all Battles by 30",
 	"totalBooks": "12",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Crypt Touch",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
 			"multiplier": "1.5*ATK",
 			"numBooksToMax": "4"
 		},
@@ -34,7 +33,7 @@
 			"name": "Lifeleech",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +10%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1\n",
 			"multiplier": "5*ATK",
 			"numBooksToMax": "4"
 		},
@@ -44,9 +43,11 @@
 			"name": "Gravefire",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Damage +10%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1\n",
 			"multiplier": "4.9*ATK",
 			"numBooksToMax": "4"
 		}
-	]
+	],
+	"rarity": "Rare",
+	"type": "Attack"
 }

@@ -18,7 +18,7 @@
 	"totalBooks": "17",
 	"skills": [
 		{
-			"desc": "Attacks 1 enemy. Resets the cooldown of the [Devastator] skill if this attack kills an enemy.",
+			"desc": "Attacks 1 enemy. Resets the cooldown of the Devastator skill if this attack kills an enemy.",
 			"basedOn": "[ATK]",
 			"name": "Great Hammer",
 			"maxcd": "0",

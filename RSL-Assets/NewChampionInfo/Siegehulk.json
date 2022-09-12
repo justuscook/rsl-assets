@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=6120#static",
 	"name": "Siegehulk",
+	"key": "l10n:hero-type/name?id=6120#static",
 	"id": 6126,
-	"acc": "10",
+	"avatar": "6120",
 	"affinity": "Magic",
-	"atk": "1542",
-	"cdamage": "60",
-	"crate": "15",
-	"spd": "95",
-	"def": "760",
 	"hp": "15030",
-	"cheal": "50",
+	"atk": "1542",
+	"def": "760",
+	"spd": "95",
 	"res": "30",
+	"acc": "10",
+	"crate": "15",
+	"cdamage": "60",
+	"cheal": "50",
 	"faction": "Ogryn Tribes",
-	"rarity": "Epic",
-	"type": "Attack",
-	"aura": "Increases Ally C. RATE in Doom Tower Battles by 24%.",
+	"aura": "Increase Ally C. RATE in Doom Tower battles by 24",
 	"totalBooks": "13",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Battering Ram",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
 			"multiplier": "3.1*ATK",
 			"numBooksToMax": "4"
 		},
@@ -34,8 +33,8 @@
 			"name": "Thrashing Fit",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
-			"multiplier": "",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1\n",
+			"multiplier": null,
 			"numBooksToMax": "5"
 		},
 		{
@@ -44,9 +43,11 @@
 			"name": "Siege Breaker",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Buff/Debuff Chance +15%\nLevel 5: Cooldown -1\n",
-			"multiplier": "",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +15%\nLvl. 5 Cooldown -1\n",
+			"multiplier": null,
 			"numBooksToMax": "4"
 		}
-	]
+	],
+	"rarity": "Epic",
+	"type": "Attack"
 }

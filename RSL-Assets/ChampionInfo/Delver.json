@@ -7,7 +7,7 @@
 	"hp": "16350",
 	"atk": "1299",
 	"def": "914",
-	"spd": "91",
+	"spd": "98",
 	"res": "30",
 	"acc": "0",
 	"crate": "15",
@@ -28,7 +28,7 @@
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Attacks 1 enemy. Places a 25% [Weaken] debuff on the target for 3 turns if the target has a [Heal Reduction] debuff. This debuff cannot be resisted.",
+			"desc": "Attacks 1 enemy. Places a 25% [Weaken] debuff on the target for 3 turns if the target has a [Decrease DEF] debuff. This debuff cannot be resisted.",
 			"basedOn": "[ATK]",
 			"name": "Mark for Death",
 			"maxcd": "4",
@@ -38,12 +38,12 @@
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Attacks all enemies. Places a 50% [Increase ATK] buff on this Champion for 2 turns before attacking. If the target has a [Weaken] debuff, places a 60% [Decrease DEF] debuff on the target for 2 turns.",
+			"desc": "Attacks all enemies. Places a 50% [Increase ATK] buff on this Champion for 2 turns before attacking. Also has a 50% chance of placing a 60% [Decrease DEF] debuff on the target for 2 turns before attacking.",
 			"basedOn": "",
 			"name": "Finisher",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Cooldown -1\n",
+			"books": "Lvl. 2 Damage +15%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +15%\nLvl. 5 Cooldown -1\n",
 			"multiplier": null,
 			"numBooksToMax": "4"
 		}

@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=410#static",
 	"name": "Skartorsis",
+	"key": "l10n:hero-type/name?id=410#static",
 	"id": 416,
-	"acc": "0",
+	"avatar": "410",
 	"affinity": "Force",
-	"atk": "859",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "109",
-	"def": "1376",
 	"hp": "20145",
-	"cheal": "50",
+	"atk": "859",
+	"def": "1376",
+	"spd": "109",
 	"res": "40",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Undead Hordes",
-	"rarity": "Legendary",
-	"type": "Support",
-	"aura": "Increases Ally SPD in Dungeons by 33.",
+	"aura": "Increase Ally SPD in Dungeons by 33",
 	"totalBooks": "11",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Hand of Doom",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Damage +10%\nLevel 6: Buff/Debuff Chance +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Damage +10%\nLvl. 6 Buff/Debuff Chance +10%\n",
 			"multiplier": "4*ATK",
 			"numBooksToMax": "5"
 		},
@@ -34,7 +33,7 @@
 			"name": "Command",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Cooldown -1\n",
+			"books": "Lvl. 2 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		},
@@ -44,9 +43,11 @@
 			"name": "Rebirth",
 			"maxcd": "6",
 			"mincd": "4",
-			"books": "Level 2: Heal +5%\nLevel 3: Heal +5%\nLevel 4: Heal +5%\nLevel 5: Cooldown -1\nLevel 6: Cooldown -1\n",
+			"books": "Lvl. 2  Heal +5%\nLvl. 3  Heal +5%\nLvl. 4  Heal +5%\nLvl. 5 Cooldown -1\nLvl. 6 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "5"
 		}
-	]
+	],
+	"rarity": "Legendary",
+	"type": "Support"
 }

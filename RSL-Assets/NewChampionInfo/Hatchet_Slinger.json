@@ -1,20 +1,19 @@
 {
-	"key": "l10n:hero-type/name?id=4680#static",
 	"name": "Hatchet Slinger",
+	"key": "l10n:hero-type/name?id=4680#static",
 	"id": 4686,
-	"acc": "0",
+	"avatar": "4680",
 	"affinity": "Spirit",
-	"atk": "1321",
-	"cdamage": "57",
-	"crate": "15",
-	"spd": "93",
-	"def": "1002",
 	"hp": "10575",
-	"cheal": "50",
+	"atk": "1321",
+	"def": "1002",
+	"spd": "93",
 	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
 	"faction": "Dwarves",
-	"rarity": "Rare",
-	"type": "Attack",
 	"aura": "",
 	"totalBooks": "14",
 	"skills": [
@@ -24,7 +23,7 @@
 			"name": "Axe Frenzy",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Damage +5%\nLevel 7: Buff/Debuff Chance +5%\nLevel 8: Damage +5%\nLevel 9: Buff/Debuff Chance +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +5%\nLvl. 7 Buff/Debuff Chance +5%\nLvl. 8 Damage +5%\nLvl. 9 Buff/Debuff Chance +5%\n",
 			"multiplier": "2*ATK",
 			"numBooksToMax": "8"
 		},
@@ -34,7 +33,7 @@
 			"name": "Dwarven Fortitude",
 			"maxcd": "7",
 			"mincd": "4",
-			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\nLevel 4: Cooldown -1\n",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\nLvl. 4 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "3"
 		},
@@ -44,9 +43,11 @@
 			"name": "Hatchets For All [P]",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +5%\n",
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +5%\n",
 			"multiplier": "",
 			"numBooksToMax": "3"
 		}
-	]
+	],
+	"rarity": "Rare",
+	"type": "Attack"
 }

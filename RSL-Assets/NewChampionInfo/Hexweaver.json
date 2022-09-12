@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=1970#static",
 	"name": "Hexweaver",
+	"key": "l10n:hero-type/name?id=1970#static",
 	"id": 1976,
-	"acc": "0",
+	"avatar": "1970",
 	"affinity": "Spirit",
-	"atk": "914",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "101",
-	"def": "1013",
 	"hp": "16515",
-	"cheal": "50",
+	"atk": "914",
+	"def": "1013",
+	"spd": "101",
 	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Dark Elves",
-	"rarity": "Rare",
-	"type": "Support",
-	"aura": "Increases Ally SPD in Faction Crypts by 13.",
+	"aura": "Increase Ally SPD in Faction Crypts by 13",
 	"totalBooks": "11",
 	"skills": [
 		{
@@ -24,17 +23,17 @@
 			"name": "Curse",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Buff/Debuff Chance +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +10%\n",
 			"multiplier": "4.3*ATK",
 			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Heals all allies by 15% of their MAX HP.",
-			"basedOn": "",
+			"basedOn": "[Enemy MAX HP]",
 			"name": "Dark Embrace",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Heal +10%\nLevel 3: Heal +10%\nLevel 4: Heal +10%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2  Heal +10%\nLvl. 3  Heal +10%\nLvl. 4  Heal +10%\nLvl. 5 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "4"
 		},
@@ -44,9 +43,11 @@
 			"name": "Wings of Doom",
 			"maxcd": "5",
 			"mincd": "3",
-			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		}
-	]
+	],
+	"rarity": "Rare",
+	"type": "Support"
 }

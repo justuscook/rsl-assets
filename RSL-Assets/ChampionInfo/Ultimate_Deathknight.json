@@ -48,7 +48,7 @@
 			"numBooksToMax": "2"
 		},
 		{
-			"desc": "Whenever an ally is attacked, has a 100% chance of completely blocking 1 hit, decreasing the incoming damage to zero. This Champion will receive that damage instead. The chance decreases to 50% if the attacker is a Boss. Does not work if the attack on the ally was an AoE attack.\r\n\r\nWhenever an enemy is healed, heals this Champion by 20% of that heal.",
+			"desc": "Whenever an ally is attacked, has a 100% chance of completely blocking 1 hit, decreasing the incoming damage to zero. This Champion will receive that damage instead. It will also redirect any debuffs from the hit to this Champion. The chance of blocking a hit and redirecting the debuffs decreases to 50% if the attacker is a Boss. Does not work if the attack on the ally was an AoE attack.\r\n\r\nWhenever an enemy is healed, heals this Champion by 20% of that heal.",
 			"basedOn": "",
 			"name": "Too Awesome To Die [P]",
 			"maxcd": "0",

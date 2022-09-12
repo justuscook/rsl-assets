@@ -1,20 +1,19 @@
 {
-	"key": "l10n:hero-type/name?id=6240#static",
 	"name": "Teumesia",
+	"key": "l10n:hero-type/name?id=6240#static",
 	"id": 6246,
-	"acc": "10",
+	"avatar": "6240",
 	"affinity": "Void",
-	"atk": "1476",
-	"cdamage": "63",
-	"crate": "15",
-	"spd": "101",
-	"def": "1035",
 	"hp": "16020",
-	"cheal": "50",
+	"atk": "1476",
+	"def": "1035",
+	"spd": "101",
 	"res": "30",
+	"acc": "10",
+	"crate": "15",
+	"cdamage": "63",
+	"cheal": "50",
 	"faction": "Skinwalkers",
-	"rarity": "Legendary",
-	"type": "Attack",
 	"aura": "",
 	"totalBooks": "13",
 	"skills": [
@@ -24,8 +23,8 @@
 			"name": "Fiery Battleaxe",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\n",
-			"multiplier": "",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\n",
+			"multiplier": null,
 			"numBooksToMax": "3"
 		},
 		{
@@ -34,7 +33,7 @@
 			"name": "Cunning Chaos",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1\n",
 			"multiplier": "4*ATK",
 			"numBooksToMax": "5"
 		},
@@ -44,7 +43,7 @@
 			"name": "Burning Regret",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1\n",
 			"multiplier": "5.5*ATK",
 			"numBooksToMax": "5"
 		},
@@ -56,7 +55,9 @@
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": ""
+			"numBooksToMax": "0"
 		}
-	]
+	],
+	"rarity": "Legendary",
+	"type": "Attack"
 }

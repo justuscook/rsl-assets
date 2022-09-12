@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=4940#static",
 	"name": "Mordecai",
+	"key": "l10n:hero-type/name?id=4940#static",
 	"id": 4946,
-	"acc": "0",
+	"avatar": "4940",
 	"affinity": "Force",
-	"atk": "1244",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "100",
-	"def": "1156",
 	"hp": "13545",
-	"cheal": "50",
+	"atk": "1244",
+	"def": "1156",
+	"spd": "100",
 	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Sacred Order",
-	"rarity": "Epic",
-	"type": "Support",
-	"aura": "Increases Ally ACC in All Battles by 40.",
+	"aura": "Increase Ally ACC in in all Battles by 40",
 	"totalBooks": "13",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Purgatory",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Buff/Debuff Chance +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +5%\n",
 			"multiplier": "3.8*ATK",
 			"numBooksToMax": "5"
 		},
@@ -34,7 +33,7 @@
 			"name": "Time's Undoing",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "4"
 		},
@@ -44,9 +43,11 @@
 			"name": "Heavenly Flames",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Level 2: Buff/Debuff Chance +5%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "4"
 		}
-	]
+	],
+	"rarity": "Epic",
+	"type": "Support"
 }

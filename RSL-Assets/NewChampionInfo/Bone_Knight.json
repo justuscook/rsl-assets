@@ -1,20 +1,19 @@
 {
-	"key": "l10n:hero-type/name?id=760#static",
 	"name": "Bone Knight",
+	"key": "l10n:hero-type/name?id=760#static",
 	"id": 766,
-	"acc": "0",
+	"avatar": "760",
 	"affinity": "Spirit",
-	"atk": "1090",
-	"cdamage": "57",
-	"crate": "15",
-	"spd": "93",
-	"def": "980",
 	"hp": "14370",
-	"cheal": "50",
+	"atk": "1090",
+	"def": "980",
+	"spd": "93",
 	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
 	"faction": "Undead Hordes",
-	"rarity": "Rare",
-	"type": "Attack",
 	"aura": "",
 	"totalBooks": "13",
 	"skills": [
@@ -24,7 +23,7 @@
 			"name": "Mutilate",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Damage +5%\nLevel 5: Buff/Debuff Chance +5%\nLevel 6: Damage +10%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +10%\n",
 			"multiplier": "1.8*ATK",
 			"numBooksToMax": "5"
 		},
@@ -34,7 +33,7 @@
 			"name": "Ancient Seal",
 			"maxcd": "3",
 			"mincd": "2",
-			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Damage +10%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1\n",
 			"multiplier": "7*ATK",
 			"numBooksToMax": "5"
 		},
@@ -44,9 +43,11 @@
 			"name": "Death's Vigor",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +10%\nLevel 3: Damage +10%\nLevel 4: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Cooldown -1\n",
 			"multiplier": "4.2*ATK",
 			"numBooksToMax": "3"
 		}
-	]
+	],
+	"rarity": "Rare",
+	"type": "Attack"
 }

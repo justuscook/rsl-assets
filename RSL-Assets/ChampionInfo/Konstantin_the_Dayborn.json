@@ -38,7 +38,7 @@
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Attacks 1 enemy. Before attacking, steals all buffs from the target, then transfers all debuffs from this Champion to the target. \r\n\r\nDecreases the cooldown of the [Quietude] skill by 2 turns if this attack kills an enemy.",
+			"desc": "Attacks 1 enemy. Before attacking, steals all buffs from the target, then transfers all debuffs from this Champion to the target. \r\n\r\nDecreases the cooldown of the Quietude skill by 2 turns if this attack kills an enemy.",
 			"basedOn": "",
 			"name": "Quietude",
 			"maxcd": "4",

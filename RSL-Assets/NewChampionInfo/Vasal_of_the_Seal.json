@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=6310#static",
 	"name": "Vasal of the Seal",
+	"key": "l10n:hero-type/name?id=6310#static",
 	"id": 6316,
-	"acc": "20",
+	"avatar": "6310",
 	"affinity": "Force",
-	"atk": "870",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "98",
-	"def": "1288",
 	"hp": "21315",
-	"cheal": "50",
+	"atk": "870",
+	"def": "1288",
+	"spd": "98",
 	"res": "40",
+	"acc": "20",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Demonspawn",
-	"rarity": "Legendary",
-	"type": "HP",
-	"aura": "Increases Ally HP in All Battles by 33%.",
+	"aura": "Increase Ally HP in in all Battles by 33",
 	"totalBooks": "12",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Abyssal Seal",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
 			"multiplier": "0.25*HP",
 			"numBooksToMax": "4"
 		},
@@ -34,7 +33,7 @@
 			"name": "Infernal Darkness",
 			"maxcd": "5",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +15%\nLevel 6: Cooldown -1\nLevel 7: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1\nLvl. 7 Cooldown -1\n",
 			"multiplier": "0.27*HP",
 			"numBooksToMax": "6"
 		},
@@ -44,19 +43,21 @@
 			"name": "Daemon Possession",
 			"maxcd": "6",
 			"mincd": "4",
-			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		},
 		{
-			"desc": "Receives 20% less damage from Champions from the Bannerlord, High Elf, and Sacred Order Factions. \r\n\r\nIf there are 2 or more Demonspawn Champions on the team alongside this Champion, increases the C. DMG of all Demonspawn Champions on the team by 20%. \r\n[C. DMG increase only works when this Champion is alive.]",
+			"desc": "Receives 20% less damage from Champions from the Banner Lord, High Elf, and Sacred Order Factions. \r\n\r\nIf there are 2 or more Demonspawn Champions on the team alongside this Champion, increases the C. DMG of all Demonspawn Champions on the team by 20%. \r\n[C. DMG increase only works when this Champion is alive.]",
 			"basedOn": "",
 			"name": "Legion of Doom [P]",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": ""
+			"numBooksToMax": "0"
 		}
-	]
+	],
+	"rarity": "Legendary",
+	"type": "Health"
 }

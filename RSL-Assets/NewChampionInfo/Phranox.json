@@ -1,0 +1,53 @@
+{
+	"name": "Phranox",
+	"key": "l10n:hero-type/name?id=7180#static",
+	"id": 7186,
+	"avatar": "7180",
+	"affinity": "Spirit",
+	"hp": "14370",
+	"atk": "1409",
+	"def": "936",
+	"spd": "97",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "60",
+	"cheal": "50",
+	"faction": "Knights Revenant",
+	"aura": "",
+	"totalBooks": "15",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 40% chance of placing a 50% [Decrease ATK] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Carve Through",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +10%\n",
+			"multiplier": "3.4*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks 1 enemy. Inflicts 100% more damage against targets without any buffs.",
+			"basedOn": "[>][ATK][==]",
+			"name": "Tender Mercies",
+			"maxcd": "3",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Damage +10%\n",
+			"multiplier": "((TRG_BUFF_COUNT>0)*(4.6*ATK))+((TRG_BUFF_COUNT==0)*(9.2*ATK))",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy 3 times. Each hit has a 50% chance of stealing 1 random buff from the target. \r\n\r\nPlaces a [Block Buffs] debuff for 2 turns if the target has no buffs after this attack.",
+			"basedOn": "[ATK]",
+			"name": "Isolate",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +10%\nLvl. 7 Cooldown -1\n",
+			"multiplier": "1.8*ATK",
+			"numBooksToMax": "6"
+		}
+	],
+	"rarity": "Epic",
+	"type": "Attack"
+}

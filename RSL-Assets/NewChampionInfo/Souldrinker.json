@@ -1,20 +1,19 @@
 {
-	"key": "l10n:hero-type/name?id=1620#static",
 	"name": "Souldrinker",
+	"key": "l10n:hero-type/name?id=1620#static",
 	"id": 1626,
-	"acc": "0",
+	"avatar": "1620",
 	"affinity": "Force",
-	"atk": "1299",
-	"cdamage": "60",
-	"crate": "15",
-	"spd": "97",
-	"def": "848",
 	"hp": "17340",
-	"cheal": "50",
+	"atk": "1299",
+	"def": "848",
+	"spd": "97",
 	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "60",
+	"cheal": "50",
 	"faction": "Demonspawn",
-	"rarity": "Epic",
-	"type": "Attack",
 	"aura": "",
 	"totalBooks": "12",
 	"skills": [
@@ -24,7 +23,7 @@
 			"name": "Razing Hand",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
 			"multiplier": "4.6*ATK",
 			"numBooksToMax": "4"
 		},
@@ -34,7 +33,7 @@
 			"name": "Raining Fire",
 			"maxcd": "5",
 			"mincd": "5",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Damage +5%\nLevel 5: Damage +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
 			"multiplier": "2.3*ATK",
 			"numBooksToMax": "4"
 		},
@@ -44,19 +43,21 @@
 			"name": "Magma Blast",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +10%\nLevel 4: Buff/Debuff Chance +15%\nLevel 5: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +15%\nLvl. 5 Cooldown -1\n",
 			"multiplier": "2.2*ATK",
 			"numBooksToMax": "4"
 		},
 		{
 			"desc": "Places two [Bomb] debuffs on each enemy that detonate after 2 turns when this Champion dies.",
-			"basedOn": "",
+			"basedOn": "[ATK]",
 			"name": "Set Ablaze [Passive]",
 			"maxcd": "5",
 			"mincd": "5",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": ""
+			"numBooksToMax": "0"
 		}
-	]
+	],
+	"rarity": "Epic",
+	"type": "Attack"
 }

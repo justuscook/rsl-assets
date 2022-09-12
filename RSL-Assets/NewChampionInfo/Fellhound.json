@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=2770#static",
 	"name": "Fellhound",
+	"key": "l10n:hero-type/name?id=2770#static",
 	"id": 2776,
-	"acc": "0",
+	"avatar": "2770",
 	"affinity": "Void",
-	"atk": "958",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "92",
-	"def": "1079",
 	"hp": "14865",
-	"cheal": "50",
+	"atk": "958",
+	"def": "1079",
+	"spd": "92",
 	"res": "40",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Demonspawn",
-	"rarity": "Rare",
-	"type": "Defense",
-	"aura": "Increases Ally DEF in Faction Crypts by 19%.",
+	"aura": "Increase Ally  in Faction Crypts by 19",
 	"totalBooks": "7",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Ravage",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
 			"multiplier": "1.7*DEF+1.8*ATK",
 			"numBooksToMax": "4"
 		},
@@ -34,7 +33,7 @@
 			"name": "Flameborn Vigor",
 			"maxcd": "4",
 			"mincd": "2",
-			"books": "Level 2: Cooldown -1\nLevel 3: Cooldown -1\n",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
 		},
@@ -44,9 +43,11 @@
 			"name": "Deflect",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Cooldown -1\n",
+			"books": "Lvl. 2 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"
 		}
-	]
+	],
+	"rarity": "Rare",
+	"type": "Defense"
 }

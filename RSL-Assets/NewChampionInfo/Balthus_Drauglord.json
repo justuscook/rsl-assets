@@ -1,21 +1,20 @@
 {
-	"key": "l10n:hero-type/name?id=5490#static",
 	"name": "Balthus Drauglord",
+	"key": "l10n:hero-type/name?id=5490#static",
 	"id": 5496,
-	"acc": "0",
+	"avatar": "5490",
 	"affinity": "Spirit",
-	"atk": "848",
-	"cdamage": "50",
-	"crate": "15",
-	"spd": "97",
-	"def": "1255",
 	"hp": "18000",
-	"cheal": "50",
+	"atk": "848",
+	"def": "1255",
+	"spd": "97",
 	"res": "45",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
 	"faction": "Undead Hordes",
-	"rarity": "Epic",
-	"type": "Defense",
-	"aura": "Increases Ally DEF in Faction Crypts by 30%.",
+	"aura": "Increase Ally  in Faction Crypts by 30",
 	"totalBooks": "15",
 	"skills": [
 		{
@@ -24,7 +23,7 @@
 			"name": "Shield Strike",
 			"maxcd": "0",
 			"mincd": "0",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +5%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +5%\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
 			"multiplier": "4.15*DEF",
 			"numBooksToMax": "4"
 		},
@@ -34,7 +33,7 @@
 			"name": "Doomwheels",
 			"maxcd": "4",
 			"mincd": "3",
-			"books": "Level 2: Damage +5%\nLevel 3: Damage +10%\nLevel 4: Buff/Debuff Chance +5%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Buff/Debuff Chance +10%\nLevel 7: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +10%\nLvl. 7 Cooldown -1\n",
 			"multiplier": "4.2*DEF",
 			"numBooksToMax": "6"
 		},
@@ -44,19 +43,21 @@
 			"name": "Driven to Slaughter",
 			"maxcd": "5",
 			"mincd": "4",
-			"books": "Level 2: Damage +10%\nLevel 3: Buff/Debuff Chance +5%\nLevel 4: Buff/Debuff Chance +10%\nLevel 5: Buff/Debuff Chance +10%\nLevel 6: Cooldown -1\n",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1\n",
 			"multiplier": "6.4*DEF",
 			"numBooksToMax": "5"
 		},
 		{
 			"desc": "Reflects 30% of the damage this Champion receives back to the attacker.",
-			"basedOn": "",
+			"basedOn": "[DEALT_DMG]",
 			"name": "Enchanted Shields [P]",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",
 			"multiplier": "",
-			"numBooksToMax": ""
+			"numBooksToMax": "0"
 		}
-	]
+	],
+	"rarity": "Epic",
+	"type": "Defense"
 }

@@ -48,7 +48,7 @@
 			"numBooksToMax": "2"
 		},
 		{
-			"desc": "Whenever this Champion kills an enemy, decreases the cooldown of the [Crown Breaker] skill by 1 turn.",
+			"desc": "Whenever this Champion kills an enemy, decreases the cooldown of the Crown Breaker skill by 1 turn.",
 			"basedOn": "",
 			"name": "Assassin of Kings [P]",
 			"maxcd": "0",

@@ -38,7 +38,7 @@
 			"numBooksToMax": "1"
 		},
 		{
-			"desc": "Revives any dead allies with 25% HP, then heals all allies by 25%.",
+			"desc": "Revives any dead allies with 25% HP, then heals all allies by 25%. The heal will happen even if there are no dead allies.",
 			"basedOn": "[Enemy MAX HP]",
 			"name": "Animate",
 			"maxcd": "6",

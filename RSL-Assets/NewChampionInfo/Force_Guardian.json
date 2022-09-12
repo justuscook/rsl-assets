@@ -20,7 +20,7 @@
 		{
 			"desc": "Attacks all enemies. Has a 60% chance of placing a 50% [Decrease ATK] debuff for 2 turns. This debuff cannot be resisted.",
 			"basedOn": "[ATK]",
-			"name": "Cripping Swipe",
+			"name": "Smite",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",
