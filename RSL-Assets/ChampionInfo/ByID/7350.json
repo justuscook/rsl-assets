@@ -1,0 +1,40 @@
+{
+	"typeId": 7356,
+	"name": {
+		"key": "l10n:hero-type/name?id=7350#static",
+		"defaultValue": "Michinaki",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "Samurai",
+	"role": "Defense",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0817_halloween_samurai_id7350",
+	"avatarKey": "7350",
+	"leaderSkill": {
+		"area": "",
+		"affinity": "",
+		"kind": "Defence",
+		"absolute": false,
+		"value": 0.3
+	},
+	"skillTypeIds": [
+		73501,
+		73502,
+		73503,
+		73504
+	],
+	"unscaledStats": {
+		"Health": 119,
+		"Attack": 73,
+		"Defense": 133,
+		"Speed": 101,
+		"Resistance": 30,
+		"Accuracy": 20,
+		"CriticalChance": 15,
+		"CriticalDamage": 57,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

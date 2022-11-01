@@ -14,7 +14,7 @@
 	"cdamage": "50",
 	"cheal": "50",
 	"faction": "Undead Hordes",
-	"aura": "Increase Ally HP in in all Battles by 33",
+	"aura": "Increase Ally HP in  by 33",
 	"totalBooks": "12",
 	"skills": [
 		{
@@ -38,7 +38,7 @@
 			"numBooksToMax": "5"
 		},
 		{
-			"desc": "Attacks all enemies. Places a [Freeze] debuff on each target for 1 turn if they are under a [HP Burn] debuff.\r\n\r\nAlso extends the duration of any [HP Burn] debuffs to 3 turns. This extension cannot be resisted.",
+			"desc": "Attacks all enemies. Places a [Freeze] debuff for 1 turn and a [HP Burn] debuff for 3 turns on targets already under [HP Burn] debuffs. The [HP Burn] debuff cannot be resisted.",
 			"basedOn": "[ATK]",
 			"name": "Elemental Unity",
 			"maxcd": "4",

@@ -14,7 +14,7 @@
 	"avatarKey": "5940",
 	"leaderSkill": {
 		"area": "Fractions",
-		"affinity": null,
+		"affinity": "",
 		"kind": "Attack",
 		"absolute": false,
 		"value": 0.42

@@ -14,7 +14,7 @@
 	"avatarKey": "2170",
 	"leaderSkill": {
 		"area": "Fractions",
-		"affinity": null,
+		"affinity": "",
 		"kind": "Accuracy",
 		"absolute": true,
 		"value": 40

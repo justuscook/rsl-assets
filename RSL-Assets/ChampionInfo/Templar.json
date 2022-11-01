@@ -30,7 +30,7 @@
 		{
 			"desc": "Attacks 4 times at random. Each hit has a 25% chance of placing a [Provoke] debuff for 1 turn. Places a [Block Damage] buff on this Champion for 1 turn. Damage inflicted is proportional to DEF.",
 			"basedOn": "",
-			"name": "Taunt",
+			"name": "Righteous Challenge",
 			"maxcd": "4",
 			"mincd": "3",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1\n",

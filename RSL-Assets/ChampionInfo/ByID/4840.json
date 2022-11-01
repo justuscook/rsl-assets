@@ -13,8 +13,8 @@
 	"modelName": "0654_Darkelves_id4840",
 	"avatarKey": "4840",
 	"leaderSkill": {
-		"area": null,
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "CriticalChance",
 		"absolute": false,
 		"value": 0.15

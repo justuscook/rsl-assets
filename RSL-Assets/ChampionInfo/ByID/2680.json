@@ -13,11 +13,11 @@
 	"modelName": "0264_Skinwalkers_Tank_id2680",
 	"avatarKey": "2680",
 	"leaderSkill": {
-		"area": null,
-		"affinity": "Force",
+		"area": "",
+		"affinity": "",
 		"kind": "CriticalChance",
 		"absolute": false,
-		"value": 0.23
+		"value": 0.19
 	},
 	"skillTypeIds": [
 		26801,

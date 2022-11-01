@@ -7,18 +7,18 @@
 	"hp": "15030",
 	"atk": "1575",
 	"def": "1002",
-	"spd": "90",
+	"spd": "100",
 	"res": "40",
 	"acc": "0",
 	"crate": "15",
 	"cdamage": "63",
 	"cheal": "50",
 	"faction": "Banner Lords",
-	"aura": "Increase Ally ATK in in all Battles by 33",
+	"aura": "Increase Ally ATK in  by 33",
 	"totalBooks": "12",
 	"skills": [
 		{
-			"desc": "Attacks 1 enemy. Will attack all remaining enemies with any surplus damage if the target is killed. Has a 10% chance to unlock a secret skill, Skypiercer, for 1 turn.",
+			"desc": "Attacks 1 enemy. Will attack all remaining enemies with any surplus damage if the target is killed.",
 			"basedOn": "[ATK]",
 			"name": "Trample",
 			"maxcd": "0",
@@ -28,7 +28,7 @@
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Attacks 1 enemy. Places a 60% [Decrease DEF] debuff for 2 turns. This debuff is guaranteed. Has a 20% chance of unlocking a secret Skill, Skypiercer, for 1 turn.",
+			"desc": "Attacks 1 enemy. Places a 60% [Decrease DEF] debuff for 2 turns. This debuff is guaranteed.",
 			"basedOn": "[ATK]",
 			"name": "Split Asunder",
 			"maxcd": "4",
@@ -38,21 +38,21 @@
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Attacks 1 enemy. Damage increases according to the number of buffs on this Champion. Has a 40% chance to unlock a secret skill, Skypiercer, for 1 turn.",
+			"desc": "Attacks 1 enemy. Damage increases according to the number of buffs on this Champion.",
 			"basedOn": "[ATK]",
 			"name": "Righteous Charge",
-			"maxcd": "6",
-			"mincd": "4",
+			"maxcd": "5",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Cooldown -1\nLvl. 5 Cooldown -1\n",
 			"multiplier": "ATK*3*(1+BUFF_COUNT*0.25)",
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Attacks all enemies. Deals Pure Damage. Will ignore [Shield] and [Block Damage] buffs.",
+			"desc": "Attacks all enemies. Will ignore [Shield] buffs and [Block Damage] buffs, as well as 50% of the target's DEF.",
 			"basedOn": "[ATK]",
 			"name": "Skypiercer",
-			"maxcd": "0",
-			"mincd": "0",
+			"maxcd": "4",
+			"mincd": "4",
 			"books": "",
 			"multiplier": "4.3*ATK",
 			"numBooksToMax": "0"

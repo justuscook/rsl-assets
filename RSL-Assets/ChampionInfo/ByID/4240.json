@@ -14,7 +14,7 @@
 	"avatarKey": "4240",
 	"leaderSkill": {
 		"area": "Dungeon",
-		"affinity": null,
+		"affinity": "",
 		"kind": "Attack",
 		"absolute": false,
 		"value": 0.21

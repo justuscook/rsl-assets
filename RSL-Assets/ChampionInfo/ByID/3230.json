@@ -13,8 +13,8 @@
 	"modelName": "0274_Ogre_id3230",
 	"avatarKey": "3230",
 	"leaderSkill": {
-		"area": null,
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Health",
 		"absolute": false,
 		"value": 0.25

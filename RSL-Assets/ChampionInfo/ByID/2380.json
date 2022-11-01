@@ -13,7 +13,7 @@
 	"modelName": "0305_undeads",
 	"avatarKey": "2380",
 	"leaderSkill": {
-		"area": null,
+		"area": "",
 		"affinity": "Force",
 		"kind": "Attack",
 		"absolute": false,

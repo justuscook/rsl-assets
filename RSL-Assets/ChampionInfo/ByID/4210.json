@@ -13,7 +13,7 @@
 	"modelName": "0352_dwarf_f_id4210",
 	"avatarKey": "4210",
 	"leaderSkill": {
-		"area": null,
+		"area": "",
 		"affinity": "Force",
 		"kind": "Health",
 		"absolute": false,

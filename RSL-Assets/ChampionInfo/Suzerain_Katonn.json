@@ -14,7 +14,7 @@
 	"cdamage": "57",
 	"cheal": "50",
 	"faction": "Undead Hordes",
-	"aura": "Increase Ally ATK in in all Battles by 33",
+	"aura": "Increase Ally ATK in  by 33",
 	"totalBooks": "9",
 	"skills": [
 		{
@@ -38,7 +38,7 @@
 			"numBooksToMax": "3"
 		},
 		{
-			"desc": "Removes [Shield], [Block Damage], and [Unkillable] buffs from all enemies, then attacks them. Places a 100% [Heal Reduction] debuff on all enemies for 2 turns. The buff removal cannot be blocked or resisted.",
+			"desc": "Removes [Shield], [Block Damage], and [Unkillable] buffs from all enemies, then attacks them. Places a 100% [Heal Reduction] debuff on all enemies for 2 turns. The buff removal cannot be resisted.",
 			"basedOn": "",
 			"name": "Banish From Time",
 			"maxcd": "4",

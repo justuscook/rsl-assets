@@ -13,8 +13,8 @@
 	"modelName": "0683_dwarfs_id4720",
 	"avatarKey": "4720",
 	"leaderSkill": {
-		"area": null,
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "CriticalChance",
 		"absolute": false,
 		"value": 0.19

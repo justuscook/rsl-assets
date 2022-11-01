@@ -14,7 +14,7 @@
 	"avatarKey": "300",
 	"leaderSkill": {
 		"area": "Dungeon",
-		"affinity": null,
+		"affinity": "",
 		"kind": "Resistance",
 		"absolute": true,
 		"value": 70

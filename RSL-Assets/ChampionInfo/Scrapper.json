@@ -28,7 +28,7 @@
 			"numBooksToMax": "8"
 		},
 		{
-			"desc": "Attacks 1 enemy. Destroys the target's MAX HP by 30% of the damage dealt. Places a [Shield] buff on this Champion for 2 turns equal to 30% of the damage inflicted if this attack is critical.",
+			"desc": "Attacks 1 enemy. Decreases the target's MAX HP by 30% of the damage dealt. Places a [Shield] buff on this Champion for 2 turns equal to 30% of the damage inflicted if this attack is critical.",
 			"basedOn": "[ATK]",
 			"name": "Crowd Pleaser",
 			"maxcd": "3",
@@ -38,7 +38,7 @@
 			"numBooksToMax": "7"
 		},
 		{
-			"desc": "Increases the damage inflicted by this Champion equal to the percentage of MAX HP destroyed on the target.",
+			"desc": "Increases the damage inflicted by this Champion equal to the percentage of MAX HP decreased on the target.",
 			"basedOn": "",
 			"name": "Showoff [P]",
 			"maxcd": "0",

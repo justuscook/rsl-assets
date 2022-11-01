@@ -13,8 +13,8 @@
 	"modelName": "0045_Knight",
 	"avatarKey": "420",
 	"leaderSkill": {
-		"area": null,
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Resistance",
 		"absolute": true,
 		"value": 40

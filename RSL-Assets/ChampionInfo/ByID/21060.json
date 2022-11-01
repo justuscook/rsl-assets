@@ -13,8 +13,8 @@
 	"modelName": "950_Pariah",
 	"avatarKey": "21060",
 	"leaderSkill": {
-		"area": null,
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "CriticalChance",
 		"absolute": false,
 		"value": 0.19

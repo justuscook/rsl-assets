@@ -14,11 +14,11 @@
 	"cdamage": "50",
 	"cheal": "50",
 	"faction": "Skinwalkers",
-	"aura": "Increase Ally ACC in in all Battles by 40",
+	"aura": "Increase Ally ACC in  by 40",
 	"totalBooks": "11",
 	"skills": [
 		{
-			"desc": "Attacks 1 enemy 2 times. Each hit has a 20% chance of stealing one random buff.",
+			"desc": "Attacks 1 enemy 2 times. Each hit has a 30% chance of stealing one random buff.",
 			"basedOn": "[HP]",
 			"name": "Wanton Mugging",
 			"maxcd": "0",
@@ -31,8 +31,8 @@
 			"desc": "Attacks 1 enemy. Will ignore the target's DEF if they have no active buffs. Steals 2 random buffs from the target.",
 			"basedOn": "[HP]",
 			"name": "Ruckus",
-			"maxcd": "4",
-			"mincd": "4",
+			"maxcd": "3",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\n",
 			"multiplier": "0.15*HP",
 			"numBooksToMax": "3"

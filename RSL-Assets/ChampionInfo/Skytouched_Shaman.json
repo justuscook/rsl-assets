@@ -14,7 +14,7 @@
 	"cdamage": "50",
 	"cheal": "50",
 	"faction": "Barbarians",
-	"aura": "Increase Ally HP in in all Battles by 25",
+	"aura": "Increase Ally HP in  by 25",
 	"totalBooks": "11",
 	"skills": [
 		{
@@ -38,7 +38,7 @@
 			"numBooksToMax": "2"
 		},
 		{
-			"desc": "Damages this Champion by 10% of their MAX HP at the start of each turn. Heals all allies except this Champion equal to half of the lost HP. Places a 30% [Decrease SPD] debuff on this Champion for 1 turn at the start of each turn. Also has a 50% chance of placing a [Fear] debuff on this Champion for 1 turn.",
+			"desc": "Damages this Champion by 10% of their MAX HP at the start of each turn. Heals all allies except this Champion equal to half of the Champion's current lost HP. Places a 30% [Decrease SPD] debuff on this Champion for 1 turn at the start of each turn. Also has a 50% chance of placing a [Fear] debuff on this Champion for 1 turn.",
 			"basedOn": "[HP]",
 			"name": "Bloodstain Ritual [P]",
 			"maxcd": "0",

@@ -14,11 +14,11 @@
 	"cdamage": "60",
 	"cheal": "50",
 	"faction": "Skinwalkers",
-	"aura": "Increase undefined Ally C. RATE in in all Battles by 23",
+	"aura": "Increase Ally C. RATE in  by 19",
 	"totalBooks": "12",
 	"skills": [
 		{
-			"desc": "Attacks 1 enemy. Decreases their MAX HP by 10% of the damage inflicted.",
+			"desc": "Attacks 1 enemy. Decreases their MAX HP by 30% of the damage inflicted.",
 			"basedOn": "[ATK]",
 			"name": "Scar for Life",
 			"maxcd": "0",
@@ -38,11 +38,11 @@
 			"numBooksToMax": "5"
 		},
 		{
-			"desc": "Attacks 1 enemy. Will ignore 50% of the target's DEF. Decreases their MAX HP by 30% of the damage inflicted.",
+			"desc": "Attacks 1 enemy. Will ignore 50% of the target's DEF. Decreases their MAX HP by 40% of the damage inflicted.",
 			"basedOn": "[ATK]",
 			"name": "Heavy Slam",
-			"maxcd": "5",
-			"mincd": "5",
+			"maxcd": "4",
+			"mincd": "4",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Damage +10%\n",
 			"multiplier": "3.3*ATK",
 			"numBooksToMax": "3"

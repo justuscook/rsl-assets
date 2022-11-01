@@ -13,8 +13,8 @@
 	"modelName": "0804_Yumeko_id6900",
 	"avatarKey": "6900",
 	"leaderSkill": {
-		"area": null,
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Accuracy",
 		"absolute": true,
 		"value": 60

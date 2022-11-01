@@ -13,8 +13,8 @@
 	"modelName": "0138_KnightSupport",
 	"avatarKey": "160",
 	"leaderSkill": {
-		"area": null,
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Defence",
 		"absolute": false,
 		"value": 0.33

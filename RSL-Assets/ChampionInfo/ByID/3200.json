@@ -13,8 +13,8 @@
 	"modelName": "0232_Boneknights",
 	"avatarKey": "3200",
 	"leaderSkill": {
-		"area": null,
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "CriticalChance",
 		"absolute": false,
 		"value": 0.19

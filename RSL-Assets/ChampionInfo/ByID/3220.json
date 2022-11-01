@@ -13,7 +13,7 @@
 	"modelName": "0274_Ogre_id3220",
 	"avatarKey": "3220",
 	"leaderSkill": {
-		"area": null,
+		"area": "",
 		"affinity": "Spirit",
 		"kind": "Attack",
 		"absolute": false,

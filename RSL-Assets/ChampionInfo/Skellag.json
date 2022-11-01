@@ -28,7 +28,7 @@
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Attacks all enemies. Has a 60% chance of placing a 25% [Decrease ACC] debuff for 1 turn.",
+			"desc": "Attacks all enemies. Has a 60% chance of placing a 25% [Decrease ACC] debuff for 2 turns.",
 			"basedOn": "[ATK]",
 			"name": "Blizzard",
 			"maxcd": "4",

@@ -14,7 +14,7 @@
 	"avatarKey": "21010",
 	"leaderSkill": {
 		"area": "Dungeon",
-		"affinity": null,
+		"affinity": "",
 		"kind": "Health",
 		"absolute": false,
 		"value": 0.5

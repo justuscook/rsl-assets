@@ -14,7 +14,7 @@
 	"avatarKey": "6070",
 	"leaderSkill": {
 		"area": "Arena",
-		"affinity": null,
+		"affinity": "",
 		"kind": "Accuracy",
 		"absolute": true,
 		"value": 30

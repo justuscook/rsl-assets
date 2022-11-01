@@ -13,7 +13,7 @@
 	"modelName": "0214_Gator_id2740",
 	"avatarKey": "2740",
 	"leaderSkill": {
-		"area": null,
+		"area": "",
 		"affinity": "Magic",
 		"kind": "CriticalChance",
 		"absolute": false,

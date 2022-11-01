@@ -1,0 +1,53 @@
+{
+	"name": "Pathfinder Cait",
+	"key": "l10n:hero-type/name?id=7470#static",
+	"id": 7476,
+	"avatar": "7470",
+	"affinity": "Magic",
+	"hp": "11895",
+	"atk": "1288",
+	"def": "947",
+	"spd": "95",
+	"res": "30",
+	"acc": "10",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Nyresan Elves",
+	"aura": "",
+	"totalBooks": "9",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 15% chance of placing a [Block Buffs] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Dragging Line",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"multiplier": "3.7*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 30% chance of increasing the cooldown of a random skill on each target by 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Untraceable",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "3.8*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Places a [Perfect Veil] buff on this Champion for 1 turn whenever they kill an enemy.",
+			"basedOn": "",
+			"name": "Hidden Paths [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Rare",
+	"type": "Attack"
+}

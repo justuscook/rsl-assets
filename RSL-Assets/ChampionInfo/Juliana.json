@@ -28,21 +28,21 @@
 			"numBooksToMax": "3"
 		},
 		{
-			"desc": "Places a 30% [Increase C. RATE] buff on this Champion, then attacks 1 enemy 2 times. Places a 5% [Poison] debuff on the target for 3 turns if this attack is critical.\r\n\r\n[Will ignore 50% of the target's DEF when Romero is on the same team.]",
+			"desc": "Places a 30% [Increase C. RATE] buff on this Champion for 2 turns, then attacks 1 enemy 2 times. Places a 5% [Poison] debuff on the target for 3 turns if this attack is critical.\r\n\r\n[Will ignore 50% of the target's DEF when Romero is on the same team.]",
 			"basedOn": "[ATK]",
 			"name": "Lethal Partner",
-			"maxcd": "5",
-			"mincd": "5",
+			"maxcd": "3",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\n",
 			"multiplier": "3*ATK",
 			"numBooksToMax": "3"
 		},
 		{
-			"desc": "Attacks 1 enemy. Removes 1 random buff from the target. Has a 75% chance of placing a [HP Burn] debuff for 3 turns.",
+			"desc": "Attacks 1 enemy. Removes all buffs from the target. Has a 75% chance of placing a [HP Burn] debuff for 3 turns.",
 			"basedOn": "[ATK]",
 			"name": "Fire of Purgation",
-			"maxcd": "5",
-			"mincd": "5",
+			"maxcd": "4",
+			"mincd": "4",
 			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +5%\nLvl. 7 Buff/Debuff Chance +5%\nLvl. 8 Buff/Debuff Chance +5%\n",
 			"multiplier": "6*ATK",
 			"numBooksToMax": "7"

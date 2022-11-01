@@ -14,7 +14,7 @@
 	"avatarKey": "1650",
 	"leaderSkill": {
 		"area": "Arena",
-		"affinity": null,
+		"affinity": "",
 		"kind": "Defence",
 		"absolute": false,
 		"value": 0.3

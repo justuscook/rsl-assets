@@ -1,0 +1,40 @@
+{
+	"typeId": 7336,
+	"name": {
+		"key": "l10n:hero-type/name?id=7330#static",
+		"defaultValue": "Morrigaine",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "UndeadHordes",
+	"role": "Support",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0816_Witch_7330",
+	"avatarKey": "7330",
+	"leaderSkill": {
+		"area": "",
+		"affinity": "",
+		"kind": "Speed",
+		"absolute": false,
+		"value": 0.19
+	},
+	"skillTypeIds": [
+		73301,
+		73302,
+		73303,
+		73304
+	],
+	"unscaledStats": {
+		"Health": 120,
+		"Attack": 97,
+		"Defense": 108,
+		"Speed": 112,
+		"Resistance": 30,
+		"Accuracy": 10,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

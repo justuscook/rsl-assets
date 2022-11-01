@@ -14,7 +14,7 @@
 	"cdamage": "50",
 	"cheal": "50",
 	"faction": "Skinwalkers",
-	"aura": "Increase Ally SPD in in all Battles by 20",
+	"aura": "Increase Ally SPD in  by 20",
 	"totalBooks": "10",
 	"skills": [
 		{
@@ -48,7 +48,7 @@
 			"numBooksToMax": "2"
 		},
 		{
-			"desc": "Has a 50% chance of stealing 1 random buff from an enemy each time they receive a buff. Any stolen buffs become protected.",
+			"desc": "Has a 50% chance of stealing 1 random buff from a random enemy each time a buff is placed on the enemy team. Will only attempt to steal one buff for each type of buff placed simultaneously (for example, only one random buff may be stolen if 3 [Veil] buffs are placed at the same time). Any stolen buffs become protected.",
 			"basedOn": "",
 			"name": "Totem Warden [P]",
 			"maxcd": "0",

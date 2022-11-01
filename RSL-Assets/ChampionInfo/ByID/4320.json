@@ -13,7 +13,7 @@
 	"modelName": "0361_Dwarf_id4320",
 	"avatarKey": "4320",
 	"leaderSkill": {
-		"area": null,
+		"area": "",
 		"affinity": "Force",
 		"kind": "Defence",
 		"absolute": false,

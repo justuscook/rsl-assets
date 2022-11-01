@@ -13,8 +13,8 @@
 	"modelName": "0179_orc_warrior_female",
 	"avatarKey": "1330",
 	"leaderSkill": {
-		"area": null,
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Resistance",
 		"absolute": true,
 		"value": 40

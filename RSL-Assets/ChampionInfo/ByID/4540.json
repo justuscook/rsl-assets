@@ -14,7 +14,7 @@
 	"avatarKey": "4540",
 	"leaderSkill": {
 		"area": "DoomTower",
-		"affinity": null,
+		"affinity": "",
 		"kind": "Accuracy",
 		"absolute": true,
 		"value": 60

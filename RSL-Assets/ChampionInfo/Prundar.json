@@ -50,7 +50,7 @@
 		{
 			"desc": "Receives 20% less damage from enemies under [Provoke] debuffs. \r\n\r\nHas a 25% chance of counterattacking whenever an enemy under a [Provoke] debuff attacks either this Champion or an ally.",
 			"basedOn": "",
-			"name": "Master of Taunts [P]",
+			"name": "Trash Talk [P]",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +5%\n",

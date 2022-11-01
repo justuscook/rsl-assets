@@ -14,7 +14,7 @@
 	"avatarKey": "1200",
 	"leaderSkill": {
 		"area": "Fractions",
-		"affinity": null,
+		"affinity": "",
 		"kind": "Resistance",
 		"absolute": true,
 		"value": 30

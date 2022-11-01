@@ -1,0 +1,53 @@
+{
+	"name": "Mistrider Daithi",
+	"key": "l10n:hero-type/name?id=7460#static",
+	"id": 7466,
+	"avatar": "7460",
+	"affinity": "Force",
+	"hp": "15360",
+	"atk": "1376",
+	"def": "903",
+	"spd": "97",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "60",
+	"cheal": "50",
+	"faction": "Nyresan Elves",
+	"aura": "Increase Ally ACC in  by 40",
+	"totalBooks": "10",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 50% chance of removing 1 random buff from the target. Also has a 10% chance of granting this Champion an Extra Turn.",
+			"basedOn": "[ATK]",
+			"name": "Briar Arrows",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"multiplier": "3.8*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 75% chance of placing a 60% [Decrease DEF] debuff for 2 turns. Grants an Extra Turn if a 60% [Decrease DEF] debuff is placed on all enemies by this skill.",
+			"basedOn": "[ATK]",
+			"name": "Squall of Shafts",
+			"maxcd": "4",
+			"mincd": "4",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\n",
+			"multiplier": "3.9*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Places a 50% [Increase ATK] buff and a 50% [Increase ACC] buff on this Champion for 3 turns, then grants an Extra Turn.",
+			"basedOn": "",
+			"name": "Hunt The Mists",
+			"maxcd": "6",
+			"mincd": "4",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
+		}
+	],
+	"rarity": "Epic",
+	"type": "Attack"
+}

@@ -13,8 +13,8 @@
 	"modelName": "0800_Skinwalkers_id3590",
 	"avatarKey": "3590",
 	"leaderSkill": {
-		"area": null,
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Health",
 		"absolute": false,
 		"value": 0.33

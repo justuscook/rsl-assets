@@ -13,7 +13,7 @@
 	"modelName": "0130_Warcaster_id2400",
 	"avatarKey": "2400",
 	"leaderSkill": {
-		"area": null,
+		"area": "",
 		"affinity": "Void",
 		"kind": "CriticalChance",
 		"absolute": false,

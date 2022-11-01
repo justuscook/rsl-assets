@@ -13,8 +13,8 @@
 	"modelName": "0747_DracomorphSlayer_id4460",
 	"avatarKey": "4460",
 	"leaderSkill": {
-		"area": null,
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Defence",
 		"absolute": false,
 		"value": 0.3

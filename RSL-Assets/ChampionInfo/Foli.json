@@ -38,7 +38,7 @@
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Attacks all enemies, decreases their Turn Meters by 15%, then attacks the targeted enemy. Enemies killed by this Skill cannot be revived.",
+			"desc": "Attacks all enemies, decreases their current Turn Meters by 15%, then attacks the targeted enemy. Enemies killed by this skill cannot be revived.",
 			"basedOn": "[ATK]",
 			"name": "Sealed Fate",
 			"maxcd": "5",

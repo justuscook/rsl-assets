@@ -13,7 +13,7 @@
 	"modelName": "201_goat_support_id2690",
 	"avatarKey": "2690",
 	"leaderSkill": {
-		"area": null,
+		"area": "",
 		"affinity": "Spirit",
 		"kind": "Health",
 		"absolute": false,

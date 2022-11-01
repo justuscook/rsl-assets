@@ -39,12 +39,12 @@
 		},
 		{
 			"desc": "Attacks all enemies. Damage increases according to the amount of HP this Champion has lost.",
-			"basedOn": "[ATK]",
+			"basedOn": "[HP]",
 			"name": "Last Breath",
 			"maxcd": "4",
 			"mincd": "4",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
-			"multiplier": "ATK*(1+(1-HP_PERC)*10)",
+			"multiplier": "0.25*HP",
 			"numBooksToMax": "4"
 		},
 		{

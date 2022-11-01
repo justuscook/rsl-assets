@@ -13,8 +13,8 @@
 	"modelName": "0484_undead_id4750",
 	"avatarKey": "4750",
 	"leaderSkill": {
-		"area": null,
-		"affinity": null,
+		"area": "",
+		"affinity": "",
 		"kind": "Resistance",
 		"absolute": true,
 		"value": 80

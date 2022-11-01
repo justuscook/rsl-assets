@@ -13,7 +13,7 @@
 	"modelName": "0124_Knight",
 	"avatarKey": "2510",
 	"leaderSkill": {
-		"area": null,
+		"area": "",
 		"affinity": "Magic",
 		"kind": "Health",
 		"absolute": false,

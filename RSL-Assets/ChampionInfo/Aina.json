@@ -18,7 +18,7 @@
 	"totalBooks": "12",
 	"skills": [
 		{
-			"desc": "Attacks 1 enemy 2 times. Has a 10% chance of granting an Extra Turn.",
+			"desc": "Attacks 1 enemy 2 times. Has a 15% chance of granting an Extra Turn.",
 			"basedOn": "[ATK]",
 			"name": "Ferocity",
 			"maxcd": "0",
@@ -31,18 +31,18 @@
 			"desc": "Attacks 1 enemy. Has an 80% chance of placing a 25% [Weaken] debuff for 3 turns.",
 			"basedOn": "[ATK]",
 			"name": "Bloody Swath",
-			"maxcd": "5",
-			"mincd": "5",
+			"maxcd": "3",
+			"mincd": "3",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
 			"multiplier": "6.4*ATK",
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Attacks 1 enemy. Has an 80% chance of placing a 60% [Decrease DEF] debuff for 3 turns. Heals this Champion by 10% of the damage inflicted.",
+			"desc": "Attacks 1 enemy. Has an 80% chance of placing a 60% [Decrease DEF] debuff for 3 turns. Heals this Champion by 30% of the damage inflicted.",
 			"basedOn": "[ATK]",
 			"name": "Overmaster",
-			"maxcd": "5",
-			"mincd": "5",
+			"maxcd": "4",
+			"mincd": "4",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
 			"multiplier": "6.4*ATK",
 			"numBooksToMax": "4"
