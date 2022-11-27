@@ -1,0 +1,53 @@
+{
+	"name": "Lorn the Cutter",
+	"key": "l10n:hero-type/name?id=7270#static",
+	"id": 7276,
+	"avatar": "7270",
+	"affinity": "Magic",
+	"hp": "15360",
+	"atk": "1443",
+	"def": "837",
+	"spd": "98",
+	"res": "30",
+	"acc": "15",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Ogryn Tribes",
+	"aura": "",
+	"totalBooks": "14",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 3 times. Heals this Champion by 15% of the damage inflicted.",
+			"basedOn": "[ATK]",
+			"name": "Hand Fangs",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "1.2*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 75% chance of placing a [Leech] debuff and a 100% [Heal Reduction] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Frightful Frenzy",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "3.8*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 75% chance of decreasing the target’s Turn Meter by 100%.",
+			"basedOn": "[ATK]",
+			"name": "Snatch Into Darkness",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "5.6*ATK",
+			"numBooksToMax": "5"
+		}
+	],
+	"rarity": "Epic",
+	"type": "Attack"
+}

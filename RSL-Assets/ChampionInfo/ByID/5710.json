@@ -1,0 +1,34 @@
+{
+	"typeId": 5716,
+	"name": {
+		"key": "l10n:hero-type/name?id=5710#static",
+		"defaultValue": "Ceez",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "OgrynTribes",
+	"role": "Attack",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0789_ogre_id5710",
+	"avatarKey": "5710",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		57101,
+		57102,
+		57103,
+		57104
+	],
+	"unscaledStats": {
+		"Health": 85,
+		"Attack": 139,
+		"Defense": 76,
+		"Speed": 100,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 60,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

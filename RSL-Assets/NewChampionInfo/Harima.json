@@ -1,0 +1,21 @@
+{
+	"name": "Harima",
+	"key": "l10n:hero-type/name?id=4900#static",
+	"id": 4906,
+	"avatar": "4900",
+	"affinity": "Force",
+	"hp": "16845",
+	"atk": "925",
+	"def": "1531",
+	"spd": "97",
+	"res": "40",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "63",
+	"cheal": "50",
+	"faction": "Samurai",
+	"aura": "Increase Ally  in Arena battles by 80",
+	"totalBooks": "11",
+	"rarity": "Legendary",
+	"type": "Defense"
+}
