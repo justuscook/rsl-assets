@@ -50,7 +50,7 @@
 		{
 			"desc": "Decreases the damage received by this Champion by 15% while under a [Shield] buff.",
 			"basedOn": "",
-			"name": "Resolute Defense [Passive]",
+			"name": "Resolute Defense [P]",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",

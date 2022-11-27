@@ -40,7 +40,7 @@
 		{
 			"desc": "Heals this Champion by 10% HP at the start of their turn. This Heal can be critical.",
 			"basedOn": "[HP]",
-			"name": "Regeneration [Passive]",
+			"name": "Regeneration [P]",
 			"maxcd": "2",
 			"mincd": "2",
 			"books": "",

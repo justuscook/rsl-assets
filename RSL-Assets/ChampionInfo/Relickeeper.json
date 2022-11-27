@@ -40,7 +40,7 @@
 		{
 			"desc": "When hit by an enemy, places a 15% [Continuous Heal] buff on this Champion for 2 turns.",
 			"basedOn": "",
-			"name": "Ageless Endurance [Passive]",
+			"name": "Ageless Endurance [P]",
 			"maxcd": "5",
 			"mincd": "3",
 			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",

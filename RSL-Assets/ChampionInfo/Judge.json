@@ -40,7 +40,7 @@
 		{
 			"desc": "With each hit has a 30% chance of placing a 50% [Decrease ACC] debuff OR a 30% [Decrease SPD] debuff OR a 50% [Decrease ATK] debuff OR a 60% [Decrease DEF] debuff on the target for 1 turn.",
 			"basedOn": "",
-			"name": "Chaos Armor [Passive]",
+			"name": "Chaos Armor [P]",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",

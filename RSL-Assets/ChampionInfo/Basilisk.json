@@ -40,7 +40,7 @@
 		{
 			"desc": "Revives this Champion to 30% HP when killed and places a [Block Damage] buff for 1 turn.",
 			"basedOn": "[HP]",
-			"name": "Withstand [Passive]",
+			"name": "Withstand [P]",
 			"maxcd": "8",
 			"mincd": "6",
 			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",

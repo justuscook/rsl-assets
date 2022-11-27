@@ -40,7 +40,7 @@
 		{
 			"desc": "Immune to [Stun], [Freeze], [Sleep] debuffs. Decreases the damage taken by all allies that are under 1 or more buffs by 15%. Decreases the damage taken by all allies that are under no active buffs by 25%.",
 			"basedOn": "",
-			"name": "Thick Skin [Passive]",
+			"name": "Thick Skin [P]",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",
@@ -50,7 +50,7 @@
 		{
 			"desc": "Immune to [Stun], [Freeze], [Sleep] debuffs. Decreases the damage taken by all allies by 15%.",
 			"basedOn": "",
-			"name": "Thick Skin [Passive]",
+			"name": "Thick Skin [P]",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",

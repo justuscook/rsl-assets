@@ -40,7 +40,7 @@
 		{
 			"desc": "If an enemy with a [Provoke] debuff attacks, has a 40% chance of placing a [Provoke] debuff on them for 1 turn. Each hit taken will reduce damage taken by 5% (up to 30% in one round).",
 			"basedOn": "",
-			"name": "Bravado [Passive]",
+			"name": "Bravado [P]",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +5%\n",

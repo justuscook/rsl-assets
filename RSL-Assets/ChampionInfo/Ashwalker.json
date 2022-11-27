@@ -38,7 +38,7 @@
 			"numBooksToMax": "6"
 		},
 		{
-			"desc": "Attacks all enemies. Has an 75% chance of placing a 15% [Weaken] debuff for 2 turns.",
+			"desc": "Attacks all enemies. Has a 75% chance of placing a 15% [Weaken] debuff for 2 turns.",
 			"basedOn": "[ATK]",
 			"name": "Backbreaker",
 			"maxcd": "4",

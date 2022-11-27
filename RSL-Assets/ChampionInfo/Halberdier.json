@@ -40,7 +40,7 @@
 		{
 			"desc": "Increases C. DMG by 40%.",
 			"basedOn": "",
-			"name": "Cleaving Ax [Passive]",
+			"name": "Cleaving Ax [P]",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",

@@ -40,7 +40,7 @@
 		{
 			"desc": "Attacks with this Champion's default skill whenever an enemy places a debuff on this Champion.",
 			"basedOn": "",
-			"name": "Contempt [Passive]",
+			"name": "Contempt [P]",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",

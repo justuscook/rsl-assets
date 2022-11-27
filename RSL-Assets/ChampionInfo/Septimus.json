@@ -40,7 +40,7 @@
 		{
 			"desc": "Each attack has a 30% chance of increasing the duration of all debuffs on the target by 1 turn. Damage inflicted by each attack increases by 30% if the enemy's current HP is over 50%.",
 			"basedOn": "",
-			"name": "Giant Killer [Passive]",
+			"name": "Giant Killer [P]",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",

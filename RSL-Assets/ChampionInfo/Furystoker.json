@@ -40,7 +40,7 @@
 		{
 			"desc": "Heals the ally with the lowest HP by 7.5% each turn. This heal can be critical. Will not heal this Champion.",
 			"basedOn": "[Enemy MAX HP]",
-			"name": "Forest Kin [Passive]",
+			"name": "Forest Kin [P]",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",

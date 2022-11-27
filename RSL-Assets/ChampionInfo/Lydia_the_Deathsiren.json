@@ -70,7 +70,7 @@
 		{
 			"desc": "Denies enemy revive attempts. This works even if this Champion is dead.\r\n\r\nIf this Champion is alive when an enemy revive is denied, revives all dead allies with 50% HP and 50% Turn Meter. Grants an Extra Turn instead if there are no dead allies.\r\n\r\nIf this Champion is dead when an enemy revive is denied, revives this Champion with 50% HP and 50% Turn Meter.\r\n\r\nThis skill will ignore [Block Revive].",
 			"basedOn": "",
-			"name": "Death Hold [Passive]",
+			"name": "Death Hold [P]",
 			"maxcd": "9",
 			"mincd": "7",
 			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",

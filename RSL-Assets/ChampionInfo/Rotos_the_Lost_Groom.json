@@ -50,7 +50,7 @@
 		{
 			"desc": "Will decrease damage from enemy hits so that incoming damage from any single hit will not exceed 50% of this Сhampion's MAX HP. Grants an Extra Turn if this damage reduction occurs. \r\n\r\n[Does not work against Bosses.] \r\n\r\nDecreases the damage taken from Bosses by 15%. Decreases the damage taken from Bosses by 30% if Siphi the Lost Bride is on the same team.",
 			"basedOn": "[HP]",
-			"name": "Spurn Oblivion [Passive]",
+			"name": "Spurn Oblivion [P]",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",

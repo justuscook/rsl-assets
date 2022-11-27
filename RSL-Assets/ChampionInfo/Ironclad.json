@@ -40,7 +40,7 @@
 		{
 			"desc": "When healed, will attack all enemies inflicting damage proportional to any surplus heal. Damage inflicted is equal to 50% of any surplus heal.",
 			"basedOn": "[EXCESSIVE_HEAL]",
-			"name": "Blood Burst [Passive]",
+			"name": "Blood Burst [P]",
 			"maxcd": "1",
 			"mincd": "1",
 			"books": "",

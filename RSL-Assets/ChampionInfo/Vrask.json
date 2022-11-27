@@ -40,7 +40,7 @@
 		{
 			"desc": "Heals all allies by 10% of this Champion's MAX HP whenever this Champion inflicts a critical hit.",
 			"basedOn": "[HP]",
-			"name": "Cannibalism [Passive]",
+			"name": "Cannibalism [P]",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",

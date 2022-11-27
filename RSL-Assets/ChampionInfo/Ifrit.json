@@ -40,7 +40,7 @@
 		{
 			"desc": "Decreases the damage received by 50% if damage from a single hit exceeds 30% HP. Places a 30% [Decrease DEF] debuff for 2 turns on the attacker if the attack is critical.",
 			"basedOn": "",
-			"name": "Shadow Field [Passive]",
+			"name": "Shadow Field [P]",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",

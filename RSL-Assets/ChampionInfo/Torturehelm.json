@@ -40,7 +40,7 @@
 		{
 			"desc": "Revives this Champion with 50% HP when killed.",
 			"basedOn": "[HP]",
-			"name": "Unkillable [Passive]",
+			"name": "Unkillable [P]",
 			"maxcd": "3",
 			"mincd": "3",
 			"books": "",

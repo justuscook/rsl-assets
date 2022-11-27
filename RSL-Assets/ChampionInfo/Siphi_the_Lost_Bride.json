@@ -50,7 +50,7 @@
 		{
 			"desc": "Heals each ally by 10% of their MAX HP at the start of their turn. Has a 40% chance of removing [Freeze] and [Fear] debuffs from each ally at the start of their turn. Removes all debuffs from Rotos the Lost Groom at the start of their turn if they are on the same team.",
 			"basedOn": "[Enemy MAX HP]",
-			"name": "Eternal Bond [Passive]",
+			"name": "Eternal Bond [P]",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +5%\n",

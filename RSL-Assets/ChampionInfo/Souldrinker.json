@@ -50,7 +50,7 @@
 		{
 			"desc": "Places two [Bomb] debuffs on each enemy that detonate after 2 turns when this Champion dies.",
 			"basedOn": "[ATK]",
-			"name": "Set Ablaze [Passive]",
+			"name": "Set Ablaze [P]",
 			"maxcd": "5",
 			"mincd": "5",
 			"books": "",

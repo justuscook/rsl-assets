@@ -40,7 +40,7 @@
 		{
 			"desc": "Has a 55% chance of placing a [HP Burn] debuff for 2 turns on the attacker when hit. This Champion's RES increases by 10 for every enemy under a [HP Burn] debuff. Stacks up to 50.",
 			"basedOn": "",
-			"name": "Fiery Blood [Passive]",
+			"name": "Fiery Blood [P]",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +10%\n",

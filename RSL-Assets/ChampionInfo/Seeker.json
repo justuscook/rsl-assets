@@ -40,7 +40,7 @@
 		{
 			"desc": "Heals this Champion by 20% HP and places a 60% [Increase DEF] buff on all allies for 2 turns when hit with a critical hit.",
 			"basedOn": "[HP]",
-			"name": "Dark Blood [Passive]",
+			"name": "Dark Blood [P]",
 			"maxcd": "5",
 			"mincd": "5",
 			"books": "",

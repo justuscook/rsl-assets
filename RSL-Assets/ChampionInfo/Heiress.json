@@ -40,7 +40,7 @@
 		{
 			"desc": "Counterattacks the attacker when an ally is attacked.",
 			"basedOn": "",
-			"name": "Avenger [Passive]",
+			"name": "Avenger [P]",
 			"maxcd": "1",
 			"mincd": "1",
 			"books": "",

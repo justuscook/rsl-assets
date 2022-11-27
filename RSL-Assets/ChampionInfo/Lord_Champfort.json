@@ -40,7 +40,7 @@
 		{
 			"desc": "At the start of each turn, places a [Shield] buff on this Champion equal to 20% of their MAX HP for 2 turns. Will place a 15% [Decrease SPD] debuff for 1 turn on whichever enemy attacks this Champion.",
 			"basedOn": "[HP]",
-			"name": "Thornsphere [Passive]",
+			"name": "Thornsphere [P]",
 			"maxcd": "2",
 			"mincd": "1",
 			"books": "Lvl. 2 Cooldown -1\n",
@@ -50,7 +50,7 @@
 		{
 			"desc": "",
 			"basedOn": "",
-			"name": "Thornsphere [Passive]",
+			"name": "Thornsphere [P]",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",

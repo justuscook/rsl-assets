@@ -50,7 +50,7 @@
 		{
 			"desc": "Places an [Unkillable] buff on this Champion for 1 turn if incoming damage exceeds 15% MAX HP in one attack.",
 			"basedOn": "",
-			"name": "Valorous [Passive]",
+			"name": "Valorous [P]",
 			"maxcd": "2",
 			"mincd": "2",
 			"books": "",

@@ -40,7 +40,7 @@
 		{
 			"desc": "Reflects 60% of the damage taken back to the attacker. DEF increases by 15% for each dead ally.",
 			"basedOn": "",
-			"name": "Standstill [Passive]",
+			"name": "Standstill [P]",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",

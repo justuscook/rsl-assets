@@ -40,7 +40,7 @@
 		{
 			"desc": "Places an [Unkillable] buff on this Champion for 1 turn every time their HP drops below 20%.",
 			"basedOn": "",
-			"name": "Resilient [Passive]",
+			"name": "Resilient [P]",
 			"maxcd": "6",
 			"mincd": "4",
 			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
@@ -50,7 +50,7 @@
 		{
 			"desc": "Revives this Champion with 30% HP. \r\n\r\n[Only available when Sinesha is on the same team and alive.]",
 			"basedOn": "[HP]",
-			"name": "From Beyond [Passive]",
+			"name": "From Beyond [P]",
 			"maxcd": "8",
 			"mincd": "6",
 			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",

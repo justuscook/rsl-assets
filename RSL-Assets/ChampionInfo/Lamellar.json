@@ -40,7 +40,7 @@
 		{
 			"desc": "Decreases the damage taken by this Champion by 30% when their HP drops below 30%.",
 			"basedOn": "",
-			"name": "Diehard [Passive]",
+			"name": "Diehard [P]",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",

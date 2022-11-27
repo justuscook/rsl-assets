@@ -40,7 +40,7 @@
 		{
 			"desc": "Increases the resistance of all allies by 15 for each active buff on this Champion.",
 			"basedOn": "",
-			"name": "Tower of Power [Passive]",
+			"name": "Tower of Power [P]",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",

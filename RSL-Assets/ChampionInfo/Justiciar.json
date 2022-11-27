@@ -40,7 +40,7 @@
 		{
 			"desc": "When this Champion is hit with a critical hit, counterattacks using their default skill and decreases the buffs duration on the target by 1 turn.",
 			"basedOn": "",
-			"name": "Comeback [Passive]",
+			"name": "Comeback [P]",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",

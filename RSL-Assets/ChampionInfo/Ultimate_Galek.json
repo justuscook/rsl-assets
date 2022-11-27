@@ -50,7 +50,7 @@
 		{
 			"desc": "Fully heals this Champion and instantly removes any [Stun] debuffs whenever an enemy places a [Stun] debuff on this Champion.",
 			"basedOn": "[HP]",
-			"name": "Brush It Off [Passive]",
+			"name": "Brush It Off [P]",
 			"maxcd": "4",
 			"mincd": "3",
 			"books": "Lvl. 2 Cooldown -1\n",

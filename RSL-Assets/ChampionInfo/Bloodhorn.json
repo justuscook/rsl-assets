@@ -40,7 +40,7 @@
 		{
 			"desc": "If an ally is hit with a critical hit, places a 15% [Continuous Heal] buff on them for 1 turn.",
 			"basedOn": "",
-			"name": "Deep Defense [Passive]",
+			"name": "Deep Defense [P]",
 			"maxcd": "1",
 			"mincd": "1",
 			"books": "",

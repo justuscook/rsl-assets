@@ -40,7 +40,7 @@
 		{
 			"desc": "Places a 15% [Continuous Heal] buff on this Champion for 2 turns if incoming damage exceeds 20% HP in one attack.",
 			"basedOn": "",
-			"name": "Herbal Balm [Passive]",
+			"name": "Herbal Balm [P]",
 			"maxcd": "2",
 			"mincd": "2",
 			"books": "",

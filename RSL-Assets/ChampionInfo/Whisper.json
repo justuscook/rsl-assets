@@ -50,7 +50,7 @@
 		{
 			"desc": "Has a 10% chance of granting an Extra Turn whenever this Champion lands a critical hit. Increases damage inflicted on Bosses by 20%.",
 			"basedOn": "",
-			"name": "Unrelenting [Passive]",
+			"name": "Unrelenting [P]",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",

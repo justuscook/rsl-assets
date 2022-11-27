@@ -40,7 +40,7 @@
 		{
 			"desc": "Fills this Champion's Turn Meter by 15% on critical hits. Fills this Champion's Turn Meter by 50% if this Champion kills an enemy.",
 			"basedOn": "",
-			"name": "Feral Hunter [Passive]",
+			"name": "Feral Hunter [P]",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",

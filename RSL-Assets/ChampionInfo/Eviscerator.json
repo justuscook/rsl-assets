@@ -40,7 +40,7 @@
 		{
 			"desc": "Attacks an enemy Champion with the default Skill whenever they are healed or receive a Buff. Attacks one random enemy if multiple enemies are healed or receive a Buff at the same time.",
 			"basedOn": "",
-			"name": "Suppression [Passive]",
+			"name": "Suppression [P]",
 			"maxcd": "1",
 			"mincd": "1",
 			"books": "",

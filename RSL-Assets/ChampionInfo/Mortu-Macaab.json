@@ -40,7 +40,7 @@
 		{
 			"desc": "Has a 20% chance to unlock a secret skill, Peril, for 1 turn when attacked. Also has a 20% chance to fill this Champion's Turn Meter by 25%.",
 			"basedOn": "",
-			"name": "Fiery Rage [Passive]",
+			"name": "Fiery Rage [P]",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",

@@ -50,7 +50,7 @@
 		{
 			"desc": "Increases Ninja's ATK by 10% (up to 100%) and C. DMG by 5% (up to 25%) each time a single enemy is hit by all three of Ninja's Active Skills in a single Round. This effect can occur multiple times against the same enemy.\r\n\r\nWhen fighting Bosses, will increase Ninja's ATK by 20% (up to 100%) and C. DMG by 10% (up to 25%) instead.",
 			"basedOn": "",
-			"name": "Escalation [Passive]",
+			"name": "Escalation [P]",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",

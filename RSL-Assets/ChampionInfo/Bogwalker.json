@@ -40,7 +40,7 @@
 		{
 			"desc": "Places a 30% [Reflect Damage] buff on all allies for 1 turn when attacked with a critical hit.",
 			"basedOn": "[DEALT_DMG]",
-			"name": "Scout [Passive]",
+			"name": "Scout [P]",
 			"maxcd": "4",
 			"mincd": "3",
 			"books": "Lvl. 2 Cooldown -1\n",

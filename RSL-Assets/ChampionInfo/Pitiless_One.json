@@ -40,7 +40,7 @@
 		{
 			"desc": "Each critical hit heals this Champion by 15% of the damage inflicted.",
 			"basedOn": "[DEALT_DMG]",
-			"name": "Agony Bonds [Passive]",
+			"name": "Agony Bonds [P]",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",

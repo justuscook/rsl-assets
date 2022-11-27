@@ -40,7 +40,7 @@
 		{
 			"desc": "This Champion's Turn Meter will be increased by 10% each time an enemy Champion places a buff. Enemy Champions will have their Turn Meters decreased by 10% for each buff they receive.",
 			"basedOn": "",
-			"name": "Jealousy [Passive]",
+			"name": "Jealousy [P]",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",

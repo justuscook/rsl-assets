@@ -40,7 +40,7 @@
 		{
 			"desc": "Heals all allies by 7.5% of their HP and removes 1 random debuff from them at the start of this Champion's turn.",
 			"basedOn": "[Enemy MAX HP]",
-			"name": "Bolster [Passive]",
+			"name": "Bolster [P]",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",

@@ -40,7 +40,7 @@
 		{
 			"desc": "Removes one debuff from this Champion each turn.",
 			"basedOn": "",
-			"name": "Mighty Soul [Passive]",
+			"name": "Mighty Soul [P]",
 			"maxcd": "1",
 			"mincd": "1",
 			"books": "",

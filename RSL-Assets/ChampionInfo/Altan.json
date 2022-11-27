@@ -40,7 +40,7 @@
 		{
 			"desc": "Revives a random ally with 30% HP every time this Champion kills an enemy. Resets the cooldowns on this Champion's Skills if this Champion kills an enemy and all allies are alive.",
 			"basedOn": "",
-			"name": "Fiery Rebirth [Passive]",
+			"name": "Fiery Rebirth [P]",
 			"maxcd": "0",
 			"mincd": "0",
 			"books": "",
