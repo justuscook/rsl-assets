@@ -46,16 +46,6 @@
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Damage +10%\nLvl. 6 Cooldown -1\n",
 			"multiplier": "2.5*ATK",
 			"numBooksToMax": "5"
-		},
-		{
-			"desc": "",
-			"basedOn": "",
-			"name": "",
-			"maxcd": "0",
-			"mincd": "0",
-			"books": "",
-			"multiplier": "",
-			"numBooksToMax": "0"
 		}
 	],
 	"rarity": "Rare",
