@@ -66,16 +66,6 @@
 			"books": "",
 			"multiplier": "",
 			"numBooksToMax": "0"
-		},
-		{
-			"desc": "Skill 48007 description",
-			"basedOn": "",
-			"name": "Skill 48007 name",
-			"maxcd": "0",
-			"mincd": "0",
-			"books": "",
-			"multiplier": "",
-			"numBooksToMax": "0"
 		}
 	],
 	"rarity": "Legendary",

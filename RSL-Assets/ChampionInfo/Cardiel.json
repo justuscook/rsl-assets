@@ -56,26 +56,6 @@
 			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +5%\n",
 			"multiplier": "",
 			"numBooksToMax": "3"
-		},
-		{
-			"desc": "Skill 6666612 description",
-			"basedOn": "[ATK]",
-			"name": "Skill 57601 name (CLONE)",
-			"maxcd": "0",
-			"mincd": "0",
-			"books": "",
-			"multiplier": "4*ATK",
-			"numBooksToMax": "0"
-		},
-		{
-			"desc": "Skill 6666612 description",
-			"basedOn": "",
-			"name": "Skill 57606 name hidden passive",
-			"maxcd": "0",
-			"mincd": "0",
-			"books": "",
-			"multiplier": "",
-			"numBooksToMax": "0"
 		}
 	],
 	"rarity": "Legendary",

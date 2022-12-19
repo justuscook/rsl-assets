@@ -48,16 +48,6 @@
 			"numBooksToMax": "2"
 		},
 		{
-			"desc": "Skill 7000003 description",
-			"basedOn": "[heroCounter]",
-			"name": "Skill 75005 name",
-			"maxcd": "0",
-			"mincd": "0",
-			"books": "",
-			"multiplier": "",
-			"numBooksToMax": "0"
-		},
-		{
 			"desc": "Revives all dead allies with 50% HP and 75% Turn Meter whenever this Champion is killed.\r\n\r\n[Active Effect]\r\n\r\nPlaces a [Block Damage] buff on all allies for 1 turn whenever an ally receives a [Bomb], [Poison] or [HP Burn] debuff.\r\n\r\nIf there are multiple Champions on the team with this Skill, only one will activate.",
 			"basedOn": "[Enemy MAX HP]",
 			"name": "Giving All [P]",

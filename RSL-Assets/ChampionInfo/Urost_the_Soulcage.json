@@ -48,26 +48,6 @@
 			"numBooksToMax": "2"
 		},
 		{
-			"desc": "Revives self when hero 5060 revives an ally and activates skill 50802",
-			"basedOn": "[HP]",
-			"name": "Skill 50805 name",
-			"maxcd": "0",
-			"mincd": "0",
-			"books": "",
-			"multiplier": "",
-			"numBooksToMax": "0"
-		},
-		{
-			"desc": "Part of the skill 50803\nWhen enemy attacks an ally under Decrease damage taken buff - has a 50% chance to place a Provoke on this enemy for 1 turn",
-			"basedOn": "",
-			"name": "Skill 50806 name",
-			"maxcd": "0",
-			"mincd": "0",
-			"books": "",
-			"multiplier": "",
-			"numBooksToMax": "0"
-		},
-		{
 			"desc": "When attacked, has a 50% chance of placing a 5% [Poison] debuff on the attacker for 2 turns. \r\n\r\nWhenever an ally is attacked while under a [Strengthen] buff, has a 50% chance of placing a [Provoke] debuff on the attacker for 1 turn.\r\n\r\nIncreases this Champion’s MAX HP by 5% whenever an enemy receives damage from a [Poison] debuff placed by this Champion.\r\nWhenever an enemy receives damage from a [Poison] debuff placed by this Champion, also destroys their MAX HP by 5%.\r\n\r\n[Cannot destroy a single Champion's MAX HP by more than 25% in one Battle. Will not destroy Bosses' MAX HP. Cannot increase this Champion's MAX HP by more than 50%.]",
 			"basedOn": "",
 			"name": "Call of the Cage [P]",

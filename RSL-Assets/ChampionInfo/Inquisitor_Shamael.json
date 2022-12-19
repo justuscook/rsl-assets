@@ -46,16 +46,6 @@
 			"books": "",
 			"multiplier": "",
 			"numBooksToMax": "0"
-		},
-		{
-			"desc": "passive counterattack for skill 45404",
-			"basedOn": "[ATK]",
-			"name": "Skill 45405 name",
-			"maxcd": "0",
-			"mincd": "0",
-			"books": "",
-			"multiplier": "1.45*ATK",
-			"numBooksToMax": "0"
 		}
 	],
 	"rarity": "Epic",

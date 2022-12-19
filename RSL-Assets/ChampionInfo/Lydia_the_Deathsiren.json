@@ -48,26 +48,6 @@
 			"numBooksToMax": "5"
 		},
 		{
-			"desc": "Skill 1000004 description",
-			"basedOn": "[ATK]",
-			"name": "Skill 47105 name",
-			"maxcd": "0",
-			"mincd": "0",
-			"books": "",
-			"multiplier": "3.75*ATK",
-			"numBooksToMax": "0"
-		},
-		{
-			"desc": "Skill 47106 description",
-			"basedOn": "",
-			"name": "Skill 47106 name",
-			"maxcd": "0",
-			"mincd": "0",
-			"books": "",
-			"multiplier": "",
-			"numBooksToMax": "0"
-		},
-		{
 			"desc": "Denies enemy revive attempts. This works even if this Champion is dead.\r\n\r\nIf this Champion is alive when an enemy revive is denied, revives all dead allies with 50% HP and 50% Turn Meter. Grants an Extra Turn instead if there are no dead allies.\r\n\r\nIf this Champion is dead when an enemy revive is denied, revives this Champion with 50% HP and 50% Turn Meter.\r\n\r\nThis skill will ignore [Block Revive].",
 			"basedOn": "",
 			"name": "Death Hold [P]",

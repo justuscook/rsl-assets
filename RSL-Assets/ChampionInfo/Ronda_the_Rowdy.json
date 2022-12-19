@@ -48,16 +48,6 @@
 			"numBooksToMax": "3"
 		},
 		{
-			"desc": "Skill 7000003 description",
-			"basedOn": "[ATK]",
-			"name": "Skill 73601 name (CLONE)",
-			"maxcd": "0",
-			"mincd": "0",
-			"books": "",
-			"multiplier": "1.2*ATK",
-			"numBooksToMax": "0"
-		},
-		{
 			"desc": "Has a 15% chance to join an attack whenever an ally attacks an enemy. This Champion will attack with their default skill.\r\n\r\nAt the start of each Round, places a [Shield] buff on this Champion for 2 turns equal to 40% of their MAX HP.",
 			"basedOn": "",
 			"name": "In Your Corner",

@@ -48,16 +48,6 @@
 			"numBooksToMax": "6"
 		},
 		{
-			"desc": "Revives self when hero 5060 revives an ally and activates skill 50802",
-			"basedOn": "[HP]",
-			"name": "Skill 50705 name",
-			"maxcd": "0",
-			"mincd": "0",
-			"books": "",
-			"multiplier": "",
-			"numBooksToMax": "0"
-		},
-		{
 			"desc": "Has a 10% chance of placing a [Fear] debuff on an enemy for 1 turn whenever they receive damage from a [HP Burn] debuff placed on themselves.",
 			"basedOn": "",
 			"name": "Fiery Swath [P]",

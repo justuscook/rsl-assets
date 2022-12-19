@@ -48,16 +48,6 @@
 			"numBooksToMax": "2"
 		},
 		{
-			"desc": "Skill 6666618 description",
-			"basedOn": "",
-			"name": "Skill 69004 name",
-			"maxcd": "0",
-			"mincd": "0",
-			"books": "",
-			"multiplier": "",
-			"numBooksToMax": "0"
-		},
-		{
 			"desc": "Places a [Perfect Veil] buff on this Champion for 2 turns at the start of each Round.\r\n\r\nThis Champion is immune to all debuffs if they are under a [Veil] or [Perfect Veil] buff. \r\n\r\nWhenever a [Veil] or a [Perfect Veil] buff is placed on an enemy, has a 75% chance of stealing the buff. This happens before the buff is placed on the initial target. Only available when Karato Foxhunter is on the same team.",
 			"basedOn": "",
 			"name": "Deep Cover [P]",

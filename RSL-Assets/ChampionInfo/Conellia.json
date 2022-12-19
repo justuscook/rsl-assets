@@ -46,26 +46,6 @@
 			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "2"
-		},
-		{
-			"desc": "Skill 6666618 description",
-			"basedOn": "[Enemy MAX HP]",
-			"name": "Skill 63506 name",
-			"maxcd": "0",
-			"mincd": "0",
-			"books": "",
-			"multiplier": "",
-			"numBooksToMax": "0"
-		},
-		{
-			"desc": "Skill 6666618 description",
-			"basedOn": "",
-			"name": "Skill 63505 name",
-			"maxcd": "0",
-			"mincd": "0",
-			"books": "",
-			"multiplier": "",
-			"numBooksToMax": "0"
 		}
 	],
 	"rarity": "Epic",

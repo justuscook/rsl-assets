@@ -58,16 +58,6 @@
 			"numBooksToMax": "0"
 		},
 		{
-			"desc": "Skill 7000003 description",
-			"basedOn": "",
-			"name": "Skill 74906 name",
-			"maxcd": "0",
-			"mincd": "0",
-			"books": "",
-			"multiplier": "",
-			"numBooksToMax": "0"
-		},
-		{
 			"desc": "All incoming damage from skills is reduced by 50%. \r\n\r\nWhen attacked, this Champion's MAX HP will be decreased by 25% of the attack's initial damage (before the damage reduction).",
 			"basedOn": "",
 			"name": "Poise [P]",
