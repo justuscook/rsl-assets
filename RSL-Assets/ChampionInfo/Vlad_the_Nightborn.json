@@ -18,7 +18,7 @@
 	"totalBooks": "14",
 	"skills": [
 		{
-			"desc": "Attacks 1 enemy. Decreases the target’s MAX HP by 30% of the damage inflicted. Also heals this Champion by 30% of the damage inflicted.",
+			"desc": "Attacks 1 enemy. Destroys the target’s MAX HP by 30% of the damage inflicted. Also heals this Champion by 30% of the damage inflicted.",
 			"basedOn": "[ATK]",
 			"name": "Thirsting Blade",
 			"maxcd": "0",

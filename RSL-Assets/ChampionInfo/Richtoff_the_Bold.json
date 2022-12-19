@@ -18,7 +18,7 @@
 	"totalBooks": "11",
 	"skills": [
 		{
-			"desc": "Attacks all enemies. Decreases each target's MAX HP by 30% of the damage inflicted.",
+			"desc": "Attacks all enemies. Destroys each target's MAX HP by 30% of the damage inflicted.",
 			"basedOn": "[ATK]",
 			"name": "Ruination",
 			"maxcd": "0",

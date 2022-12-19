@@ -13,11 +13,11 @@
 	"modelName": "0473_christmas_queen_5530",
 	"avatarKey": "5530",
 	"leaderSkill": {
-		"area": "Arena",
+		"area": "",
 		"affinity": "",
 		"kind": "Resistance",
 		"absolute": true,
-		"value": 80
+		"value": 60
 	},
 	"skillTypeIds": [
 		55301,

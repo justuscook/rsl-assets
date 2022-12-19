@@ -1,0 +1,39 @@
+{
+	"typeId": 7576,
+	"name": {
+		"key": "l10n:hero-type/name?id=7570#static",
+		"defaultValue": "Riscarm",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "BannerLords",
+	"role": "Defense",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0711_bannerlord_7570",
+	"avatarKey": "7570",
+	"leaderSkill": {
+		"area": "Fractions",
+		"affinity": "",
+		"kind": "Defence",
+		"absolute": false,
+		"value": 0.2
+	},
+	"skillTypeIds": [
+		75701,
+		75702,
+		75703
+	],
+	"unscaledStats": {
+		"Health": 101,
+		"Attack": 64,
+		"Defense": 110,
+		"Speed": 95,
+		"Resistance": 40,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

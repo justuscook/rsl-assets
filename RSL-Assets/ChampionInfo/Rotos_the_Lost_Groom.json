@@ -28,7 +28,7 @@
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Attacks 1 enemy. Decreases the target's MAX HP by 20%, then adds that HP to this Champion's own MAX HP.\r\n\r\n[Cannot decrease a single Champion's MAX HP by more than 60% in one Battle. Cannot increase this Champion's MAX HP by more than 60,000. Decreases the MAX HP of Bosses by 30% of the damage inflicted instead. This Champion's MAX HP will be increased by 15,000 when this Skill is used against Bosses.]",
+			"desc": "Attacks 1 enemy. Destroys the target's MAX HP by 20%, then adds that HP to this Champion's own MAX HP.\r\n\r\n[Cannot destroy a single Champion's MAX HP by more than 60% in one Battle. Cannot increase this Champion's MAX HP by more than 60,000. Destroys the MAX HP of Bosses by 30% of the damage inflicted instead. This Champion's MAX HP will be increased by 15,000 when this Skill is used against Bosses.]",
 			"basedOn": "[ATK][HP]",
 			"name": "Vitality Plunder",
 			"maxcd": "3",

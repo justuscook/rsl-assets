@@ -18,7 +18,7 @@
 	"totalBooks": "12",
 	"skills": [
 		{
-			"desc": "Attacks 1 enemy 2 times. Decreases the target’s MAX HP by 75% of the damage inflicted if they are under a [Heal Reduction] debuff.\r\n\r\nEach hit has a 35% chance of activating up to two [Poison] debuffs on the target.",
+			"desc": "Attacks 1 enemy 2 times. Destroys the target’s MAX HP by 75% of the damage inflicted if they are under a [Heal Reduction] debuff.\r\n\r\nEach hit has a 35% chance of activating up to two [Poison] debuffs on the target.",
 			"basedOn": "[ATK]",
 			"name": "Toxicity",
 			"maxcd": "0",

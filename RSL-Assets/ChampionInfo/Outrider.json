@@ -28,7 +28,7 @@
 			"numBooksToMax": "5"
 		},
 		{
-			"desc": "Attacks 1 enemy. Decreases enemy MAX HP by 15% of damage dealt.",
+			"desc": "Attacks 1 enemy. Destroys enemy MAX HP by 15% of damage dealt.",
 			"basedOn": "[ATK]",
 			"name": "Fire Arrow",
 			"maxcd": "3",

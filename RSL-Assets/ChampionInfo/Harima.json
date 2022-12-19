@@ -48,6 +48,16 @@
 			"numBooksToMax": "3"
 		},
 		{
+			"desc": "Skill 7000002 description",
+			"basedOn": "[heroCounter]",
+			"name": "Skill 49005 name",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		},
+		{
 			"desc": "Enemy Ignore DEF effects are decreased by 50%. \r\n\r\nChampions from the Demonspawn Faction cannot inflict critical hits on this Champion. \r\n\r\nThis Champion cannot land weak hits on Champions from the Demonspawn Faction.",
 			"basedOn": "[relationDamageDefenceModifier]",
 			"name": "Demon Slayer [P]",

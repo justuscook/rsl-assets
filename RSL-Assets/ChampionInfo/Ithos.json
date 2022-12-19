@@ -18,7 +18,7 @@
 	"totalBooks": "13",
 	"skills": [
 		{
-			"desc": "Attacks 1 enemy. Has a 20% chance of granting an Extra Turn. Decreases enemy MAX HP by 15% of damage dealt.",
+			"desc": "Attacks 1 enemy. Has a 20% chance of granting an Extra Turn. Destroys enemy MAX HP by 15% of damage dealt.",
 			"basedOn": "[ATK]",
 			"name": "Gouge",
 			"maxcd": "0",

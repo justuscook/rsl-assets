@@ -38,7 +38,7 @@
 			"numBooksToMax": "6"
 		},
 		{
-			"desc": "Attacks all enemies. Has a 75% chance of increasing the cooldowns of all enemy skills by 1 turn.",
+			"desc": "Attacks all enemies. Has a 75% chance of increasing the cooldowns of all enemy skills by 2 turns.",
 			"basedOn": "[ATK]",
 			"name": "Disorient",
 			"maxcd": "4",

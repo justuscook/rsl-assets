@@ -38,7 +38,7 @@
 			"numBooksToMax": "5"
 		},
 		{
-			"desc": "Attacks all enemies. Decreases each target's MAX HP by 50% of the damage inflicted. Grants an Extra Turn if this attack kills an enemy.",
+			"desc": "Attacks all enemies. Destroys each target's MAX HP by 50% of the damage inflicted. Grants an Extra Turn if this attack kills an enemy.",
 			"basedOn": "[ATK]",
 			"name": "Burn Away",
 			"maxcd": "5",

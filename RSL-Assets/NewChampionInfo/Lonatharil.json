@@ -18,7 +18,7 @@
 	"totalBooks": "10",
 	"skills": [
 		{
-			"desc": "Attacks 1 enemy. Decreases the target’s MAX HP by 30% of the damage inflicted. Places a [Shield] buff equal to 10% of this Champion’s MAX HP for 2 turns on the ally with the lowest HP.",
+			"desc": "Attacks 1 enemy. Destroys the target’s MAX HP by 30% of the damage inflicted. Places a [Shield] buff equal to 10% of this Champion’s MAX HP for 2 turns on the ally with the lowest HP.",
 			"basedOn": "[HP]",
 			"name": "Gallantry",
 			"maxcd": "0",

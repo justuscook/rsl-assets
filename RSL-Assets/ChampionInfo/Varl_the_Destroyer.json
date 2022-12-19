@@ -38,7 +38,7 @@
 			"numBooksToMax": "5"
 		},
 		{
-			"desc": "Attacks 1 enemy. Will ignore 30% of the target’s DEF. Decreases the target’s MAX HP by 50% of the damage inflicted.\r\n\r\nPlaces a [Block Damage] buff on this Champion for 1 turn if this attack kills an enemy.",
+			"desc": "Attacks 1 enemy. Will ignore 30% of the target’s DEF. Destroys the target’s MAX HP by 50% of the damage inflicted.\r\n\r\nPlaces a [Block Damage] buff on this Champion for 1 turn if this attack kills an enemy.",
 			"basedOn": "[ATK]",
 			"name": "Calamity Torrent",
 			"maxcd": "5",

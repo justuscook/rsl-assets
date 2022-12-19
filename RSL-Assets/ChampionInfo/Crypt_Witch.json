@@ -28,17 +28,17 @@
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Attacks 2 times at random. Has a 75% chance of placing a 60% [Decrease DEF] debuff for 2 turns.",
+			"desc": "Attacks 3 times at random. Each hit has a 75% chance of placing a 60% [Decrease DEF] debuff for 2 turns. Each hit will also ignore 15% of the target's DEF.",
 			"basedOn": "[ATK]",
 			"name": "Dismantle",
 			"maxcd": "4",
 			"mincd": "3",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1\n",
-			"multiplier": "3*ATK",
+			"multiplier": "2.2*ATK",
 			"numBooksToMax": "5"
 		},
 		{
-			"desc": "Attacks 1 enemy. Will ignore 50% of the target's DEF if the target is faster than this Champion.",
+			"desc": "Attacks 1 enemy. Will ignore 50% of the target's DEF if this Champion has higher SPD than the target.",
 			"basedOn": "[ATK]",
 			"name": "Not So Fast",
 			"maxcd": "4",

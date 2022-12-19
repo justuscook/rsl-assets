@@ -18,7 +18,7 @@
 	"totalBooks": "12",
 	"skills": [
 		{
-			"desc": "Attacks 1 enemy. Decreases their MAX HP by 30% of the damage inflicted.",
+			"desc": "Attacks 1 enemy. Destroys their MAX HP by 30% of the damage inflicted.",
 			"basedOn": "[ATK]",
 			"name": "Scar for Life",
 			"maxcd": "0",
@@ -38,7 +38,7 @@
 			"numBooksToMax": "5"
 		},
 		{
-			"desc": "Attacks 1 enemy. Will ignore 50% of the target's DEF. Decreases their MAX HP by 40% of the damage inflicted.",
+			"desc": "Attacks 1 enemy. Will ignore 50% of the target's DEF. Destroys their MAX HP by 40% of the damage inflicted.",
 			"basedOn": "[ATK]",
 			"name": "Heavy Slam",
 			"maxcd": "4",

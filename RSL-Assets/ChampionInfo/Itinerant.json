@@ -38,7 +38,7 @@
 			"numBooksToMax": "5"
 		},
 		{
-			"desc": "Attacks 1 enemy. Decreases the enemy’s MAX HP by 30% of the damage inflicted if this attack is critical.",
+			"desc": "Attacks 1 enemy. Destroys the enemy’s MAX HP by 30% of the damage inflicted if this attack is critical.",
 			"basedOn": "[ATK]",
 			"name": "Waste Away",
 			"maxcd": "5",

@@ -18,7 +18,7 @@
 	"totalBooks": "12",
 	"skills": [
 		{
-			"desc": "Attacks 1 enemy 2 times. Decreases the target’s MAX HP by 10% of the damage inflicted. \r\n\r\nCannot decrease a single enemy’s MAX HP by more than 50%.",
+			"desc": "Attacks 1 enemy 2 times. Destroys the target’s MAX HP by 10% of the damage inflicted. \r\n\r\nCannot destroy a single enemy’s MAX HP by more than 50%.",
 			"basedOn": "[ATK]",
 			"name": "Elders' Judgment",
 			"maxcd": "0",

@@ -18,7 +18,7 @@
 	"totalBooks": "9",
 	"skills": [
 		{
-			"desc": "Attacks 1 enemy 2 times. Has a 15% chance of decreasing enemy MAX HP by 25% of the damage dealt.",
+			"desc": "Attacks 1 enemy 2 times. Has a 15% chance of destroying enemy MAX HP by 25% of the damage dealt.",
 			"basedOn": "[ATK]",
 			"name": "Power Slash",
 			"maxcd": "0",

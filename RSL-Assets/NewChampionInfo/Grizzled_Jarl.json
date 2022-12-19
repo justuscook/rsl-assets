@@ -38,7 +38,7 @@
 			"numBooksToMax": "2"
 		},
 		{
-			"desc": "Attacks all enemies.\r\n\r\nHas a 75% chance of placing a 50% [Decrease ATK] debuff on all enemies for 2 turns.\r\nDecreases each target’s MAX HP by 30% of the damage inflicted.",
+			"desc": "Attacks all enemies.\r\n\r\nHas a 75% chance of placing a 50% [Decrease ATK] debuff on all enemies for 2 turns.\r\nDestroys each target’s MAX HP by 30% of the damage inflicted.",
 			"basedOn": "[DEF]",
 			"name": "Earthstomp",
 			"maxcd": "5",

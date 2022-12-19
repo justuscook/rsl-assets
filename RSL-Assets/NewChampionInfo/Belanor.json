@@ -28,13 +28,13 @@
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Places a 60% [Decrease DEF] debuff and a 25% [Weaken] debuff for 2 turns on a target enemy, then attacks them. Then places a [Perfect Veil] buff on this Champion for 2 turns.",
-			"basedOn": "",
+			"desc": "Attacks all enemies. Places a 60% [Decrease DEF] debuff and a 25% [Weaken] debuff for 2 turns. These debuffs cannot be resisted when Zavia is on the same team.\r\n\r\nAlso places a [Perfect Veil] buff on this Champion for 2 turns.",
+			"basedOn": "[ATK]",
 			"name": "Insurmountable",
 			"maxcd": "3",
 			"mincd": "3",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Damage +10%\n",
-			"multiplier": null,
+			"multiplier": "4.2*ATK",
 			"numBooksToMax": "3"
 		},
 		{
@@ -48,13 +48,13 @@
 			"numBooksToMax": "2"
 		},
 		{
-			"desc": "Activates this Champion's Swordleader skill. \r\n\r\nAlso activates Zavia's Poison Rain skill when Zavia is on the same team.",
+			"desc": "Activates this Champion's Overkill skill. \r\n\r\nAlso activates Zavia's Poison Rain skill when Zavia is on the same team.",
 			"basedOn": "[ATK]",
 			"name": "Tactical Partner",
 			"maxcd": "4",
 			"mincd": "4",
 			"books": "",
-			"multiplier": "3.6*ATK",
+			"multiplier": "6.8*ATK",
 			"numBooksToMax": "0"
 		}
 	],

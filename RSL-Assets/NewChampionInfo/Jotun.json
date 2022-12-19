@@ -38,7 +38,7 @@
 			"numBooksToMax": "5"
 		},
 		{
-			"desc": "Attacks 1 enemy. Decreases the target's MAX HP by 30% of the damage inflicted. Damage increases by 50% if the target is under a [HP Burn] debuff.",
+			"desc": "Attacks 1 enemy. Destroys the target's MAX HP by 30% of the damage inflicted. Damage increases by 50% if the target is under a [HP Burn] debuff.",
 			"basedOn": "[HP]",
 			"name": "Sear Away",
 			"maxcd": "5",

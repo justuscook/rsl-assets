@@ -48,7 +48,7 @@
 			"numBooksToMax": "5"
 		},
 		{
-			"desc": "When attacked, decreases the attacker's MAX HP by 5%. Decreases the MAX HP of Bosses by 2.5% instead (except the Scarab King, whose MAX HP will be decreased by 0.5%). Cannot decrease a single enemy's MAX HP by more than 50%. Occurs once per attack. \r\n\r\nHas a 50% chance of placing a [True Fear] debuff on targets whose MAX HP has been decreased by 20% or more.",
+			"desc": "When attacked, destroys the attacker's MAX HP by 5%. Destroys the MAX HP of Bosses by 2.5% instead (except the Scarab King, whose MAX HP will be destroyed by 0.5%). Cannot destroy a single enemy's MAX HP by more than 50%. Occurs once per attack. \r\n\r\nHas a 50% chance of placing a [True Fear] debuff on targets whose MAX HP has been destroyed by 20% or more.",
 			"basedOn": "",
 			"name": "Horrific Foe [P]",
 			"maxcd": "0",

@@ -1,0 +1,63 @@
+{
+	"name": "Georgid the Breaker",
+	"key": "l10n:hero-type/name?id=7510#static",
+	"id": 7516,
+	"avatar": "7510",
+	"affinity": "Void",
+	"hp": "13710",
+	"atk": "1608",
+	"def": "1057",
+	"spd": "103",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "63",
+	"cheal": "50",
+	"faction": "Knights Revenant",
+	"aura": "",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Has a 30% chance of repeating the attack.",
+			"basedOn": "[ATK]",
+			"name": "Breaker Suite",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "1.7*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Decreases the Turn Meters of all targets by 30%. This effect cannot be resisted. \r\n\r\nPlaces an [Unkillable] buff on this Champion for 1 turn if this attack kills an enemy.",
+			"basedOn": "[ATK]",
+			"name": "March of Tin",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Cooldown -1\n",
+			"multiplier": "4*ATK",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "Attacks 1 enemy. Will ignore [Strengthen], [Stone Skin], [Unkillable], [Block Damage], [Increase DEF], [Ally Protection], and [Shield] buffs. \r\n\r\nGrants an Extra Turn if this attack kills an enemy.",
+			"basedOn": "[ATK]",
+			"name": "Deadly Ballet",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1\n",
+			"multiplier": "5.7*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Has a 50% chance for this Champion to ignore 50% of the target's DEF from each hit placed by this Champion's skills.",
+			"basedOn": "",
+			"name": "Crack Any Shell [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Legendary",
+	"type": "Attack"
+}

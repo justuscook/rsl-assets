@@ -38,7 +38,7 @@
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Attacks 1 enemy. Will ignore 25% of the target’s DEF if the target has higher DEF than this Champion. Decreases the target’s MAX HP by 25% of the damage inflicted if the target has higher MAX HP than this Champion.\r\n\r\nWill repeat attack a second time if the target has both higher DEF and higher MAX HP than this Champion.",
+			"desc": "Attacks 1 enemy. Will ignore 25% of the target’s DEF if the target has higher DEF than this Champion. Destroys the target’s MAX HP by 25% of the damage inflicted if the target has higher MAX HP than this Champion.\r\n\r\nWill repeat attack a second time if the target has both higher DEF and higher MAX HP than this Champion.",
 			"basedOn": "[ATK]",
 			"name": "Playdate",
 			"maxcd": "6",
@@ -58,7 +58,7 @@
 			"numBooksToMax": "0"
 		},
 		{
-			"desc": "Each hit has a 50% chance of decreasing the target's Turn Meter by 5% and a 100% chance of decreasing the target's MAX HP by 5% of the damage inflicted when attacking enemies under [Heal Reduction] debuffs.\r\n\r\nAlso heals this Champion by 5% of the damage inflicted when attacking enemies under [Heal Reduction] debuffs.\r\n\r\n[Will not heal from damage inflicted by Masteries.]",
+			"desc": "Each hit has a 50% chance of decreasing the target's Turn Meter by 5% and a 100% chance of destroying the target's MAX HP by 5% of the damage inflicted when attacking enemies under [Heal Reduction] debuffs.\r\n\r\nAlso heals this Champion by 5% of the damage inflicted when attacking enemies under [Heal Reduction] debuffs.\r\n\r\n[Will not heal from damage inflicted by Masteries.]",
 			"basedOn": "[DEALT_DMG]",
 			"name": "Magical Heart [P]",
 			"maxcd": "0",

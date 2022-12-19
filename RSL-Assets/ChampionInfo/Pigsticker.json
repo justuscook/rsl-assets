@@ -28,7 +28,7 @@
 			"numBooksToMax": "5"
 		},
 		{
-			"desc": "Attacks 1 enemy. Decreases the target's MAX HP by 20% of the damage inflicted.",
+			"desc": "Attacks 1 enemy. Destroys the target's MAX HP by 20% of the damage inflicted.",
 			"basedOn": "[ATK]",
 			"name": "Heartless Curse",
 			"maxcd": "4",
@@ -38,7 +38,7 @@
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Attacks 1 enemy 2 times. Decreases the target's MAX HP by 30% of the damage inflicted.",
+			"desc": "Attacks 1 enemy 2 times. Destroys the target's MAX HP by 30% of the damage inflicted.",
 			"basedOn": "[ATK]",
 			"name": "Septic Spearhead",
 			"maxcd": "4",
