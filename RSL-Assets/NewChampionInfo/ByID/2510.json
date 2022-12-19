@@ -1,0 +1,39 @@
+{
+	"typeId": 2516,
+	"name": {
+		"key": "l10n:hero-type/name?id=2510#static",
+		"defaultValue": "Grandmaster",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "BannerLords",
+	"role": "Health",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0124_Knight",
+	"avatarKey": "2510",
+	"leaderSkill": {
+		"area": "",
+		"affinity": "Magic",
+		"kind": "Health",
+		"absolute": false,
+		"value": 0.17
+	},
+	"skillTypeIds": [
+		25101,
+		25102,
+		25103
+	],
+	"unscaledStats": {
+		"Health": 98,
+		"Attack": 81,
+		"Defense": 96,
+		"Speed": 100,
+		"Resistance": 40,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

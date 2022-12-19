@@ -1,0 +1,39 @@
+{
+	"typeId": 2076,
+	"name": {
+		"key": "l10n:hero-type/name?id=2070#static",
+		"defaultValue": "Confessor",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "SacredOrder",
+	"role": "Attack",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0210_Order_Ranger",
+	"avatarKey": "2070",
+	"leaderSkill": {
+		"area": "Dungeon",
+		"affinity": "",
+		"kind": "CriticalChance",
+		"absolute": false,
+		"value": 0.16
+	},
+	"skillTypeIds": [
+		20701,
+		20704,
+		20703
+	],
+	"unscaledStats": {
+		"Health": 73,
+		"Attack": 128,
+		"Defense": 74,
+		"Speed": 98,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 57,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

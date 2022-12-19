@@ -1,0 +1,32 @@
+{
+	"typeId": 2026,
+	"name": {
+		"key": "l10n:hero-type/name?id=2020#static",
+		"defaultValue": "Stalwart",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "BannerLords",
+	"role": "Health",
+	"rarity": "Uncommon",
+	"ascended": 6,
+	"modelName": "0033_Knight_combined",
+	"avatarKey": "2020",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		20201,
+		20202
+	],
+	"unscaledStats": {
+		"Health": 109,
+		"Attack": 67,
+		"Defense": 74,
+		"Speed": 87,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

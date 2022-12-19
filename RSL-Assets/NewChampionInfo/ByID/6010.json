@@ -1,0 +1,39 @@
+{
+	"typeId": 6016,
+	"name": {
+		"key": "l10n:hero-type/name?id=6010#static",
+		"defaultValue": "Gorlos Hellmaw",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "Demonspawn",
+	"role": "Attack",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0512_demonspawn_id6010",
+	"avatarKey": "6010",
+	"leaderSkill": {
+		"area": "DoomTower",
+		"affinity": "",
+		"kind": "Attack",
+		"absolute": false,
+		"value": 0.3
+	},
+	"skillTypeIds": [
+		60101,
+		60102,
+		60103
+	],
+	"unscaledStats": {
+		"Health": 77,
+		"Attack": 123,
+		"Defense": 100,
+		"Speed": 99,
+		"Resistance": 30,
+		"Accuracy": 15,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

@@ -1,0 +1,53 @@
+{
+	"name": "Itinerant",
+	"key": "l10n:hero-type/name?id=6600#static",
+	"id": 6606,
+	"avatar": "6600",
+	"affinity": "Force",
+	"hp": "13710",
+	"atk": "1354",
+	"def": "760",
+	"spd": "90",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
+	"faction": "Shadowkin",
+	"aura": "",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 30% chance of placing a [Leech] debuff for 2 turns. The chance increases to 50% if this attack is critical.",
+			"basedOn": "[ATK]",
+			"name": "Soultap",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "3.1*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 50% chance of placing a 15% [Decrease SPD] debuff for 2 turns. Also places a 15% [Increase SPD] buff on this Champion for 2 turns if the attack is critical.",
+			"basedOn": "[ATK]",
+			"name": "Wanderer's Weirding",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "3.6*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks 1 enemy. Decreases the enemy’s MAX HP by 30% of the damage inflicted if this attack is critical.",
+			"basedOn": "[ATK]",
+			"name": "Waste Away",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Cooldown -1\n",
+			"multiplier": "5.5*ATK",
+			"numBooksToMax": "3"
+		}
+	],
+	"rarity": "Rare",
+	"type": "Attack"
+}

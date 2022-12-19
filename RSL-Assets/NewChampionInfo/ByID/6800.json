@@ -1,0 +1,39 @@
+{
+	"typeId": 6806,
+	"name": {
+		"key": "l10n:hero-type/name?id=6800#static",
+		"defaultValue": "Visionary",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "DarkElves",
+	"role": "Support",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0655_darkelves_id6800",
+	"avatarKey": "6800",
+	"leaderSkill": {
+		"area": "Dungeon",
+		"affinity": "",
+		"kind": "Speed",
+		"absolute": false,
+		"value": 0.24
+	},
+	"skillTypeIds": [
+		68001,
+		68002,
+		68003
+	],
+	"unscaledStats": {
+		"Health": 93,
+		"Attack": 116,
+		"Defense": 91,
+		"Speed": 98,
+		"Resistance": 30,
+		"Accuracy": 15,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

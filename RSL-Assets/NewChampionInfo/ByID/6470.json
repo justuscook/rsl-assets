@@ -1,0 +1,40 @@
+{
+	"typeId": 6476,
+	"name": {
+		"key": "l10n:hero-type/name?id=6470#static",
+		"defaultValue": "Wythir the Crowned",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "Demonspawn",
+	"role": "Support",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0451_Demon_id6470",
+	"avatarKey": "6470",
+	"leaderSkill": {
+		"area": "",
+		"affinity": "",
+		"kind": "Resistance",
+		"absolute": true,
+		"value": 50
+	},
+	"skillTypeIds": [
+		64701,
+		64702,
+		64703,
+		64704
+	],
+	"unscaledStats": {
+		"Health": 146,
+		"Attack": 72,
+		"Defense": 107,
+		"Speed": 108,
+		"Resistance": 40,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

@@ -1,0 +1,33 @@
+{
+	"typeId": 2066,
+	"name": {
+		"key": "l10n:hero-type/name?id=2060#static",
+		"defaultValue": "Warpriest",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "SacredOrder",
+	"role": "Support",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0231_OrderTank",
+	"avatarKey": "2060",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		20601,
+		20604,
+		20603
+	],
+	"unscaledStats": {
+		"Health": 110,
+		"Attack": 62,
+		"Defense": 103,
+		"Speed": 97,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

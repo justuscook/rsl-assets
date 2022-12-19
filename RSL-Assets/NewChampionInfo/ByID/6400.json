@@ -1,0 +1,39 @@
+{
+	"typeId": 6406,
+	"name": {
+		"key": "l10n:hero-type/name?id=6400#static",
+		"defaultValue": "Ashwalker",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "KnightsRevenant",
+	"role": "Attack",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0717_Boneknignt_id6400",
+	"avatarKey": "6400",
+	"leaderSkill": {
+		"area": "",
+		"affinity": "",
+		"kind": "Speed",
+		"absolute": false,
+		"value": 0.12
+	},
+	"skillTypeIds": [
+		64004,
+		64002,
+		64003
+	],
+	"unscaledStats": {
+		"Health": 66,
+		"Attack": 136,
+		"Defense": 73,
+		"Speed": 103,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 57,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

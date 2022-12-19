@@ -1,0 +1,73 @@
+{
+	"name": "Countess Lix",
+	"key": "l10n:hero-type/name?id=5800#static",
+	"id": 5806,
+	"avatar": "5800",
+	"affinity": "Magic",
+	"hp": "17175",
+	"atk": "1498",
+	"def": "936",
+	"spd": "100",
+	"res": "30",
+	"acc": "20",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Demonspawn",
+	"aura": "",
+	"totalBooks": "13",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Has a 30% chance of placing a 25% [Weaken] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Festering Caress",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"multiplier": "1.6*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies 3 times. Each hit has a 75% chance of placing a 30% [Decrease SPD] debuff for 2 turns. Each hit also has a 75% chance of decreasing the enemy’s Turn Meter by 10%.",
+			"basedOn": "[ATK]",
+			"name": "Mire of Misery",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +15%\nLvl. 5 Cooldown -1\n",
+			"multiplier": "1.15*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 75% chance of placing a [Block Active Skills] debuff for 2 turns.\r\n\r\nAlso decreases the cooldowns of all ally skills, except this Champion's, by 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Time Dilation",
+			"maxcd": "7",
+			"mincd": "5",
+			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +15%\nLvl. 5 Cooldown -1\nLvl. 6 Cooldown -1\n",
+			"multiplier": "4*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Removes one random debuff from Astralon and this Champion at the start of each turn.\r\n\r\nOnly available if Astralon is on the team.",
+			"basedOn": "",
+			"name": "Unredeemed [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		},
+		{
+			"desc": "Fills this Champion’s Turn Meter by 5% each time an ally receives a debuff.",
+			"basedOn": "",
+			"name": "Channel Woe [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Legendary",
+	"type": "Attack"
+}

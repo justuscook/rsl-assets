@@ -1,0 +1,53 @@
+{
+	"name": "Teshada",
+	"key": "l10n:hero-type/name?id=3290#static",
+	"id": 3296,
+	"avatar": "3290",
+	"affinity": "Force",
+	"hp": "16350",
+	"atk": "826",
+	"def": "1387",
+	"spd": "96",
+	"res": "45",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Barbarians",
+	"aura": "Increase Ally SPD in Faction Crypts by 20",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 50% chance of placing a 60% [Increase DEF] buff on this Champion for 2 turns.",
+			"basedOn": "[DEF]",
+			"name": "Savage Fury",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Damage +10%\n",
+			"multiplier": "3.4*DEF",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 3 times at random. Each hit has a 75% chance of placing a 25% [Weaken] debuff for 2 turns.",
+			"basedOn": "[DEF]",
+			"name": "Maximum Carnage",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "2*DEF",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Revives an ally with 40% HP and 40% Turn Meter, then heals all allies by 15% of their MAX HP.",
+			"basedOn": "[HP]",
+			"name": "Spirit Appeasement",
+			"maxcd": "3",
+			"mincd": "3",
+			"books": "Lvl. 2  Heal +5%\nLvl. 3  Heal +5%\nLvl. 4  Heal +10%\n",
+			"multiplier": "",
+			"numBooksToMax": "3"
+		}
+	],
+	"rarity": "Epic",
+	"type": "Defense"
+}

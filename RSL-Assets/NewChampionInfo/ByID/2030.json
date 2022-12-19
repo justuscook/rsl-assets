@@ -1,0 +1,33 @@
+{
+	"typeId": 2036,
+	"name": {
+		"key": "l10n:hero-type/name?id=2030#static",
+		"defaultValue": "Elder",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "Barbarians",
+	"role": "Defense",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0319_Masked_One_2030",
+	"avatarKey": "2030",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		20301,
+		20304,
+		20303
+	],
+	"unscaledStats": {
+		"Health": 90,
+		"Attack": 83,
+		"Defense": 102,
+		"Speed": 92,
+		"Resistance": 40,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

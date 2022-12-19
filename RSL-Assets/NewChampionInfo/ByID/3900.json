@@ -1,0 +1,40 @@
+{
+	"typeId": 3906,
+	"name": {
+		"key": "l10n:hero-type/name?id=3900#static",
+		"defaultValue": "Mighty Ukko",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "Skinwalkers",
+	"role": "Support",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0814_Boar_3900",
+	"avatarKey": "3900",
+	"leaderSkill": {
+		"area": "",
+		"affinity": "",
+		"kind": "Speed",
+		"absolute": false,
+		"value": 0.2
+	},
+	"skillTypeIds": [
+		39001,
+		39002,
+		39003,
+		39004
+	],
+	"unscaledStats": {
+		"Health": 112,
+		"Attack": 112,
+		"Defense": 101,
+		"Speed": 109,
+		"Resistance": 30,
+		"Accuracy": 10,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

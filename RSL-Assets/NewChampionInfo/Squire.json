@@ -1,0 +1,43 @@
+{
+	"name": "Squire",
+	"key": "l10n:hero-type/name?id=1880#static",
+	"id": 1886,
+	"avatar": "1880",
+	"affinity": "Force",
+	"hp": "15690",
+	"atk": "760",
+	"def": "947",
+	"spd": "96",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Banner Lords",
+	"aura": "",
+	"totalBooks": "9",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy.",
+			"basedOn": "[DEF]",
+			"name": "Overhead Swing",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "3.5*DEF",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 30% chance of placing a 25% [Decrease ATK] debuff for 2 turns.",
+			"basedOn": "[DEF]",
+			"name": "Weapon Breaker",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Damage +10%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "3.9*DEF",
+			"numBooksToMax": "5"
+		}
+	],
+	"rarity": "Uncommon",
+	"type": "Defense"
+}

@@ -1,0 +1,39 @@
+{
+	"typeId": 1486,
+	"name": {
+		"key": "l10n:hero-type/name?id=1480#static",
+		"defaultValue": "Galek",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "Orcs",
+	"role": "Attack",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "1480_Slayer",
+	"avatarKey": "1480",
+	"leaderSkill": {
+		"area": "",
+		"affinity": "",
+		"kind": "Health",
+		"absolute": false,
+		"value": 0.15
+	},
+	"skillTypeIds": [
+		14801,
+		14804,
+		14803
+	],
+	"unscaledStats": {
+		"Health": 83,
+		"Attack": 109,
+		"Defense": 83,
+		"Speed": 103,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 57,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

@@ -1,0 +1,53 @@
+{
+	"name": "Cormac the Highpeak",
+	"key": "l10n:hero-type/name?id=7430#static",
+	"id": 7436,
+	"avatar": "7430",
+	"affinity": "Magic",
+	"hp": "14535",
+	"atk": "1509",
+	"def": "826",
+	"spd": "94",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "60",
+	"cheal": "50",
+	"faction": "Nyresan Elves",
+	"aura": "Increase Ally ATK in  by 20",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 40% chance of placing a 30% [Decrease SPD] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Drover",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +5%\n",
+			"multiplier": "3*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy. Before attacking, has a 75% chance of placing a 60% [Decrease DEF] debuff on the target for 2 turns.",
+			"basedOn": "",
+			"name": "Highpeak's Reach",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1\n",
+			"multiplier": null,
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Places a 50% [Increase ACC] buff and a 30% [Increase C. RATE] buff on this Champion for 3 turns, then grants an Extra Turn.",
+			"basedOn": "",
+			"name": "Tempo Shift",
+			"maxcd": "6",
+			"mincd": "4",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
+		}
+	],
+	"rarity": "Epic",
+	"type": "Attack"
+}

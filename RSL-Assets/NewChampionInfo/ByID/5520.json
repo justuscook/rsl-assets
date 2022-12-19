@@ -1,0 +1,40 @@
+{
+	"typeId": 5526,
+	"name": {
+		"key": "l10n:hero-type/name?id=5520#static",
+		"defaultValue": "Grunch Killjoy",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "OgrynTribes",
+	"role": "Support",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0472_Grinch_id5520",
+	"avatarKey": "5520",
+	"leaderSkill": {
+		"area": "Fractions",
+		"affinity": "",
+		"kind": "Defence",
+		"absolute": false,
+		"value": 0.3
+	},
+	"skillTypeIds": [
+		55201,
+		55202,
+		55203,
+		55204
+	],
+	"unscaledStats": {
+		"Health": 109,
+		"Attack": 88,
+		"Defense": 103,
+		"Speed": 102,
+		"Resistance": 30,
+		"Accuracy": 15,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

@@ -1,0 +1,43 @@
+{
+	"name": "Pilgrim",
+	"key": "l10n:hero-type/name?id=1950#static",
+	"id": 1956,
+	"avatar": "1950",
+	"affinity": "Force",
+	"hp": "14865",
+	"atk": "793",
+	"def": "969",
+	"spd": "98",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Sacred Order",
+	"aura": "",
+	"totalBooks": "6",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Each hit decreases the target's Turn Meter by 5%.",
+			"basedOn": "[ATK]",
+			"name": "Thunder Strike",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Damage +5%\n",
+			"multiplier": "2.1*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Places a 30% [Increase DEF] buff on all allies for 2 turns.",
+			"basedOn": "",
+			"name": "Pilgrim's Shield",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "1"
+		}
+	],
+	"rarity": "Uncommon",
+	"type": "Support"
+}

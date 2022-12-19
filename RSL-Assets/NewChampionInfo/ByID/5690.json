@@ -1,0 +1,39 @@
+{
+	"typeId": 5696,
+	"name": {
+		"key": "l10n:hero-type/name?id=5690#static",
+		"defaultValue": "Sanguinia",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "SacredOrder",
+	"role": "Support",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0542_bannerlords_id5690",
+	"avatarKey": "5690",
+	"leaderSkill": {
+		"area": "DoomTower",
+		"affinity": "",
+		"kind": "Accuracy",
+		"absolute": true,
+		"value": 55
+	},
+	"skillTypeIds": [
+		56901,
+		56902,
+		56903
+	],
+	"unscaledStats": {
+		"Health": 124,
+		"Attack": 69,
+		"Defense": 107,
+		"Speed": 105,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

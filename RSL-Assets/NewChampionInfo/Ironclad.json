@@ -1,0 +1,53 @@
+{
+	"name": "Ironclad",
+	"key": "l10n:hero-type/name?id=690#static",
+	"id": 696,
+	"avatar": "690",
+	"affinity": "Force",
+	"hp": "18825",
+	"atk": "947",
+	"def": "826",
+	"spd": "104",
+	"res": "40",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Orcs",
+	"aura": "Increase Ally HP in  by 16",
+	"totalBooks": "5",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 25% chance of placing a 100% [Heal Reduction] debuff for 2 turns.",
+			"basedOn": "[HP][ATK]",
+			"name": "Wallop",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"multiplier": "0.1*HP+ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Removes 1 random debuff from all allies. Places a 25% [Increase ATK] buff on all allies for 2 turns.",
+			"basedOn": "",
+			"name": "Amok",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "1"
+		},
+		{
+			"desc": "When healed, will attack all enemies inflicting damage proportional to any surplus heal. Damage inflicted is equal to 50% of any surplus heal.",
+			"basedOn": "[EXCESSIVE_HEAL]",
+			"name": "Blood Burst [P]",
+			"maxcd": "1",
+			"mincd": "1",
+			"books": "",
+			"multiplier": "EXCESSIVE_HEAL*0.5",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Rare",
+	"type": "Health"
+}

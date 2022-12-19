@@ -1,0 +1,34 @@
+{
+	"typeId": 6536,
+	"name": {
+		"key": "l10n:hero-type/name?id=6530#static",
+		"defaultValue": "Lady Eresh",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "KnightsRevenant",
+	"role": "Attack",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0801_Revenant_id6530",
+	"avatarKey": "6530",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		65301,
+		65302,
+		65303,
+		65304
+	],
+	"unscaledStats": {
+		"Health": 91,
+		"Attack": 124,
+		"Defense": 85,
+		"Speed": 96,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 60,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

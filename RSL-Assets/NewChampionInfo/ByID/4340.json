@@ -1,0 +1,32 @@
+{
+	"typeId": 4346,
+	"name": {
+		"key": "l10n:hero-type/name?id=4340#static",
+		"defaultValue": "Tunnel Steward",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "Dwarves",
+	"role": "Attack",
+	"rarity": "Uncommon",
+	"ascended": 6,
+	"modelName": "0372_Dwarf",
+	"avatarKey": "4340",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		43401,
+		43402
+	],
+	"unscaledStats": {
+		"Health": 54,
+		"Attack": 114,
+		"Defense": 82,
+		"Speed": 95,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

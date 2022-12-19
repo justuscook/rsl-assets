@@ -1,0 +1,39 @@
+{
+	"typeId": 2826,
+	"name": {
+		"key": "l10n:hero-type/name?id=2820#static",
+		"defaultValue": "Pounder",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "OgrynTribes",
+	"role": "Defense",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0302_Ogres_2820",
+	"avatarKey": "2820",
+	"leaderSkill": {
+		"area": "",
+		"affinity": "Magic",
+		"kind": "Attack",
+		"absolute": false,
+		"value": 0.2
+	},
+	"skillTypeIds": [
+		28201,
+		28204,
+		28203
+	],
+	"unscaledStats": {
+		"Health": 88,
+		"Attack": 78,
+		"Defense": 109,
+		"Speed": 95,
+		"Resistance": 30,
+		"Accuracy": 10,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

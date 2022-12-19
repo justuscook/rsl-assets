@@ -1,0 +1,39 @@
+{
+	"typeId": 2576,
+	"name": {
+		"key": "l10n:hero-type/name?id=2570#static",
+		"defaultValue": "Adriel",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "SacredOrder",
+	"role": "Support",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0270_Order_Support",
+	"avatarKey": "2570",
+	"leaderSkill": {
+		"area": "",
+		"affinity": "Magic",
+		"kind": "Speed",
+		"absolute": false,
+		"value": 0.21
+	},
+	"skillTypeIds": [
+		25701,
+		25704,
+		25703
+	],
+	"unscaledStats": {
+		"Health": 111,
+		"Attack": 100,
+		"Defense": 89,
+		"Speed": 98,
+		"Resistance": 30,
+		"Accuracy": 15,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

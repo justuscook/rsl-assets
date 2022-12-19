@@ -1,0 +1,39 @@
+{
+	"typeId": 5416,
+	"name": {
+		"key": "l10n:hero-type/name?id=5410#static",
+		"defaultValue": "Gerhard the Stone",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "BannerLords",
+	"role": "Attack",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0389_order_id5410",
+	"avatarKey": "5410",
+	"leaderSkill": {
+		"area": "DoomTower",
+		"affinity": "",
+		"kind": "Resistance",
+		"absolute": true,
+		"value": 50
+	},
+	"skillTypeIds": [
+		54101,
+		54102,
+		54103
+	],
+	"unscaledStats": {
+		"Health": 76,
+		"Attack": 126,
+		"Defense": 98,
+		"Speed": 101,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 60,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

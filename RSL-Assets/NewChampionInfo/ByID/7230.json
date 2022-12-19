@@ -1,0 +1,34 @@
+{
+	"typeId": 7236,
+	"name": {
+		"key": "l10n:hero-type/name?id=7230#static",
+		"defaultValue": "Arix",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "KnightsRevenant",
+	"role": "Health",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0666_Revenant_id7230",
+	"avatarKey": "7230",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		72301,
+		72302,
+		72303,
+		72304
+	],
+	"unscaledStats": {
+		"Health": 139,
+		"Attack": 80,
+		"Defense": 106,
+		"Speed": 99,
+		"Resistance": 30,
+		"Accuracy": 15,
+		"CriticalChance": 15,
+		"CriticalDamage": 63,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

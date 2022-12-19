@@ -1,0 +1,39 @@
+{
+	"typeId": 1446,
+	"name": {
+		"key": "l10n:hero-type/name?id=1440#static",
+		"defaultValue": "Prince Kymar",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "Demonspawn",
+	"role": "Support",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0229_Demonspawn_Support",
+	"avatarKey": "1440",
+	"leaderSkill": {
+		"area": "Arena",
+		"affinity": "",
+		"kind": "Speed",
+		"absolute": false,
+		"value": 0.3
+	},
+	"skillTypeIds": [
+		14401,
+		14403,
+		14404
+	],
+	"unscaledStats": {
+		"Health": 115,
+		"Attack": 95,
+		"Defense": 115,
+		"Speed": 103,
+		"Resistance": 40,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

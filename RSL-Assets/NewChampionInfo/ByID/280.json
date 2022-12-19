@@ -1,0 +1,39 @@
+{
+	"typeId": 286,
+	"name": {
+		"key": "l10n:hero-type/name?id=280#static",
+		"defaultValue": "Faceless",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "KnightsRevenant",
+	"role": "Attack",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0020_Knight_Combined",
+	"avatarKey": "280",
+	"leaderSkill": {
+		"area": "Arena",
+		"affinity": "",
+		"kind": "Attack",
+		"absolute": false,
+		"value": 0.21
+	},
+	"skillTypeIds": [
+		2801,
+		2802,
+		2803
+	],
+	"unscaledStats": {
+		"Health": 106,
+		"Attack": 127,
+		"Defense": 67,
+		"Speed": 101,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 60,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

@@ -1,0 +1,39 @@
+{
+	"typeId": 4536,
+	"name": {
+		"key": "l10n:hero-type/name?id=4530#static",
+		"defaultValue": "Skytouched Shaman",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "Barbarians",
+	"role": "Support",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0423_Barbarian",
+	"avatarKey": "4530",
+	"leaderSkill": {
+		"area": "",
+		"affinity": "",
+		"kind": "Health",
+		"absolute": false,
+		"value": 0.25
+	},
+	"skillTypeIds": [
+		45301,
+		45302,
+		45303
+	],
+	"unscaledStats": {
+		"Health": 111,
+		"Attack": 87,
+		"Defense": 102,
+		"Speed": 102,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

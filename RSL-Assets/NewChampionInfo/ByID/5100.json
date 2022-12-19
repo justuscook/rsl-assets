@@ -1,0 +1,39 @@
+{
+	"typeId": 5106,
+	"name": {
+		"key": "l10n:hero-type/name?id=5100#static",
+		"defaultValue": "Ghrush the Mangler",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "OgrynTribes",
+	"role": "Defense",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0460_Ogre",
+	"avatarKey": "5100",
+	"leaderSkill": {
+		"area": "Fractions",
+		"affinity": "",
+		"kind": "Defence",
+		"absolute": false,
+		"value": 0.3
+	},
+	"skillTypeIds": [
+		51001,
+		51002,
+		51003
+	],
+	"unscaledStats": {
+		"Health": 117,
+		"Attack": 63,
+		"Defense": 120,
+		"Speed": 94,
+		"Resistance": 45,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

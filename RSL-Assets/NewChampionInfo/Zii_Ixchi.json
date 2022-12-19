@@ -1,0 +1,63 @@
+{
+	"name": "Zii Ixchi",
+	"key": "l10n:hero-type/name?id=7030#static",
+	"id": 7036,
+	"avatar": "7030",
+	"affinity": "Force",
+	"hp": "14535",
+	"atk": "1421",
+	"def": "914",
+	"spd": "99",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "60",
+	"cheal": "50",
+	"faction": "Lizard Men",
+	"aura": "",
+	"totalBooks": "10",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 15% chance of placing an extra hit.",
+			"basedOn": "[ATK]",
+			"name": "Brush Choppers",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Damage +10%\n",
+			"multiplier": "2.7*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy. Will ignore [Shield] and [Block Damage] buffs. Places a [Block Damage] buff on this Champion for 1 turn if this attack kills an enemy.",
+			"basedOn": "[ATK]",
+			"name": "Crown Breaker",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1\n",
+			"multiplier": "5*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Places a 30% [Increase C. DMG] buff and a 50% [Increase ATK] buff on this Champion for 3 turns, then grants an Extra Turn.",
+			"basedOn": "",
+			"name": "Ancient Rage",
+			"maxcd": "6",
+			"mincd": "4",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
+		},
+		{
+			"desc": "Whenever this Champion kills an enemy, decreases the cooldown of the Crown Breaker skill by 1 turn.",
+			"basedOn": "",
+			"name": "Assassin of Kings [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Epic",
+	"type": "Attack"
+}

@@ -1,0 +1,53 @@
+{
+	"name": "Steadfast Marshal",
+	"key": "l10n:hero-type/name?id=3950#static",
+	"id": 3956,
+	"avatar": "3950",
+	"affinity": "Void",
+	"hp": "20640",
+	"atk": "870",
+	"def": "782",
+	"spd": "90",
+	"res": "40",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Banner Lords",
+	"aura": "",
+	"totalBooks": "6",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy.\r\n\r\nHas a 50% chance of placing a [Provoke] debuff for 1 turn if the target's HP percentage is lower than this Champion's.",
+			"basedOn": "[HP]",
+			"name": "Thunderous Whallop",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"multiplier": "0.15*HP",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Places a 60% [Increase DEF] buff on this Champion for 2 turns.\r\nGrants an Extra Turn.",
+			"basedOn": "",
+			"name": "Hold Fast",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "1"
+		},
+		{
+			"desc": "Places a [Veil] buff on all allies except this Champion for 2 turns.",
+			"basedOn": "",
+			"name": "Covered Retreat",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "1"
+		}
+	],
+	"rarity": "Rare",
+	"type": "Health"
+}

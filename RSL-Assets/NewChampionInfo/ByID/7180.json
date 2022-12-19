@@ -1,0 +1,33 @@
+{
+	"typeId": 7186,
+	"name": {
+		"key": "l10n:hero-type/name?id=7180#static",
+		"defaultValue": "Phranox",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "KnightsRevenant",
+	"role": "Attack",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0766_Revenants_id7180",
+	"avatarKey": "7180",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		71801,
+		71802,
+		71804
+	],
+	"unscaledStats": {
+		"Health": 87,
+		"Attack": 128,
+		"Defense": 85,
+		"Speed": 97,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 60,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

@@ -1,0 +1,63 @@
+{
+	"name": "Deliana",
+	"key": "l10n:hero-type/name?id=7100#static",
+	"id": 7106,
+	"avatar": "7100",
+	"affinity": "Force",
+	"hp": "20475",
+	"atk": "1002",
+	"def": "1211",
+	"spd": "98",
+	"res": "30",
+	"acc": "30",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "High Elves",
+	"aura": "Increase Ally HP in  by 33",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks all enemies. Has a 50% chance of placing a [Leech] debuff for 2 turns.",
+			"basedOn": "[HP]",
+			"name": "Heart Stealer",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\n",
+			"multiplier": "0.22*HP",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 75% chance of placing a 50% [Decrease RES] debuff for 2 turns. \r\n\r\nIf the target is under a [Block Buffs] debuff, also applies a [Debuff Spread] effect, taking any [Decrease RES] debuff on the target and placing it on all enemies.",
+			"basedOn": "[HP]",
+			"name": "Withering Scorn",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +15%\nLvl. 5 Cooldown -1\n",
+			"multiplier": "0.35*HP",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 75% chance of placing a [Block Buffs] debuff on each enemy for 2 turns. \r\n\r\nHeals all allies by 5% of their MAX HP for each [Block Buffs] debuff placed by this skill. \r\n\r\nFills this Champion’s Turn Meter by 10% for each [Block Buffs] debuff attempt blocked or resisted by the enemy team.",
+			"basedOn": "[HP]",
+			"name": "Know Your Place",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +15%\nLvl. 5 Damage +10%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "0.3*HP",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "[Passive Effect]\r\n\r\nIncreases this Champion’s ACC by 2 for every 1,000 HP this Champion has. \r\n\r\n[Active Effect]\r\n\r\nPlaces a 25% [Strengthen] buff on all allies for 2 turns every time this Champion’s HP drops below 50%.",
+			"basedOn": "[FLOOR][B_HP]",
+			"name": "Magnificent [P]",
+			"maxcd": "4",
+			"mincd": "4",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Legendary",
+	"type": "Health"
+}

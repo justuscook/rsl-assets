@@ -1,0 +1,39 @@
+{
+	"typeId": 346,
+	"name": {
+		"key": "l10n:hero-type/name?id=340#static",
+		"defaultValue": "Executioner",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "KnightsRevenant",
+	"role": "Defense",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0036_Knight",
+	"avatarKey": "340",
+	"leaderSkill": {
+		"area": "",
+		"affinity": "",
+		"kind": "Defence",
+		"absolute": false,
+		"value": 0.17
+	},
+	"skillTypeIds": [
+		3401,
+		3402,
+		3404
+	],
+	"unscaledStats": {
+		"Health": 90,
+		"Attack": 71,
+		"Defense": 114,
+		"Speed": 89,
+		"Resistance": 40,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

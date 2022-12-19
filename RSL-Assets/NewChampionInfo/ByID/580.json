@@ -1,0 +1,39 @@
+{
+	"typeId": 586,
+	"name": {
+		"key": "l10n:hero-type/name?id=580#static",
+		"defaultValue": "Spirithost",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "DarkElves",
+	"role": "Support",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0083_DarkElf_combined",
+	"avatarKey": "580",
+	"leaderSkill": {
+		"area": "",
+		"affinity": "",
+		"kind": "Speed",
+		"absolute": false,
+		"value": 0.1
+	},
+	"skillTypeIds": [
+		5801,
+		5804,
+		5803
+	],
+	"unscaledStats": {
+		"Health": 93,
+		"Attack": 95,
+		"Defense": 87,
+		"Speed": 103,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

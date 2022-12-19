@@ -1,0 +1,53 @@
+{
+	"name": "Maiden",
+	"key": "l10n:hero-type/name?id=2460#static",
+	"id": 2466,
+	"avatar": "2460",
+	"affinity": "Spirit",
+	"hp": "11730",
+	"atk": "1343",
+	"def": "903",
+	"spd": "87",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
+	"faction": "Sacred Order",
+	"aura": "",
+	"totalBooks": "13",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 25% chance of placing a [Freeze] debuff for 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Icy Temper",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "3.2*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy. Decreases the target's MAX HP by 25% of the damage inflicted.",
+			"basedOn": "[ATK]",
+			"name": "Diminish",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "5.4*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks 1 enemy. Places a 30% [Decrease DEF] debuff for 2 turns. Places a 30% [Decrease DEF] debuff on all enemies for 2 turns if this attack is critical.",
+			"basedOn": "[ATK]",
+			"name": "Sow Confusion",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1\n",
+			"multiplier": "5.9*ATK",
+			"numBooksToMax": "4"
+		}
+	],
+	"rarity": "Rare",
+	"type": "Attack"
+}

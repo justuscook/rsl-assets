@@ -1,0 +1,39 @@
+{
+	"typeId": 246,
+	"name": {
+		"key": "l10n:hero-type/name?id=240#static",
+		"defaultValue": "Lugan the Steadfast",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "BannerLords",
+	"role": "Health",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0009_Knight_Combined",
+	"avatarKey": "240",
+	"leaderSkill": {
+		"area": "Fractions",
+		"affinity": "",
+		"kind": "Health",
+		"absolute": false,
+		"value": 0.38
+	},
+	"skillTypeIds": [
+		2404,
+		2403,
+		2402
+	],
+	"unscaledStats": {
+		"Health": 134,
+		"Attack": 92,
+		"Defense": 99,
+		"Speed": 103,
+		"Resistance": 40,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 63,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

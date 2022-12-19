@@ -1,0 +1,39 @@
+{
+	"typeId": 36,
+	"name": {
+		"key": "l10n:hero-type/name?id=30#static",
+		"defaultValue": "Apothecary",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "HighElves",
+	"role": "Support",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0105_Elf_support",
+	"avatarKey": "30",
+	"leaderSkill": {
+		"area": "Dungeon",
+		"affinity": "",
+		"kind": "Defence",
+		"absolute": false,
+		"value": 0.21
+	},
+	"skillTypeIds": [
+		301,
+		302,
+		304
+	],
+	"unscaledStats": {
+		"Health": 104,
+		"Attack": 80,
+		"Defense": 91,
+		"Speed": 106,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

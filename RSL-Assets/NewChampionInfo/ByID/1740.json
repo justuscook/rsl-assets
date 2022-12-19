@@ -1,0 +1,39 @@
+{
+	"typeId": 1746,
+	"name": {
+		"key": "l10n:hero-type/name?id=1740#static",
+		"defaultValue": "Zargala",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "Orcs",
+	"role": "Attack",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0181_Orc_Warrior",
+	"avatarKey": "1740",
+	"leaderSkill": {
+		"area": "",
+		"affinity": "",
+		"kind": "Accuracy",
+		"absolute": true,
+		"value": 40
+	},
+	"skillTypeIds": [
+		17401,
+		17402,
+		17404
+	],
+	"unscaledStats": {
+		"Health": 101,
+		"Attack": 127,
+		"Defense": 72,
+		"Speed": 103,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 60,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

@@ -1,0 +1,63 @@
+{
+	"name": "Jintoro",
+	"key": "l10n:hero-type/name?id=5830#static",
+	"id": 5836,
+	"avatar": "5830",
+	"affinity": "Magic",
+	"hp": "15360",
+	"atk": "1487",
+	"def": "1068",
+	"spd": "102",
+	"res": "30",
+	"acc": "10",
+	"crate": "15",
+	"cdamage": "63",
+	"cheal": "50",
+	"faction": "Shadowkin",
+	"aura": "Increase Ally ATK in  by 28.999999999999996",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Grants an Extra Turn if this attack kills an enemy.",
+			"basedOn": "[ATK]",
+			"name": "Soul Drinker",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "3.8*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy. Steals 100% of the target’s Turn Meter.\r\n\r\nDecreases the cooldown of Oni's Rage by 1 turn if the target is immune to Turn Meter reduction effects.",
+			"basedOn": "[ATK]",
+			"name": "Blood Freeze",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1\n",
+			"multiplier": "5.8*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy. Places a 60% [Decrease DEF] debuff and a 25% [Weaken] debuff for 2 turns.\r\n\r\nWill attack 5 times instead of 1 on every 4th use of this skill against the same target in one round.",
+			"basedOn": "[ATK]",
+			"name": "Oni's Rage",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1\n",
+			"multiplier": "5.7*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "All Turn Meter fill effects are increased by 50% when used on this Champion.",
+			"basedOn": "[BaseChangeStaminaMultiplier]",
+			"name": "Vigorous [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Legendary",
+	"type": "Attack"
+}

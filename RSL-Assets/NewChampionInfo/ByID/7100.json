@@ -1,0 +1,40 @@
+{
+	"typeId": 7106,
+	"name": {
+		"key": "l10n:hero-type/name?id=7100#static",
+		"defaultValue": "Deliana",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "HighElves",
+	"role": "Health",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0757_Highelves_id7100",
+	"avatarKey": "7100",
+	"leaderSkill": {
+		"area": "",
+		"affinity": "",
+		"kind": "Health",
+		"absolute": false,
+		"value": 0.33
+	},
+	"skillTypeIds": [
+		71001,
+		71002,
+		71003,
+		71004
+	],
+	"unscaledStats": {
+		"Health": 124,
+		"Attack": 91,
+		"Defense": 110,
+		"Speed": 98,
+		"Resistance": 30,
+		"Accuracy": 30,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

@@ -1,0 +1,33 @@
+{
+	"typeId": 5206,
+	"name": {
+		"key": "l10n:hero-type/name?id=5200#static",
+		"defaultValue": "Drowned Bloatwraith",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "UndeadHordes",
+	"role": "Attack",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0304_undead_id5200",
+	"avatarKey": "5200",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		52001,
+		52002,
+		52003
+	],
+	"unscaledStats": {
+		"Health": 82,
+		"Attack": 126,
+		"Defense": 67,
+		"Speed": 100,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 57,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

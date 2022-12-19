@@ -1,0 +1,39 @@
+{
+	"typeId": 6516,
+	"name": {
+		"key": "l10n:hero-type/name?id=6510#static",
+		"defaultValue": "Demytha",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "Dwarves",
+	"role": "Support",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0421_dwarfs_f_id6510",
+	"avatarKey": "6510",
+	"leaderSkill": {
+		"area": "",
+		"affinity": "",
+		"kind": "Defence",
+		"absolute": false,
+		"value": 0.2
+	},
+	"skillTypeIds": [
+		65101,
+		65102,
+		65103
+	],
+	"unscaledStats": {
+		"Health": 115,
+		"Attack": 68,
+		"Defense": 117,
+		"Speed": 102,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

@@ -1,0 +1,39 @@
+{
+	"typeId": 3196,
+	"name": {
+		"key": "l10n:hero-type/name?id=3190#static",
+		"defaultValue": "Crypt-King Graal",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "UndeadHordes",
+	"role": "Support",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0065_Mage_Necromancer",
+	"avatarKey": "3190",
+	"leaderSkill": {
+		"area": "",
+		"affinity": "",
+		"kind": "Health",
+		"absolute": false,
+		"value": 0.33
+	},
+	"skillTypeIds": [
+		31901,
+		31902,
+		31904
+	],
+	"unscaledStats": {
+		"Health": 117,
+		"Attack": 104,
+		"Defense": 104,
+		"Speed": 107,
+		"Resistance": 30,
+		"Accuracy": 10,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

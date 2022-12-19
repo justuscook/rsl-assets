@@ -1,0 +1,40 @@
+{
+	"typeId": 7226,
+	"name": {
+		"key": "l10n:hero-type/name?id=7220#static",
+		"defaultValue": "Walking Tomb Dreng",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "KnightsRevenant",
+	"role": "Health",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0663_revenants_id7220",
+	"avatarKey": "7220",
+	"leaderSkill": {
+		"area": "",
+		"affinity": "",
+		"kind": "Health",
+		"absolute": false,
+		"value": 0.3
+	},
+	"skillTypeIds": [
+		72201,
+		72202,
+		72203,
+		72204
+	],
+	"unscaledStats": {
+		"Health": 140,
+		"Attack": 79,
+		"Defense": 106,
+		"Speed": 99,
+		"Resistance": 50,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 57,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

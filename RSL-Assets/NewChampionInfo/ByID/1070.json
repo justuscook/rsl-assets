@@ -1,0 +1,39 @@
+{
+	"typeId": 1076,
+	"name": {
+		"key": "l10n:hero-type/name?id=1070#static",
+		"defaultValue": "Maneater",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "OgrynTribes",
+	"role": "Health",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0172_Ogre_1070",
+	"avatarKey": "1070",
+	"leaderSkill": {
+		"area": "Dungeon",
+		"affinity": "",
+		"kind": "Health",
+		"absolute": false,
+		"value": 0.33
+	},
+	"skillTypeIds": [
+		10701,
+		10702,
+		10703
+	],
+	"unscaledStats": {
+		"Health": 123,
+		"Attack": 76,
+		"Defense": 101,
+		"Speed": 98,
+		"Resistance": 45,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

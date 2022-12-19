@@ -1,0 +1,53 @@
+{
+	"name": "Sir Nicholas",
+	"key": "l10n:hero-type/name?id=3000#static",
+	"id": 3006,
+	"avatar": "3000",
+	"affinity": "Void",
+	"hp": "22800",
+	"atk": "936",
+	"def": "1123",
+	"spd": "105",
+	"res": "50",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Sacred Order",
+	"aura": "Increase Ally HP in  by 33",
+	"totalBooks": "10",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 50% chance of placing a [Freeze] debuff for 1 turn. This debuff cannot be resisted.",
+			"basedOn": "[HP]",
+			"name": "Boreal Blade",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
+			"multiplier": "0.28*HP",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Places a [Shield] buff on all allies for 2 turns. The value of the [Shield] is equal to 30% of the damage inflicted.",
+			"basedOn": "[HP]",
+			"name": "Polar Protection",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1\n",
+			"multiplier": "0.25*HP",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Places an [Unkillable] buff and a 15% [Continuous Heal] buff on all allies for 2 turns.",
+			"basedOn": "",
+			"name": "Goodwill",
+			"maxcd": "6",
+			"mincd": "4",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
+		}
+	],
+	"rarity": "Legendary",
+	"type": "Health"
+}

@@ -1,0 +1,39 @@
+{
+	"typeId": 76,
+	"name": {
+		"key": "l10n:hero-type/name?id=70#static",
+		"defaultValue": "Blind Seer",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "DarkElves",
+	"role": "Support",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0080_Seer",
+	"avatarKey": "70",
+	"leaderSkill": {
+		"area": "",
+		"affinity": "",
+		"kind": "Defence",
+		"absolute": false,
+		"value": 0.34
+	},
+	"skillTypeIds": [
+		701,
+		702,
+		704
+	],
+	"unscaledStats": {
+		"Health": 110,
+		"Attack": 121,
+		"Defense": 94,
+		"Speed": 115,
+		"Resistance": 45,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

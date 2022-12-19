@@ -1,0 +1,39 @@
+{
+	"typeId": 2336,
+	"name": {
+		"key": "l10n:hero-type/name?id=2330#static",
+		"defaultValue": "Robar",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "Orcs",
+	"role": "Attack",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0194_Orc",
+	"avatarKey": "2330",
+	"leaderSkill": {
+		"area": "Fractions",
+		"affinity": "",
+		"kind": "Accuracy",
+		"absolute": true,
+		"value": 50
+	},
+	"skillTypeIds": [
+		23304,
+		23302,
+		23303
+	],
+	"unscaledStats": {
+		"Health": 115,
+		"Attack": 147,
+		"Defense": 63,
+		"Speed": 97,
+		"Resistance": 30,
+		"Accuracy": 10,
+		"CriticalChance": 15,
+		"CriticalDamage": 63,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

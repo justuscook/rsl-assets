@@ -1,0 +1,39 @@
+{
+	"typeId": 6186,
+	"name": {
+		"key": "l10n:hero-type/name?id=6180#static",
+		"defaultValue": "Odachi",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "Shadowkin",
+	"role": "Defense",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0629_Samurai_id6180",
+	"avatarKey": "6180",
+	"leaderSkill": {
+		"area": "Dungeon",
+		"affinity": "",
+		"kind": "Defence",
+		"absolute": false,
+		"value": 0.25
+	},
+	"skillTypeIds": [
+		61801,
+		61802,
+		61804
+	],
+	"unscaledStats": {
+		"Health": 92,
+		"Attack": 77,
+		"Defense": 106,
+		"Speed": 94,
+		"Resistance": 40,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

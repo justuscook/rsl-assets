@@ -1,0 +1,63 @@
+{
+	"name": "Helior",
+	"key": "l10n:hero-type/name?id=5990#static",
+	"id": 5996,
+	"avatar": "5990",
+	"affinity": "Force",
+	"hp": "18495",
+	"atk": "804",
+	"def": "1542",
+	"spd": "95",
+	"res": "50",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
+	"faction": "Banner Lords",
+	"aura": "Increase Ally  in  by 60",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Increases this Champion’s DEF by 5% if this attack is critical (Stacks up to 20%).\r\n\r\nWill also heal this Champion by 75% of their DEF after attacking if their DEF has already been increased by 20%.",
+			"basedOn": "[DEF]",
+			"name": "Sunshine Halberd",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
+			"multiplier": "3.2*DEF",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Places a [Shield] buff on all allies for 2 turns equal to 20% of the damage inflicted.",
+			"basedOn": "[DEF]",
+			"name": "Solar Blessing",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Damage +10%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "3*DEF",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Transfers all debuffs from all allies to a target enemy, then attacks that enemy with the default skill.\r\n\r\nConverts this Champion’s RES into additional ACC when using this skill.",
+			"basedOn": "[RES]",
+			"name": "Harsh Light",
+			"maxcd": "5",
+			"mincd": "3",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
+		},
+		{
+			"desc": "Whenever an ally that has 2 or more debuffs is attacked, this Champion will absorb 30% of the damage inflicted on that ally.",
+			"basedOn": "",
+			"name": "Intercessor [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Legendary",
+	"type": "Defense"
+}

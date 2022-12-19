@@ -1,0 +1,63 @@
+{
+	"name": "Keeyra the Watcher",
+	"key": "l10n:hero-type/name?id=7190#static",
+	"id": 7196,
+	"avatar": "7190",
+	"affinity": "Spirit",
+	"hp": "19485",
+	"atk": "870",
+	"def": "1409",
+	"spd": "104",
+	"res": "50",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Dwarves",
+	"aura": "",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 50% chance of placing a 50% [Decrease ATK] debuff for 2 turns.",
+			"basedOn": "[DEF]",
+			"name": "Falling Star Crush",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"multiplier": "3.6*DEF",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 75% chance of decreasing the duration of all enemy buffs by 1 turn. Also has a 75% chance of placing a 50% [Decrease ACC] debuff for 2 turns.",
+			"basedOn": "[DEF]",
+			"name": "Smashing Spree",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "3.8*DEF",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Places a 50% [Ally Protection] buff on all allies except this Champion for 2 turns. Also places a 60% [Increase DEF] buff on all allies for 2 turns.",
+			"basedOn": "",
+			"name": "Coordinated Defense",
+			"maxcd": "5",
+			"mincd": "3",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
+		},
+		{
+			"desc": "Whenever an ally is attacked while under an [Ally Protection] buff, places a 50% [Decrease ATK] debuff on the attacker for 1 turn.",
+			"basedOn": "",
+			"name": "Besieger's Bane [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Legendary",
+	"type": "Defense"
+}

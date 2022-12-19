@@ -1,0 +1,63 @@
+{
+	"name": "Tarshon",
+	"key": "l10n:hero-type/name?id=5730#static",
+	"id": 5736,
+	"avatar": "5730",
+	"affinity": "Spirit",
+	"hp": "17175",
+	"atk": "760",
+	"def": "1398",
+	"spd": "100",
+	"res": "30",
+	"acc": "15",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Demonspawn",
+	"aura": "",
+	"totalBooks": "10",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 25% chance of placing a [Provoke] debuff for 1 turn.",
+			"basedOn": "[DEF]",
+			"name": "Diabolical Hook",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +5%\n",
+			"multiplier": "3.6*DEF",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 75% chance of placing a 25% [Weaken] debuff for 2 turns.",
+			"basedOn": "[DEF]",
+			"name": "Soul Shrivel",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +15%\nLvl. 5 Cooldown -1\n",
+			"multiplier": "3.2*DEF",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Places a 60% [Increase DEF] buff on all allies for 2 turns. Fills the Turn Meters of all allies by 20%.",
+			"basedOn": "",
+			"name": "Demonic Possession",
+			"maxcd": "6",
+			"mincd": "4",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
+		},
+		{
+			"desc": "Places a 25% [Strengthen] buff on this Champion for 2 turns whenever their HP drops below 50%.",
+			"basedOn": "",
+			"name": "Back For More [P]",
+			"maxcd": "4",
+			"mincd": "4",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Epic",
+	"type": "Defense"
+}

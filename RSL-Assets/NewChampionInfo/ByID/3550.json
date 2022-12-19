@@ -1,0 +1,39 @@
+{
+	"typeId": 3556,
+	"name": {
+		"key": "l10n:hero-type/name?id=3550#static",
+		"defaultValue": "Haruspex",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "LizardMen",
+	"role": "Support",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0222_Lizard_ranger_id3550",
+	"avatarKey": "3550",
+	"leaderSkill": {
+		"area": "Arena",
+		"affinity": "",
+		"kind": "Speed",
+		"absolute": false,
+		"value": 0.15
+	},
+	"skillTypeIds": [
+		35501,
+		35502,
+		35503
+	],
+	"unscaledStats": {
+		"Health": 110,
+		"Attack": 78,
+		"Defense": 87,
+		"Speed": 105,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

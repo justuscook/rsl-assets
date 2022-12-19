@@ -1,0 +1,40 @@
+{
+	"typeId": 6726,
+	"name": {
+		"key": "l10n:hero-type/name?id=6720#static",
+		"defaultValue": "Vildrax",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "Demonspawn",
+	"role": "Support",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0701_demonspawn_id6720",
+	"avatarKey": "6720",
+	"leaderSkill": {
+		"area": "",
+		"affinity": "",
+		"kind": "Accuracy",
+		"absolute": true,
+		"value": 40
+	},
+	"skillTypeIds": [
+		67201,
+		67202,
+		67203,
+		67204
+	],
+	"unscaledStats": {
+		"Health": 119,
+		"Attack": 67,
+		"Defense": 114,
+		"Speed": 97,
+		"Resistance": 30,
+		"Accuracy": 15,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

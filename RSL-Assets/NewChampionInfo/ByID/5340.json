@@ -1,0 +1,41 @@
+{
+	"typeId": 5346,
+	"name": {
+		"key": "l10n:hero-type/name?id=5340#static",
+		"defaultValue": "Little Miss Annie",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "UndeadHordes",
+	"role": "Attack",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0582_Marionette_id5340",
+	"avatarKey": "5340",
+	"leaderSkill": {
+		"area": "",
+		"affinity": "",
+		"kind": "Attack",
+		"absolute": false,
+		"value": 0.33
+	},
+	"skillTypeIds": [
+		53401,
+		53402,
+		53403,
+		53404,
+		53405
+	],
+	"unscaledStats": {
+		"Health": 108,
+		"Attack": 145,
+		"Defense": 72,
+		"Speed": 102,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 63,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

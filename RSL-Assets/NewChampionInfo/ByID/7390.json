@@ -1,0 +1,34 @@
+{
+	"typeId": 7396,
+	"name": {
+		"key": "l10n:hero-type/name?id=7390#static",
+		"defaultValue": "King Gallcobar",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "NyresanElves",
+	"role": "Support",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0822_Forestelves_id7390",
+	"avatarKey": "7390",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		73901,
+		73902,
+		73903,
+		73904
+	],
+	"unscaledStats": {
+		"Health": 127,
+		"Attack": 82,
+		"Defense": 116,
+		"Speed": 108,
+		"Resistance": 30,
+		"Accuracy": 15,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

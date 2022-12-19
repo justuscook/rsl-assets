@@ -1,0 +1,39 @@
+{
+	"typeId": 5456,
+	"name": {
+		"key": "l10n:hero-type/name?id=5450#static",
+		"defaultValue": "Flailer",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "Dwarves",
+	"role": "Defense",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0434_dwarf_id5450",
+	"avatarKey": "5450",
+	"leaderSkill": {
+		"area": "Fractions",
+		"affinity": "",
+		"kind": "Defence",
+		"absolute": false,
+		"value": 0.17
+	},
+	"skillTypeIds": [
+		54501,
+		54502,
+		54503
+	],
+	"unscaledStats": {
+		"Health": 94,
+		"Attack": 87,
+		"Defense": 94,
+		"Speed": 93,
+		"Resistance": 40,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

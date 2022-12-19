@@ -1,0 +1,39 @@
+{
+	"typeId": 66,
+	"name": {
+		"key": "l10n:hero-type/name?id=60#static",
+		"defaultValue": "Mystic Hand",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "DarkElves",
+	"role": "Support",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0074_DarkElf",
+	"avatarKey": "60",
+	"leaderSkill": {
+		"area": "Dungeon",
+		"affinity": "",
+		"kind": "Health",
+		"absolute": false,
+		"value": 0.25
+	},
+	"skillTypeIds": [
+		601,
+		602,
+		604
+	],
+	"unscaledStats": {
+		"Health": 100,
+		"Attack": 73,
+		"Defense": 102,
+		"Speed": 88,
+		"Resistance": 30,
+		"Accuracy": 10,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

@@ -1,0 +1,39 @@
+{
+	"typeId": 1786,
+	"name": {
+		"key": "l10n:hero-type/name?id=1780#static",
+		"defaultValue": "Martyr",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "SacredOrder",
+	"role": "Defense",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0200_order_knight",
+	"avatarKey": "1780_temp",
+	"leaderSkill": {
+		"area": "",
+		"affinity": "",
+		"kind": "Defence",
+		"absolute": false,
+		"value": 0.33
+	},
+	"skillTypeIds": [
+		17801,
+		17802,
+		17804
+	],
+	"unscaledStats": {
+		"Health": 122,
+		"Attack": 75,
+		"Defense": 128,
+		"Speed": 93,
+		"Resistance": 50,
+		"Accuracy": 10,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

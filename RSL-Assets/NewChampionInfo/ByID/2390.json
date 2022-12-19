@@ -1,0 +1,39 @@
+{
+	"typeId": 2396,
+	"name": {
+		"key": "l10n:hero-type/name?id=2390#static",
+		"defaultValue": "Sethallia",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "BannerLords",
+	"role": "Support",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0134_Knights_f_Warrior",
+	"avatarKey": "2390",
+	"leaderSkill": {
+		"area": "",
+		"affinity": "Magic",
+		"kind": "Resistance",
+		"absolute": true,
+		"value": 50
+	},
+	"skillTypeIds": [
+		23901,
+		23904,
+		23903
+	],
+	"unscaledStats": {
+		"Health": 109,
+		"Attack": 93,
+		"Defense": 123,
+		"Speed": 108,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

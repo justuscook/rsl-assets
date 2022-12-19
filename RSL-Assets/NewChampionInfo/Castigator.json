@@ -1,0 +1,53 @@
+{
+	"name": "Castigator",
+	"key": "l10n:hero-type/name?id=6610#static",
+	"id": 6616,
+	"avatar": "6610",
+	"affinity": "Magic",
+	"hp": "18990",
+	"atk": "859",
+	"def": "903",
+	"spd": "95",
+	"res": "40",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Sacred Order",
+	"aura": "",
+	"totalBooks": "8",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 25% chance of placing a [Provoke] debuff for 1 turn.",
+			"basedOn": "[HP]",
+			"name": "Castigate",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"multiplier": "0.24*HP",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Heals the ally with the lowest HP by 20% of this Champion’s MAX HP, then equalizes the HP levels of all allies and grants this Champion an Extra Turn.",
+			"basedOn": "[HP]",
+			"name": "Holy Equity",
+			"maxcd": "6",
+			"mincd": "4",
+			"books": "Lvl. 2  Heal +5%\nLvl. 3  Heal +5%\nLvl. 4 Cooldown -1\nLvl. 5 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Receives 15% less damage from enemies under [Provoke] debuffs.",
+			"basedOn": "",
+			"name": "Rebuff [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Rare",
+	"type": "Health"
+}

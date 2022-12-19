@@ -1,0 +1,39 @@
+{
+	"typeId": 176,
+	"name": {
+		"key": "l10n:hero-type/name?id=170#static",
+		"defaultValue": "Hordin",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "BannerLords",
+	"role": "Attack",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0021_Knight_combined",
+	"avatarKey": "170",
+	"leaderSkill": {
+		"area": "Fractions",
+		"affinity": "",
+		"kind": "Speed",
+		"absolute": false,
+		"value": 0.2
+	},
+	"skillTypeIds": [
+		1701,
+		1702,
+		1704
+	],
+	"unscaledStats": {
+		"Health": 102,
+		"Attack": 120,
+		"Defense": 78,
+		"Speed": 95,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 60,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

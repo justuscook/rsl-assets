@@ -1,0 +1,39 @@
+{
+	"typeId": 576,
+	"name": {
+		"key": "l10n:hero-type/name?id=570#static",
+		"defaultValue": "Rae",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "DarkElves",
+	"role": "Attack",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0087_DarkElf_F",
+	"avatarKey": "570",
+	"leaderSkill": {
+		"area": "Dungeon",
+		"affinity": "",
+		"kind": "Speed",
+		"absolute": false,
+		"value": 0.33
+	},
+	"skillTypeIds": [
+		5704,
+		5702,
+		5703
+	],
+	"unscaledStats": {
+		"Health": 92,
+		"Attack": 122,
+		"Defense": 111,
+		"Speed": 98,
+		"Resistance": 40,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 63,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

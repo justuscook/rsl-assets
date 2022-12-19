@@ -1,0 +1,34 @@
+{
+	"typeId": 6236,
+	"name": {
+		"key": "l10n:hero-type/name?id=6230#static",
+		"defaultValue": "Cleopterix",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "Skinwalkers",
+	"role": "Attack",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0606_skinwalker_id6230",
+	"avatarKey": "6230",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		62301,
+		62302,
+		62303,
+		62304
+	],
+	"unscaledStats": {
+		"Health": 88,
+		"Attack": 139,
+		"Defense": 98,
+		"Speed": 102,
+		"Resistance": 30,
+		"Accuracy": 10,
+		"CriticalChance": 15,
+		"CriticalDamage": 63,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

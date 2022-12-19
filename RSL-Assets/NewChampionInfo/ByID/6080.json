@@ -1,0 +1,40 @@
+{
+	"typeId": 6086,
+	"name": {
+		"key": "l10n:hero-type/name?id=6080#static",
+		"defaultValue": "Hurndig",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "Dwarves",
+	"role": "Attack",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0532_dwarf_id6080",
+	"avatarKey": "6080",
+	"leaderSkill": {
+		"area": "Arena",
+		"affinity": "",
+		"kind": "Attack",
+		"absolute": false,
+		"value": 0.35
+	},
+	"skillTypeIds": [
+		60801,
+		60802,
+		60804,
+		60805
+	],
+	"unscaledStats": {
+		"Health": 97,
+		"Attack": 128,
+		"Defense": 100,
+		"Speed": 98,
+		"Resistance": 30,
+		"Accuracy": 10,
+		"CriticalChance": 15,
+		"CriticalDamage": 63,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

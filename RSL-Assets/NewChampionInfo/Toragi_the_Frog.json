@@ -1,0 +1,63 @@
+{
+	"name": "Toragi the Frog",
+	"key": "l10n:hero-type/name?id=5860#static",
+	"id": 5866,
+	"avatar": "5860",
+	"affinity": "Magic",
+	"hp": "21810",
+	"atk": "892",
+	"def": "958",
+	"spd": "96",
+	"res": "45",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Shadowkin",
+	"aura": "Increase Ally  in  by 40",
+	"totalBooks": "14",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 30% chance of placing a 50% [Decrease ATK] debuff for 2 turns.",
+			"basedOn": "[HP]",
+			"name": "Swamp Club",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
+			"multiplier": "0.2*HP",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 50% chance of placing a [Provoke] debuff for 1 turn. The chance increases by 5% for each debuff on the enemy team.",
+			"basedOn": "[HP]",
+			"name": "Potent Stench",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "0.2*HP",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Places a [Shield] buff equal to 15% of this Champion’s MAX HP and a 50% [Ally Protection] buff on all allies except this Champion for 2 turns.\r\n\r\nAlso heals this Champion by 25% of their MAX HP and places a 30% [Reflect Damage] buff on them for 3 turns.\r\n\r\nThe heal increases by 2.5% for each [Poison] debuff on the enemy team.",
+			"basedOn": "",
+			"name": "Bog Blessing",
+			"maxcd": "5",
+			"mincd": "3",
+			"books": "Lvl. 2  Heal +5%\nLvl. 3  Heal +10%\nLvl. 5 Cooldown -1\nLvl. 6 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "When attacked, has a 50% chance of placing a 5% [Poison] debuff on the attacker for 2 turns. Occurs once per hit.",
+			"basedOn": "",
+			"name": "Toxic Blood [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Epic",
+	"type": "Health"
+}

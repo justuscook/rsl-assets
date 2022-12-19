@@ -1,0 +1,34 @@
+{
+	"typeId": 7036,
+	"name": {
+		"key": "l10n:hero-type/name?id=7030#static",
+		"defaultValue": "Zii Ixchi",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "LizardMen",
+	"role": "Attack",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0722_lizardmen_id7030",
+	"avatarKey": "7030",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		70301,
+		70302,
+		70303,
+		70304
+	],
+	"unscaledStats": {
+		"Health": 88,
+		"Attack": 129,
+		"Defense": 83,
+		"Speed": 99,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 60,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

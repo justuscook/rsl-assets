@@ -1,0 +1,32 @@
+{
+	"typeId": 736,
+	"name": {
+		"key": "l10n:hero-type/name?id=730#static",
+		"defaultValue": "Warchanter",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "Orcs",
+	"role": "Health",
+	"rarity": "Uncommon",
+	"ascended": 6,
+	"modelName": "0190_Orc",
+	"avatarKey": "730",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		7301,
+		7302
+	],
+	"unscaledStats": {
+		"Health": 115,
+		"Attack": 65,
+		"Defense": 70,
+		"Speed": 94,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

@@ -1,0 +1,63 @@
+{
+	"name": "Michinaki",
+	"key": "l10n:hero-type/name?id=7350#static",
+	"id": 7356,
+	"avatar": "7350",
+	"affinity": "Magic",
+	"hp": "19650",
+	"atk": "804",
+	"def": "1465",
+	"spd": "101",
+	"res": "30",
+	"acc": "20",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
+	"faction": "Shadowkin",
+	"aura": "Increase Ally  in  by 30",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 50% chance of placing a [HP Burn] debuff for 2 turns.",
+			"basedOn": "[DEF]",
+			"name": "Burning Bonds",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +5%\n",
+			"multiplier": "3.5*DEF",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 75% chance of placing a 60% [Decrease DEF] debuff for 2 turns. Also has a 75% chance of placing a 50% [Decrease ATK] debuff for 2 turns on enemies under [Hex] debuffs.",
+			"basedOn": "[DEF]",
+			"name": "Dire Whorl",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "3.9*DEF",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks all enemies 2 times. The first hit removes all buffs from each target. The second hit places a [Hex] debuff for 2 turns.",
+			"basedOn": "[DEF]",
+			"name": "Doubled Degeneracy",
+			"maxcd": "5",
+			"mincd": "3",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
+			"multiplier": "2.1*DEF",
+			"numBooksToMax": "2"
+		},
+		{
+			"desc": "Whenever an ally attacks an enemy under a [Hex] debuff, this Champion has a 50% chance to team up and join the ally’s attack.",
+			"basedOn": "",
+			"name": "Courser of Curses [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Legendary",
+	"type": "Defense"
+}

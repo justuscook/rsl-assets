@@ -1,0 +1,53 @@
+{
+	"name": "Skink",
+	"key": "l10n:hero-type/name?id=2730#static",
+	"id": 2736,
+	"avatar": "2730",
+	"affinity": "Magic",
+	"hp": "13380",
+	"atk": "1310",
+	"def": "826",
+	"spd": "93",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
+	"faction": "Lizard Men",
+	"aura": "Increase undefined Ally ATK in  by 30",
+	"totalBooks": "13",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Will ignore [Block Damage] and [Shield] buffs.",
+			"basedOn": "[ATK]",
+			"name": "Slippery Strike",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
+			"multiplier": "3*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 50% chance of placing a 30% [Decrease DEF] debuff for 2 turns. Places a 50% [Heal Reduction] debuff for 2 turns if the target has a [Decrease DEF] debuff.",
+			"basedOn": "[ATK]",
+			"name": "Withering Poison",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "5.5*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks 1 enemy. The hit is critical if the target has a [Heal Reduction] debuff.",
+			"basedOn": "[ATK]",
+			"name": "Catalyze",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1\n",
+			"multiplier": "5.5*ATK",
+			"numBooksToMax": "4"
+		}
+	],
+	"rarity": "Rare",
+	"type": "Attack"
+}

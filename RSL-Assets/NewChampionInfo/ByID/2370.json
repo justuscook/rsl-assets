@@ -1,0 +1,39 @@
+{
+	"typeId": 2376,
+	"name": {
+		"key": "l10n:hero-type/name?id=2370#static",
+		"defaultValue": "Turvold",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "Barbarians",
+	"role": "Attack",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0315_Barbarian_Jotun",
+	"avatarKey": "2370",
+	"leaderSkill": {
+		"area": "Fractions",
+		"affinity": "",
+		"kind": "Attack",
+		"absolute": false,
+		"value": 0.42
+	},
+	"skillTypeIds": [
+		23701,
+		23704,
+		23703
+	],
+	"unscaledStats": {
+		"Health": 106,
+		"Attack": 136,
+		"Defense": 83,
+		"Speed": 93,
+		"Resistance": 40,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 63,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

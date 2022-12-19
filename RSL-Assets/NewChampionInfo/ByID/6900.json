@@ -1,0 +1,41 @@
+{
+	"typeId": 6906,
+	"name": {
+		"key": "l10n:hero-type/name?id=6900#static",
+		"defaultValue": "Yumeko ",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "Shadowkin",
+	"role": "Support",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0804_Yumeko_id6900",
+	"avatarKey": "6900",
+	"leaderSkill": {
+		"area": "",
+		"affinity": "",
+		"kind": "Accuracy",
+		"absolute": true,
+		"value": 60
+	},
+	"skillTypeIds": [
+		69001,
+		69002,
+		69003,
+		69004,
+		69005
+	],
+	"unscaledStats": {
+		"Health": 129,
+		"Attack": 79,
+		"Defense": 117,
+		"Speed": 105,
+		"Resistance": 30,
+		"Accuracy": 10,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

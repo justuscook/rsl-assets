@@ -1,0 +1,40 @@
+{
+	"typeId": 7116,
+	"name": {
+		"key": "l10n:hero-type/name?id=7110#static",
+		"defaultValue": "Nekmo Thaar",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "LizardMen",
+	"role": "Support",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0562_lizardmen_id7110",
+	"avatarKey": "7110",
+	"leaderSkill": {
+		"area": "",
+		"affinity": "",
+		"kind": "Speed",
+		"absolute": false,
+		"value": 0.19
+	},
+	"skillTypeIds": [
+		71101,
+		71102,
+		71103,
+		71104
+	],
+	"unscaledStats": {
+		"Health": 105,
+		"Attack": 112,
+		"Defense": 108,
+		"Speed": 104,
+		"Resistance": 30,
+		"Accuracy": 30,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

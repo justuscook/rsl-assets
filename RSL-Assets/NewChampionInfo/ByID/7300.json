@@ -1,0 +1,39 @@
+{
+	"typeId": 7306,
+	"name": {
+		"key": "l10n:hero-type/name?id=7300#static",
+		"defaultValue": "Skeuramis",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "HighElves",
+	"role": "Health",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0649_Highelves_id7300",
+	"avatarKey": "7300",
+	"leaderSkill": {
+		"area": "",
+		"affinity": "",
+		"kind": "Health",
+		"absolute": false,
+		"value": 0.25
+	},
+	"skillTypeIds": [
+		73001,
+		73002,
+		73003
+	],
+	"unscaledStats": {
+		"Health": 121,
+		"Attack": 77,
+		"Defense": 102,
+		"Speed": 97,
+		"Resistance": 30,
+		"Accuracy": 15,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

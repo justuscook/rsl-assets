@@ -1,0 +1,63 @@
+{
+	"name": "Tolf the Maimed",
+	"key": "l10n:hero-type/name?id=6370#static",
+	"id": 6376,
+	"avatar": "6370",
+	"affinity": "Void",
+	"hp": "21975",
+	"atk": "793",
+	"def": "1046",
+	"spd": "94",
+	"res": "45",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Orcs",
+	"aura": "",
+	"totalBooks": "10",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Each hit heals this Champion by 30% of the damage inflicted.\r\n\r\nThis attack cannot be critical.",
+			"basedOn": "[HP]",
+			"name": "Blade Hand Butcher",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\nLvl. 6 Damage +10%\n",
+			"multiplier": "0.21*HP",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks 1 enemy. When not attacking Bosses, inflicts pure damage and decreases the target’s HP to 50%. Inflicts damage based on this Champion’s MAX HP instead and places a [Stun] debuff for 1 turn if the target already has less than 50% HP.\r\n\r\nInflicts damage based on this Champion’s MAX HP when attacking Bosses.\r\n\r\nThis attack cannot be critical.",
+			"basedOn": "",
+			"name": "Cut Wide Open",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Damage +10%\nLvl. 6 Cooldown -1\n",
+			"multiplier": null,
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Skill 6666612 description",
+			"basedOn": "[CUR_HP][SHIELDS_SUM_VALUE][Enemy MAX HP]",
+			"name": "Skill 63703 name",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "(TRG_CUR_HP+TRG_SHIELDS_SUM_VALUE)-(0.5*TRG_HP)",
+			"numBooksToMax": "0"
+		},
+		{
+			"desc": "Decreases the values of all enemy [Shield] buffs by 50% at the start of every turn, then increases this Champion’s MAX HP by the same amount (up to 25% of their MAX HP).",
+			"basedOn": "[SHIELDS_SUM_VALUE]",
+			"name": "Armor Cracker [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Epic",
+	"type": "Health"
+}

@@ -1,0 +1,39 @@
+{
+	"typeId": 1646,
+	"name": {
+		"key": "l10n:hero-type/name?id=1640#static",
+		"defaultValue": "Nazana",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "Demonspawn",
+	"role": "Health",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0217_dark_scion",
+	"avatarKey": "1640",
+	"leaderSkill": {
+		"area": "Fractions",
+		"affinity": "",
+		"kind": "Health",
+		"absolute": false,
+		"value": 0.28
+	},
+	"skillTypeIds": [
+		16401,
+		16402,
+		16403
+	],
+	"unscaledStats": {
+		"Health": 130,
+		"Attack": 78,
+		"Defense": 92,
+		"Speed": 103,
+		"Resistance": 45,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

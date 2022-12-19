@@ -1,0 +1,40 @@
+{
+	"typeId": 6936,
+	"name": {
+		"key": "l10n:hero-type/name?id=6930#static",
+		"defaultValue": "Theresc",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "DarkElves",
+	"role": "Attack",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0660_darkelf_f_id6930",
+	"avatarKey": "6930",
+	"leaderSkill": {
+		"area": "",
+		"affinity": "",
+		"kind": "CriticalChance",
+		"absolute": false,
+		"value": 0.12
+	},
+	"skillTypeIds": [
+		69301,
+		69302,
+		69303,
+		69304
+	],
+	"unscaledStats": {
+		"Health": 99,
+		"Attack": 128,
+		"Defense": 73,
+		"Speed": 97,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 60,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

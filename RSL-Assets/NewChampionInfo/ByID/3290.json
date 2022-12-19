@@ -1,0 +1,39 @@
+{
+	"typeId": 3296,
+	"name": {
+		"key": "l10n:hero-type/name?id=3290#static",
+		"defaultValue": "Teshada",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "Barbarians",
+	"role": "Defense",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0252_Barbarians_Tank",
+	"avatarKey": "3290",
+	"leaderSkill": {
+		"area": "Fractions",
+		"affinity": "",
+		"kind": "Speed",
+		"absolute": false,
+		"value": 0.2
+	},
+	"skillTypeIds": [
+		32901,
+		32904,
+		32903
+	],
+	"unscaledStats": {
+		"Health": 99,
+		"Attack": 75,
+		"Defense": 126,
+		"Speed": 96,
+		"Resistance": 45,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

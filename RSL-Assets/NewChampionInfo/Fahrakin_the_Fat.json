@@ -1,0 +1,63 @@
+{
+	"name": "Fahrakin the Fat",
+	"key": "l10n:hero-type/name?id=5660#static",
+	"id": 5666,
+	"avatar": "5660",
+	"affinity": "Spirit",
+	"hp": "14535",
+	"atk": "1244",
+	"def": "1090",
+	"spd": "100",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "60",
+	"cheal": "50",
+	"faction": "Barbarians",
+	"aura": "",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 40% chance of placing a 60% [Decrease DEF] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Sizzling Strike",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
+			"multiplier": "4.3*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 75% chance of placing a [HP Burn] debuff and two 5% [Poison] debuffs for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Brand of Shame",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +10%\nLvl. 7 Cooldown -1\n",
+			"multiplier": "7.3*ATK",
+			"numBooksToMax": "6"
+		},
+		{
+			"desc": "Places a 30% [Increase C. RATE] buff and a 30% [Increase C. DMG] buff on all allies except this Champion for 3 turns. Then, all allies except this Champion will attack 1 target enemy.",
+			"basedOn": "",
+			"name": "Beatdown",
+			"maxcd": "6",
+			"mincd": "4",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
+		},
+		{
+			"desc": "Deflects 20% of all incoming damage this Champion receives onto all allies. The damage will be spread equally across all allies.",
+			"basedOn": "",
+			"name": "Body Block [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "-0.2*DMG_MUL",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Epic",
+	"type": "Attack"
+}

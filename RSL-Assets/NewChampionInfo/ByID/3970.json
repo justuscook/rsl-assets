@@ -1,0 +1,39 @@
+{
+	"typeId": 3976,
+	"name": {
+		"key": "l10n:hero-type/name?id=3970#static",
+		"defaultValue": "Mistress of Hymns",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "SacredOrder",
+	"role": "Support",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0268_Order_support_id3970",
+	"avatarKey": "3970",
+	"leaderSkill": {
+		"area": "",
+		"affinity": "",
+		"kind": "Defence",
+		"absolute": false,
+		"value": 0.25
+	},
+	"skillTypeIds": [
+		39701,
+		39702,
+		39704
+	],
+	"unscaledStats": {
+		"Health": 115,
+		"Attack": 93,
+		"Defense": 92,
+		"Speed": 103,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

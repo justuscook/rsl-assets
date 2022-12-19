@@ -1,0 +1,53 @@
+{
+	"name": "Muckstalker",
+	"key": "l10n:hero-type/name?id=880#static",
+	"id": 886,
+	"avatar": "880",
+	"affinity": "Magic",
+	"hp": "20475",
+	"atk": "903",
+	"def": "760",
+	"spd": "101",
+	"res": "40",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Lizard Men",
+	"aura": "Increase Ally HP in Faction Crypts by 22",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 30% chance of placing a [Block Buffs] debuff for 2 turns.",
+			"basedOn": "[ATK][HP]",
+			"name": "Pounce",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +10%\nLvl. 7 Buff/Debuff Chance +10%\n",
+			"multiplier": "1.5*ATK+0.12*HP",
+			"numBooksToMax": "6"
+		},
+		{
+			"desc": "Attacks 1 enemy. Places a [Sleep] debuff for 2 turns if the target has no active buffs.",
+			"basedOn": "[ATK][HP]",
+			"name": "Strangle",
+			"maxcd": "3",
+			"mincd": "2",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "2.5*ATK+0.2*HP",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Places a 15% [Continuous Heal] buff on this Champion for 2 turns if incoming damage exceeds 20% HP in one attack.",
+			"basedOn": "",
+			"name": "Herbal Balm [P]",
+			"maxcd": "2",
+			"mincd": "2",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Rare",
+	"type": "Health"
+}

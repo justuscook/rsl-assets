@@ -1,0 +1,40 @@
+{
+	"typeId": 4726,
+	"name": {
+		"key": "l10n:hero-type/name?id=4720#static",
+		"defaultValue": "Acrizia",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "Dwarves",
+	"role": "Attack",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0683_dwarfs_id4720",
+	"avatarKey": "4720",
+	"leaderSkill": {
+		"area": "",
+		"affinity": "",
+		"kind": "CriticalChance",
+		"absolute": false,
+		"value": 0.19
+	},
+	"skillTypeIds": [
+		47201,
+		47202,
+		47203,
+		47204
+	],
+	"unscaledStats": {
+		"Health": 96,
+		"Attack": 134,
+		"Defense": 95,
+		"Speed": 97,
+		"Resistance": 40,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 63,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

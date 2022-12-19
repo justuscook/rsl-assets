@@ -1,0 +1,39 @@
+{
+	"typeId": 2196,
+	"name": {
+		"key": "l10n:hero-type/name?id=2190#static",
+		"defaultValue": "Lamellar",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "SacredOrder",
+	"role": "Health",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0207_Order_Support_id2190",
+	"avatarKey": "2190",
+	"leaderSkill": {
+		"area": "Fractions",
+		"affinity": "",
+		"kind": "Health",
+		"absolute": false,
+		"value": 0.22
+	},
+	"skillTypeIds": [
+		21901,
+		21904,
+		21903
+	],
+	"unscaledStats": {
+		"Health": 119,
+		"Attack": 76,
+		"Defense": 80,
+		"Speed": 93,
+		"Resistance": 40,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

@@ -1,0 +1,53 @@
+{
+	"name": "Wagonbane",
+	"key": "l10n:hero-type/name?id=5170#static",
+	"id": 5176,
+	"avatar": "5170",
+	"affinity": "Magic",
+	"hp": "17175",
+	"atk": "947",
+	"def": "936",
+	"spd": "97",
+	"res": "30",
+	"acc": "10",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Ogryn Tribes",
+	"aura": "",
+	"totalBooks": "17",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 35% chance of placing a 50% [Decrease ACC] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Eye Blight",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +5%\nLvl. 7 Buff/Debuff Chance +5%\n",
+			"multiplier": "4.2*ATK",
+			"numBooksToMax": "6"
+		},
+		{
+			"desc": "Attacks 1 enemy. Places a 7.5% [Continuous Heal] buff on the ally with the lowest HP for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Hackgore Magic",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Cooldown -1\n",
+			"multiplier": "5.5*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 75% chance of placing a 60% [Decrease DEF] debuff for 2 turns. Also has a 75% chance of decreasing the target's Turn Meter by 15%.",
+			"basedOn": "[ATK]",
+			"name": "Start The Mayhem",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +5%\nLvl. 7 Buff/Debuff Chance +15%\nLvl. 8 Cooldown -1\n",
+			"multiplier": "6*ATK",
+			"numBooksToMax": "7"
+		}
+	],
+	"rarity": "Rare",
+	"type": "Support"
+}

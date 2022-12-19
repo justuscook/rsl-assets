@@ -1,0 +1,53 @@
+{
+	"name": "Skeuramis",
+	"key": "l10n:hero-type/name?id=7300#static",
+	"id": 7306,
+	"avatar": "7300",
+	"affinity": "Magic",
+	"hp": "19980",
+	"atk": "848",
+	"def": "1123",
+	"spd": "97",
+	"res": "30",
+	"acc": "15",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "High Elves",
+	"aura": "Increase Ally HP in  by 25",
+	"totalBooks": "15",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has an 80% chance of stealing 15% of the target’s Turn Meter. Has a 20% chance of placing a [Stun] debuff for 1 turn if the target’s Turn Meter is fully depleted by this skill.",
+			"basedOn": "[HP]",
+			"name": "Outpace",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +5%\n",
+			"multiplier": "0.21*HP",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks all enemies. Decreases the duration of all enemy buffs by 1 turn. Also has a 60% chance of placing a 50% [Decrease ATK] debuff for 2 turns. \r\n\r\nFills this Champion’s Turn Meter by 10% for each buff that has its duration decreased.",
+			"basedOn": "[HP]",
+			"name": "Effortless Superiority",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "0.25*HP",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Has a 75% chance of placing a [Provoke] debuff on all enemies for 1 turn. \r\n\r\nPlaces a [Counterattack] and a 15% [Continuous Heal] buff on this Champion for 2 turns.",
+			"basedOn": "",
+			"name": "Hold the Front",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "5"
+		}
+	],
+	"rarity": "Epic",
+	"type": "Health"
+}

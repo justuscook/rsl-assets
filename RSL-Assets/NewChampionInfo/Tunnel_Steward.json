@@ -1,0 +1,43 @@
+{
+	"name": "Tunnel Steward",
+	"key": "l10n:hero-type/name?id=4340#static",
+	"id": 4346,
+	"avatar": "4340",
+	"affinity": "Spirit",
+	"hp": "8925",
+	"atk": "1255",
+	"def": "903",
+	"spd": "95",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Dwarves",
+	"aura": "",
+	"totalBooks": "13",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 25% chance of placing a 2.5% [Poison] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Vermin Killer",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +5%\nLvl. 7 Damage +5%\n",
+			"multiplier": "3.2*ATK",
+			"numBooksToMax": "6"
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 50% chance of increasing the duration of 2 random debuffs on the target by 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Intensify",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Damage +5%\nLvl. 7 Damage +5%\nLvl. 8 Cooldown -1\n",
+			"multiplier": "5.5*ATK",
+			"numBooksToMax": "7"
+		}
+	],
+	"rarity": "Uncommon",
+	"type": "Attack"
+}

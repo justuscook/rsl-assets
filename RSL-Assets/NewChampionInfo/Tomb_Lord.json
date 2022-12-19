@@ -1,0 +1,53 @@
+{
+	"name": "Tomb Lord",
+	"key": "l10n:hero-type/name?id=350#static",
+	"id": 356,
+	"avatar": "350",
+	"affinity": "Spirit",
+	"hp": "18165",
+	"atk": "1387",
+	"def": "980",
+	"spd": "99",
+	"res": "30",
+	"acc": "20",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Knights Revenant",
+	"aura": "Increase Ally ACC in Doom Tower battles by 70",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 3 times. Places a 30% [Decrease SPD] debuff on the target for 2 turns if this attack is critical.",
+			"basedOn": "[ATK]",
+			"name": "Crippling Blows",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
+			"multiplier": "1.1*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 70% chance of placing two 5% [Poison] debuffs on all enemies for 2 turns. If the hit is critical, has a 70% chance of placing four 5% [Poison] debuffs on all enemies for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Death Burst",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +15%\nLvl. 5 Cooldown -1\n",
+			"multiplier": "5*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Decreases the Turn Meter of all enemies with less than 50% HP by 100%. Has an 80% chance of placing a 50% [Decrease ATK] debuff on all enemies for 2 turns. Also has an 80% chance of placing a 60% [Decrease DEF] debuff on all enemies for 2 turns. Gets an Extra Turn if an enemy's Turn Meter is decreased by this Skill.",
+			"basedOn": "",
+			"name": "Blight",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "4"
+		}
+	],
+	"rarity": "Legendary",
+	"type": "Support"
+}

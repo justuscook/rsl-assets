@@ -1,0 +1,39 @@
+{
+	"typeId": 2366,
+	"name": {
+		"key": "l10n:hero-type/name?id=2360#static",
+		"defaultValue": "Elenaril",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "HighElves",
+	"role": "Attack",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0238_HighElf_F",
+	"avatarKey": "2360",
+	"leaderSkill": {
+		"area": "Fractions",
+		"affinity": "",
+		"kind": "CriticalChance",
+		"absolute": false,
+		"value": 0.24
+	},
+	"skillTypeIds": [
+		23604,
+		23602,
+		23603
+	],
+	"unscaledStats": {
+		"Health": 88,
+		"Attack": 126,
+		"Defense": 111,
+		"Speed": 96,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 63,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

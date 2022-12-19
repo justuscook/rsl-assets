@@ -1,0 +1,39 @@
+{
+	"typeId": 986,
+	"name": {
+		"key": "l10n:hero-type/name?id=980#static",
+		"defaultValue": "Bystophus",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "KnightsRevenant",
+	"role": "Attack",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "980_Avatar",
+	"avatarKey": "21110",
+	"leaderSkill": {
+		"area": "",
+		"affinity": "",
+		"kind": "Accuracy",
+		"absolute": true,
+		"value": 70
+	},
+	"skillTypeIds": [
+		211101,
+		211102,
+		211103
+	],
+	"unscaledStats": {
+		"Health": 89,
+		"Attack": 163,
+		"Defense": 73,
+		"Speed": 100,
+		"Resistance": 30,
+		"Accuracy": 10,
+		"CriticalChance": 15,
+		"CriticalDamage": 63,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

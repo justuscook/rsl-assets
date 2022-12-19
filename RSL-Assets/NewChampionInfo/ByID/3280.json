@@ -1,0 +1,39 @@
+{
+	"typeId": 3286,
+	"name": {
+		"key": "l10n:hero-type/name?id=3280#static",
+		"defaultValue": "Golden Reaper",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "KnightsRevenant",
+	"role": "Support",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0241_boneknight_id3280",
+	"avatarKey": "3280",
+	"leaderSkill": {
+		"area": "Fractions",
+		"affinity": "",
+		"kind": "Accuracy",
+		"absolute": true,
+		"value": 40
+	},
+	"skillTypeIds": [
+		32801,
+		32804,
+		32803
+	],
+	"unscaledStats": {
+		"Health": 112,
+		"Attack": 103,
+		"Defense": 85,
+		"Speed": 111,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

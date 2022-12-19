@@ -1,0 +1,32 @@
+{
+	"typeId": 1246,
+	"name": {
+		"key": "l10n:hero-type/name?id=1240#static",
+		"defaultValue": "Windtalker",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "Skinwalkers",
+	"role": "Support",
+	"rarity": "Uncommon",
+	"ascended": 6,
+	"modelName": "201_goat_support_id1240",
+	"avatarKey": "1240",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		12401,
+		12402
+	],
+	"unscaledStats": {
+		"Health": 83,
+		"Attack": 82,
+		"Defense": 85,
+		"Speed": 87,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

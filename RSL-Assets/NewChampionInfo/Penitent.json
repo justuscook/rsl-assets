@@ -1,0 +1,53 @@
+{
+	"name": "Penitent",
+	"key": "l10n:hero-type/name?id=1980#static",
+	"id": 1986,
+	"avatar": "1980",
+	"affinity": "Spirit",
+	"hp": "14865",
+	"atk": "793",
+	"def": "1244",
+	"spd": "93",
+	"res": "40",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Sacred Order",
+	"aura": "",
+	"totalBooks": "10",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Has a 30% chance of placing a 25% [Decrease ATK] debuff for 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Sword of Faith",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Damage +10%\n",
+			"multiplier": "4.7*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks 1 enemy. Places a [Counterattack] buff on this Champion for 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Counter",
+			"maxcd": "3",
+			"mincd": "2",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Cooldown -1\n",
+			"multiplier": "8*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Removes all debuffs from this Champion. Places a [Block Debuffs] buff on this Champion for 3 turns.",
+			"basedOn": "",
+			"name": "Unshakable Faith",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Lvl. 2 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "1"
+		}
+	],
+	"rarity": "Rare",
+	"type": "Defense"
+}

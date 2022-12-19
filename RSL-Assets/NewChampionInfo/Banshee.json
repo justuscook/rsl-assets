@@ -1,0 +1,53 @@
+{
+	"name": "Banshee",
+	"key": "l10n:hero-type/name?id=20#static",
+	"id": 26,
+	"avatar": "20",
+	"affinity": "Magic",
+	"hp": "16515",
+	"atk": "980",
+	"def": "947",
+	"spd": "92",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Undead Hordes",
+	"aura": "Increase Ally  in Arena battles by 52",
+	"totalBooks": "14",
+	"skills": [
+		{
+			"desc": "Attacks all enemies. Has a 20% chance of placing a 30% [Decrease DEF] debuff for 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Grave Chill",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
+			"multiplier": "2.3*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 50% chance of removing 1 random buff from each target.",
+			"basedOn": "[ATK]",
+			"name": "Cursed Touch",
+			"maxcd": "3",
+			"mincd": "2",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "3.1*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks 2 times at random. Each attack has a 50% chance of placing a [Block Active Skills] debuff for 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Death Ray",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Damage +10%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "2.8*ATK",
+			"numBooksToMax": "5"
+		}
+	],
+	"rarity": "Rare",
+	"type": "Support"
+}

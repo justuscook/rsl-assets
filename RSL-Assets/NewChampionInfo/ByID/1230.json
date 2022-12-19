@@ -1,0 +1,39 @@
+{
+	"typeId": 1236,
+	"name": {
+		"key": "l10n:hero-type/name?id=1230#static",
+		"defaultValue": "Warden",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "DarkElves",
+	"role": "Defense",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0079_DarkElf",
+	"avatarKey": "1230",
+	"leaderSkill": {
+		"area": "Arena",
+		"affinity": "",
+		"kind": "Health",
+		"absolute": false,
+		"value": 0.3
+	},
+	"skillTypeIds": [
+		12301,
+		12302,
+		12303
+	],
+	"unscaledStats": {
+		"Health": 105,
+		"Attack": 79,
+		"Defense": 116,
+		"Speed": 98,
+		"Resistance": 45,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

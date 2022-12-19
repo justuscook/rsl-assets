@@ -1,0 +1,63 @@
+{
+	"name": "Yelagirna",
+	"key": "l10n:hero-type/name?id=7170#static",
+	"id": 7176,
+	"avatar": "7170",
+	"affinity": "Spirit",
+	"hp": "16515",
+	"atk": "1365",
+	"def": "837",
+	"spd": "95",
+	"res": "30",
+	"acc": "15",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Orcs",
+	"aura": "Increase Ally ATK in Faction Crypts by 30",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Places a 50% [Increase ATK] buff on this Champion for 2 turns if this attack kills an enemy.",
+			"basedOn": "[ATK]",
+			"name": "Breath Taker",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\n",
+			"multiplier": "2.1*ATK",
+			"numBooksToMax": "2"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 75% chance of placing a 50% [Decrease ATK] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Mortify",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "4*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 75% chance of placing a [Block Buffs] debuff and a [Block Active Skills] debuff for 2 turns. This attack is always critical.",
+			"basedOn": "[ATK]",
+			"name": "Sword of Loss",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "6.1*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Revives 1 random ally with 50% HP every time this Champion kills an enemy.",
+			"basedOn": "[Enemy MAX HP]",
+			"name": "Great Cycle [P]",
+			"maxcd": "2",
+			"mincd": "2",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Epic",
+	"type": "Attack"
+}

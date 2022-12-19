@@ -1,0 +1,39 @@
+{
+	"typeId": 3076,
+	"name": {
+		"key": "l10n:hero-type/name?id=3070#static",
+		"defaultValue": "Malbranche",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "Demonspawn",
+	"role": "Attack",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0213_Succub_id3070",
+	"avatarKey": "3070",
+	"leaderSkill": {
+		"area": "Arena",
+		"affinity": "",
+		"kind": "Speed",
+		"absolute": false,
+		"value": 0.16
+	},
+	"skillTypeIds": [
+		30704,
+		30702,
+		30703
+	],
+	"unscaledStats": {
+		"Health": 90,
+		"Attack": 120,
+		"Defense": 65,
+		"Speed": 111,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

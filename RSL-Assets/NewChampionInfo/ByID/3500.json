@@ -1,0 +1,40 @@
+{
+	"typeId": 3506,
+	"name": {
+		"key": "l10n:hero-type/name?id=3500#static",
+		"defaultValue": "Venus",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "SacredOrder",
+	"role": "Support",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0365_Valentine_f",
+	"avatarKey": "3500",
+	"leaderSkill": {
+		"area": "",
+		"affinity": "",
+		"kind": "Health",
+		"absolute": false,
+		"value": 0.33
+	},
+	"skillTypeIds": [
+		35001,
+		35004,
+		35003,
+		35005
+	],
+	"unscaledStats": {
+		"Health": 137,
+		"Attack": 99,
+		"Defense": 89,
+		"Speed": 112,
+		"Resistance": 30,
+		"Accuracy": 20,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

@@ -1,0 +1,63 @@
+{
+	"name": "Sigmund the Highshield",
+	"key": "l10n:hero-type/name?id=6540#static",
+	"id": 6546,
+	"avatar": "6540",
+	"affinity": "Magic",
+	"hp": "20640",
+	"atk": "848",
+	"def": "1354",
+	"spd": "97",
+	"res": "50",
+	"acc": "10",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Banner Lords",
+	"aura": "Increase Ally  in Doom Tower battles by 40",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Removes any [Shield] buffs. Also has a 50% chance of removing one random buff. Has a 75% chance instead when attacking Bosses.",
+			"basedOn": "[DEF]",
+			"name": "Fairer Fight",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +15%\n",
+			"multiplier": "3.75*DEF",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks all enemies 2 times. Each hit has a 50% chance of placing a [Provoke] debuff for 1 turn, and a 75% chance of placing a 50% [Decrease ATK] debuff for 2 turns.",
+			"basedOn": "[DEF]",
+			"name": "Battlefield Beacon",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "2*DEF",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Places a [Shield] buff on all allies for 2 turns equal to 30% of this Champion's MAX HP. Also places a 25% [Strengthen] buff on all allies for 2 turns.",
+			"basedOn": "[HP]",
+			"name": "Shield of the Realm",
+			"maxcd": "5",
+			"mincd": "3",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
+		},
+		{
+			"desc": "Whenever this Champion is attacked, has a 20% chance of decreasing the duration of all buffs on the attacker by 1 turn. Has a 40% chance instead when attacked by a Boss.",
+			"basedOn": "",
+			"name": "Equitable [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Legendary",
+	"type": "Defense"
+}

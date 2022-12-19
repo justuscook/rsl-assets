@@ -1,0 +1,40 @@
+{
+	"typeId": 5966,
+	"name": {
+		"key": "l10n:hero-type/name?id=5960#static",
+		"defaultValue": "Giscard the Sigiled",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "BannerLords",
+	"role": "Defense",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0522_Bannerlords",
+	"avatarKey": "5960",
+	"leaderSkill": {
+		"area": "Fractions",
+		"affinity": "",
+		"kind": "Defence",
+		"absolute": false,
+		"value": 0.27
+	},
+	"skillTypeIds": [
+		59601,
+		59602,
+		59603,
+		59604
+	],
+	"unscaledStats": {
+		"Health": 106,
+		"Attack": 62,
+		"Defense": 132,
+		"Speed": 96,
+		"Resistance": 45,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

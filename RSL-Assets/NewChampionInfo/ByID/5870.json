@@ -1,0 +1,33 @@
+{
+	"typeId": 5876,
+	"name": {
+		"key": "l10n:hero-type/name?id=5870#static",
+		"defaultValue": "Fanatic",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "Shadowkin",
+	"role": "Support",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "586_samurai_id5870",
+	"avatarKey": "5870",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		58701,
+		58702,
+		58704
+	],
+	"unscaledStats": {
+		"Health": 90,
+		"Attack": 92,
+		"Defense": 93,
+		"Speed": 97,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

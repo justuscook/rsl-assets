@@ -1,0 +1,53 @@
+{
+	"name": "Anointed",
+	"key": "l10n:hero-type/name?id=2100#static",
+	"id": 2106,
+	"avatar": "2100",
+	"affinity": "Force",
+	"hp": "15855",
+	"atk": "793",
+	"def": "1178",
+	"spd": "91",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Barbarians",
+	"aura": "",
+	"totalBooks": "9",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 3 times. Has a 25% chance of placing a [Freeze] debuff for 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Mystic Chill",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\n",
+			"multiplier": "1.7*ATK",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "Attacks 1 enemy 2 times. Each hit has a 75% chance of stealing 1 buff from the target.",
+			"basedOn": "[ATK]",
+			"name": "Vigor Theft",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "3.5*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Fills the Turn Meter of all allies by 25%. Places a 30% [Increase C. RATE] buff on all allies for 2 turns.",
+			"basedOn": "",
+			"name": "Chant of Violence",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Lvl. 2 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "1"
+		}
+	],
+	"rarity": "Rare",
+	"type": "Support"
+}

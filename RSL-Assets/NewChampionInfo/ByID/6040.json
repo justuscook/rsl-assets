@@ -1,0 +1,40 @@
+{
+	"typeId": 6046,
+	"name": {
+		"key": "l10n:hero-type/name?id=6040#static",
+		"defaultValue": "Genbo the Dishonored",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "Shadowkin",
+	"role": "Attack",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0627_samurai_id6040",
+	"avatarKey": "6040",
+	"leaderSkill": {
+		"area": "Arena",
+		"affinity": "",
+		"kind": "Speed",
+		"absolute": false,
+		"value": 0.2
+	},
+	"skillTypeIds": [
+		60401,
+		60402,
+		60403,
+		60404
+	],
+	"unscaledStats": {
+		"Health": 85,
+		"Attack": 128,
+		"Defense": 87,
+		"Speed": 99,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 60,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

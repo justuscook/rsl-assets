@@ -1,0 +1,39 @@
+{
+	"typeId": 136,
+	"name": {
+		"key": "l10n:hero-type/name?id=130#static",
+		"defaultValue": "Royal Guard",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "HighElves",
+	"role": "Attack",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0113_Elf_combined",
+	"avatarKey": "130",
+	"leaderSkill": {
+		"area": "Dungeon",
+		"affinity": "",
+		"kind": "Attack",
+		"absolute": false,
+		"value": 0.35
+	},
+	"skillTypeIds": [
+		1301,
+		1302,
+		1303
+	],
+	"unscaledStats": {
+		"Health": 91,
+		"Attack": 139,
+		"Defense": 70,
+		"Speed": 93,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 60,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

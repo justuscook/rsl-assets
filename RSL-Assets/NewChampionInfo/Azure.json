@@ -1,0 +1,53 @@
+{
+	"name": "Azure",
+	"key": "l10n:hero-type/name?id=1180#static",
+	"id": 1186,
+	"avatar": "1180",
+	"affinity": "Void",
+	"hp": "19320",
+	"atk": "958",
+	"def": "1057",
+	"spd": "97",
+	"res": "45",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Banner Lords",
+	"aura": "Increase Ally HP in  by 25",
+	"totalBooks": "13",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Each hit has a 30% chance of placing a [Stun] debuff for 1 turn. This chance increases to 100% if the target has an [Increase SPD] buff.",
+			"basedOn": "[ATK]",
+			"name": "Lunge",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\nLvl. 6 Damage +10%\n",
+			"multiplier": "ATK*2.1",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Places a 50% [Ally Protection] buff on all allies except this Champion for 2 turns. Places a [Shield] buff on this Champion equal to 40% of this Champion's MAX HP for 2 turns. This buff cannot be removed.",
+			"basedOn": "",
+			"name": "Aegis",
+			"maxcd": "6",
+			"mincd": "4",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
+		},
+		{
+			"desc": "Attacks 1 enemy. Places an extra hit if the target has a [Stun] debuff. The extra hit is always critical. Steals 50% of the target's Turn Meter if they are not under a [Stun] debuff.",
+			"basedOn": "[ATK][HP]",
+			"name": "Coup de Grace",
+			"maxcd": "5",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Cooldown -1\nLvl. 5 Damage +10%\nLvl. 6 Damage +10%\nLvl. 7 Cooldown -1\n",
+			"multiplier": "2*ATK+0.2*HP",
+			"numBooksToMax": "6"
+		}
+	],
+	"rarity": "Epic",
+	"type": "Health"
+}

@@ -1,0 +1,63 @@
+{
+	"name": "Corvis the Corruptor",
+	"key": "l10n:hero-type/name?id=4920#static",
+	"id": 4926,
+	"avatar": "4920",
+	"affinity": "Magic",
+	"hp": "19155",
+	"atk": "903",
+	"def": "1398",
+	"spd": "99",
+	"res": "40",
+	"acc": "20",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Sacred Order",
+	"aura": "Increase Ally  in  by 30",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 40% chance of placing a 50% [Decrease ATK] debuff for 2 turns.",
+			"basedOn": "[DEF]",
+			"name": "Reductive Process",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"multiplier": "3.1*DEF",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies 2 times. The first hit increases the duration of all enemy debuffs by 1 turn. The second hit increases the duration of all ally buffs by 1 turn.",
+			"basedOn": "[DEF]",
+			"name": "Medical Miracle",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1\n",
+			"multiplier": "1.9*DEF",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies 2 times. Each hit has a 75% chance of placing two 5% [Poison] debuffs for 2 turns. \r\n\r\nAfter attacking, places a 25% [Poison Sensitivity] debuff on enemies under 2 or more [Poison] debuffs.",
+			"basedOn": "[DEF]",
+			"name": "Field Research",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +15%\nLvl. 5 Cooldown -1\n",
+			"multiplier": "2*DEF",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Decreases the damage enemies under [Poison] debuffs inflict (5% less damage per [Poison] debuff, stacks up to 25%).",
+			"basedOn": "[EffectsAppliedOnTargetCountOfKind][ContinuousDamage_KindId]",
+			"name": "Curious Draught [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Legendary",
+	"type": "Defense"
+}

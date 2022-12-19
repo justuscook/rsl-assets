@@ -1,0 +1,33 @@
+{
+	"typeId": 5706,
+	"name": {
+		"key": "l10n:hero-type/name?id=5700#static",
+		"defaultValue": "Old Hermit Jorrg",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "Orcs",
+	"role": "Support",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "515_Orc_ID5700",
+	"avatarKey": "5700",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		57001,
+		57002,
+		57003
+	],
+	"unscaledStats": {
+		"Health": 99,
+		"Attack": 103,
+		"Defense": 98,
+		"Speed": 104,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

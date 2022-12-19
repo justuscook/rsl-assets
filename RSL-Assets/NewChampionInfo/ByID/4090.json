@@ -1,0 +1,39 @@
+{
+	"typeId": 4096,
+	"name": {
+		"key": "l10n:hero-type/name?id=4090#static",
+		"defaultValue": "Sandlashed Survivor",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "Orcs",
+	"role": "Defense",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0308_Orc_f",
+	"avatarKey": "4090",
+	"leaderSkill": {
+		"area": "",
+		"affinity": "",
+		"kind": "Defence",
+		"absolute": false,
+		"value": 0.25
+	},
+	"skillTypeIds": [
+		40902,
+		40904,
+		40903
+	],
+	"unscaledStats": {
+		"Health": 91,
+		"Attack": 85,
+		"Defense": 124,
+		"Speed": 94,
+		"Resistance": 45,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

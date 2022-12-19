@@ -1,0 +1,40 @@
+{
+	"typeId": 6036,
+	"name": {
+		"key": "l10n:hero-type/name?id=6030#static",
+		"defaultValue": "Chani",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "Shadowkin",
+	"role": "Attack",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0447_samurai_id6030",
+	"avatarKey": "6030",
+	"leaderSkill": {
+		"area": "",
+		"affinity": "",
+		"kind": "Accuracy",
+		"absolute": true,
+		"value": 40
+	},
+	"skillTypeIds": [
+		60301,
+		60302,
+		60303,
+		60304
+	],
+	"unscaledStats": {
+		"Health": 84,
+		"Attack": 130,
+		"Defense": 86,
+		"Speed": 96,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 60,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

@@ -1,0 +1,39 @@
+{
+	"typeId": 1026,
+	"name": {
+		"key": "l10n:hero-type/name?id=1020#static",
+		"defaultValue": "Erinyes",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "Demonspawn",
+	"role": "Attack",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "1020_Sucubus",
+	"avatarKey": "1020",
+	"leaderSkill": {
+		"area": "Dungeon",
+		"affinity": "",
+		"kind": "Accuracy",
+		"absolute": true,
+		"value": 70
+	},
+	"skillTypeIds": [
+		10201,
+		10203,
+		10202
+	],
+	"unscaledStats": {
+		"Health": 79,
+		"Attack": 141,
+		"Defense": 80,
+		"Speed": 103,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

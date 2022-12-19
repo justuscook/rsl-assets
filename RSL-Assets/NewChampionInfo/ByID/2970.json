@@ -1,0 +1,32 @@
+{
+	"typeId": 2976,
+	"name": {
+		"key": "l10n:hero-type/name?id=2970#static",
+		"defaultValue": "Zephyr Sniper",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "Barbarians",
+	"role": "Defense",
+	"rarity": "Uncommon",
+	"ascended": 6,
+	"modelName": "0290_barbarian_f_id2970",
+	"avatarKey": "2970",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		29701,
+		29702
+	],
+	"unscaledStats": {
+		"Health": 81,
+		"Attack": 56,
+		"Defense": 113,
+		"Speed": 100,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

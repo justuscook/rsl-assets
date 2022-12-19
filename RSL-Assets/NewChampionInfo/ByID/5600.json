@@ -1,0 +1,34 @@
+{
+	"typeId": 5606,
+	"name": {
+		"key": "l10n:hero-type/name?id=5600#static",
+		"defaultValue": "Uugo",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "OgrynTribes",
+	"role": "Support",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "495_ogre_id5600",
+	"avatarKey": "5600",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		56001,
+		56002,
+		56003,
+		56004
+	],
+	"unscaledStats": {
+		"Health": 119,
+		"Attack": 67,
+		"Defense": 114,
+		"Speed": 102,
+		"Resistance": 30,
+		"Accuracy": 15,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

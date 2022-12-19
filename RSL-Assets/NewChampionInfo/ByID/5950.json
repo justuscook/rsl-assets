@@ -1,0 +1,33 @@
+{
+	"typeId": 5956,
+	"name": {
+		"key": "l10n:hero-type/name?id=5950#static",
+		"defaultValue": "Fenshi",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "Shadowkin",
+	"role": "Attack",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0441_Samurai_id5950",
+	"avatarKey": "5950",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		59501,
+		59502,
+		59503
+	],
+	"unscaledStats": {
+		"Health": 100,
+		"Attack": 133,
+		"Defense": 67,
+		"Speed": 97,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 60,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

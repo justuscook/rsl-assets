@@ -1,0 +1,33 @@
+{
+	"typeId": 2106,
+	"name": {
+		"key": "l10n:hero-type/name?id=2100#static",
+		"defaultValue": "Anointed",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "Barbarians",
+	"role": "Support",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0186_Blue_Barbarian",
+	"avatarKey": "2100",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		21001,
+		21002,
+		21003
+	],
+	"unscaledStats": {
+		"Health": 96,
+		"Attack": 72,
+		"Defense": 107,
+		"Speed": 91,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

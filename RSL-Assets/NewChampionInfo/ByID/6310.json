@@ -1,0 +1,40 @@
+{
+	"typeId": 6316,
+	"name": {
+		"key": "l10n:hero-type/name?id=6310#static",
+		"defaultValue": "Vasal of the Seal",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "Demonspawn",
+	"role": "Health",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0488_Demon_id6310",
+	"avatarKey": "6310",
+	"leaderSkill": {
+		"area": "",
+		"affinity": "",
+		"kind": "Health",
+		"absolute": false,
+		"value": 0.33
+	},
+	"skillTypeIds": [
+		63101,
+		63102,
+		63103,
+		63104
+	],
+	"unscaledStats": {
+		"Health": 129,
+		"Attack": 79,
+		"Defense": 117,
+		"Speed": 98,
+		"Resistance": 40,
+		"Accuracy": 20,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

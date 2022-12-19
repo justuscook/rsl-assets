@@ -1,0 +1,53 @@
+{
+	"name": "Misericord",
+	"key": "l10n:hero-type/name?id=6620#static",
+	"id": 6626,
+	"avatar": "6620",
+	"affinity": "Magic",
+	"hp": "12060",
+	"atk": "1365",
+	"def": "859",
+	"spd": "98",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
+	"faction": "Banner Lords",
+	"aura": "",
+	"totalBooks": "9",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Each hit has a 15% chance of placing a 30% [Decrease SPD] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Pity Slaying",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
+			"multiplier": "1.7*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Fills this Champion’s Turn Meter by 5% for each living enemy.",
+			"basedOn": "[ATK]",
+			"name": "Stay Vigilant",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1\n",
+			"multiplier": "3.8*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Places a [Counterattack] buff and a 25% [Increase ATK] buff on this Champion for 2 turns.",
+			"basedOn": "",
+			"name": "Bitter Tears",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Lvl. 2 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "1"
+		}
+	],
+	"rarity": "Rare",
+	"type": "Attack"
+}

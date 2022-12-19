@@ -1,0 +1,53 @@
+{
+	"name": "Heiress",
+	"key": "l10n:hero-type/name?id=390#static",
+	"id": 396,
+	"avatar": "390",
+	"affinity": "Force",
+	"hp": "12390",
+	"atk": "1167",
+	"def": "1035",
+	"spd": "94",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
+	"faction": "High Elves",
+	"aura": "Increase Ally SPD in Dungeons by 16",
+	"totalBooks": "8",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Grants an Extra Turn if the target is killed.",
+			"basedOn": "[ATK]",
+			"name": "Bullseye",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "3*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Removes 1 random debuff from all allies. Has a 60% chance of placing a 30% [Increase SPD] on all allies for 2 turns.",
+			"basedOn": "",
+			"name": "Exhortation",
+			"maxcd": "3",
+			"mincd": "3",
+			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"multiplier": "",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Counterattacks the attacker when an ally is attacked.",
+			"basedOn": "",
+			"name": "Avenger [P]",
+			"maxcd": "1",
+			"mincd": "1",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Rare",
+	"type": "Attack"
+}

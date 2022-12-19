@@ -1,0 +1,39 @@
+{
+	"typeId": 416,
+	"name": {
+		"key": "l10n:hero-type/name?id=410#static",
+		"defaultValue": "Skartorsis",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "UndeadHordes",
+	"role": "Support",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0051_Skeleton",
+	"avatarKey": "410",
+	"leaderSkill": {
+		"area": "Dungeon",
+		"affinity": "",
+		"kind": "Speed",
+		"absolute": false,
+		"value": 0.33
+	},
+	"skillTypeIds": [
+		4101,
+		4102,
+		4104
+	],
+	"unscaledStats": {
+		"Health": 122,
+		"Attack": 78,
+		"Defense": 125,
+		"Speed": 109,
+		"Resistance": 40,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

@@ -1,0 +1,40 @@
+{
+	"typeId": 5516,
+	"name": {
+		"key": "l10n:hero-type/name?id=5510#static",
+		"defaultValue": "Yakarl the Scourge",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "Barbarians",
+	"role": "Attack",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "602_ChristmasNord_ID5510",
+	"avatarKey": "5510",
+	"leaderSkill": {
+		"area": "",
+		"affinity": "",
+		"kind": "Attack",
+		"absolute": false,
+		"value": 0.33
+	},
+	"skillTypeIds": [
+		55101,
+		55102,
+		55103,
+		55104
+	],
+	"unscaledStats": {
+		"Health": 99,
+		"Attack": 145,
+		"Defense": 81,
+		"Speed": 95,
+		"Resistance": 30,
+		"Accuracy": 10,
+		"CriticalChance": 15,
+		"CriticalDamage": 63,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

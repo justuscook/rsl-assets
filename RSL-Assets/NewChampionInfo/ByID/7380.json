@@ -1,0 +1,40 @@
+{
+	"typeId": 7386,
+	"name": {
+		"key": "l10n:hero-type/name?id=7380#static",
+		"defaultValue": "Greenwarden Ruarc",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "NyresanElves",
+	"role": "Defense",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0820_Forestelves_id7380",
+	"avatarKey": "7380",
+	"leaderSkill": {
+		"area": "",
+		"affinity": "",
+		"kind": "Defence",
+		"absolute": false,
+		"value": 0.3
+	},
+	"skillTypeIds": [
+		73801,
+		73802,
+		73803,
+		73804
+	],
+	"unscaledStats": {
+		"Health": 119,
+		"Attack": 70,
+		"Defense": 136,
+		"Speed": 102,
+		"Resistance": 50,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

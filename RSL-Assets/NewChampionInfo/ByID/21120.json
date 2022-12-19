@@ -1,0 +1,40 @@
+{
+	"typeId": 996,
+	"name": {
+		"key": "l10n:hero-type/name?id=990#static",
+		"defaultValue": "Mortu-Macaab",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "Demonspawn",
+	"role": "Health",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "990_Fiend",
+	"avatarKey": "21120",
+	"leaderSkill": {
+		"area": "",
+		"affinity": "",
+		"kind": "Speed",
+		"absolute": false,
+		"value": 0.24
+	},
+	"skillTypeIds": [
+		211201,
+		211202,
+		211203,
+		211204
+	],
+	"unscaledStats": {
+		"Health": 140,
+		"Attack": 104,
+		"Defense": 81,
+		"Speed": 94,
+		"Resistance": 40,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 63,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

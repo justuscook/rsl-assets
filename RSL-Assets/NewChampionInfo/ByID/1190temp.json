@@ -1,0 +1,32 @@
+{
+	"typeId": 1196,
+	"name": {
+		"key": "l10n:hero-type/name?id=1190#static",
+		"defaultValue": "Vulpine",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "UndeadHordes",
+	"role": "Attack",
+	"rarity": "Uncommon",
+	"ascended": 6,
+	"modelName": "0052_Beast_1190",
+	"avatarKey": "1190temp",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		11901,
+		11902
+	],
+	"unscaledStats": {
+		"Health": 67,
+		"Attack": 108,
+		"Defense": 75,
+		"Speed": 87,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

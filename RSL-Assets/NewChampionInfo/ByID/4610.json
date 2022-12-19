@@ -1,0 +1,40 @@
+{
+	"typeId": 4616,
+	"name": {
+		"key": "l10n:hero-type/name?id=4610#static",
+		"defaultValue": "Valla",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "Barbarians",
+	"role": "Defense",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0287_Barbarian_f",
+	"avatarKey": "4610",
+	"leaderSkill": {
+		"area": "Arena",
+		"affinity": "",
+		"kind": "Resistance",
+		"absolute": true,
+		"value": 45
+	},
+	"skillTypeIds": [
+		46101,
+		46105,
+		46103,
+		46104
+	],
+	"unscaledStats": {
+		"Health": 102,
+		"Attack": 70,
+		"Defense": 128,
+		"Speed": 99,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 60,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

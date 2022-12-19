@@ -1,0 +1,40 @@
+{
+	"typeId": 6146,
+	"name": {
+		"key": "l10n:hero-type/name?id=6140#static",
+		"defaultValue": "Skathix",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "LizardMen",
+	"role": "Support",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0564_Lizardmen_id6140",
+	"avatarKey": "6140",
+	"leaderSkill": {
+		"area": "",
+		"affinity": "",
+		"kind": "Resistance",
+		"absolute": true,
+		"value": 40
+	},
+	"skillTypeIds": [
+		61401,
+		61402,
+		61403,
+		61404
+	],
+	"unscaledStats": {
+		"Health": 110,
+		"Attack": 94,
+		"Defense": 96,
+		"Speed": 95,
+		"Resistance": 30,
+		"Accuracy": 15,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

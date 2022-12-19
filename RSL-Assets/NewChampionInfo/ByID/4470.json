@@ -1,0 +1,33 @@
+{
+	"typeId": 4476,
+	"name": {
+		"key": "l10n:hero-type/name?id=4470#static",
+		"defaultValue": "Coffin Smasher",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "KnightsRevenant",
+	"role": "Health",
+	"rarity": "Rare",
+	"ascended": 6,
+	"modelName": "0379_Revenant_tank",
+	"avatarKey": "4470",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		44704,
+		44702,
+		44703
+	],
+	"unscaledStats": {
+		"Health": 128,
+		"Attack": 62,
+		"Defense": 85,
+		"Speed": 92,
+		"Resistance": 40,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}
