@@ -1,0 +1,53 @@
+{
+	"name": "Ragemonger",
+	"key": "l10n:hero-type/name?id=3710#static",
+	"id": 3716,
+	"avatar": "3710",
+	"affinity": "Void",
+	"hp": "12720",
+	"atk": "1211",
+	"def": "969",
+	"spd": "98",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
+	"faction": "Barbarians",
+	"aura": "Increase Ally ATK in Campaign Battles by 21",
+	"totalBooks": "13",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Places a 7.5% [Continuous Heal] buff on this Champion for 1 turn if the hit is critical.",
+			"basedOn": "[ATK]",
+			"name": "Recoup",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Damage +10%\n",
+			"multiplier": "3.4*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies 2 times. Each hit has a 50% chance of placing a 2.5% [Poison] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Toxin Flurry",
+			"maxcd": "4",
+			"mincd": "4",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"multiplier": "1.75*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 40% chance of placing a [HP Burn] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Scorch Shot",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "6*ATK",
+			"numBooksToMax": "5"
+		}
+	],
+	"rarity": "Rare",
+	"type": "Attack"
+}

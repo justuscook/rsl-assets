@@ -1,0 +1,63 @@
+{
+	"name": "Sikara",
+	"key": "l10n:hero-type/name?id=3260#static",
+	"id": 3266,
+	"avatar": "3260",
+	"affinity": "Magic",
+	"hp": "19485",
+	"atk": "804",
+	"def": "1200",
+	"spd": "101",
+	"res": "30",
+	"acc": "15",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Barbarians",
+	"aura": "",
+	"totalBooks": "18",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Fills this Champion’s Turn Meter by 25% if this attack is critical.",
+			"basedOn": "[ATK]",
+			"name": "Followup Volley",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "5.4*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies 3 times. Each hit has a 40% chance of removing 1 random buff from the target.",
+			"basedOn": "[ATK]",
+			"name": "Aura Puncture",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Damage +15%\nLvl. 7 Cooldown -1\n",
+			"multiplier": "1.4*ATK",
+			"numBooksToMax": "6"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 60% chance of placing a 25% [Weaken] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Enfeebling Tips",
+			"maxcd": "6",
+			"mincd": "4",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +10%\nLvl. 7 Buff/Debuff Chance +10%\nLvl. 8 Cooldown -1\nLvl. 9 Cooldown -1\n",
+			"multiplier": "4.3*ATK",
+			"numBooksToMax": "8"
+		},
+		{
+			"desc": "Revives this Champion with 75% HP when killed.\r\n\r\n[Only available when Alika is on the same team and alive.]",
+			"basedOn": "[HP]",
+			"name": "Devoted Sister [P]",
+			"maxcd": "7",
+			"mincd": "7",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Epic",
+	"type": "Support"
+}

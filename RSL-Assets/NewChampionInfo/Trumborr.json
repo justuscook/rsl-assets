@@ -1,0 +1,63 @@
+{
+	"name": "Trumborr",
+	"key": "l10n:hero-type/name?id=7560#static",
+	"id": 7566,
+	"avatar": "7560",
+	"affinity": "Spirit",
+	"hp": "18330",
+	"atk": "749",
+	"def": "1332",
+	"spd": "99",
+	"res": "45",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Orcs",
+	"aura": "",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. The first hit has a 30% chance of placing a 25% [Weaken] debuff for 2 turns. The second hit has a 30% chance of placing a [Leech] debuff for 2 turns.",
+			"basedOn": "[DEF]",
+			"name": "Double Whammy",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"multiplier": "1.8*DEF",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. \r\n\r\nRemoves 1 random debuff from all allies before attacking. Damage increases by 5% for each debuff removed.",
+			"basedOn": "",
+			"name": "Vigor Explosion",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Cooldown -1\n",
+			"multiplier": null,
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "Places a 50% [Ally Protection] buff on all allies except this Champion for 2 turns. \r\n\r\nPlaces a 60% [Increase DEF] buff on this Champion for 2 turns.",
+			"basedOn": "",
+			"name": "Wall of Muscle",
+			"maxcd": "6",
+			"mincd": "4",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
+		},
+		{
+			"desc": "Whenever this Champion is attacked, has a 20% chance of decreasing the duration of all debuffs on this Champion by 1 turn.",
+			"basedOn": "",
+			"name": "Shrug Off [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Buff/Debuff Chance +10%\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
+		}
+	],
+	"rarity": "Epic",
+	"type": "Defense"
+}

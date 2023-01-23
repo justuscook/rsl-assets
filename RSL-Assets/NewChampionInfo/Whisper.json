@@ -1,0 +1,63 @@
+{
+	"name": "Whisper",
+	"key": "l10n:hero-type/name?id=4620#static",
+	"id": 4626,
+	"avatar": "4620",
+	"affinity": "Void",
+	"hp": "16020",
+	"atk": "1443",
+	"def": "793",
+	"spd": "95",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "60",
+	"cheal": "50",
+	"faction": "Knights Revenant",
+	"aura": "Increase Ally ATK in Dungeons by 28.999999999999996",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 50% chance of placing a 25% [Weaken] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Softening Drive",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"multiplier": "4*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy. Places a 50% [Increase ATK] buff and a 30% [Increase C. RATE] buff on this Champion for 2 turns before attacking if the target has higher MAX HP than this Champion. Will ignore DEF if the target is under a [Weaken] debuff.",
+			"basedOn": "[ATK]",
+			"name": "Charged Assault",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1\n",
+			"multiplier": "3.8*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy 2 times. Grants an Extra Turn if the target is under [Decrease DEF] and [Weaken] debuffs.",
+			"basedOn": "[ATK]",
+			"name": "Unyielding Flurry",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1\n",
+			"multiplier": "2.6*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Has a 10% chance of granting an Extra Turn whenever this Champion lands a critical hit. Increases damage inflicted on Bosses by 20%.",
+			"basedOn": "",
+			"name": "Unrelenting [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Epic",
+	"type": "Attack"
+}

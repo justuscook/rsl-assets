@@ -1,0 +1,63 @@
+{
+	"name": "Gaius the Gleeful",
+	"key": "l10n:hero-type/name?id=7070#static",
+	"id": 7076,
+	"avatar": "7070",
+	"affinity": "Magic",
+	"hp": "15195",
+	"atk": "1586",
+	"def": "980",
+	"spd": "105",
+	"res": "30",
+	"acc": "10",
+	"crate": "15",
+	"cdamage": "63",
+	"cheal": "50",
+	"faction": "Knights Revenant",
+	"aura": "Increase Ally ATK in  by 25",
+	"totalBooks": "10",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Grants an Extra Turn if this attack kills an enemy.",
+			"basedOn": "[ATK]",
+			"name": "Chuckling Sickles",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\n",
+			"multiplier": "1.8*ATK",
+			"numBooksToMax": "2"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 75% chance of placing a [Sleep] debuff on each enemy for 1 turn. Also has a 75% chance of placing 2 [Bomb] debuffs on each enemy that detonate after 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Jester's Remedy",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "3.8*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks 1 enemy 2 times. The first hit instantly detonates all [Bomb] debuffs on the target. The second hit will ignore all [Unkillable] buffs on the target.",
+			"basedOn": "[ATK]",
+			"name": "Explosive Wit",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Cooldown -1\n",
+			"multiplier": "2.9*ATK",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "When attacked, has a 30% chance of placing a [Bomb] debuff on the attacker that detonates after 2 turns. Occurs once per hit.\r\n\r\nInstantly detonates all [Bomb] debuffs on all enemies whenever this Champion is killed.",
+			"basedOn": "[ATK]",
+			"name": "Mad Bomber [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Legendary",
+	"type": "Attack"
+}

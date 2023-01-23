@@ -1,0 +1,53 @@
+{
+	"name": "Siegebreaker",
+	"key": "l10n:hero-type/name?id=1610#static",
+	"id": 1616,
+	"avatar": "1610_temp",
+	"affinity": "Spirit",
+	"hp": "14040",
+	"atk": "1211",
+	"def": "881",
+	"spd": "90",
+	"res": "40",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Ogryn Tribes",
+	"aura": "",
+	"totalBooks": "14",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times.",
+			"basedOn": "[ATK]",
+			"name": "Pelting Blows",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Damage +5%\n",
+			"multiplier": "1.5*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks 1 enemy. Has an 80% chance of placing a [Block Active Skills] debuff for 1 turn if this attack is critical.",
+			"basedOn": "[ATK]",
+			"name": "Electrocute",
+			"maxcd": "3",
+			"mincd": "2",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "6.6*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Places a 30% [Increase C. RATE] buff on this Champion for 2 turns, then attacks all enemies. Has a 50% Chance of decreasing the Turn Meter by 30% if this attack is critical.",
+			"basedOn": "",
+			"name": "Heavenly Roar",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +15%\nLvl. 5 Cooldown -1\n",
+			"multiplier": null,
+			"numBooksToMax": "4"
+		}
+	],
+	"rarity": "Rare",
+	"type": "Attack"
+}

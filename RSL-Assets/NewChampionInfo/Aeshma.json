@@ -1,0 +1,63 @@
+{
+	"name": "Aeshma",
+	"key": "l10n:hero-type/name?id=7530#static",
+	"id": 7536,
+	"avatar": "7530",
+	"affinity": "Magic",
+	"hp": "14535",
+	"atk": "1354",
+	"def": "980",
+	"spd": "98",
+	"res": "30",
+	"acc": "15",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Knights Revenant",
+	"aura": "",
+	"totalBooks": "13",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Each hit has a 20% chance of placing a 5% [Poison] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Ichor Sickles",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\n",
+			"multiplier": "1.9*ATK",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 75% chance of placing a 25% [Weaken] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Wasting Affliction",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "4*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 75% chance of decreasing the duration of all enemy buffs by 1 turn. \r\n\r\nAlso has a 75% chance of increasing the duration of all enemy debuffs by 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Languish",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "6*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Heals this Champion by 3% of their MAX HP whenever an enemy receives damage from a [Poison] debuff.",
+			"basedOn": "[HP]",
+			"name": "Venom for Blood [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Epic",
+	"type": "Attack"
+}

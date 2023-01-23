@@ -1,0 +1,63 @@
+{
+	"name": "Cleopterix",
+	"key": "l10n:hero-type/name?id=6230#static",
+	"id": 6236,
+	"avatar": "6230",
+	"affinity": "Spirit",
+	"hp": "14535",
+	"atk": "1531",
+	"def": "1079",
+	"spd": "102",
+	"res": "30",
+	"acc": "10",
+	"crate": "15",
+	"cdamage": "63",
+	"cheal": "50",
+	"faction": "Skinwalkers",
+	"aura": "",
+	"totalBooks": "13",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 30% chance of placing a 25% [Weaken] debuff for 2 turns. The chance increases to 50% if the target is under a [Hex] debuff. \r\n\r\nPlaces a [Perfect Veil] buff on this Champion for 1 turn if this attack kills an enemy under a [Hex] debuff.",
+			"basedOn": "[ATK]",
+			"name": "Death Dive",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"multiplier": "3.5*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Places a 30% [Increase C. RATE] buff and a 30% [Increase C. DMG] buff on this Champion for 2 turns, then attacks all enemies. Has a 75% chance of placing a [Block Active Skills] debuff for 2 turns on targets under [Hex] debuffs.",
+			"basedOn": "",
+			"name": "Feather Barrage",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +15%\nLvl. 5 Cooldown -1\n",
+			"multiplier": null,
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Places a 50% [Increase ACC] buff on this Champion for 2 turns, then attacks all enemies. Has a 75% chance of placing a [Hex] debuff for 3 turns.\r\n\r\nHas a 100% chance of placing a [Fear] debuff for 1 turn instead on enemies under [Hex] debuffs.",
+			"basedOn": "",
+			"name": "Sky Punishment",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1\n",
+			"multiplier": null,
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Counterattacks with the default skill every time this Champion loses 30% HP or more in a single turn. Always counterattacks when attacked if 2 or more allies are dead.",
+			"basedOn": "",
+			"name": "Countermand [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Legendary",
+	"type": "Attack"
+}

@@ -1,0 +1,63 @@
+{
+	"name": "Nekmo Thaar",
+	"key": "l10n:hero-type/name?id=7110#static",
+	"id": 7116,
+	"avatar": "7110",
+	"affinity": "Spirit",
+	"hp": "17340",
+	"atk": "1233",
+	"def": "1189",
+	"spd": "104",
+	"res": "30",
+	"acc": "30",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Lizard Men",
+	"aura": "Increase Ally SPD in  by 19",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks all enemies. Has a 40% chance of placing a 50% [Decrease ATK] debuff for 2 turns. The chance increases to 75% against targets under debuffs.",
+			"basedOn": "[ATK]",
+			"name": "Steelmelt Acid",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Damage +10%\n",
+			"multiplier": "1.8*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 75% chance of placing a 30% [Decrease SPD] debuff and a [Leech] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Planar Chains",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "3.1*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Places a 30% [Increase SPD] buff on all allies for 2 turns and fills their Turn Meters by 30%, then grants this Champion an Extra Turn.",
+			"basedOn": "",
+			"name": "Speed Weirding",
+			"maxcd": "6",
+			"mincd": "4",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
+		},
+		{
+			"desc": "Fills this Champion's Turn Meter by 5% each time a debuff on an enemy is removed, transferred, or expires.",
+			"basedOn": "",
+			"name": "Rune of Haste [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Legendary",
+	"type": "Support"
+}

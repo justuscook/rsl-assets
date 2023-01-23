@@ -1,0 +1,53 @@
+{
+	"name": "Erinyes",
+	"key": "l10n:hero-type/name?id=1020#static",
+	"id": 1026,
+	"avatar": "1020",
+	"affinity": "Force",
+	"hp": "13050",
+	"atk": "1553",
+	"def": "881",
+	"spd": "103",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Demonspawn",
+	"aura": "Increase Ally ACC in Dungeons by 70",
+	"totalBooks": "15",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 90% chance of placing a 5% [Poison] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Razor Claws",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +10%\n",
+			"multiplier": "3.1*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 75% chance of increasing the duration of all debuffs on the target by 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Almighty Curse",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "3.2*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks 1 enemy. Places a [Block Buffs] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Engulfing Flame",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "5*ATK",
+			"numBooksToMax": "5"
+		}
+	],
+	"rarity": "Epic",
+	"type": "Attack"
+}

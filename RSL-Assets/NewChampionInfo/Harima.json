@@ -1,0 +1,63 @@
+{
+	"name": "Harima",
+	"key": "l10n:hero-type/name?id=4900#static",
+	"id": 4906,
+	"avatar": "4900",
+	"affinity": "Force",
+	"hp": "16845",
+	"atk": "925",
+	"def": "1531",
+	"spd": "97",
+	"res": "40",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "63",
+	"cheal": "50",
+	"faction": "Shadowkin",
+	"aura": "Increase Ally  in Arena battles by 80",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 50% chance of placing a 50% [Decrease ATK] debuff for 2 turns. Also has a 25% chance of placing a 50% [Decrease ATK] debuff on all other enemies for 2 turns if this attack is critical.",
+			"basedOn": "[DEF]",
+			"name": "Debasement",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +15%\nLvl. 5 Buff/Debuff Chance +15%\n",
+			"multiplier": "3.3*DEF",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy 3 times. Each hit decreases the target’s DEF by 5% (Stacks up to 30%). Each hit also increases this Champion’s DEF by 5% (Stacks up to 100%). \r\n\r\nInstantly activates the Celestial Awe skill if this skill kills an enemy.",
+			"basedOn": "[DEF]",
+			"name": "Purgative Punishment",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1\n",
+			"multiplier": "1.6*DEF",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Places a [Provoke] debuff for 1 turn. This debuff cannot be blocked or resisted if the target Champion is from the Demonspawn Faction.",
+			"basedOn": "[DEF]",
+			"name": "Celestial Awe",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Cooldown -1\n",
+			"multiplier": "3.9*DEF",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "Enemy Ignore DEF effects are decreased by 50%. \r\n\r\nChampions from the Demonspawn Faction cannot inflict critical hits on this Champion. \r\n\r\nThis Champion cannot land weak hits on Champions from the Demonspawn Faction.",
+			"basedOn": "[relationDamageDefenceModifier]",
+			"name": "Demon Slayer [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Legendary",
+	"type": "Defense"
+}

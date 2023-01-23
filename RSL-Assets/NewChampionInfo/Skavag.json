@@ -1,0 +1,111 @@
+{
+	"key": "l10n:hero-type/name?id=22210#static",
+	"name": "Skavag",
+	"id": 22216,
+	"acc": "0",
+	"affinity": "Void",
+	"atk": "1652",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "95",
+	"def": "1101",
+	"hp": "495525",
+	"cheal": "50",
+	"res": "30",
+	"rarity": "Common",
+	"type": "Attack",
+	"aura": "",
+	"totalBooks": "0",
+	"skills": [
+		{
+			"desc": "Attacks all enemies. Damage increases by 15% if the target has [Poison] debuffs.",
+			"basedOn": "[ATK]",
+			"name": "Venom Spray",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "2.5*ATK",
+			"numBooksToMax": ""
+		},
+		{
+			"desc": "Attacks all enemies. Has a 70% chance of decreasing the Turn Meter by 30%. If a target's Turn Meter is fully depleted, places a [Sleep] debuff for 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Enfeeble",
+			"maxcd": "4",
+			"mincd": "4",
+			"books": "",
+			"multiplier": "3*ATK",
+			"numBooksToMax": ""
+		},
+		{
+			"desc": "Spawns 6 Spiderlings at the start of the round. \r\nSpawns 2 Spiderlings at the start of each enemy Champion's turn. Spawns 4 Spiderlings at the end of Skavag's turn. Skavag can have a maximum of 10 Spiderlings in battle at any time. \r\n\r\nSkavag consumes all remaining Spiderlings at the start of each turn. If Skavag consumes Spiderlings, she will not consume them on the following turn.\r\n\r\nSkavag heals by 3% of her MAX HP for each Spiderling consumed, and permanently increases her ATK by 10% for each Spiderling consumed.\r\n\r\nHeals from Lifesteal Artifacts and skills that heal based on damage inflicted will only heal Champions by 35% of the stated amount when attacking Skavag or her Spiderlings.",
+			"basedOn": "",
+			"name": "Spiderling Horde",
+			"maxcd": "2",
+			"mincd": "2",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": ""
+		},
+		{
+			"desc": "Immune to [Heal Reduction] debuffs. Receives less damage from [Poison] debuffs.",
+			"basedOn": "",
+			"name": "Healing Assured",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": ""
+		},
+		{
+			"desc": "Immune to [Stun], [Freeze], [Sleep], [Provoke], [Block Active Skills], [Block Passive Skills], [Fear], [True Fear], [Petrification] debuffs. Also immune to HP exchange effects, HP balancing effects, and cooldown increasing effects.",
+			"basedOn": "",
+			"name": "Almighty Immunity [Passive]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": ""
+		},
+		{
+			"desc": "Decreases the damage taken from Poison debuffs by 90%.",
+			"basedOn": "",
+			"name": "Almighty Tolerance [Passive]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": ""
+		},
+		{
+			"desc": "Skill 221809 description",
+			"basedOn": "",
+			"name": "Spider ExtraTurn punisher",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": ""
+		},
+		{
+			"desc": "Damage from skills that scale based on enemy MAX HP cannot exceed 10% of the Boss' MAX HP when attacking the Boss.",
+			"basedOn": "",
+			"name": "Almighty Strength [Passive]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": ""
+		},
+		{
+			"desc": "All Turn Meter reduction effects are decreased by 50% when used against the Boss.",
+			"basedOn": "",
+			"name": "Almighty Persistence [Passive]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": ""
+		}
+	]
+}

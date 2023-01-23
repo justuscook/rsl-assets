@@ -1,0 +1,53 @@
+{
+	"name": "Galkut",
+	"key": "l10n:hero-type/name?id=2450#static",
+	"id": 2456,
+	"avatar": "2450",
+	"affinity": "Spirit",
+	"hp": "11400",
+	"atk": "1321",
+	"def": "1222",
+	"spd": "91",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "60",
+	"cheal": "50",
+	"faction": "Ogryn Tribes",
+	"aura": "Increase Ally C. RATE in Dungeons by 24",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Has a 25% chance of placing a 60% [Decrease DEF] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Mangle Limbs",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\n",
+			"multiplier": "1.85*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies 1 by 1 in random order. Damage inflicted decreases by 25% after each hit.",
+			"basedOn": "[ATK]",
+			"name": "Brutal Battering",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1\n",
+			"multiplier": "6.7*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Places a [Bomb] that detonates after 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Boom Barrage",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1\n",
+			"multiplier": "4*ATK",
+			"numBooksToMax": "4"
+		}
+	],
+	"rarity": "Epic",
+	"type": "Attack"
+}

@@ -1,0 +1,53 @@
+{
+	"name": "Totem",
+	"key": "l10n:hero-type/name?id=2430#static",
+	"id": 2436,
+	"avatar": "2430",
+	"affinity": "Spirit",
+	"hp": "14700",
+	"atk": "1002",
+	"def": "1046",
+	"spd": "94",
+	"res": "30",
+	"acc": "10",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Orcs",
+	"aura": "",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 20% chance of placing a 2.5% [Poison] debuff on the target for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Poisonous Evocation",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Damage +10%\nLvl. 6 Buff/Debuff Chance +5%\n",
+			"multiplier": "3.8*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 50% chance of removing 1 random buff from the target. Places a 15% [Continuous Heal] buff on this Champion for 2 turns if a buff is removed.",
+			"basedOn": "[ATK]",
+			"name": "Malediction",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1\n",
+			"multiplier": "5*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Places a 30% [Decrease DEF] debuff on the target for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Manglestorm",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Cooldown -1\n",
+			"multiplier": "3.5*ATK",
+			"numBooksToMax": "3"
+		}
+	],
+	"rarity": "Rare",
+	"type": "Support"
+}

@@ -1,0 +1,63 @@
+{
+	"name": "Eolfrig",
+	"key": "l10n:hero-type/name?id=7290#static",
+	"id": 7296,
+	"avatar": "7290",
+	"affinity": "Spirit",
+	"hp": "16185",
+	"atk": "1233",
+	"def": "991",
+	"spd": "100",
+	"res": "30",
+	"acc": "15",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Banner Lords",
+	"aura": "Increase Ally SPD in  by 15",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 20% chance of placing a 50% [Decrease ATK] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Abase",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"multiplier": "3.7*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 75% chance of stealing one random buff from each enemy. Also places a 15% [Continuous Heal] buff on all allies for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Flow of Morale",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "3.2*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Fills the Turn Meters of all allies by 15%, then places a 50% [Increase ATK] buff on all allies for 2 turns.",
+			"basedOn": "",
+			"name": "Committed Offensive",
+			"maxcd": "6",
+			"mincd": "4",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
+		},
+		{
+			"desc": "Removes all [Decrease ATK] debuffs from all allies at the start of this Champion's turn.",
+			"basedOn": "",
+			"name": "Perdurable [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Epic",
+	"type": "Support"
+}

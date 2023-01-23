@@ -1,0 +1,53 @@
+{
+	"name": "Boltsmith",
+	"key": "l10n:hero-type/name?id=5470#static",
+	"id": 5476,
+	"avatar": "5470",
+	"affinity": "Force",
+	"hp": "15030",
+	"atk": "1465",
+	"def": "562",
+	"spd": "94",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
+	"faction": "Dwarves",
+	"aura": "Increase Ally ATK in Faction Crypts by 20",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Each hit has a 15% chance of placing a 15% [Decrease SPD] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Quarrel Cripple",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +5%\n",
+			"multiplier": "1.5*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Places a 15% [Increase C. RATE] buff and a 30% [Increase C. DMG] buff on this Champion for 2 turns. Grants an Extra Turn.",
+			"basedOn": "",
+			"name": "Trained Eye",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "1"
+		},
+		{
+			"desc": "Attacks 1 enemy. Will ignore 30% of the target’s DEF.",
+			"basedOn": "[ATK]",
+			"name": "Piercer Munitions",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "4.2*ATK",
+			"numBooksToMax": "5"
+		}
+	],
+	"rarity": "Rare",
+	"type": "Attack"
+}

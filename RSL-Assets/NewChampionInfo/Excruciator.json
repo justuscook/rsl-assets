@@ -1,0 +1,53 @@
+{
+	"name": "Excruciator",
+	"key": "l10n:hero-type/name?id=4000#static",
+	"id": 4006,
+	"avatar": "4000",
+	"affinity": "Magic",
+	"hp": "12720",
+	"atk": "1597",
+	"def": "859",
+	"spd": "96",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "60",
+	"cheal": "50",
+	"faction": "Demonspawn",
+	"aura": "",
+	"totalBooks": "9",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Damage increases by 20% while attacking under a [Veil] buff. Heals this Champion by 25% of the damage inflicted while attacking without a [Veil] buff.",
+			"basedOn": "[ATK]",
+			"name": "Flicker Strike",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "3.5*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy. Damage increases by 35% while attacking under a [Veil] buff. While attacking under a [Veil] buff, enemies killed by this skill cannot be revived.\r\n\r\nWhile attacking without a [Veil] buff, fully depletes the target's Turn Meter and fills this Champion's Turn Meter equal to the amount the target loses. Can only decrease the Turn Meter by up to 50% against Bosses. This Turn Meter decrease cannot be resisted.",
+			"basedOn": "[ATK]",
+			"name": "Neck Snapper",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "5.2*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Places a [Veil] buff on this Champion for 1 turn at the beginning of each Round.\r\n\r\nPlaces a [Veil] buff on this Champion for 1 turn each time they kill an enemy.",
+			"basedOn": "",
+			"name": "Invisible Predator [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Epic",
+	"type": "Attack"
+}

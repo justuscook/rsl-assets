@@ -1,0 +1,53 @@
+{
+	"name": "Bombardier",
+	"key": "l10n:hero-type/name?id=3850#static",
+	"id": 3856,
+	"avatar": "3850",
+	"affinity": "Force",
+	"hp": "12555",
+	"atk": "1310",
+	"def": "881",
+	"spd": "98",
+	"res": "30",
+	"acc": "10",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Banner Lords",
+	"aura": "Increase Ally C. RATE in  by 12",
+	"totalBooks": "14",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 5% chance of increasing the duration of all debuffs by 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Bombard",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +10%\n",
+			"multiplier": "3.8*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks 1 enemy. Places a 30% [Increase SPD] buff on this Champion for 2 turns if this attack is critical.",
+			"basedOn": "[ATK]",
+			"name": "Skirmish Tactics",
+			"maxcd": "4",
+			"mincd": "4",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\n",
+			"multiplier": "5*ATK",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "Attacks 1 enemy 3 times. Each hit has a 50% chance of placing a 2.5% [Poison] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Septic Shot",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +10%\nLvl. 7 Cooldown -1\n",
+			"multiplier": "1.6*ATK",
+			"numBooksToMax": "6"
+		}
+	],
+	"rarity": "Rare",
+	"type": "Attack"
+}

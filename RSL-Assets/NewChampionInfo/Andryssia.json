@@ -1,0 +1,63 @@
+{
+	"name": "Andryssia",
+	"key": "l10n:hero-type/name?id=6940#static",
+	"id": 6946,
+	"avatar": "6940",
+	"affinity": "Void",
+	"hp": "18330",
+	"atk": "793",
+	"def": "1288",
+	"spd": "102",
+	"res": "30",
+	"acc": "15",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "High Elves",
+	"aura": "",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 40% chance of placing a 30% [Decrease C. DMG] debuff for 2 turns.",
+			"basedOn": "[DEF]",
+			"name": "Censorious Bludgeon",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +15%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +15%\n",
+			"multiplier": "3.3*DEF",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 75% chance of placing a [Stun] debuff for 1 turn if the target does not have any active buffs. Has a 75% chance of placing a [Stun] debuff for 2 turns if the target does have any active buffs.",
+			"basedOn": "[DEF]",
+			"name": "Mind Prison",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Buff/Debuff Chance +15%\nLvl. 4 Cooldown -1\n",
+			"multiplier": "5.7*DEF",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 75% chance of decreasing the duration of all enemy buffs by 2 turns. \r\n\r\nIncreases the duration of all [Increase DEF] buffs on allies by 1 turn.",
+			"basedOn": "[DEF]",
+			"name": "Pointed Justice",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "3.7*DEF",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "At the start of each turn, places a 50% [Ally Protection] buff for 2 turns on the ally with the lowest MAX HP. Will not be placed on this Champion.\r\n\r\nAlso places a 25% [Strengthen] buff and a 60% [Increase DEF] buff on this Champion for 2 turns.",
+			"basedOn": "",
+			"name": "Heartstrong [P]",
+			"maxcd": "5",
+			"mincd": "5",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Epic",
+	"type": "Defense"
+}

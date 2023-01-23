@@ -1,0 +1,53 @@
+{
+	"name": "Justiciar",
+	"key": "l10n:hero-type/name?id=2220#static",
+	"id": 2226,
+	"avatar": "2220",
+	"affinity": "Void",
+	"hp": "14700",
+	"atk": "914",
+	"def": "1134",
+	"spd": "93",
+	"res": "40",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Sacred Order",
+	"aura": "Increase Ally  in Faction Crypts by 19",
+	"totalBooks": "9",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Increases this Champion's DEF by 3% (up to 10 times in one round).",
+			"basedOn": "[ATK][DEF]",
+			"name": "Hold the Line",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\n",
+			"multiplier": "3.65*ATK+DEF",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 50% chance of placing a [Provoke] debuff on the target for 1 turn.",
+			"basedOn": "[DEF][ATK]",
+			"name": "Contemptuous Blow",
+			"maxcd": "3",
+			"mincd": "2",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +10%\nLvl. 7 Cooldown -1\n",
+			"multiplier": "5.5*DEF+ATK",
+			"numBooksToMax": "6"
+		},
+		{
+			"desc": "When this Champion is hit with a critical hit, counterattacks using their default skill and decreases the buffs duration on the target by 1 turn.",
+			"basedOn": "",
+			"name": "Comeback [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Rare",
+	"type": "Defense"
+}

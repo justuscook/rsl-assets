@@ -1,0 +1,63 @@
+{
+	"name": "Yoshi the Drunkard",
+	"key": "l10n:hero-type/name?id=5820#static",
+	"id": 5826,
+	"avatar": "5820 ",
+	"affinity": "Force",
+	"hp": "19650",
+	"atk": "1299",
+	"def": "969",
+	"spd": "103",
+	"res": "40",
+	"acc": "20",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Shadowkin",
+	"aura": "Increase Ally SPD in  by 19",
+	"totalBooks": "14",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 30% chance of placing a [Stun] debuff for 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Strong Booze",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
+			"multiplier": "4.1*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 2 times at random. Has a 75% chance of placing a 50% [Decrease ACC] debuff and a [HP Burn] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Flaming Spirits",
+			"maxcd": "3",
+			"mincd": "2",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +15%\nLvl. 7 Cooldown -1\n",
+			"multiplier": "2.6*ATK",
+			"numBooksToMax": "6"
+		},
+		{
+			"desc": "Places a 50% [Increase ATK] buff and a 50% [Increase ACC] buff on all allies for 2 turns.\r\n\r\nAlso has a 50% chance of placing a [True Fear] debuff on all enemies for 1 turn. Has a 75% chance instead on enemies under [Increase ATK] buffs.",
+			"basedOn": "",
+			"name": "Battle Toast",
+			"maxcd": "5",
+			"mincd": "3",
+			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Buff/Debuff Chance +15%\nLvl. 4 Cooldown -1\nLvl. 5 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Fills this Champion’s Turn Meter by 4% each time an enemy receives a buff.",
+			"basedOn": "",
+			"name": "Partier [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Legendary",
+	"type": "Support"
+}

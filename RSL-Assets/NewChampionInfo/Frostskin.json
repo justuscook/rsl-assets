@@ -1,0 +1,43 @@
+{
+	"name": "Frostskin",
+	"key": "l10n:hero-type/name?id=2830#static",
+	"id": 2836,
+	"avatar": "2830",
+	"affinity": "Magic",
+	"hp": "14865",
+	"atk": "1046",
+	"def": "716",
+	"spd": "96",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Ogryn Tribes",
+	"aura": "",
+	"totalBooks": "7",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 20% chance of placing a [Freeze] debuff for 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Frozen Fists",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
+			"multiplier": "3.7*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Fully depletes a target ally’s Turn Meter. Heals that ally equal to 50% of the lost Turn Meter. Heals the target by 10% if their Turn Meter is less than 10% full.",
+			"basedOn": "[Enemy MAX HP]",
+			"name": "Sap Strength",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2  Heal +10%\nLvl. 3  Heal +10%\nLvl. 4 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "3"
+		}
+	],
+	"rarity": "Uncommon",
+	"type": "Support"
+}

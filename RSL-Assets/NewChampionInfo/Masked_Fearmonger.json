@@ -1,0 +1,63 @@
+{
+	"name": "Masked Fearmonger",
+	"key": "l10n:hero-type/name?id=5360#static",
+	"id": 5366,
+	"avatar": "5360",
+	"affinity": "Spirit",
+	"hp": "13215",
+	"atk": "1398",
+	"def": "1024",
+	"spd": "97",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "60",
+	"cheal": "50",
+	"faction": "Banner Lords",
+	"aura": "",
+	"totalBooks": "13",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Each hit decreases the target's Turn Meter by 7.5% if the target is under a [Fear] or a [True Fear] debuff. \r\n\r\nReduces the cooldown of this Champion's Taste of Despair [P] skill by 1 turn if this attack kills an enemy.",
+			"basedOn": "[ATK]",
+			"name": "Nightmare",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "1.7*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 75% chance of placing a [Fear] debuff for 1 turn and a 75% chance of placing a 30% [Decrease SPD] debuff for 2 turns. \r\n\r\nHas a 75% chance of placing a [True Fear] debuff on 2 enemies for 1 turn if this attack kills an enemy. One [True Fear] debuff will be placed on the enemy with the lowest Turn Meter, while one will be placed on the enemy with the highest Turn Meter.",
+			"basedOn": "[ATK]",
+			"name": "Haunted Machete",
+			"maxcd": "3",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +15%\n",
+			"multiplier": "5.8*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy. Will ignore 35% of target's DEF if the target is under a [Fear] or a [True Fear] debuff.\r\n\r\nPlaces a [Block Debuffs] buff for 1 turn, a 30% [Increase SPD] buff for 2 turns, and a [Revive On Death] buff for 2 turns on this Champion if this attack kills an enemy.",
+			"basedOn": "[ATK]",
+			"name": "Well-Used Axe",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Cooldown -1\n",
+			"multiplier": "6*ATK",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "Fills this Champion’s Turn Meter by 50% whenever an enemy’s HP drops below 20%.",
+			"basedOn": "",
+			"name": "Taste of Despair [P]",
+			"maxcd": "6",
+			"mincd": "4",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
+		}
+	],
+	"rarity": "Epic",
+	"type": "Attack"
+}

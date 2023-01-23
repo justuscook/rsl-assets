@@ -1,0 +1,63 @@
+{
+	"name": "Genbo the Dishonored",
+	"key": "l10n:hero-type/name?id=6040#static",
+	"id": 6046,
+	"avatar": "6040",
+	"affinity": "Void",
+	"hp": "14040",
+	"atk": "1409",
+	"def": "958",
+	"spd": "99",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "60",
+	"cheal": "50",
+	"faction": "Shadowkin",
+	"aura": "Increase Ally SPD in Arena battles by 20",
+	"totalBooks": "15",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Each hit steals any [Increase ATK] buffs. Each hit also has a 30% chance of stealing 1 random buff.\r\n\r\nThe [Increase ATK] buff steal cannot be resisted.",
+			"basedOn": "[ATK]",
+			"name": "Twin Soulswords",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +5%\nLvl. 7 Buff/Debuff Chance +5%\nLvl. 8 Damage +5%\nLvl. 9 Buff/Debuff Chance +5%\n",
+			"multiplier": "2*ATK",
+			"numBooksToMax": "8"
+		},
+		{
+			"desc": "Attacks all enemies. Has an 80% chance of decreasing the duration of all buffs by 1 turn. This effect cannot be resisted on critical hits.",
+			"basedOn": "[ATK]",
+			"name": "Heartless Blitz",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "4*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Places a 30% [Increase C. RATE] buff and a 30% [Increase C. DMG] buff on this Champion for 3 turns, then grants an Extra Turn.",
+			"basedOn": "",
+			"name": "Sword Trance",
+			"maxcd": "6",
+			"mincd": "4",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
+		},
+		{
+			"desc": "Immune to [Decrease ATK] debuffs. Will ignore [Unkillable] buffs when attacking under an [Increase ATK] buff.",
+			"basedOn": "",
+			"name": "Flinty [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Epic",
+	"type": "Attack"
+}

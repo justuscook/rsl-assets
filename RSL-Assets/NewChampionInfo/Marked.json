@@ -1,0 +1,53 @@
+{
+	"name": "Marked",
+	"key": "l10n:hero-type/name?id=1530#static",
+	"id": 1536,
+	"avatar": "1530",
+	"affinity": "Magic",
+	"hp": "19320",
+	"atk": "892",
+	"def": "848",
+	"spd": "100",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Barbarians",
+	"aura": "Increase Ally  in Faction Crypts by 15",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 30% chance of placing a 30% [Decrease DEF] debuff for 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Dance of Blades",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +10%\n",
+			"multiplier": "6*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks all enemies. Places a 25% [Decrease ACC] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Punishment of Gods",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1\n",
+			"multiplier": "4.7*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Places a [Block Debuffs] buff on all allies for 1 turn and a 60% [Increase DEF] buff on all allies for 2 turns.",
+			"basedOn": "",
+			"name": "Totemic Power",
+			"maxcd": "6",
+			"mincd": "3",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\nLvl. 4 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "3"
+		}
+	],
+	"rarity": "Rare",
+	"type": "Support"
+}

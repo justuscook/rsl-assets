@@ -1,0 +1,53 @@
+{
+	"name": "Hegemon",
+	"key": "l10n:hero-type/name?id=3200#static",
+	"id": 3206,
+	"avatar": "3200",
+	"affinity": "Void",
+	"hp": "19155",
+	"atk": "1487",
+	"def": "815",
+	"spd": "96",
+	"res": "30",
+	"acc": "10",
+	"crate": "15",
+	"cdamage": "63",
+	"cheal": "50",
+	"faction": "Knights Revenant",
+	"aura": "Increase Ally C. RATE in  by 19",
+	"totalBooks": "9",
+	"skills": [
+		{
+			"desc": "Attacks 2 times at random.\r\n\r\nEach hit has a 35% chance of placing a 30% [Decrease SPD] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Grave's Grasp",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Buff/Debuff Chance +10%\n",
+			"multiplier": "1.7*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks all enemies.\r\n\r\nPlaces a 50% [Decrease ATK] debuff for 2 turns. Also has a 50% chance of placing a [Block Active Skills] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Crippling Cold",
+			"maxcd": "4",
+			"mincd": "4",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Damage +10%\n",
+			"multiplier": "3.7*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Always goes first each Round.\r\n\r\nIf multiple Hegemons are in battle, the Hegemon with the highest SPD will move first, followed by the next highest, and so on.",
+			"basedOn": "",
+			"name": "Fateful Arrival [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Legendary",
+	"type": "Attack"
+}

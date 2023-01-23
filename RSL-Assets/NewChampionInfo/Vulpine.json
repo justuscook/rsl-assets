@@ -1,0 +1,43 @@
+{
+	"name": "Vulpine",
+	"key": "l10n:hero-type/name?id=1190#static",
+	"id": 1196,
+	"avatar": "1190temp",
+	"affinity": "Force",
+	"hp": "11070",
+	"atk": "1189",
+	"def": "826",
+	"spd": "87",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Undead Hordes",
+	"aura": "",
+	"totalBooks": "5",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 60% chance of placing a 30% [Decrease DEF] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Bare Fangs",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +15%\nLvl. 5 Damage +10%\n",
+			"multiplier": "4*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Places a 25% [Increase ATK] buff on all allies for 2 turns.",
+			"basedOn": "",
+			"name": "Alpha",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "1"
+		}
+	],
+	"rarity": "Uncommon",
+	"type": "Attack"
+}

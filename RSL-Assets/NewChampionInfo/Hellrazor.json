@@ -1,0 +1,101 @@
+{
+	"key": "l10n:hero-type/name?id=22090#static",
+	"name": "Hellrazor",
+	"id": 22096,
+	"acc": "0",
+	"affinity": "Void",
+	"atk": "1652",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "100",
+	"def": "1101",
+	"hp": "206475",
+	"cheal": "50",
+	"res": "30",
+	"rarity": "Common",
+	"type": "Attack",
+	"aura": "",
+	"totalBooks": "0",
+	"skills": [
+		{
+			"desc": "Attacks all enemies. Places a 50% [Decrease ATK] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Swipe",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "3*ATK",
+			"numBooksToMax": "0"
+		},
+		{
+			"desc": "Attacks all enemies. Places two 5% [Poison] debuffs for 3 turns. Places a 25% [Weaken] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Wall of Fire",
+			"maxcd": "3",
+			"mincd": "3",
+			"books": "",
+			"multiplier": "3.4*ATK",
+			"numBooksToMax": ""
+		},
+		{
+			"desc": "Fully depletes the target's Turn Meter. Unlocks a Secret Skill, Scorch.",
+			"basedOn": "",
+			"name": "Inhale",
+			"maxcd": "3",
+			"mincd": "3",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": ""
+		},
+		{
+			"desc": "Attacks all enemies. Places a [Stun] debuff for 1 turn. This Skill will be locked and hidden again if the Dragon takes enough damage while this Skill is unlocked.",
+			"basedOn": "",
+			"name": "Scorch",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": ""
+		},
+		{
+			"desc": "Immune to [Decrease SPD] debuffs and Turn Meter reduction effects.",
+			"basedOn": "",
+			"name": "Mythic [Passive]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": ""
+		},
+		{
+			"desc": "Immune to [Stun], [Freeze], [Sleep], [Provoke], [Block Active Skills], [Block Passive Skills], [Fear], [True Fear], [Petrification] debuffs. Also immune to HP exchange effects, HP balancing effects, and cooldown increasing effects.",
+			"basedOn": "",
+			"name": "Almighty Immunity [Passive]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": ""
+		},
+		{
+			"desc": "Damage from Continuous Damage decreased by 60%.",
+			"basedOn": "",
+			"name": "Continuous Damage Resistance II",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": ""
+		},
+		{
+			"desc": "Damage from skills that scale based on enemy MAX HP cannot exceed 10% of the Boss' MAX HP when attacking the Boss.",
+			"basedOn": "",
+			"name": "Almighty Strength [Passive]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": ""
+		}
+	]
+}

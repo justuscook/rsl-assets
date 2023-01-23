@@ -1,0 +1,53 @@
+{
+	"name": "Athel",
+	"key": "l10n:hero-type/name?id=1500#static",
+	"id": 1506,
+	"avatar": "1500",
+	"affinity": "Magic",
+	"hp": "13545",
+	"atk": "1189",
+	"def": "936",
+	"spd": "104",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
+	"faction": "Sacred Order",
+	"aura": "Increase Ally HP in  by 15",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 3 times. Has a 75% chance of placing a 25% [Weaken] debuff for 2 turns on the last hit.",
+			"basedOn": "[ATK ][ ]",
+			"name": "Strike Down",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Damage +5%\nLvl. 7 Damage +5%\nLvl. 8 Buff/Debuff Chance +10%\n",
+			"multiplier": "1.3*ATK + 30",
+			"numBooksToMax": "7"
+		},
+		{
+			"desc": "Attacks all enemies. Has an extra 15% chance of inflicting a critical hit.",
+			"basedOn": "[ATK]",
+			"name": "Divine Blades",
+			"maxcd": "3",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
+			"multiplier": "4.1*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Places a 25% [Increase ATK] buff on this Champion for 2 turns. Places a 30% [Increase DEF] buff on this Champion for 2 turns if this Champion's current HP is less than 50%. Gains an Extra Turn.",
+			"basedOn": "",
+			"name": "Higher Blessing",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Lvl. 2 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "1"
+		}
+	],
+	"rarity": "Rare",
+	"type": "Attack"
+}

@@ -1,0 +1,63 @@
+{
+	"name": "Gurptuk Moss-Beard",
+	"key": "l10n:hero-type/name?id=4640#static",
+	"id": 4646,
+	"avatar": "4640",
+	"affinity": "Force",
+	"hp": "18825",
+	"atk": "1079",
+	"def": "1244",
+	"spd": "100",
+	"res": "50",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Ogryn Tribes",
+	"aura": "Increase Ally  in  by 50",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Places a 15% [Continuous Heal] buff for 1 turn on all allies under [Poison] debuffs.",
+			"basedOn": "[ATK]",
+			"name": "Biotic Staff",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Damage +10%\n",
+			"multiplier": "2.2*ATK",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "Removes all debuffs except [Poison] debuffs from an ally, then heals them by 30% of their MAX HP and places a [Shield] buff on the target equal to 20% of their MAX HP for 2 turns.",
+			"basedOn": "",
+			"name": "Druidic Boon",
+			"maxcd": "3",
+			"mincd": "2",
+			"books": "Lvl. 2  Heal +5%\nLvl. 4  Heal +10%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Places three 2.5% [Poison] debuffs on all allies for 3 turns. These debuffs cannot be resisted or blocked. \r\nAlso has an 80% chance of placing a [Block Buffs] debuff on all enemies for 2 turns.",
+			"basedOn": "",
+			"name": "Cloud of Spores",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Allies under [Poison] debuffs inflict 7.5% more damage for each [Poison] debuff on them, stacking up to a maximum of 30%. This damage increase applies to all of their skills.\r\n\r\nAlso increases each ally's RES by 15 for each [Poison] debuff on them.",
+			"basedOn": "[EffectsAppliedOnTargetCountOfKind][ContinuousDamage_KindId]",
+			"name": "Symbiotes [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Legendary",
+	"type": "Support"
+}

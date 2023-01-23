@@ -1,0 +1,63 @@
+{
+	"name": "Maulie Tankard",
+	"key": "l10n:hero-type/name?id=4520#static",
+	"id": 4526,
+	"avatar": "4520",
+	"affinity": "Spirit",
+	"hp": "18495",
+	"atk": "881",
+	"def": "1465",
+	"spd": "107",
+	"res": "80",
+	"acc": "10",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Dwarves",
+	"aura": "",
+	"totalBooks": "9",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. \r\n\r\nDamage increases by 50% if the target is under a [HP Burn] debuff.",
+			"basedOn": "[DEF]",
+			"name": "Roast",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\n",
+			"multiplier": "3.3*DEF",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "Places a [Provoke] debuff on all enemies for 1 turn. Has a 50% chance of placing a [Provoke] debuff for 2 turns instead. Places a 30% [Reflect Damage] buff on this Champion for 2 turns.",
+			"basedOn": "",
+			"name": "Bar Brawl",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "1"
+		},
+		{
+			"desc": "Revives an ally with 50% HP and fills their Turn Meter by 50%. Places a [Block Damage] buff on that ally for 1 turn.",
+			"basedOn": "[Enemy MAX HP]",
+			"name": "Cheers!",
+			"maxcd": "6",
+			"mincd": "4",
+			"books": "Lvl. 2  Heal +5%\nLvl. 3  Heal +10%\nLvl. 4 Cooldown -1\nLvl. 5 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Fills the Turn Meters of all allies by 15% when this Champion is hit. Fills the Turn Meters of all allies by 25% when this Champion is hit by a Boss.",
+			"basedOn": "",
+			"name": "Rowdy Crowd [P]",
+			"maxcd": "2",
+			"mincd": "1",
+			"books": "Lvl. 2 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "1"
+		}
+	],
+	"rarity": "Legendary",
+	"type": "Support"
+}

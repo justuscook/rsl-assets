@@ -1,0 +1,53 @@
+{
+	"name": "Halberdier",
+	"key": "l10n:hero-type/name?id=1860#static",
+	"id": 1866,
+	"avatar": "1860",
+	"affinity": "Spirit",
+	"hp": "12060",
+	"atk": "1178",
+	"def": "1046",
+	"spd": "97",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
+	"faction": "Banner Lords",
+	"aura": "",
+	"totalBooks": "9",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 25% chance of placing a 25% [Weaken] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Hew",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"multiplier": "3.5*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy. Will ignore [Shield] and [Block Damage] buffs.",
+			"basedOn": "[ATK]",
+			"name": "Bisect",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "4.8*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Increases C. DMG by 40%.",
+			"basedOn": "",
+			"name": "Cleaving Ax [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Rare",
+	"type": "Attack"
+}

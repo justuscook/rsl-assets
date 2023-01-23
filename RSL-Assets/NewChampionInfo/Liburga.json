@@ -1,0 +1,63 @@
+{
+	"name": "Liburga",
+	"key": "l10n:hero-type/name?id=6570#static",
+	"id": 6576,
+	"avatar": "6570",
+	"affinity": "Void",
+	"hp": "17010",
+	"atk": "1123",
+	"def": "1046",
+	"spd": "101",
+	"res": "30",
+	"acc": "15",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Orcs",
+	"aura": "",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 50% chance of placing a 5% [Poison] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Dripping Doom",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
+			"multiplier": "3.5*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 75% chance of placing two 5% [Poison] debuffs and a 25% [Poison Sensitivity] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Boil From Within",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "5.1*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Places a 60% [Increase DEF] buff and a 50% [Increase ATK] buff on all allies for 2 turns.",
+			"basedOn": "",
+			"name": "Vigor Bloom",
+			"maxcd": "6",
+			"mincd": "4",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
+		},
+		{
+			"desc": "When attacked, has a 50% chance of increasing the duration of all [Poison] debuffs on the attacker by 1 turn.",
+			"basedOn": "",
+			"name": "Irradiate [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Epic",
+	"type": "Support"
+}

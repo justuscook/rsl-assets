@@ -1,0 +1,63 @@
+{
+	"name": "Skathix",
+	"key": "l10n:hero-type/name?id=6140#static",
+	"id": 6146,
+	"avatar": "6140",
+	"affinity": "Void",
+	"hp": "18165",
+	"atk": "1035",
+	"def": "1057",
+	"spd": "95",
+	"res": "30",
+	"acc": "15",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Lizard Men",
+	"aura": "Increase Ally  in  by 40",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 30% chance of placing a 30% [Decrease SPD] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Leg Wrack",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"multiplier": "4.2*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 75% chance of stealing one random buff from each enemy.",
+			"basedOn": "[ATK]",
+			"name": "Transfer Rush",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "4.1*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Removes all debuffs from all allies, then places a [Block Debuffs] buff and a [Shield] buff on all allies for 2 turns. The [Shield] buff is equal to 20% of this Champion's MAX HP.",
+			"basedOn": "",
+			"name": "Scales of the Ages",
+			"maxcd": "6",
+			"mincd": "4",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
+		},
+		{
+			"desc": "Places a [Block Damage] buff on this Champion for 1 turn whenever their HP drops below 30%.",
+			"basedOn": "",
+			"name": "Last Gasp [P]",
+			"maxcd": "6",
+			"mincd": "6",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Epic",
+	"type": "Support"
+}

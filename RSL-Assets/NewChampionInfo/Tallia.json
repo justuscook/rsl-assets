@@ -1,0 +1,53 @@
+{
+	"name": "Tallia",
+	"key": "l10n:hero-type/name?id=3420#static",
+	"id": 3426,
+	"avatar": "3420",
+	"affinity": "Magic",
+	"hp": "12390",
+	"atk": "1343",
+	"def": "1134",
+	"spd": "98",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "60",
+	"cheal": "50",
+	"faction": "Sacred Order",
+	"aura": "Increase Ally C. RATE in Dungeons by 15",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 3 times.",
+			"basedOn": "[ATK]",
+			"name": "Hack and Slash",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
+			"multiplier": "1.2*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Places a 25% [Increase ATK] buff and a 30% [Increase C. RATE] buff on this Champion for 2 turns, then attacks all enemies.\r\n\r\n[Has a 75% chance of placing a [Bomb] debuff that will detonate after 3 turns when Fenax is on the same team.]",
+			"basedOn": "[ATK]",
+			"name": "Rise to Duty",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "3.9*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Places a [Counterattack] buff on this Champion for 2 turns. Has a 75% chance of placing a 25% [Weaken] debuff on enemies for 2 turns.",
+			"basedOn": "",
+			"name": "Awesome Presence",
+			"maxcd": "6",
+			"mincd": "5",
+			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Buff/Debuff Chance +15%\nLvl. 4 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "3"
+		}
+	],
+	"rarity": "Epic",
+	"type": "Attack"
+}

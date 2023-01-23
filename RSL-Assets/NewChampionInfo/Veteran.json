@@ -1,0 +1,53 @@
+{
+	"name": "Veteran",
+	"key": "l10n:hero-type/name?id=1300#static",
+	"id": 1306,
+	"avatar": "1300",
+	"affinity": "Void",
+	"hp": "15360",
+	"atk": "683",
+	"def": "1321",
+	"spd": "97",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
+	"faction": "Orcs",
+	"aura": "Increase Ally SPD in Dungeons by 15",
+	"totalBooks": "15",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Has a 35% chance of placing a 50% [Decrease ATK] debuff for 2 turns. Damage inflicted is proportional to DEF.",
+			"basedOn": "[DEF]",
+			"name": "Disarm",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Damage +15%\nLvl. 6 Buff/Debuff Chance +10%\n",
+			"multiplier": "1.6*DEF",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks 1 enemy. Places a 30% [Increase C. RATE] buff on all allies for 3 turns if the target is killed. Damage inflicted is proportional to DEF.",
+			"basedOn": "[DEF][ATK]",
+			"name": "Head Hunter",
+			"maxcd": "3",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\nLvl. 6 Damage +15%\n",
+			"multiplier": "3.7*DEF+ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 50% chance of placing a [Block Buffs] debuff for 1 turn. Damage increases according to this Champion's MAX HP.",
+			"basedOn": "[DEF][HP]",
+			"name": "Massacre",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "DEF+0.23*HP",
+			"numBooksToMax": "5"
+		}
+	],
+	"rarity": "Rare",
+	"type": "Defense"
+}

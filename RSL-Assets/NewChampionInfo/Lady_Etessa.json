@@ -1,0 +1,53 @@
+{
+	"name": "Lady Etessa",
+	"key": "l10n:hero-type/name?id=4380#static",
+	"id": 4386,
+	"avatar": "4380",
+	"affinity": "Force",
+	"hp": "13215",
+	"atk": "1387",
+	"def": "1035",
+	"spd": "99",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "60",
+	"cheal": "50",
+	"faction": "Sacred Order",
+	"aura": "",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. \r\n\r\nHas a 40% chance of placing a [Block Buffs] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Blessed Missiles",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "3.5*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy. \r\n\r\nHas a 75% chance of placing a [Stun] debuff for 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Whiplash",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\nLvl. 6 Buff/Debuff Chance +10%\nLvl. 7 Buff/Debuff Chance +15%\nLvl. 8 Cooldown -1\n",
+			"multiplier": "5.9*ATK",
+			"numBooksToMax": "7"
+		},
+		{
+			"desc": "Attacks 1 enemy with 2 random allies.\r\n\r\nDamage inflicted by this Champion and any allies joining this attack will be increased by 20% if the target is under a [Fear], [True Fear], [Freeze], [Provoke], [Sleep], [Stun], or [Petrification] debuff. Allies joining the attack use their default skills.",
+			"basedOn": "",
+			"name": "Fiend Purge",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Lvl. 2 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "1"
+		}
+	],
+	"rarity": "Epic",
+	"type": "Attack"
+}

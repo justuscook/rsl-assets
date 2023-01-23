@@ -1,0 +1,53 @@
+{
+	"name": "Valerie",
+	"key": "l10n:hero-type/name?id=450#static",
+	"id": 456,
+	"avatar": "450",
+	"affinity": "Magic",
+	"hp": "15855",
+	"atk": "969",
+	"def": "1002",
+	"spd": "98",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Banner Lords",
+	"aura": "Increase Ally HP in Faction Crypts by 22",
+	"totalBooks": "9",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy.",
+			"basedOn": "[ATK]",
+			"name": "Swing",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "4*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Increases the duration of all buffs on all allies by 1 turn. Also decreases the duration of all debuffs on all allies by 1 turn. Places a 25% [Increase ATK] buff on all allies for 2 turns.",
+			"basedOn": "",
+			"name": "Energizing Presence",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "1"
+		},
+		{
+			"desc": "Places a [Shield] buff on all allies for 2 turns. The value of the [Shield] depends on this Champion's Level. Heals each ally according to the number of buffs they are currently under.",
+			"basedOn": "[HERO_LEVEL]",
+			"name": "Protect",
+			"maxcd": "5",
+			"mincd": "5",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "4"
+		}
+	],
+	"rarity": "Rare",
+	"type": "Support"
+}

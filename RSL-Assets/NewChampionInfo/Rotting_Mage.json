@@ -1,0 +1,53 @@
+{
+	"name": "Rotting Mage",
+	"key": "l10n:hero-type/name?id=3060#static",
+	"id": 3066,
+	"avatar": "3060",
+	"affinity": "Spirit",
+	"hp": "16350",
+	"atk": "1068",
+	"def": "870",
+	"spd": "100",
+	"res": "30",
+	"acc": "15",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Undead Hordes",
+	"aura": "Increase Ally SPD in Faction Crypts by 13",
+	"totalBooks": "10",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 25% chance of placing a [Freeze] debuff for 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Gelid Beam",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\n",
+			"multiplier": "4*ATK",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "Places a 25% [Increase ATK] buff on all allies for 2 turns. Places a 30% [Increase DEF] buff on this Champion for 2 turns.",
+			"basedOn": "",
+			"name": "Frost Armaments",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "1"
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 75% chance of placing a [Stun] debuff for 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Mental Overload",
+			"maxcd": "4",
+			"mincd": "4",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Damage +5%\nLvl. 7 Buff/Debuff Chance +5%\n",
+			"multiplier": "4.4*ATK",
+			"numBooksToMax": "6"
+		}
+	],
+	"rarity": "Rare",
+	"type": "Support"
+}

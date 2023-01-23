@@ -1,0 +1,63 @@
+{
+	"name": "Nogdar the Headhunter",
+	"key": "l10n:hero-type/name?id=3910#static",
+	"id": 3916,
+	"avatar": "3910",
+	"affinity": "Spirit",
+	"hp": "12060",
+	"atk": "1696",
+	"def": "1079",
+	"spd": "96",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "63",
+	"cheal": "50",
+	"faction": "Orcs",
+	"aura": "Increase Ally ATK in  by 33",
+	"totalBooks": "10",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Heals this Champion by 10% of their MAX HP. Grants an Extra Turn if this attack kills an enemy.",
+			"basedOn": "[ATK]",
+			"name": "Brutal Verdict",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Damage +10%\nLvl. 5 Damage +10%\n",
+			"multiplier": "3.3*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. After attacking, this Champion sacrifices HP equal to 50% of their MAX HP, then places two 15% [Continuous Heal] buffs on this Champion for 2 turns.\r\n\r\nThe HP sacrifice will happen even if it kills this Champion.",
+			"basedOn": "[ATK]",
+			"name": "Gore Feast",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1\n",
+			"multiplier": "3.2*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Sacrifices HP equal to 50% of this Champion's MAX HP, then equalizes HP levels with the target enemy. The HP levels of both this Champion and the target enemy will be brought down to the level of the one with the lowest HP.\r\n[Does not work against Bosses. This Champion cannot be killed by this Skill.]",
+			"basedOn": "[CUR_HP]",
+			"name": "Last Rites",
+			"maxcd": "7",
+			"mincd": "5",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
+			"multiplier": "CUR_HP-1",
+			"numBooksToMax": "2"
+		},
+		{
+			"desc": "Revives this Champion with 50% HP and 50% Turn Meter when killed if all other allies are alive.\r\n\r\nDoes not work if there are multiple Nogdars on the team or if there are 3 or fewer Champions on the team.",
+			"basedOn": "[HP]",
+			"name": "Headsman's Return [P]",
+			"maxcd": "1",
+			"mincd": "1",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Legendary",
+	"type": "Attack"
+}

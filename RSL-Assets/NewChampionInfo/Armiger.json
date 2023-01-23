@@ -1,0 +1,43 @@
+{
+	"name": "Armiger",
+	"key": "l10n:hero-type/name?id=1050#static",
+	"id": 1056,
+	"avatar": "1050",
+	"affinity": "Spirit",
+	"hp": "15195",
+	"atk": "793",
+	"def": "947",
+	"spd": "92",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Sacred Order",
+	"aura": "",
+	"totalBooks": "9",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Decreases the Turn Meter by 30% if this attack is critical.",
+			"basedOn": "[DEF]",
+			"name": "Riposte",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "4*DEF",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy. Enemies killed by this skill cannot be revived.",
+			"basedOn": "[DEF][Enemy MAX HP]",
+			"name": "Lay to Rest",
+			"maxcd": "3",
+			"mincd": "2",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "2.9*DEF+0.05*TRG_HP",
+			"numBooksToMax": "5"
+		}
+	],
+	"rarity": "Uncommon",
+	"type": "Defense"
+}

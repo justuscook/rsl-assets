@@ -1,0 +1,41 @@
+{
+	"key": "l10n:hero-type/name?id=25590#static",
+	"name": "Dreadbomb",
+	"id": 25596,
+	"acc": "0",
+	"affinity": "Force",
+	"atk": "1101",
+	"cdamage": "50",
+	"crate": "15",
+	"spd": "75",
+	"def": "1101",
+	"hp": "20640",
+	"cheal": "50",
+	"res": "30",
+	"rarity": "Common",
+	"type": "Attack",
+	"aura": "",
+	"totalBooks": "0",
+	"skills": [
+		{
+			"desc": "Explodes at the start of each turn and deals pure damage to each enemy equal to 40% of their MAX HP if theDreadbomb is not under a [Freeze] debuff at the start of the turn. \r\n\r\nDeals pure damage to each enemy equal to 20% of their MAX HP instead if the Dreadbomb is under a [Freeze] debuff at the start of the turn. \r\n\r\nDamage inflicted will ignore [Shield] buffs.",
+			"basedOn": "",
+			"name": "Detonation [Passive]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": ""
+		},
+		{
+			"desc": "The Dreadbomb is immune to all debuffs, effects, and sources of damage except its own skills and [Freeze] and [HP Burn] debuffs. \r\n\r\nFills the Dreadbomb’s Turn Meter by 20% every time it receives damage from a [HP Burn] debuff.",
+			"basedOn": "",
+			"name": "Short Fuse [Passive]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": ""
+		}
+	]
+}

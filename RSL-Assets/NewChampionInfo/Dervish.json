@@ -1,0 +1,43 @@
+{
+	"name": "Dervish",
+	"key": "l10n:hero-type/name?id=2480#static",
+	"id": 2486,
+	"avatar": "2480",
+	"affinity": "Magic",
+	"hp": "10080",
+	"atk": "1112",
+	"def": "969",
+	"spd": "96",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Barbarians",
+	"aura": "",
+	"totalBooks": "9",
+	"skills": [
+		{
+			"desc": "Attacks 2 times at random. Has a 25% chance of placing a 30% [Decrease DEF] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Flurry",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
+			"multiplier": "4.6*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy. Has a 50% chance of placing a 50% [Heal Reduction] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Sealing Arrow",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +20%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "8.6*ATK",
+			"numBooksToMax": "5"
+		}
+	],
+	"rarity": "Uncommon",
+	"type": "Attack"
+}

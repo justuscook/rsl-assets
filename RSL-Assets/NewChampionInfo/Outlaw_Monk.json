@@ -1,0 +1,43 @@
+{
+	"name": "Outlaw Monk",
+	"key": "l10n:hero-type/name?id=230#static",
+	"id": 236,
+	"avatar": "230",
+	"affinity": "Force",
+	"hp": "12225",
+	"atk": "1244",
+	"def": "694",
+	"spd": "96",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Sacred Order",
+	"aura": "",
+	"totalBooks": "5",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 10% chance of granting an Extra Turn.",
+			"basedOn": "[ATK]",
+			"name": "Dagger Throw",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
+			"multiplier": "3.6*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Places two 5% [Poison] debuffs on the target for 2 turns.",
+			"basedOn": "",
+			"name": "Foul Play",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "1"
+		}
+	],
+	"rarity": "Uncommon",
+	"type": "Attack"
+}

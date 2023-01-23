@@ -1,0 +1,53 @@
+{
+	"name": "Guardian",
+	"key": "l10n:hero-type/name?id=900#static",
+	"id": 906,
+	"avatar": "900",
+	"affinity": "Spirit",
+	"hp": "19155",
+	"atk": "826",
+	"def": "925",
+	"spd": "96",
+	"res": "40",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Knights Revenant",
+	"aura": "Increase Ally HP in Dungeons by 27",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 50% chance of decreasing the duration of all enemy buffs by 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Chop",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +5%\nLvl. 7 Buff/Debuff Chance +5%\n",
+			"multiplier": "4.8*ATK",
+			"numBooksToMax": "6"
+		},
+		{
+			"desc": "Attacks 4 times at random. Each hit has a 30% chance of applying a [Block Buffs] debuff for 2 turns.",
+			"basedOn": "[ATK][HP]",
+			"name": "Thunderclap",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Damage +10%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "ATK+0.03*HP",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Places a [Block Debuffs] buff and a [Counterattack] buff on this Champion for 2 turns. Also places a 15% [Continuous Heal] buff on this Champion for 2 turns.",
+			"basedOn": "",
+			"name": "Prayer",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Lvl. 2 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "1"
+		}
+	],
+	"rarity": "Rare",
+	"type": "Health"
+}

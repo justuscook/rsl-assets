@@ -1,0 +1,53 @@
+{
+	"name": "Metalshaper",
+	"key": "l10n:hero-type/name?id=2300#static",
+	"id": 2306,
+	"avatar": "2300",
+	"affinity": "Spirit",
+	"hp": "16350",
+	"atk": "859",
+	"def": "1079",
+	"spd": "90",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "57",
+	"cheal": "50",
+	"faction": "Lizard Men",
+	"aura": "Increase Ally  in Faction Crypts by 15",
+	"totalBooks": "13",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 30% chance of stealing 1 random buff from the target.",
+			"basedOn": "[DEF]",
+			"name": "Transference Bolt",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\nLvl. 6 Damage +5%\nLvl. 7 Buff/Debuff Chance +5%\n",
+			"multiplier": "4*DEF",
+			"numBooksToMax": "6"
+		},
+		{
+			"desc": "Places a [Shield] buff on all allies for 2 turns. The value of the [Shield] is proportional to this Champion Level.",
+			"basedOn": "[HERO_LEVEL]",
+			"name": "Fortified Steel",
+			"maxcd": "3",
+			"mincd": "2",
+			"books": "Lvl. 5 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Removes all debuffs from the ally with the lowest HP, then heals them by 20% of this Champion's MAX HP. Also places a 25% [Increase DEF] buff on that ally for 3 turns.",
+			"basedOn": "[HP]",
+			"name": "Rescue",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Lvl. 2  Heal +10%\nLvl. 3  Heal +10%\nLvl. 4 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "3"
+		}
+	],
+	"rarity": "Rare",
+	"type": "Support"
+}

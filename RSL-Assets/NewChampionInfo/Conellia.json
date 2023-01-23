@@ -1,0 +1,53 @@
+{
+	"name": "Conellia",
+	"key": "l10n:hero-type/name?id=6350#static",
+	"id": 6356,
+	"avatar": "6350",
+	"affinity": "Magic",
+	"hp": "19650",
+	"atk": "826",
+	"def": "1167",
+	"spd": "109",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Dwarves",
+	"aura": "Increase Ally SPD in  by 18",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 40% chance of increasing the cooldown of one of the target’s Skills by 2 turns at random.",
+			"basedOn": "[ATK]",
+			"name": "Surprising Swiftness",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
+			"multiplier": "6*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Has an 80% chance of placing a [Sleep] debuff on all enemies for 1 turn. \r\n\r\n[Passive Effect]\r\n\r\nWhenever an enemy loses a [Sleep] debuff placed by this Skill, has a 50% chance of replacing it with a [Fear] debuff for 1 turn instead.",
+			"basedOn": "",
+			"name": "Peace of the Deep",
+			"maxcd": "5",
+			"mincd": "3",
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Cooldown -1\nLvl. 6 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Places a [Sleep] debuff on an ally for 1 turn. \r\n\r\nHeals that ally by 50% of their MAX HP and fills their Turn Meter by 50% whenever the [Sleep] debuff expires or gets removed.\r\n\r\nHeals that ally by 100% and completely fills their Turn Meter if the [Sleep] debuff is lost due to taking damage from an enemy.",
+			"basedOn": "",
+			"name": "Revitalizing Rest",
+			"maxcd": "4",
+			"mincd": "2",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
+		}
+	],
+	"rarity": "Epic",
+	"type": "Support"
+}

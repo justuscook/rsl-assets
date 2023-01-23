@@ -1,0 +1,53 @@
+{
+	"name": "Delver",
+	"key": "l10n:hero-type/name?id=2880#static",
+	"id": 2886,
+	"avatar": "2880",
+	"affinity": "Spirit",
+	"hp": "16350",
+	"atk": "1299",
+	"def": "914",
+	"spd": "98",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "60",
+	"cheal": "50",
+	"faction": "Dark Elves",
+	"aura": "Increase Ally ATK in Faction Crypts by 27",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 45% chance of placing a 100% [Heal Reduction] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Necrotic Toxin",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"multiplier": "4*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy. Places a 25% [Weaken] debuff on the target for 3 turns if the target has a [Decrease DEF] debuff. This debuff cannot be resisted.",
+			"basedOn": "[ATK]",
+			"name": "Mark for Death",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1\n",
+			"multiplier": "6.2*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Places a 50% [Increase ATK] buff on this Champion for 2 turns before attacking. Also has a 50% chance of placing a 60% [Decrease DEF] debuff on the target for 2 turns before attacking.",
+			"basedOn": "",
+			"name": "Finisher",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Lvl. 2 Damage +15%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +15%\nLvl. 5 Cooldown -1\n",
+			"multiplier": null,
+			"numBooksToMax": "4"
+		}
+	],
+	"rarity": "Epic",
+	"type": "Attack"
+}
