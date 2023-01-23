@@ -5,6 +5,11 @@
 		"defaultValue": "Errol",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1770#static",
+		"defaultValue": "Hero 1770 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "SacredOrder",
 	"role": "Attack",

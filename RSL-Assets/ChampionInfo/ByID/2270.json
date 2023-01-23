@@ -5,6 +5,11 @@
 		"defaultValue": "Angar",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2270#static",
+		"defaultValue": "Hero 2270 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "Orcs",
 	"role": "Health",

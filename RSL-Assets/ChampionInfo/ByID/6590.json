@@ -5,6 +5,11 @@
 		"defaultValue": "Kinagashi",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6590#static",
+		"defaultValue": "Hero 6590 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Shadowkin",
 	"role": "Support",

@@ -5,6 +5,11 @@
 		"defaultValue": "Fleshmonger",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4690#static",
+		"defaultValue": "Hero 4690 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Skinwalkers",
 	"role": "Attack",

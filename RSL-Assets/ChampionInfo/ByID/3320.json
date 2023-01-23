@@ -5,6 +5,11 @@
 		"defaultValue": "Hungerer",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3320#static",
+		"defaultValue": "Hero 3320 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "OgrynTribes",
 	"role": "Health",

@@ -5,6 +5,11 @@
 		"defaultValue": "Valkyrie",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2160#static",
+		"defaultValue": "Hero 2160 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Barbarians",
 	"role": "Defense",

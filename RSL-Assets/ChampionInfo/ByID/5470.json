@@ -5,6 +5,11 @@
 		"defaultValue": "Boltsmith",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5470#static",
+		"defaultValue": "Hero 5470 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Dwarves",
 	"role": "Attack",

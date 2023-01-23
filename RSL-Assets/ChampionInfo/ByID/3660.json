@@ -5,6 +5,11 @@
 		"defaultValue": "Rakka Viletide",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3660#static",
+		"defaultValue": "Hero 3660 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "Orcs",
 	"role": "Support",

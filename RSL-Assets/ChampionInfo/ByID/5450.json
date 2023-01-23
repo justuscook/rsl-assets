@@ -5,6 +5,11 @@
 		"defaultValue": "Flailer",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5450#static",
+		"defaultValue": "Hero 5450 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Dwarves",
 	"role": "Defense",

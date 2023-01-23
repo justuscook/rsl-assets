@@ -5,6 +5,11 @@
 		"defaultValue": "Jizoh",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3240#static",
+		"defaultValue": "Hero 3240 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "LizardMen",
 	"role": "Defense",

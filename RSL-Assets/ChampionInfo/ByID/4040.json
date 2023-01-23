@@ -5,6 +5,11 @@
 		"defaultValue": "Foli",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4040#static",
+		"defaultValue": "Hero 4040 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "DarkElves",
 	"role": "Attack",

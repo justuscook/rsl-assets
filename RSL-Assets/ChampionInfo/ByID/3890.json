@@ -5,6 +5,11 @@
 		"defaultValue": "Maranix",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3890#static",
+		"defaultValue": "Hero 3890 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "DarkElves",
 	"role": "Attack",

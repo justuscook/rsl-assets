@@ -5,6 +5,11 @@
 		"defaultValue": "Altan",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2550#static",
+		"defaultValue": "Hero 2550 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Barbarians",
 	"role": "Defense",

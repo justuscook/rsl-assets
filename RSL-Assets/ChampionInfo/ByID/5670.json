@@ -5,6 +5,11 @@
 		"defaultValue": "Iron Brago",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5670#static",
+		"defaultValue": "Hero 5670 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Orcs",
 	"role": "Defense",

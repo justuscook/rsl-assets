@@ -5,6 +5,11 @@
 		"defaultValue": "Marichka the Unbreakable",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7500#static",
+		"defaultValue": "Hero 7500 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "BannerLords",
 	"role": "Support",

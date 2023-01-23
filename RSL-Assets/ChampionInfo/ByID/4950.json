@@ -5,6 +5,11 @@
 		"defaultValue": "Gomlok Skyhide",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4950#static",
+		"defaultValue": "Hero 4950 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Orcs",
 	"role": "Support",

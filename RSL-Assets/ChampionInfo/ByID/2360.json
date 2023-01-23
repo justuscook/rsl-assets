@@ -5,6 +5,11 @@
 		"defaultValue": "Elenaril",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2360#static",
+		"defaultValue": "Hero 2360 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "HighElves",
 	"role": "Attack",

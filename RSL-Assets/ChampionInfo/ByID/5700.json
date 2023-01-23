@@ -5,6 +5,11 @@
 		"defaultValue": "Old Hermit Jorrg",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5700#static",
+		"defaultValue": "Hero 5700 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Orcs",
 	"role": "Support",

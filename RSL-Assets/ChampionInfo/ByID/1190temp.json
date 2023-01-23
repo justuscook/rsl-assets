@@ -5,6 +5,11 @@
 		"defaultValue": "Vulpine",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1190#static",
+		"defaultValue": "Hero 1190 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "UndeadHordes",
 	"role": "Attack",

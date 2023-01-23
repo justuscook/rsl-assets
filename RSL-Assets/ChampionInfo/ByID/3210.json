@@ -5,6 +5,11 @@
 		"defaultValue": "Missionary",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3210#static",
+		"defaultValue": "Hero 3210 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "SacredOrder",
 	"role": "Health",

@@ -5,6 +5,11 @@
 		"defaultValue": "Ailil",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7340#static",
+		"defaultValue": "Hero 7340 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "NyresanElves",
 	"role": "Attack",

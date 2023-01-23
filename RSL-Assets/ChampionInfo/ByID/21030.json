@@ -5,6 +5,11 @@
 		"defaultValue": "Ma'Shalled",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=930#static",
+		"defaultValue": "Hero 930 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "UndeadHordes",
 	"role": "Attack",

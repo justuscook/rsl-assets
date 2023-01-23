@@ -5,6 +5,11 @@
 		"defaultValue": "Ursine Icecrusher",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4480#static",
+		"defaultValue": "Hero 4480 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Skinwalkers",
 	"role": "Defense",

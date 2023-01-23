@@ -5,6 +5,11 @@
 		"defaultValue": "Defiled Sinner",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3650#static",
+		"defaultValue": "Hero 3650 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "UndeadHordes",
 	"role": "Attack",

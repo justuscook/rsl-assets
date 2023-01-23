@@ -5,6 +5,11 @@
 		"defaultValue": "Armina",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5500#static",
+		"defaultValue": "Hero 5500 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Barbarians",
 	"role": "Attack",

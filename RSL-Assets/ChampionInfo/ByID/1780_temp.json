@@ -5,6 +5,11 @@
 		"defaultValue": "Martyr",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1780#static",
+		"defaultValue": "Hero 1780 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "SacredOrder",
 	"role": "Defense",

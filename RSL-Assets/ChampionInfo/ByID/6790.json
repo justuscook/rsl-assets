@@ -5,6 +5,11 @@
 		"defaultValue": "Masamoto",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6790#static",
+		"defaultValue": "Hero 6790 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Shadowkin",
 	"role": "Defense",

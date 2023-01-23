@@ -5,6 +5,11 @@
 		"defaultValue": "Lady Eresh",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6530#static",
+		"defaultValue": "Hero 6530 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "KnightsRevenant",
 	"role": "Attack",

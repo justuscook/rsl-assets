@@ -1,0 +1,39 @@
+{
+	"typeId": 7616,
+	"name": {
+		"key": "l10n:hero-type/name?id=7610#static",
+		"defaultValue": "Searsha the Charred",
+		"localizedValue": null
+	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7610#static",
+		"defaultValue": "Hero 7610 short name",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "NyresanElves",
+	"role": "Support",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0827_forestelves_id7610",
+	"avatarKey": "7610",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		76101,
+		76102,
+		76103,
+		76104
+	],
+	"unscaledStats": {
+		"Health": 116,
+		"Attack": 91,
+		"Defense": 118,
+		"Speed": 100,
+		"Resistance": 30,
+		"Accuracy": 20,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

@@ -5,6 +5,11 @@
 		"defaultValue": "Odachi",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6180#static",
+		"defaultValue": "Hero 6180 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Shadowkin",
 	"role": "Defense",

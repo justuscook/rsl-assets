@@ -5,6 +5,11 @@
 		"defaultValue": "Malbranche",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3070#static",
+		"defaultValue": "Hero 3070 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "Demonspawn",
 	"role": "Attack",

@@ -5,6 +5,11 @@
 		"defaultValue": "Cataphract",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=140#static",
+		"defaultValue": "Hero 140 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "BannerLords",
 	"role": "Health",

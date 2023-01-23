@@ -5,6 +5,11 @@
 		"defaultValue": "Cromax Moonblood",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7040#static",
+		"defaultValue": "Hero 7040 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "DarkElves",
 	"role": "Defense",

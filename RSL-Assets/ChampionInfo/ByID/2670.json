@@ -5,6 +5,11 @@
 		"defaultValue": "Flesh-Tearer",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2670#static",
+		"defaultValue": "Hero 2670 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Skinwalkers",
 	"role": "Support",

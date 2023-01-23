@@ -5,6 +5,11 @@
 		"defaultValue": "Redeemer",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1220#static",
+		"defaultValue": "Hero 1220 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "DarkElves",
 	"role": "Attack",

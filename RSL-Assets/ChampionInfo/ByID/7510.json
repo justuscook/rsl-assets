@@ -5,6 +5,11 @@
 		"defaultValue": "Georgid the Breaker",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7510#static",
+		"defaultValue": "Hero 7510 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "KnightsRevenant",
 	"role": "Attack",

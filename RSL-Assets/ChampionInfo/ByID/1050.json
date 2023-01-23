@@ -5,6 +5,11 @@
 		"defaultValue": "Armiger",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1050#static",
+		"defaultValue": "Hero 1050 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "SacredOrder",
 	"role": "Defense",

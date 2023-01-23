@@ -5,6 +5,11 @@
 		"defaultValue": "Adriel",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2570#static",
+		"defaultValue": "Hero 2570 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "SacredOrder",
 	"role": "Support",

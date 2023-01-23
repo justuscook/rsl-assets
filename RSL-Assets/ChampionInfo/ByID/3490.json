@@ -5,6 +5,11 @@
 		"defaultValue": "Belanor",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3490#static",
+		"defaultValue": "Hero 3490 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "HighElves",
 	"role": "Attack",

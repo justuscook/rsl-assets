@@ -5,6 +5,11 @@
 		"defaultValue": "Bushi",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2500#static",
+		"defaultValue": "Hero 2500 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "SacredOrder",
 	"role": "Attack",

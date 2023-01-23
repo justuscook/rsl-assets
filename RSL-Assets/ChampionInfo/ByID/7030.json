@@ -5,6 +5,11 @@
 		"defaultValue": "Zii Ixchi",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7030#static",
+		"defaultValue": "Hero 7030 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "LizardMen",
 	"role": "Attack",

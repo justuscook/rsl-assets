@@ -5,6 +5,11 @@
 		"defaultValue": "Conellia",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6350#static",
+		"defaultValue": "Hero 6350 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Dwarves",
 	"role": "Support",

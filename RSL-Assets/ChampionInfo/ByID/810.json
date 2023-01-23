@@ -5,6 +5,11 @@
 		"defaultValue": "Spiritwalker",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=810#static",
+		"defaultValue": "Hero 810 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Barbarians",
 	"role": "Support",

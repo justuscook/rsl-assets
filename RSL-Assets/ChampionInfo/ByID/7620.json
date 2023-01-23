@@ -1,0 +1,44 @@
+{
+	"typeId": 7626,
+	"name": {
+		"key": "l10n:hero-type/name?id=7620#static",
+		"defaultValue": "Akemtum",
+		"localizedValue": null
+	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7620#static",
+		"defaultValue": "Hero 7620 short name",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "Skinwalkers",
+	"role": "Attack",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0835_skinwalker_id7620",
+	"avatarKey": "7620",
+	"leaderSkill": {
+		"area": "",
+		"affinity": "",
+		"kind": "Speed",
+		"absolute": false,
+		"value": 0.18
+	},
+	"skillTypeIds": [
+		76201,
+		76202,
+		76203
+	],
+	"unscaledStats": {
+		"Health": 97,
+		"Attack": 123,
+		"Defense": 80,
+		"Speed": 98,
+		"Resistance": 30,
+		"Accuracy": 15,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

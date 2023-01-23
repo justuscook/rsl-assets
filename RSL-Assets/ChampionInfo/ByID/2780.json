@@ -5,6 +5,11 @@
 		"defaultValue": "Crypt Witch",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2780#static",
+		"defaultValue": "Hero 2780 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "KnightsRevenant",
 	"role": "Attack",

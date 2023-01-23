@@ -5,6 +5,11 @@
 		"defaultValue": "Ursala the Mourner",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5620#static",
+		"defaultValue": "Hero 5620 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "BannerLords",
 	"role": "Support",

@@ -5,6 +5,11 @@
 		"defaultValue": "Riho Bonespear",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5940#static",
+		"defaultValue": "Hero 5940 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "Shadowkin",
 	"role": "Support",

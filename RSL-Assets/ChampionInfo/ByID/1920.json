@@ -5,6 +5,11 @@
 		"defaultValue": "Psylar",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1920#static",
+		"defaultValue": "Hero 1920 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "DarkElves",
 	"role": "Support",

@@ -5,6 +5,11 @@
 		"defaultValue": "Tigersoul",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5380#static",
+		"defaultValue": "Hero 5380 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Barbarians",
 	"role": "Attack",

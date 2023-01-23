@@ -5,6 +5,11 @@
 		"defaultValue": "Gala Longbraids",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4390#static",
+		"defaultValue": "Hero 4390 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "Dwarves",
 	"role": "Attack",

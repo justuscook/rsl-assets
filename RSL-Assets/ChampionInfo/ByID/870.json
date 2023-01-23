@@ -5,6 +5,11 @@
 		"defaultValue": "Bogwalker",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=870#static",
+		"defaultValue": "Hero 870 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "LizardMen",
 	"role": "Defense",

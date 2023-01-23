@@ -5,6 +5,11 @@
 		"defaultValue": "Pigsticker",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4100#static",
+		"defaultValue": "Hero 4100 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Orcs",
 	"role": "Attack",

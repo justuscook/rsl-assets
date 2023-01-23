@@ -5,6 +5,11 @@
 		"defaultValue": "Ogryn Jailer",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4050#static",
+		"defaultValue": "Hero 4050 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "OgrynTribes",
 	"role": "Attack",

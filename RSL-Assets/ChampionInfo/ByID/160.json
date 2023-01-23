@@ -5,6 +5,11 @@
 		"defaultValue": "Raglin",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=160#static",
+		"defaultValue": "Hero 160 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "BannerLords",
 	"role": "Support",

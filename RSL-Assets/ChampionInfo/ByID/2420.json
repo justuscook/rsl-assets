@@ -5,6 +5,11 @@
 		"defaultValue": "Crusher",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2420#static",
+		"defaultValue": "Hero 2420 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Barbarians",
 	"role": "Defense",

@@ -5,6 +5,11 @@
 		"defaultValue": "Robar",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2330#static",
+		"defaultValue": "Hero 2330 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Orcs",
 	"role": "Attack",

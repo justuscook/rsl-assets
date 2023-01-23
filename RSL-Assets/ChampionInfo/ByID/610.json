@@ -5,6 +5,11 @@
 		"defaultValue": "Zelotah",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=610#static",
+		"defaultValue": "Hero 610 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "UndeadHordes",
 	"role": "Support",

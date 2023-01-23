@@ -5,6 +5,11 @@
 		"defaultValue": "Cleopterix",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6230#static",
+		"defaultValue": "Hero 6230 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Skinwalkers",
 	"role": "Attack",

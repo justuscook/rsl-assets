@@ -5,6 +5,11 @@
 		"defaultValue": "Shamrock",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3570#static",
+		"defaultValue": "Hero 3570 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "OgrynTribes",
 	"role": "Support",

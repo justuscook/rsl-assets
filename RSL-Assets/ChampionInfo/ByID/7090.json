@@ -5,6 +5,11 @@
 		"defaultValue": "Ultimate Deathknight",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7090#static",
+		"defaultValue": "Hero 7090 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "UndeadHordes",
 	"role": "Defense",

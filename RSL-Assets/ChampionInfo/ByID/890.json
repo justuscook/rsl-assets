@@ -5,6 +5,11 @@
 		"defaultValue": "Skullsworn",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=890#static",
+		"defaultValue": "Hero 890 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "LizardMen",
 	"role": "Attack",

@@ -28,7 +28,7 @@
 			"numBooksToMax": "5"
 		},
 		{
-			"desc": "Attacks all enemies. Places a [Shield] buff on all allies for 3 turns and a [Counterattack] buff on all allies for 2 turns. The value of [Shield] and the damage inflicted are proportional to this Champion's DEF.",
+			"desc": "Attacks all enemies. Places a [Shield] buff on all allies for 3 turns and a [Counterattack] buff on all allies for 2 turns. The value of the [Shield] and the damage inflicted are proportional to this Champion's DEF.",
 			"basedOn": "[DEF]",
 			"name": "Stand Firm",
 			"maxcd": "4",

@@ -5,6 +5,11 @@
 		"defaultValue": "Faceless",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=280#static",
+		"defaultValue": "Hero 280 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "KnightsRevenant",
 	"role": "Attack",

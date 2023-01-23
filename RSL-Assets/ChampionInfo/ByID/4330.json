@@ -5,6 +5,11 @@
 		"defaultValue": "Stout Axeman",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4330#static",
+		"defaultValue": "Hero 4330 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Dwarves",
 	"role": "Health",

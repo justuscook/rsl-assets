@@ -5,6 +5,11 @@
 		"defaultValue": "Ghostborn",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1900#static",
+		"defaultValue": "Hero 1900 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "DarkElves",
 	"role": "Support",

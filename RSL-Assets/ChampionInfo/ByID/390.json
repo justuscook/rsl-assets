@@ -5,6 +5,11 @@
 		"defaultValue": "Heiress",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=390#static",
+		"defaultValue": "Hero 390 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "HighElves",
 	"role": "Attack",

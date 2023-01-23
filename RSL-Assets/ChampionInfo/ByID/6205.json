@@ -5,6 +5,11 @@
 		"defaultValue": "Ronda the Rowdy",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7360#static",
+		"defaultValue": "Hero 7360 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "BannerLords",
 	"role": "Attack",

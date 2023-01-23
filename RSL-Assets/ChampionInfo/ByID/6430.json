@@ -5,6 +5,11 @@
 		"defaultValue": "Kyoku",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6430#static",
+		"defaultValue": "Hero 6430 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Shadowkin",
 	"role": "Defense",

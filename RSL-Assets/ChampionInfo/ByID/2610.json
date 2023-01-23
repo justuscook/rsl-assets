@@ -5,6 +5,11 @@
 		"defaultValue": "Hope",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2610#static",
+		"defaultValue": "Hero 2610 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "SacredOrder",
 	"role": "Health",

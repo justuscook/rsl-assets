@@ -5,6 +5,11 @@
 		"defaultValue": "Crimson Helm",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=600#static",
+		"defaultValue": "Hero 600 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "DarkElves",
 	"role": "Defense",

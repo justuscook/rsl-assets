@@ -5,6 +5,11 @@
 		"defaultValue": "Lanakis the Chosen",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3830#static",
+		"defaultValue": "Hero 3830 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "DarkElves",
 	"role": "Support",

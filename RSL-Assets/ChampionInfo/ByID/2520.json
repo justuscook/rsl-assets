@@ -5,6 +5,11 @@
 		"defaultValue": "Hollow",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2520#static",
+		"defaultValue": "Hero 2520 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "UndeadHordes",
 	"role": "Attack",

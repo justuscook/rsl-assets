@@ -5,6 +5,11 @@
 		"defaultValue": "Krakarth",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7050#static",
+		"defaultValue": "Hero 7050 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "DarkElves",
 	"role": "Health",

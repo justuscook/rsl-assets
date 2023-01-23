@@ -5,6 +5,11 @@
 		"defaultValue": "Krisk the Ageless",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3670#static",
+		"defaultValue": "Hero 3670 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "LizardMen",
 	"role": "Defense",

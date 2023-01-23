@@ -5,6 +5,11 @@
 		"defaultValue": "Hyria",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=100#static",
+		"defaultValue": "Hero 100 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "HighElves",
 	"role": "Attack",

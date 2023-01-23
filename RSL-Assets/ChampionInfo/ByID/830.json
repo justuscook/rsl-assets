@@ -5,6 +5,11 @@
 		"defaultValue": "Berserker",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=830#static",
+		"defaultValue": "Hero 830 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Barbarians",
 	"role": "Attack",

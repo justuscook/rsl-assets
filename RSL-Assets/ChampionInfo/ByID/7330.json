@@ -5,6 +5,11 @@
 		"defaultValue": "Morrigaine",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7330#static",
+		"defaultValue": "Hero 7330 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "UndeadHordes",
 	"role": "Support",

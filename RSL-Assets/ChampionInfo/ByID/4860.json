@@ -5,6 +5,11 @@
 		"defaultValue": "Fortus",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4860#static",
+		"defaultValue": "Hero 4860 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "KnightsRevenant",
 	"role": "Defense",

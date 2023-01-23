@@ -5,6 +5,11 @@
 		"defaultValue": "Infiltrator",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5920#static",
+		"defaultValue": "Hero 5920 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Shadowkin",
 	"role": "Attack",

@@ -5,6 +5,11 @@
 		"defaultValue": "Mistress of Hymns",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3970#static",
+		"defaultValue": "Hero 3970 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "SacredOrder",
 	"role": "Support",

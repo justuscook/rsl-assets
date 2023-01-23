@@ -5,6 +5,11 @@
 		"defaultValue": "Ginro the Stork",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6990#static",
+		"defaultValue": "Hero 6990 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "Shadowkin",
 	"role": "Defense",

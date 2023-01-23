@@ -5,6 +5,11 @@
 		"defaultValue": "Hill Nomad",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3940#static",
+		"defaultValue": "Hero 3940 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Barbarians",
 	"role": "Support",

@@ -5,6 +5,11 @@
 		"defaultValue": "Infernal Baroness",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2470#static",
+		"defaultValue": "Hero 2470 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Demonspawn",
 	"role": "Defense",

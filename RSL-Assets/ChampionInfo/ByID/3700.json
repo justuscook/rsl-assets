@@ -5,6 +5,11 @@
 		"defaultValue": "Haarken Greatblade",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3700#static",
+		"defaultValue": "Hero 3700 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "Barbarians",
 	"role": "Attack",

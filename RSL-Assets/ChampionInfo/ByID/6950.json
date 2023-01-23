@@ -5,6 +5,11 @@
 		"defaultValue": "Trugorr",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6950#static",
+		"defaultValue": "Hero 6950 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Barbarians",
 	"role": "Attack",

@@ -5,6 +5,11 @@
 		"defaultValue": "Sir Nicholas",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3000#static",
+		"defaultValue": "Hero 3000 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "SacredOrder",
 	"role": "Health",

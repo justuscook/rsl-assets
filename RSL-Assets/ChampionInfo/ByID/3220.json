@@ -5,6 +5,11 @@
 		"defaultValue": "Cagebreaker",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3220#static",
+		"defaultValue": "Hero 3220 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "OgrynTribes",
 	"role": "Attack",

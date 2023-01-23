@@ -5,6 +5,11 @@
 		"defaultValue": "Crypt-King Graal",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3190#static",
+		"defaultValue": "Hero 3190 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "UndeadHordes",
 	"role": "Support",

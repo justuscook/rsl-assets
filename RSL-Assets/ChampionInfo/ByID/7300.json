@@ -5,6 +5,11 @@
 		"defaultValue": "Skeuramis",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7300#static",
+		"defaultValue": "Hero 7300 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "HighElves",
 	"role": "Health",

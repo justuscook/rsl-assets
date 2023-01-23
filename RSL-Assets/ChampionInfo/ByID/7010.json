@@ -5,6 +5,11 @@
 		"defaultValue": "Nari the Lucky",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7010#static",
+		"defaultValue": "Hero 7010 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Dwarves",
 	"role": "Defense",

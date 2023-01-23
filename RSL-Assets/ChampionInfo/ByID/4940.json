@@ -5,6 +5,11 @@
 		"defaultValue": "Mordecai",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4940#static",
+		"defaultValue": "Hero 4940 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "SacredOrder",
 	"role": "Support",

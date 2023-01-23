@@ -5,6 +5,11 @@
 		"defaultValue": "Rowan",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=180#static",
+		"defaultValue": "Hero 180 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "BannerLords",
 	"role": "Attack",

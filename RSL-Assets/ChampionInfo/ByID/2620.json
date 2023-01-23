@@ -5,6 +5,11 @@
 		"defaultValue": "Skirmisher",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2620#static",
+		"defaultValue": "Hero 2620 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "Barbarians",
 	"role": "Attack",

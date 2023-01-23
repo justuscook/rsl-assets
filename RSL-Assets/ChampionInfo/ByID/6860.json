@@ -5,6 +5,11 @@
 		"defaultValue": "Old Ghrukkus",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6860#static",
+		"defaultValue": "Hero 6860 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "OgrynTribes",
 	"role": "Support",

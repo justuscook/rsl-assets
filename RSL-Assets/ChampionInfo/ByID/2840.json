@@ -5,6 +5,11 @@
 		"defaultValue": "Oldbeard",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2840#static",
+		"defaultValue": "Hero 2840 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "OgrynTribes",
 	"role": "Defense",

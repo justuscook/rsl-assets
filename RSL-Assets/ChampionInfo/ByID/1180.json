@@ -5,6 +5,11 @@
 		"defaultValue": "Azure",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1180#static",
+		"defaultValue": "Hero 1180 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "BannerLords",
 	"role": "Health",

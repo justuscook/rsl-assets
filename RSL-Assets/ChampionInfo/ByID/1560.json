@@ -5,6 +5,11 @@
 		"defaultValue": "Theurgist",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1560#static",
+		"defaultValue": "Hero 1560 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "KnightsRevenant",
 	"role": "Support",

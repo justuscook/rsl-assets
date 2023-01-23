@@ -5,6 +5,11 @@
 		"defaultValue": "Skull Lord Var-Gall",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5020#static",
+		"defaultValue": "Hero 5020 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "LizardMen",
 	"role": "Defense",

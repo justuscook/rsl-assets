@@ -5,6 +5,11 @@
 		"defaultValue": "Anointed",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2100#static",
+		"defaultValue": "Hero 2100 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Barbarians",
 	"role": "Support",

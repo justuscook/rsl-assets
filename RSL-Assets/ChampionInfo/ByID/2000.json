@@ -5,6 +5,11 @@
 		"defaultValue": "Cardinal",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2000#static",
+		"defaultValue": "Hero 2000 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "SacredOrder",
 	"role": "Support",

@@ -5,6 +5,11 @@
 		"defaultValue": "Raider",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=270#static",
+		"defaultValue": "Hero 270 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Orcs",
 	"role": "Attack",

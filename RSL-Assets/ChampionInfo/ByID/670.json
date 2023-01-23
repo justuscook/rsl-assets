@@ -5,6 +5,11 @@
 		"defaultValue": "Magmablood",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=670#static",
+		"defaultValue": "Hero 670 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "OgrynTribes",
 	"role": "Attack",

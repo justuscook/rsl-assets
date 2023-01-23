@@ -5,6 +5,11 @@
 		"defaultValue": "Scyl of the Drakes",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5010#static",
+		"defaultValue": "Hero 5010 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Barbarians",
 	"role": "Defense",

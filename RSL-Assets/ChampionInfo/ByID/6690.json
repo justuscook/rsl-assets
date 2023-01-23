@@ -5,6 +5,11 @@
 		"defaultValue": "Raf-Matab",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6690#static",
+		"defaultValue": "Hero 6690 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Barbarians",
 	"role": "Health",

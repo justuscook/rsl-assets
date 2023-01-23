@@ -5,6 +5,11 @@
 		"defaultValue": "Athel",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1500#static",
+		"defaultValue": "Hero 1500 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "SacredOrder",
 	"role": "Attack",

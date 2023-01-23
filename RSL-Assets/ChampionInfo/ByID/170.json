@@ -5,6 +5,11 @@
 		"defaultValue": "Hordin",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=170#static",
+		"defaultValue": "Hero 170 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "BannerLords",
 	"role": "Attack",

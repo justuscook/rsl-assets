@@ -5,6 +5,11 @@
 		"defaultValue": "Dark Elhain",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4990#static",
+		"defaultValue": "Hero 4990 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "UndeadHordes",
 	"role": "Attack",

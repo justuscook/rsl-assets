@@ -5,6 +5,11 @@
 		"defaultValue": "Paragon",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1890#static",
+		"defaultValue": "Hero 1890 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "DarkElves",
 	"role": "Defense",

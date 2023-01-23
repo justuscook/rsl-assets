@@ -5,6 +5,11 @@
 		"defaultValue": "Pestilus",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5750#static",
+		"defaultValue": "Hero 5750 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "KnightsRevenant",
 	"role": "Support",

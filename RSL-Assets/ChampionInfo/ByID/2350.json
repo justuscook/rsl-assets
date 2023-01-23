@@ -5,6 +5,11 @@
 		"defaultValue": "Soulless",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2350#static",
+		"defaultValue": "Hero 2350 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "KnightsRevenant",
 	"role": "Defense",

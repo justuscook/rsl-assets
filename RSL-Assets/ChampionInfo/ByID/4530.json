@@ -5,6 +5,11 @@
 		"defaultValue": "Skytouched Shaman",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4530#static",
+		"defaultValue": "Hero 4530 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "Barbarians",
 	"role": "Support",

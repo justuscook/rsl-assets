@@ -5,6 +5,11 @@
 		"defaultValue": "Grizzled Jarl",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4250#static",
+		"defaultValue": "Hero 4250 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Dwarves",
 	"role": "Defense",

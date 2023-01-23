@@ -5,6 +5,11 @@
 		"defaultValue": "Astralith",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=90#static",
+		"defaultValue": "Hero 90 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "DarkElves",
 	"role": "Attack",

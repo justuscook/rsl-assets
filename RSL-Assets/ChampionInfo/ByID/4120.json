@@ -5,6 +5,11 @@
 		"defaultValue": "Bergoth the Malformed",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4120#static",
+		"defaultValue": "Hero 4120 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "KnightsRevenant",
 	"role": "Health",

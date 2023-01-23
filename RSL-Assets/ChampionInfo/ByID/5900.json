@@ -5,6 +5,11 @@
 		"defaultValue": "Bloodmask",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5900#static",
+		"defaultValue": "Hero 5900 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Shadowkin",
 	"role": "Health",

@@ -5,6 +5,11 @@
 		"defaultValue": "Lamellar",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2190#static",
+		"defaultValue": "Hero 2190 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "SacredOrder",
 	"role": "Health",

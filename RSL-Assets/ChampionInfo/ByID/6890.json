@@ -5,6 +5,11 @@
 		"defaultValue": "Karato Foxhunter",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6890#static",
+		"defaultValue": "Hero 6890 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Shadowkin",
 	"role": "Attack",

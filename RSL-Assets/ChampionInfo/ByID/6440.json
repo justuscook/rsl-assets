@@ -5,6 +5,11 @@
 		"defaultValue": "Danag Skullreap",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6440#static",
+		"defaultValue": "Hero 6440 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Orcs",
 	"role": "Attack",

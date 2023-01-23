@@ -5,6 +5,11 @@
 		"defaultValue": "Phranox",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7180#static",
+		"defaultValue": "Hero 7180 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "KnightsRevenant",
 	"role": "Attack",

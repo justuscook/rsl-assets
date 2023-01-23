@@ -5,6 +5,11 @@
 		"defaultValue": "Executioner",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=340#static",
+		"defaultValue": "Hero 340 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "KnightsRevenant",
 	"role": "Defense",

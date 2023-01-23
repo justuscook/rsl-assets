@@ -5,6 +5,11 @@
 		"defaultValue": "Hellfreak",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6410#static",
+		"defaultValue": "Hero 6410 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Demonspawn",
 	"role": "Attack",

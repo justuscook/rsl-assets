@@ -5,6 +5,11 @@
 		"defaultValue": "Tallia",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3420#static",
+		"defaultValue": "Hero 3420 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "SacredOrder",
 	"role": "Attack",

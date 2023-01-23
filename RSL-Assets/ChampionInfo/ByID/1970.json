@@ -5,6 +5,11 @@
 		"defaultValue": "Hexweaver",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1970#static",
+		"defaultValue": "Hero 1970 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "DarkElves",
 	"role": "Support",

@@ -5,6 +5,11 @@
 		"defaultValue": "Hellfang",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1470#static",
+		"defaultValue": "Hero 1470 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Demonspawn",
 	"role": "Attack",

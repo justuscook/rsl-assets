@@ -5,6 +5,11 @@
 		"defaultValue": "Archbishop Pinthroy",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6450#static",
+		"defaultValue": "Hero 6450 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "SacredOrder",
 	"role": "Support",

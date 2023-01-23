@@ -5,6 +5,11 @@
 		"defaultValue": "Beast Wrestler",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4300#static",
+		"defaultValue": "Hero 4300 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Dwarves",
 	"role": "Attack",

@@ -5,6 +5,11 @@
 		"defaultValue": "Dilgol",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5120#static",
+		"defaultValue": "Hero 5120 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "Dwarves",
 	"role": "Attack",

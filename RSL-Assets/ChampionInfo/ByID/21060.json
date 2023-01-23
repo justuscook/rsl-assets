@@ -5,6 +5,11 @@
 		"defaultValue": "Queen Eva",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=950#static",
+		"defaultValue": "Hero 950 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "DarkElves",
 	"role": "Attack",

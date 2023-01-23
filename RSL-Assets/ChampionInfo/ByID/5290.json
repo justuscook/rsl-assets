@@ -5,6 +5,11 @@
 		"defaultValue": "Kaiden",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5290#static",
+		"defaultValue": "Hero 5290 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "DarkElves",
 	"role": "Defense",

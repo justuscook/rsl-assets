@@ -5,6 +5,11 @@
 		"defaultValue": "Anax",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5650#static",
+		"defaultValue": "Hero 5650 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "UndeadHordes",
 	"role": "Attack",

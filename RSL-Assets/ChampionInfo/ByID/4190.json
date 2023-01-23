@@ -5,6 +5,11 @@
 		"defaultValue": "Madman",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4190#static",
+		"defaultValue": "Hero 4190 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Dwarves",
 	"role": "Attack",

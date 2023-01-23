@@ -5,6 +5,11 @@
 		"defaultValue": "Tagoar",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7310#static",
+		"defaultValue": "Hero 7310 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Orcs",
 	"role": "Support",

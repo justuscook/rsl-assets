@@ -5,6 +5,11 @@
 		"defaultValue": "Morag Bronzelock",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7550#static",
+		"defaultValue": "Hero 7550 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Dwarves",
 	"role": "Defense",

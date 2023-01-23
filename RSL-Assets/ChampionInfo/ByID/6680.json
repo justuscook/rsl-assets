@@ -5,6 +5,11 @@
 		"defaultValue": "Anchorite",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6680#static",
+		"defaultValue": "Hero 6680 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "SacredOrder",
 	"role": "Support",

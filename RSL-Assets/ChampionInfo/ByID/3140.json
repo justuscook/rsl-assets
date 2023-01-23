@@ -5,6 +5,11 @@
 		"defaultValue": "Pain Keeper",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3140#static",
+		"defaultValue": "Hero 3140 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "DarkElves",
 	"role": "Health",

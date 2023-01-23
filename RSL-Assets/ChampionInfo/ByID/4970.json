@@ -5,6 +5,11 @@
 		"defaultValue": "Cillian the Lucky",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4970#static",
+		"defaultValue": "Hero 4970 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "BannerLords",
 	"role": "Attack",

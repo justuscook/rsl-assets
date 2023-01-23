@@ -5,6 +5,11 @@
 		"defaultValue": "Warlord",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=660#static",
+		"defaultValue": "Hero 660 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "Orcs",
 	"role": "Support",

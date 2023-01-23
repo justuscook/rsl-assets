@@ -5,6 +5,11 @@
 		"defaultValue": "Goffred Brassclad",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7250#static",
+		"defaultValue": "Hero 7250 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Dwarves",
 	"role": "Defense",

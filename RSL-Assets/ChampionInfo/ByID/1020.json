@@ -5,6 +5,11 @@
 		"defaultValue": "Erinyes",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1020#static",
+		"defaultValue": "Hero 1020 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Demonspawn",
 	"role": "Attack",

@@ -5,6 +5,11 @@
 		"defaultValue": "Richtoff the Bold",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2320#static",
+		"defaultValue": "Hero 2320 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "BannerLords",
 	"role": "Attack",

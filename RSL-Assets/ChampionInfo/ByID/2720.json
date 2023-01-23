@@ -5,6 +5,11 @@
 		"defaultValue": "Hakkorhn Smashlord",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2720#static",
+		"defaultValue": "Hero 2720 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Skinwalkers",
 	"role": "Health",

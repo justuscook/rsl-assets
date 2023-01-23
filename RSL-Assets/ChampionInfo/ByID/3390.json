@@ -5,6 +5,11 @@
 		"defaultValue": "Seducer",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3390#static",
+		"defaultValue": "Hero 3390 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "UndeadHordes",
 	"role": "Defense",

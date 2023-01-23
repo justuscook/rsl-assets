@@ -5,6 +5,11 @@
 		"defaultValue": "Ragemonger",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3710#static",
+		"defaultValue": "Hero 3710 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "Barbarians",
 	"role": "Attack",

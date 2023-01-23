@@ -5,6 +5,11 @@
 		"defaultValue": "Gory",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6130#static",
+		"defaultValue": "Hero 6130 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Shadowkin",
 	"role": "Attack",

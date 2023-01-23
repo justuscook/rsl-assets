@@ -5,6 +5,11 @@
 		"defaultValue": "Varl the Destroyer",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6210#static",
+		"defaultValue": "Hero 6210 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Orcs",
 	"role": "Attack",

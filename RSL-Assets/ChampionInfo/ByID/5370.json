@@ -5,6 +5,11 @@
 		"defaultValue": "Elegaius",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5370#static",
+		"defaultValue": "Hero 5370 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "UndeadHordes",
 	"role": "Support",

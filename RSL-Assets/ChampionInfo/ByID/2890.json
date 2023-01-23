@@ -5,6 +5,11 @@
 		"defaultValue": "Eviscerator",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2890#static",
+		"defaultValue": "Hero 2890 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "DarkElves",
 	"role": "Attack",

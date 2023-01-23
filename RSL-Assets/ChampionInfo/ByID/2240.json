@@ -5,6 +5,11 @@
 		"defaultValue": "Slasher",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2240#static",
+		"defaultValue": "Hero 2240 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "LizardMen",
 	"role": "Attack",

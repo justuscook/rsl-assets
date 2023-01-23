@@ -5,6 +5,11 @@
 		"defaultValue": "Dark Athel",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4030#static",
+		"defaultValue": "Hero 4030 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "UndeadHordes",
 	"role": "Attack",

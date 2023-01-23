@@ -5,6 +5,11 @@
 		"defaultValue": "Broodlord",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6810#static",
+		"defaultValue": "Hero 6810 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "LizardMen",
 	"role": "Defense",

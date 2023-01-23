@@ -5,6 +5,11 @@
 		"defaultValue": "Nethril",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1830#static",
+		"defaultValue": "Hero 1830 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "UndeadHordes",
 	"role": "Attack",

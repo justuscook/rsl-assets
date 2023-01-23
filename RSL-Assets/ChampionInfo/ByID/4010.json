@@ -5,6 +5,11 @@
 		"defaultValue": "High Khatun",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4010#static",
+		"defaultValue": "Hero 4010 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Barbarians",
 	"role": "Support",

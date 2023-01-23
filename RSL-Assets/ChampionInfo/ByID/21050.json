@@ -5,6 +5,11 @@
 		"defaultValue": "Warchief",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=940#static",
+		"defaultValue": "Hero 940 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Skinwalkers",
 	"role": "Defense",

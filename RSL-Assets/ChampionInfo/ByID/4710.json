@@ -5,6 +5,11 @@
 		"defaultValue": "Lydia the Deathsiren",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4710#static",
+		"defaultValue": "Hero 4710 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "DarkElves",
 	"role": "Support",

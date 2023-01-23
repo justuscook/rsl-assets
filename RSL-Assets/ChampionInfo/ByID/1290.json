@@ -5,6 +5,11 @@
 		"defaultValue": "Deathchanter",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1290#static",
+		"defaultValue": "Hero 1290 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Orcs",
 	"role": "Health",

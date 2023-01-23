@@ -5,6 +5,11 @@
 		"defaultValue": "Snorting Thug",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3540#static",
+		"defaultValue": "Hero 3540 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Skinwalkers",
 	"role": "Health",

@@ -5,6 +5,11 @@
 		"defaultValue": "Herald",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1380#static",
+		"defaultValue": "Hero 1380 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "KnightsRevenant",
 	"role": "Support",

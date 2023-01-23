@@ -5,6 +5,11 @@
 		"defaultValue": "Chani",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6030#static",
+		"defaultValue": "Hero 6030 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Shadowkin",
 	"role": "Attack",

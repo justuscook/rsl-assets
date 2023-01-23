@@ -5,6 +5,11 @@
 		"defaultValue": "Fellhound",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2770#static",
+		"defaultValue": "Hero 2770 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "Demonspawn",
 	"role": "Defense",

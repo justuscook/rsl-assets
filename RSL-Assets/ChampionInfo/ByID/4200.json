@@ -5,6 +5,11 @@
 		"defaultValue": "Runekeeper Dazdurk",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4200#static",
+		"defaultValue": "Hero 4200 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "Dwarves",
 	"role": "Support",

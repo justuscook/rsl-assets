@@ -5,6 +5,11 @@
 		"defaultValue": "Solaris",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5190#static",
+		"defaultValue": "Hero 5190 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "SacredOrder",
 	"role": "Attack",

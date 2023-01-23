@@ -1,0 +1,63 @@
+{
+	"name": "Kellan the Shrike",
+	"key": "l10n:hero-type/name?id=7650#static",
+	"id": 7656,
+	"avatar": "7650",
+	"affinity": "Magic",
+	"hp": "13545",
+	"atk": "1443",
+	"def": "958",
+	"spd": "98",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "60",
+	"cheal": "50",
+	"faction": "Nyresan Elves",
+	"aura": "",
+	"totalBooks": "13",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 30% chance of placing a 25% [Weaken] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Impale and Impede",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +10%\n",
+			"multiplier": "3.4*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks 1 enemy 2 times. The first hit has a 75% chance of decreasing the target’s Turn Meter by 50%. The second hit has a 75% chance of placing a 30% [Decrease SPD] debuff for 2 turns. \r\n\r\nAlso places a [Perfect Veil] buff on this Champion for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Huntsman's Gambit",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "2.8*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks all enemies. Damage increases by 5% for each debuff on the target.",
+			"basedOn": "[ATK]",
+			"name": "Cry of the Shrike",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Cooldown -1\n",
+			"multiplier": "3.7*ATK*(1+0.05*TRG_DEBUFF_COUNT)",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "Will ignore [Shield] buffs when attacking under a [Perfect Veil] buff.",
+			"basedOn": "",
+			"name": "Unforseen [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Epic",
+	"type": "Attack"
+}

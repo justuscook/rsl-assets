@@ -5,6 +5,11 @@
 		"defaultValue": "Fayne",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5300#static",
+		"defaultValue": "Hero 5300 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Skinwalkers",
 	"role": "Attack",

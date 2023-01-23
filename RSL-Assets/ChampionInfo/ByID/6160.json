@@ -5,6 +5,11 @@
 		"defaultValue": "Mycolus",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6160#static",
+		"defaultValue": "Hero 6160 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "OgrynTribes",
 	"role": "Support",

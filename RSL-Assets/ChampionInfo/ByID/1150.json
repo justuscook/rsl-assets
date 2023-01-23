@@ -5,6 +5,11 @@
 		"defaultValue": "Broadmaw",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1150#static",
+		"defaultValue": "Hero 1150 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "LizardMen",
 	"role": "Support",

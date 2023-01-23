@@ -5,6 +5,11 @@
 		"defaultValue": "Norog",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1790#static",
+		"defaultValue": "Hero 1790 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Skinwalkers",
 	"role": "Defense",

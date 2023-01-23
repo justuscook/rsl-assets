@@ -5,6 +5,11 @@
 		"defaultValue": "Marquess",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2940#static",
+		"defaultValue": "Hero 2940 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Demonspawn",
 	"role": "Defense",

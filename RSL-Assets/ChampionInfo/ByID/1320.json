@@ -5,6 +5,11 @@
 		"defaultValue": "Chopper",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1320#static",
+		"defaultValue": "Hero 1320 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Orcs",
 	"role": "Attack",

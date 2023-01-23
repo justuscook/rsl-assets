@@ -5,6 +5,11 @@
 		"defaultValue": "Kantra the Cyclone",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2980#static",
+		"defaultValue": "Hero 2980 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Barbarians",
 	"role": "Defense",

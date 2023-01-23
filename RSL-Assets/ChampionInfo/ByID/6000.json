@@ -5,6 +5,11 @@
 		"defaultValue": "Ramantu Drakesblood",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6000#static",
+		"defaultValue": "Hero 6000 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "LizardMen",
 	"role": "Attack",

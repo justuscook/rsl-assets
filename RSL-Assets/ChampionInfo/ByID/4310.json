@@ -5,6 +5,11 @@
 		"defaultValue": "Master Butcher",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4310#static",
+		"defaultValue": "Hero 4310 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Dwarves",
 	"role": "Support",

@@ -5,6 +5,11 @@
 		"defaultValue": "Gorlos Hellmaw",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6010#static",
+		"defaultValue": "Hero 6010 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Demonspawn",
 	"role": "Attack",

@@ -5,6 +5,11 @@
 		"defaultValue": "Rock Breaker",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4160#static",
+		"defaultValue": "Hero 4160 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Dwarves",
 	"role": "Defense",

@@ -5,6 +5,11 @@
 		"defaultValue": "Godseeker Aniri",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5790#static",
+		"defaultValue": "Hero 5790 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "SacredOrder",
 	"role": "Defense",

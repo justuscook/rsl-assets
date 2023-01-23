@@ -5,6 +5,11 @@
 		"defaultValue": "Pyxniel",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5530#static",
+		"defaultValue": "Hero 5530 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "HighElves",
 	"role": "Support",

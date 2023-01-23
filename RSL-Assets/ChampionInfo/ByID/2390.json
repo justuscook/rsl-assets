@@ -5,6 +5,11 @@
 		"defaultValue": "Sethallia",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2390#static",
+		"defaultValue": "Hero 2390 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "BannerLords",
 	"role": "Support",

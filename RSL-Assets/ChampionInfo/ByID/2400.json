@@ -5,6 +5,11 @@
 		"defaultValue": "Warcaster",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2400#static",
+		"defaultValue": "Hero 2400 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "BannerLords",
 	"role": "Support",

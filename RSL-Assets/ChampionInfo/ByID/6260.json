@@ -5,6 +5,11 @@
 		"defaultValue": "Ba Satha",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6260#static",
+		"defaultValue": "Hero 6260 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "LizardMen",
 	"role": "Health",

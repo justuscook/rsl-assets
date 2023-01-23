@@ -5,6 +5,11 @@
 		"defaultValue": "Sergeant",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=540#static",
+		"defaultValue": "Hero 540 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "SacredOrder",
 	"role": "Attack",

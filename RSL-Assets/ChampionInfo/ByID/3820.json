@@ -5,6 +5,11 @@
 		"defaultValue": "Dead Crusader",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3820#static",
+		"defaultValue": "Hero 3820 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "UndeadHordes",
 	"role": "Defense",

@@ -5,6 +5,11 @@
 		"defaultValue": "Gnarlhorn",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1100#static",
+		"defaultValue": "Hero 1100 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Skinwalkers",
 	"role": "Health",

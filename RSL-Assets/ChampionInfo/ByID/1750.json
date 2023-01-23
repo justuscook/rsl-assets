@@ -5,6 +5,11 @@
 		"defaultValue": "Lyssandra",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1750#static",
+		"defaultValue": "Hero 1750 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "HighElves",
 	"role": "Support",

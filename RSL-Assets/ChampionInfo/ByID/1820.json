@@ -5,6 +5,11 @@
 		"defaultValue": "Bloodgorged",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1820#static",
+		"defaultValue": "Hero 1820 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "UndeadHordes",
 	"role": "Attack",

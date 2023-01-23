@@ -5,6 +5,11 @@
 		"defaultValue": "Renegade",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=420#static",
+		"defaultValue": "Hero 420 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "KnightsRevenant",
 	"role": "Support",

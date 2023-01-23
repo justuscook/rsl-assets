@@ -28,7 +28,7 @@
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Attacks all enemies. Places a [Shield] buff on all allies for 2 turns. The value of [Shield] is proportional to this Champion’s DEF.",
+			"desc": "Attacks all enemies. Places a [Shield] buff on all allies for 2 turns. The value of the [Shield] is proportional to this Champion's DEF.",
 			"basedOn": "[DEF]",
 			"name": "Winds of the Pit",
 			"maxcd": "4",

@@ -5,6 +5,11 @@
 		"defaultValue": "Skellag",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=560#static",
+		"defaultValue": "Hero 560 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "UndeadHordes",
 	"role": "Defense",

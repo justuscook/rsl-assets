@@ -5,6 +5,11 @@
 		"defaultValue": "Hospitaller",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3400#static",
+		"defaultValue": "Hero 3400 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "SacredOrder",
 	"role": "Support",

@@ -5,6 +5,11 @@
 		"defaultValue": "Royal Guard",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=130#static",
+		"defaultValue": "Hero 130 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "HighElves",
 	"role": "Attack",

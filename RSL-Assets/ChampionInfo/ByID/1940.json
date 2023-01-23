@@ -5,6 +5,11 @@
 		"defaultValue": "Preserver",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1940#static",
+		"defaultValue": "Hero 1940 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "BannerLords",
 	"role": "Defense",

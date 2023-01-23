@@ -5,6 +5,11 @@
 		"defaultValue": "Doompriest",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2800#static",
+		"defaultValue": "Hero 2800 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "KnightsRevenant",
 	"role": "Support",

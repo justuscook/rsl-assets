@@ -5,6 +5,11 @@
 		"defaultValue": "Tormin the Cold",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4630#static",
+		"defaultValue": "Hero 4630 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "Dwarves",
 	"role": "Defense",

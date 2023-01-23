@@ -5,6 +5,11 @@
 		"defaultValue": "Pathfinder Cait",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7470#static",
+		"defaultValue": "Hero 7470 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "NyresanElves",
 	"role": "Attack",

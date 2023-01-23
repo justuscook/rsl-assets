@@ -5,6 +5,11 @@
 		"defaultValue": "Septimus",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=440#static",
+		"defaultValue": "Hero 440 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "BannerLords",
 	"role": "Attack",

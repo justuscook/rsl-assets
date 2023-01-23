@@ -5,6 +5,11 @@
 		"defaultValue": "Crimson Slayer",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3120#static",
+		"defaultValue": "Hero 3120 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "KnightsRevenant",
 	"role": "Attack",

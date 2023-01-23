@@ -5,6 +5,11 @@
 		"defaultValue": "Balthus Drauglord",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5490#static",
+		"defaultValue": "Hero 5490 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "UndeadHordes",
 	"role": "Defense",

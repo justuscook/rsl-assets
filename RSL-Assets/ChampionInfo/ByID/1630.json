@@ -5,6 +5,11 @@
 		"defaultValue": "Diabolist",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1630#static",
+		"defaultValue": "Hero 1630 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Demonspawn",
 	"role": "Support",

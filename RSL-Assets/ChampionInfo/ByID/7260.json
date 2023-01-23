@@ -5,6 +5,11 @@
 		"defaultValue": "Djamarsa",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7260#static",
+		"defaultValue": "Hero 7260 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Barbarians",
 	"role": "Support",

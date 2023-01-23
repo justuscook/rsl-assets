@@ -5,6 +5,11 @@
 		"defaultValue": "Hatchet Slinger",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4680#static",
+		"defaultValue": "Hero 4680 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Dwarves",
 	"role": "Attack",

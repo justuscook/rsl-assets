@@ -5,6 +5,11 @@
 		"defaultValue": "Ox",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2630#static",
+		"defaultValue": "Hero 2630 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "Barbarians",
 	"role": "Attack",

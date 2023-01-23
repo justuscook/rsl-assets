@@ -5,6 +5,11 @@
 		"defaultValue": "Harima",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4900#static",
+		"defaultValue": "Hero 4900 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Shadowkin",
 	"role": "Defense",

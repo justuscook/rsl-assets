@@ -5,6 +5,11 @@
 		"defaultValue": "Wythir the Crowned",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6470#static",
+		"defaultValue": "Hero 6470 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Demonspawn",
 	"role": "Support",

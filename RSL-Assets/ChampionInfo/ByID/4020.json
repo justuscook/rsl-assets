@@ -5,6 +5,11 @@
 		"defaultValue": "Yaga the Insatiable",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4020#static",
+		"defaultValue": "Hero 4020 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Skinwalkers",
 	"role": "Attack",

@@ -5,6 +5,11 @@
 		"defaultValue": "Umbral Enchantress",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3520#static",
+		"defaultValue": "Hero 3520 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "Demonspawn",
 	"role": "Defense",

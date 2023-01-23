@@ -5,6 +5,11 @@
 		"defaultValue": "Prince Kymar",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1440#static",
+		"defaultValue": "Hero 1440 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Demonspawn",
 	"role": "Support",

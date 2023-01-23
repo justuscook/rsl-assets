@@ -5,6 +5,11 @@
 		"defaultValue": "Torturehelm",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=630#static",
+		"defaultValue": "Hero 630 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Orcs",
 	"role": "Health",

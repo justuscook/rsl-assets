@@ -5,6 +5,11 @@
 		"defaultValue": "Suntribe",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4360#static",
+		"defaultValue": "Hero 4360 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Orcs",
 	"role": "Support",

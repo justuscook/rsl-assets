@@ -5,6 +5,11 @@
 		"defaultValue": "Candleguard",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6390#static",
+		"defaultValue": "Hero 6390 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Dwarves",
 	"role": "Attack",

@@ -5,6 +5,11 @@
 		"defaultValue": "Walking Tomb Dreng",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7220#static",
+		"defaultValue": "Hero 7220 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "KnightsRevenant",
 	"role": "Health",

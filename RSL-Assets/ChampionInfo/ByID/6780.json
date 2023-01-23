@@ -5,6 +5,11 @@
 		"defaultValue": "Umetogi",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6780#static",
+		"defaultValue": "Hero 6780 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Shadowkin",
 	"role": "Attack",

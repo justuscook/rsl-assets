@@ -5,6 +5,11 @@
 		"defaultValue": "Spider",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=590#static",
+		"defaultValue": "Hero 590 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "DarkElves",
 	"role": "Support",

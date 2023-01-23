@@ -5,6 +5,11 @@
 		"defaultValue": "Incubus",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1450#static",
+		"defaultValue": "Hero 1450 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Demonspawn",
 	"role": "Attack",

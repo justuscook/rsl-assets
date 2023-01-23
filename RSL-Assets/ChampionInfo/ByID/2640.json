@@ -5,6 +5,11 @@
 		"defaultValue": "Ifrit",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2640#static",
+		"defaultValue": "Hero 2640 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "Demonspawn",
 	"role": "Health",

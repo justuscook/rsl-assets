@@ -5,6 +5,11 @@
 		"defaultValue": "Satyr",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=770#static",
+		"defaultValue": "Hero 770 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Skinwalkers",
 	"role": "Health",

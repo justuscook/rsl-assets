@@ -5,6 +5,11 @@
 		"defaultValue": "Siegehulk",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6120#static",
+		"defaultValue": "Hero 6120 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "OgrynTribes",
 	"role": "Attack",

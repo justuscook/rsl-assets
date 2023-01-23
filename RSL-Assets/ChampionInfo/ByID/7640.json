@@ -1,0 +1,39 @@
+{
+	"typeId": 7646,
+	"name": {
+		"key": "l10n:hero-type/name?id=7640#static",
+		"defaultValue": "Enda Moonbeam",
+		"localizedValue": null
+	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7640#static",
+		"defaultValue": "Hero 7640 short name",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "NyresanElves",
+	"role": "Attack",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0829_Forestelves_id7640",
+	"avatarKey": "7640",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		76401,
+		76402,
+		76403,
+		76404
+	],
+	"unscaledStats": {
+		"Health": 85,
+		"Attack": 134,
+		"Defense": 81,
+		"Speed": 99,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 60,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

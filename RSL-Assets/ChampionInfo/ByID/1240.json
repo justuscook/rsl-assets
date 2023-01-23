@@ -5,6 +5,11 @@
 		"defaultValue": "Windtalker",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1240#static",
+		"defaultValue": "Hero 1240 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Skinwalkers",
 	"role": "Support",

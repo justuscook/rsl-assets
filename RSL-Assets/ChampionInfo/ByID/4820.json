@@ -5,6 +5,11 @@
 		"defaultValue": "Aox the Rememberer",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4820#static",
+		"defaultValue": "Hero 4820 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "LizardMen",
 	"role": "Support",

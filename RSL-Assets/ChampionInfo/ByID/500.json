@@ -5,6 +5,11 @@
 		"defaultValue": "Dhampir",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=500#static",
+		"defaultValue": "Hero 500 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "UndeadHordes",
 	"role": "Attack",

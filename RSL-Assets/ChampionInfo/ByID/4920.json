@@ -5,6 +5,11 @@
 		"defaultValue": "Corvis the Corruptor",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4920#static",
+		"defaultValue": "Hero 4920 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "SacredOrder",
 	"role": "Defense",

@@ -5,6 +5,11 @@
 		"defaultValue": "Vlad the Nightborn",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6650#static",
+		"defaultValue": "Hero 6650 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "UndeadHordes",
 	"role": "Attack",

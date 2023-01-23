@@ -5,6 +5,11 @@
 		"defaultValue": "Daywalker",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2790#static",
+		"defaultValue": "Hero 2790 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "KnightsRevenant",
 	"role": "Health",

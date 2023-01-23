@@ -5,6 +5,11 @@
 		"defaultValue": "Quaestor",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5240#static",
+		"defaultValue": "Hero 5240 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "BannerLords",
 	"role": "Attack",

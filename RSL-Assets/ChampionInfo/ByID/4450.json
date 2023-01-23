@@ -5,6 +5,11 @@
 		"defaultValue": "Perforator",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4450#static",
+		"defaultValue": "Hero 4450 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Dwarves",
 	"role": "Attack",

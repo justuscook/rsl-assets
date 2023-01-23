@@ -5,6 +5,11 @@
 		"defaultValue": "Honor Guard",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4320#static",
+		"defaultValue": "Hero 4320 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Dwarves",
 	"role": "Defense",

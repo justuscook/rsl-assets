@@ -5,6 +5,11 @@
 		"defaultValue": "Grohak the Bloodied",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3680#static",
+		"defaultValue": "Hero 3680 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Orcs",
 	"role": "Attack",

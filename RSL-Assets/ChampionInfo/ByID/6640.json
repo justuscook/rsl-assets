@@ -5,6 +5,11 @@
 		"defaultValue": "Kalvalax",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6640#static",
+		"defaultValue": "Hero 6640 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "KnightsRevenant",
 	"role": "Attack",

@@ -5,6 +5,11 @@
 		"defaultValue": "Cultist",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1370#static",
+		"defaultValue": "Hero 1370 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "KnightsRevenant",
 	"role": "Attack",

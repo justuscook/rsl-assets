@@ -5,6 +5,11 @@
 		"defaultValue": "Ninja",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6200#static",
+		"defaultValue": "Hero 6200 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Shadowkin",
 	"role": "Attack",

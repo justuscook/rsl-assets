@@ -1,0 +1,53 @@
+{
+	"name": "Akemtum",
+	"key": "l10n:hero-type/name?id=7620#static",
+	"id": 7626,
+	"avatar": "7620",
+	"affinity": "Void",
+	"hp": "16020",
+	"atk": "1354",
+	"def": "881",
+	"spd": "98",
+	"res": "30",
+	"acc": "15",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Skinwalkers",
+	"aura": "Increase Ally SPD in  by 18",
+	"totalBooks": "13",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 3 times. Each hit has a 40% chance of placing a 5% [Poison] debuff for 2 turns. \r\n\r\nIf the target is under a [Hex] debuff, each hit also has a 40% chance of applying a [Debuff Spread] effect, taking 1 random debuff from the target and placing it on all enemies.",
+			"basedOn": "[ATK]",
+			"name": "Noxious Claws",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
+			"multiplier": "1.1*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies 3 times. Each hit has a 60% chance of increasing the duration of any [Hex] debuffs on enemies by 1 turn. \r\n\r\nIf enemies are not under a [Hex] debuff, each hit has a 60% chance of placing a [Hex] debuff for 2 turns.",
+			"basedOn": "[ATK]",
+			"name": "Immortal Malison",
+			"maxcd": "5",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1\nLvl. 7 Cooldown -1\n",
+			"multiplier": "1*ATK",
+			"numBooksToMax": "6"
+		},
+		{
+			"desc": "Has an 80% chance of inflicting damage from one [Poison] debuff to enemies under a [Hex] debuff whenever their allies receive damage from [Poison] debuffs.",
+			"basedOn": "[DEALT_DMG]",
+			"name": "Hex Blood [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Buff/Debuff Chance +10%\n",
+			"multiplier": "DEALT_DMG",
+			"numBooksToMax": "3"
+		}
+	],
+	"rarity": "Epic",
+	"type": "Attack"
+}

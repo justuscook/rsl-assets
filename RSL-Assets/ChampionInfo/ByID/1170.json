@@ -5,6 +5,11 @@
 		"defaultValue": "Saurus",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1170#static",
+		"defaultValue": "Hero 1170 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "LizardMen",
 	"role": "Attack",

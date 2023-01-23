@@ -5,6 +5,11 @@
 		"defaultValue": "Duelist",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=530#static",
+		"defaultValue": "Hero 530 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "BannerLords",
 	"role": "Attack",

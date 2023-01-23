@@ -5,6 +5,11 @@
 		"defaultValue": "Castigator",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6610#static",
+		"defaultValue": "Hero 6610 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "SacredOrder",
 	"role": "Health",

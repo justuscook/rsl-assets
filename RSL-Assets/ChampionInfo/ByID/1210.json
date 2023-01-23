@@ -5,6 +5,11 @@
 		"defaultValue": "Husk",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1210#static",
+		"defaultValue": "Hero 1210 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "UndeadHordes",
 	"role": "Health",

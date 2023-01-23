@@ -5,6 +5,11 @@
 		"defaultValue": "Little Miss Annie",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5340#static",
+		"defaultValue": "Hero 5340 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "UndeadHordes",
 	"role": "Attack",

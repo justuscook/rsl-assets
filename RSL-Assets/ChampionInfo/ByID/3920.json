@@ -5,6 +5,11 @@
 		"defaultValue": "Ruffstone",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3920#static",
+		"defaultValue": "Hero 3920 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "OgrynTribes",
 	"role": "Attack",

@@ -5,6 +5,11 @@
 		"defaultValue": "Akoth the Seared",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5070#static",
+		"defaultValue": "Hero 5070 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Demonspawn",
 	"role": "Defense",

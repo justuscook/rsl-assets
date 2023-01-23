@@ -5,6 +5,11 @@
 		"defaultValue": "Pitspawn",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2540#static",
+		"defaultValue": "Hero 2540 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Demonspawn",
 	"role": "Defense",

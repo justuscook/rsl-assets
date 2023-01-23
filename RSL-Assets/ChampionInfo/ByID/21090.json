@@ -5,6 +5,11 @@
 		"defaultValue": "Big 'Un",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=970#static",
+		"defaultValue": "Hero 970 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "OgrynTribes",
 	"role": "Attack",

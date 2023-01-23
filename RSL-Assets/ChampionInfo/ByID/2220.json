@@ -5,6 +5,11 @@
 		"defaultValue": "Justiciar",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2220#static",
+		"defaultValue": "Hero 2220 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "SacredOrder",
 	"role": "Defense",

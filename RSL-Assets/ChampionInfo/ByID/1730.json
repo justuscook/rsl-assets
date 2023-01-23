@@ -5,6 +5,11 @@
 		"defaultValue": "Luthiea",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1730#static",
+		"defaultValue": "Hero 1730 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "HighElves",
 	"role": "Attack",

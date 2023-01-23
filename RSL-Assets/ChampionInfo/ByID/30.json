@@ -5,6 +5,11 @@
 		"defaultValue": "Apothecary",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=30#static",
+		"defaultValue": "Hero 30 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "HighElves",
 	"role": "Support",

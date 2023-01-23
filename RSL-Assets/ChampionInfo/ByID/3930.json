@@ -5,6 +5,11 @@
 		"defaultValue": "Kreela Witch-Arm",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3930#static",
+		"defaultValue": "Hero 3930 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Orcs",
 	"role": "Support",

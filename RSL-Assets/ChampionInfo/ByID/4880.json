@@ -5,6 +5,11 @@
 		"defaultValue": "Geomancer",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4880#static",
+		"defaultValue": "Hero 4880 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Dwarves",
 	"role": "Attack",

@@ -5,6 +5,11 @@
 		"defaultValue": "Leorius the Proud",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6290#static",
+		"defaultValue": "Hero 6290 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "Skinwalkers",
 	"role": "Attack",

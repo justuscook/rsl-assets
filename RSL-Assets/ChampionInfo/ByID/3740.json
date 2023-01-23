@@ -5,6 +5,11 @@
 		"defaultValue": "Suwai Firstborn",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3740#static",
+		"defaultValue": "Hero 3740 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "Barbarians",
 	"role": "Attack",

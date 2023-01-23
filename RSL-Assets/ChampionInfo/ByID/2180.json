@@ -5,6 +5,11 @@
 		"defaultValue": "Chaplain",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2180#static",
+		"defaultValue": "Hero 2180 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "SacredOrder",
 	"role": "Support",

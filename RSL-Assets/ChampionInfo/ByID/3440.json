@@ -5,6 +5,11 @@
 		"defaultValue": "Juliana",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3440#static",
+		"defaultValue": "Hero 3440 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "SacredOrder",
 	"role": "Attack",

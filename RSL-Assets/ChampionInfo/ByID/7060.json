@@ -5,6 +5,11 @@
 		"defaultValue": "Lamibur",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7060#static",
+		"defaultValue": "Hero 7060 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Skinwalkers",
 	"role": "Support",

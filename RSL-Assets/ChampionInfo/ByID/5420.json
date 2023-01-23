@@ -5,6 +5,11 @@
 		"defaultValue": "Panthera",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5420#static",
+		"defaultValue": "Hero 5420 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "Skinwalkers",
 	"role": "Attack",

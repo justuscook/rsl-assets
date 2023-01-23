@@ -5,6 +5,11 @@
 		"defaultValue": "Stalwart",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2020#static",
+		"defaultValue": "Hero 2020 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "BannerLords",
 	"role": "Health",

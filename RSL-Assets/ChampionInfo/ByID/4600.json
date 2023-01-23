@@ -5,6 +5,11 @@
 		"defaultValue": "Ultimate Galek",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4600#static",
+		"defaultValue": "Hero 4600 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Orcs",
 	"role": "Attack",

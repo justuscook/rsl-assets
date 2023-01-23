@@ -5,6 +5,11 @@
 		"defaultValue": "Medicus",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6970#static",
+		"defaultValue": "Hero 6970 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "HighElves",
 	"role": "Support",

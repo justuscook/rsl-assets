@@ -5,6 +5,11 @@
 		"defaultValue": "Maneater",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1070#static",
+		"defaultValue": "Hero 1070 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "OgrynTribes",
 	"role": "Health",

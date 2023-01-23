@@ -5,6 +5,11 @@
 		"defaultValue": "Metalshaper",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2300#static",
+		"defaultValue": "Hero 2300 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "LizardMen",
 	"role": "Support",

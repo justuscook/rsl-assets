@@ -5,6 +5,11 @@
 		"defaultValue": "Gwynneth",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6330#static",
+		"defaultValue": "Hero 6330 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "DarkElves",
 	"role": "Attack",

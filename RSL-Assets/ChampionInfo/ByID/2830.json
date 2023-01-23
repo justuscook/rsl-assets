@@ -5,6 +5,11 @@
 		"defaultValue": "Frostskin",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2830#static",
+		"defaultValue": "Hero 2830 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "OgrynTribes",
 	"role": "Support",

@@ -5,6 +5,11 @@
 		"defaultValue": "Hound Spawn",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1460#static",
+		"defaultValue": "Hero 1460 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Demonspawn",
 	"role": "Attack",

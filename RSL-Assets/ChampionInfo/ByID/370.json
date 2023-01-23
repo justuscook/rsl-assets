@@ -5,6 +5,11 @@
 		"defaultValue": "Black Knight",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=370#static",
+		"defaultValue": "Hero 370 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "BannerLords",
 	"role": "Health",

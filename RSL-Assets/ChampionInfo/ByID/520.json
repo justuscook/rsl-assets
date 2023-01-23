@@ -5,6 +5,11 @@
 		"defaultValue": "Sinesha",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=520#static",
+		"defaultValue": "Hero 520 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "KnightsRevenant",
 	"role": "Support",

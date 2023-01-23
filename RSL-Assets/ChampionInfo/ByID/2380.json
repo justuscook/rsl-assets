@@ -5,6 +5,11 @@
 		"defaultValue": "Wretch",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2380#static",
+		"defaultValue": "Hero 2380 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "UndeadHordes",
 	"role": "Attack",

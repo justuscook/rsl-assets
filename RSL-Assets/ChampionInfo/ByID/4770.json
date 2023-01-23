@@ -5,6 +5,11 @@
 		"defaultValue": "Khoronar",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4770#static",
+		"defaultValue": "Hero 4770 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "Skinwalkers",
 	"role": "Health",

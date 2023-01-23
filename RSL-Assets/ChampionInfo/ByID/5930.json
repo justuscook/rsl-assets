@@ -5,6 +5,11 @@
 		"defaultValue": "Underpriest Brogni",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5930#static",
+		"defaultValue": "Hero 5930 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Dwarves",
 	"role": "Support",

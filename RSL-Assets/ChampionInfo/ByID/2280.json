@@ -5,6 +5,11 @@
 		"defaultValue": "Hexia",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2280#static",
+		"defaultValue": "Hero 2280 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "UndeadHordes",
 	"role": "Attack",

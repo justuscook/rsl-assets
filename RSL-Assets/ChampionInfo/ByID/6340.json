@@ -5,6 +5,11 @@
 		"defaultValue": "Magnarr",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6340#static",
+		"defaultValue": "Hero 6340 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Demonspawn",
 	"role": "Health",

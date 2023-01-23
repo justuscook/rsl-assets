@@ -5,6 +5,11 @@
 		"defaultValue": "Prundar",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5570#static",
+		"defaultValue": "Hero 5570 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "OgrynTribes",
 	"role": "Defense",

@@ -5,6 +5,11 @@
 		"defaultValue": "Roshcard the Tower",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2050#static",
+		"defaultValue": "Hero 2050 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "SacredOrder",
 	"role": "Health",

@@ -5,6 +5,11 @@
 		"defaultValue": "Draconis",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5270#static",
+		"defaultValue": "Hero 5270 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "SacredOrder",
 	"role": "Health",

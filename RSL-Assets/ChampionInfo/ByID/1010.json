@@ -5,6 +5,11 @@
 		"defaultValue": "Shatterbones",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1010#static",
+		"defaultValue": "Hero 1010 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "OgrynTribes",
 	"role": "Attack",

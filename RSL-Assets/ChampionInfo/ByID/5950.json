@@ -5,6 +5,11 @@
 		"defaultValue": "Fenshi",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5950#static",
+		"defaultValue": "Hero 5950 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Shadowkin",
 	"role": "Attack",

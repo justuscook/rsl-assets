@@ -5,6 +5,11 @@
 		"defaultValue": "Romero",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3450#static",
+		"defaultValue": "Hero 3450 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "SacredOrder",
 	"role": "Defense",

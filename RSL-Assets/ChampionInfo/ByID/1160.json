@@ -5,6 +5,11 @@
 		"defaultValue": "Rhazin Scarhide",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1160#static",
+		"defaultValue": "Hero 1160 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "LizardMen",
 	"role": "Defense",

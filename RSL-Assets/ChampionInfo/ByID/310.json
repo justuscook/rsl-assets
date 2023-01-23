@@ -5,6 +5,11 @@
 		"defaultValue": "Judge",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=310#static",
+		"defaultValue": "Hero 310 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "DarkElves",
 	"role": "Attack",

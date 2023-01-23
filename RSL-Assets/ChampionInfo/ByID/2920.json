@@ -5,6 +5,11 @@
 		"defaultValue": "Gurgoh the Augur",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2920#static",
+		"defaultValue": "Hero 2920 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "OgrynTribes",
 	"role": "Attack",

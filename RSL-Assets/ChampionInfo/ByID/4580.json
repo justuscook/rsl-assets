@@ -5,6 +5,11 @@
 		"defaultValue": "Miscreated Monster",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4580#static",
+		"defaultValue": "Hero 4580 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "KnightsRevenant",
 	"role": "Health",

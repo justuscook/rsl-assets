@@ -5,6 +5,11 @@
 		"defaultValue": "Thylessia",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6490#static",
+		"defaultValue": "Hero 6490 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "KnightsRevenant",
 	"role": "Attack",

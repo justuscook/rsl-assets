@@ -5,6 +5,11 @@
 		"defaultValue": "Spikehead",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1650#static",
+		"defaultValue": "Hero 1650 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Orcs",
 	"role": "Attack",

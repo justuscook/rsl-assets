@@ -5,6 +5,11 @@
 		"defaultValue": "Stag Knight",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4490#static",
+		"defaultValue": "Hero 4490 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "BannerLords",
 	"role": "Support",

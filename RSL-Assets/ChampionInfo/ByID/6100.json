@@ -5,6 +5,11 @@
 		"defaultValue": "Nobel",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6100#static",
+		"defaultValue": "Hero 6100 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Shadowkin",
 	"role": "Attack",

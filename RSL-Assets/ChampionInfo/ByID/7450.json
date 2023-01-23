@@ -5,6 +5,11 @@
 		"defaultValue": "White Dryad Nia",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7450#static",
+		"defaultValue": "Hero 7450 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "NyresanElves",
 	"role": "Defense",

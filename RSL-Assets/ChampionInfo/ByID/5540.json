@@ -5,6 +5,11 @@
 		"defaultValue": "Achak the Wendarin",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5540#static",
+		"defaultValue": "Hero 5540 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Demonspawn",
 	"role": "Support",

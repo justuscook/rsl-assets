@@ -5,6 +5,11 @@
 		"defaultValue": "Bad-el-Kazar",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=960#static",
+		"defaultValue": "Hero 960 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "UndeadHordes",
 	"role": "Support",

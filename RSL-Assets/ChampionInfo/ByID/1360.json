@@ -5,6 +5,11 @@
 		"defaultValue": "Dracomorph",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1360#static",
+		"defaultValue": "Hero 1360 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "LizardMen",
 	"role": "Attack",

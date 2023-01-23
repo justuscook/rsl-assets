@@ -5,6 +5,11 @@
 		"defaultValue": "Excruciator",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4000#static",
+		"defaultValue": "Hero 4000 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Demonspawn",
 	"role": "Attack",

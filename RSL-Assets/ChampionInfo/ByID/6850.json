@@ -5,6 +5,11 @@
 		"defaultValue": "Kunoichi",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6850#static",
+		"defaultValue": "Hero 6850 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Shadowkin",
 	"role": "Defense",

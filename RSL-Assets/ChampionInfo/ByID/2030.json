@@ -5,6 +5,11 @@
 		"defaultValue": "Elder",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2030#static",
+		"defaultValue": "Hero 2030 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Barbarians",
 	"role": "Defense",

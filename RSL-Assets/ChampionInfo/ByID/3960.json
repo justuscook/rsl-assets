@@ -5,6 +5,11 @@
 		"defaultValue": "Corpse Collector",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3960#static",
+		"defaultValue": "Hero 3960 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "UndeadHordes",
 	"role": "Support",

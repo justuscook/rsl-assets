@@ -5,6 +5,11 @@
 		"defaultValue": "Arbalester",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=430#static",
+		"defaultValue": "Hero 430 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "UndeadHordes",
 	"role": "Attack",

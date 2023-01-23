@@ -5,6 +5,11 @@
 		"defaultValue": "Hegemon",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3200#static",
+		"defaultValue": "Hero 3200 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "KnightsRevenant",
 	"role": "Attack",

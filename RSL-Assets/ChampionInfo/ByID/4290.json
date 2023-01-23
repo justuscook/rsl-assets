@@ -5,6 +5,11 @@
 		"defaultValue": "Baerdal Fellhammer",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4290#static",
+		"defaultValue": "Hero 4290 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "Dwarves",
 	"role": "Attack",

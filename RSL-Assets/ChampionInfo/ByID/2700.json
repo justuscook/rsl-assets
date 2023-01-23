@@ -5,6 +5,11 @@
 		"defaultValue": "Bloodhorn",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2700#static",
+		"defaultValue": "Hero 2700 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "Skinwalkers",
 	"role": "Health",

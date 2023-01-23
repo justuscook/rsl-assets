@@ -5,6 +5,11 @@
 		"defaultValue": "Trumborr",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7560#static",
+		"defaultValue": "Hero 7560 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Orcs",
 	"role": "Defense",

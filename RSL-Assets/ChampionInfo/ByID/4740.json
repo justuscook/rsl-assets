@@ -5,6 +5,11 @@
 		"defaultValue": "Ursine Ironhide",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4740#static",
+		"defaultValue": "Hero 4740 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Skinwalkers",
 	"role": "Defense",

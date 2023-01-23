@@ -5,6 +5,11 @@
 		"defaultValue": "Sandbow",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3840#static",
+		"defaultValue": "Hero 3840 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Barbarians",
 	"role": "Attack",

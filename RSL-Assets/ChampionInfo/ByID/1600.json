@@ -5,6 +5,11 @@
 		"defaultValue": "Kytis",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1600#static",
+		"defaultValue": "Hero 1600 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "KnightsRevenant",
 	"role": "Attack",

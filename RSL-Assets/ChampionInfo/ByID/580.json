@@ -5,6 +5,11 @@
 		"defaultValue": "Spirithost",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=580#static",
+		"defaultValue": "Hero 580 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "DarkElves",
 	"role": "Support",

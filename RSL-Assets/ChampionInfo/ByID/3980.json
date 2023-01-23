@@ -5,6 +5,11 @@
 		"defaultValue": "Vizier Ovelis",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3980#static",
+		"defaultValue": "Hero 3980 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "DarkElves",
 	"role": "Attack",

@@ -5,6 +5,11 @@
 		"defaultValue": "Seneschal",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4140#static",
+		"defaultValue": "Hero 4140 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "BannerLords",
 	"role": "Defense",

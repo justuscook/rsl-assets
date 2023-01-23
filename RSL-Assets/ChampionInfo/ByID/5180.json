@@ -5,6 +5,11 @@
 		"defaultValue": "Wyvernbane",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5180#static",
+		"defaultValue": "Hero 5180 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Orcs",
 	"role": "Attack",

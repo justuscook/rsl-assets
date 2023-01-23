@@ -5,6 +5,11 @@
 		"defaultValue": "Bivald of the Thorn",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7120#static",
+		"defaultValue": "Hero 7120 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "SacredOrder",
 	"role": "Health",

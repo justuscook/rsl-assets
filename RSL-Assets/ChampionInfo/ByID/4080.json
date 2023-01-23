@@ -5,6 +5,11 @@
 		"defaultValue": "Yannica",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4080#static",
+		"defaultValue": "Hero 4080 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "HighElves",
 	"role": "Attack",

@@ -5,6 +5,11 @@
 		"defaultValue": "Fu-Shan",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=920#static",
+		"defaultValue": "Hero 920 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "LizardMen",
 	"role": "Attack",

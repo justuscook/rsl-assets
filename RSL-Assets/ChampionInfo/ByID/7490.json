@@ -5,6 +5,11 @@
 		"defaultValue": "Taras the Fierce",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7490#static",
+		"defaultValue": "Hero 7490 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "BannerLords",
 	"role": "Health",

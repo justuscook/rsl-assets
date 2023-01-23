@@ -5,6 +5,11 @@
 		"defaultValue": "Rocktooth",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1000#static",
+		"defaultValue": "Hero 1000 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "OgrynTribes",
 	"role": "Attack",

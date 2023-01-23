@@ -5,6 +5,11 @@
 		"defaultValue": "Throatcutter",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1670#static",
+		"defaultValue": "Hero 1670 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Orcs",
 	"role": "Attack",

@@ -5,6 +5,11 @@
 		"defaultValue": "Totem",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2430#static",
+		"defaultValue": "Hero 2430 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Orcs",
 	"role": "Support",

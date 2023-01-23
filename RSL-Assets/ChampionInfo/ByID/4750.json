@@ -5,6 +5,11 @@
 		"defaultValue": "Siphi the Lost Bride",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4750#static",
+		"defaultValue": "Hero 4750 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "UndeadHordes",
 	"role": "Support",

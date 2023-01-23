@@ -5,6 +5,11 @@
 		"defaultValue": "Jintoro",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5830#static",
+		"defaultValue": "Hero 5830 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Shadowkin",
 	"role": "Attack",

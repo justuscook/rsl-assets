@@ -5,6 +5,11 @@
 		"defaultValue": "Mistrider Daithi",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7460#static",
+		"defaultValue": "Hero 7460 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "NyresanElves",
 	"role": "Attack",

@@ -5,6 +5,11 @@
 		"defaultValue": "Retainer",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2860#static",
+		"defaultValue": "Hero 2860 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "DarkElves",
 	"role": "Defense",

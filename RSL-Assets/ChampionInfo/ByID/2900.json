@@ -5,6 +5,11 @@
 		"defaultValue": "Wanderer",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2900#static",
+		"defaultValue": "Hero 2900 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "DarkElves",
 	"role": "Attack",

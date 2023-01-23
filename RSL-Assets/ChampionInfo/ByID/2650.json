@@ -5,6 +5,11 @@
 		"defaultValue": "Chevalier",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2650#static",
+		"defaultValue": "Hero 2650 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "BannerLords",
 	"role": "Defense",

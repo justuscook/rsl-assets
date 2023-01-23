@@ -5,6 +5,11 @@
 		"defaultValue": "Melga Steelgirdle",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5390#static",
+		"defaultValue": "Hero 5390 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Dwarves",
 	"role": "Health",

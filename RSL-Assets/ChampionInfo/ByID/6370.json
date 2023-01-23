@@ -5,6 +5,11 @@
 		"defaultValue": "Tolf the Maimed",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6370#static",
+		"defaultValue": "Hero 6370 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "Orcs",
 	"role": "Health",

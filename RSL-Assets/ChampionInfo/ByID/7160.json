@@ -5,6 +5,11 @@
 		"defaultValue": "Carlinia",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7160#static",
+		"defaultValue": "Hero 7160 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "SacredOrder",
 	"role": "Support",

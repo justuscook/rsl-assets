@@ -5,6 +5,11 @@
 		"defaultValue": "Suiren",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7320#static",
+		"defaultValue": "Hero 7320 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Shadowkin",
 	"role": "Attack",

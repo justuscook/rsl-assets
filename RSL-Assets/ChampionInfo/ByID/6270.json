@@ -5,6 +5,11 @@
 		"defaultValue": "Pharsalas Gravedirt",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6270#static",
+		"defaultValue": "Hero 6270 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "KnightsRevenant",
 	"role": "Defense",

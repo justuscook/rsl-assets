@@ -5,6 +5,11 @@
 		"defaultValue": "Sigmund the Highshield",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6540#static",
+		"defaultValue": "Hero 6540 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "BannerLords",
 	"role": "Defense",

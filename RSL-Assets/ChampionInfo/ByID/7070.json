@@ -5,6 +5,11 @@
 		"defaultValue": "Gaius the Gleeful",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7070#static",
+		"defaultValue": "Hero 7070 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "KnightsRevenant",
 	"role": "Attack",

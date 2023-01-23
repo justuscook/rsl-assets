@@ -5,6 +5,11 @@
 		"defaultValue": "Vilespawn",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4350#static",
+		"defaultValue": "Hero 4350 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Demonspawn",
 	"role": "Support",

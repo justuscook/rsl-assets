@@ -5,6 +5,11 @@
 		"defaultValue": "Graybeard",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=780#static",
+		"defaultValue": "Hero 780 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Skinwalkers",
 	"role": "Defense",

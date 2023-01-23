@@ -5,6 +5,11 @@
 		"defaultValue": "Toragi the Frog",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5860#static",
+		"defaultValue": "Hero 5860 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Shadowkin",
 	"role": "Health",

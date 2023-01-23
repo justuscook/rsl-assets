@@ -5,6 +5,11 @@
 		"defaultValue": "Ghrush the Mangler",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5100#static",
+		"defaultValue": "Hero 5100 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "OgrynTribes",
 	"role": "Defense",

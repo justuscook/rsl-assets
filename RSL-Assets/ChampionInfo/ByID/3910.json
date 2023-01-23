@@ -5,6 +5,11 @@
 		"defaultValue": "Nogdar the Headhunter",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3910#static",
+		"defaultValue": "Hero 3910 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Orcs",
 	"role": "Attack",

@@ -5,6 +5,11 @@
 		"defaultValue": "Urticata",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6520#static",
+		"defaultValue": "Hero 6520 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Demonspawn",
 	"role": "Attack",

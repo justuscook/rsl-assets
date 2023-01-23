@@ -5,6 +5,11 @@
 		"defaultValue": "Fortress Goon",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3100#static",
+		"defaultValue": "Hero 3100 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "OgrynTribes",
 	"role": "Defense",

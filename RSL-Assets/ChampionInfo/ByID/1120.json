@@ -5,6 +5,11 @@
 		"defaultValue": "Seeker",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1120#static",
+		"defaultValue": "Hero 1120 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "UndeadHordes",
 	"role": "Defense",

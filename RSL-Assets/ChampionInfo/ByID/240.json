@@ -5,6 +5,11 @@
 		"defaultValue": "Lugan the Steadfast",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=240#static",
+		"defaultValue": "Hero 240 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "BannerLords",
 	"role": "Health",

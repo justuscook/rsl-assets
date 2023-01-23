@@ -5,6 +5,11 @@
 		"defaultValue": "Visix the Unbowed",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5110#static",
+		"defaultValue": "Hero 5110 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "DarkElves",
 	"role": "Defense",

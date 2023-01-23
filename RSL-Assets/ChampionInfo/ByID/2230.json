@@ -5,6 +5,11 @@
 		"defaultValue": "Peydma",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2230#static",
+		"defaultValue": "Hero 2230 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "Demonspawn",
 	"role": "Defense",

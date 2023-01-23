@@ -5,6 +5,11 @@
 		"defaultValue": "Word Bearer",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3780#static",
+		"defaultValue": "Hero 3780 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "BannerLords",
 	"role": "Support",

@@ -5,6 +5,11 @@
 		"defaultValue": "Genzin",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5810#static",
+		"defaultValue": "Hero 5810 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Shadowkin",
 	"role": "Attack",

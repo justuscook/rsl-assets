@@ -5,6 +5,11 @@
 		"defaultValue": "Myciliac Priest Orn",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7400#static",
+		"defaultValue": "Hero 7400 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "NyresanElves",
 	"role": "Health",

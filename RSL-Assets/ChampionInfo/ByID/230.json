@@ -5,6 +5,11 @@
 		"defaultValue": "Outlaw Monk",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=230#static",
+		"defaultValue": "Hero 230 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "SacredOrder",
 	"role": "Attack",

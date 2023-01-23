@@ -5,6 +5,11 @@
 		"defaultValue": "Cruetraxa",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2950#static",
+		"defaultValue": "Hero 2950 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "Demonspawn",
 	"role": "Attack",

@@ -5,6 +5,11 @@
 		"defaultValue": "Skullsquire",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=470#static",
+		"defaultValue": "Hero 470 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "UndeadHordes",
 	"role": "Attack",

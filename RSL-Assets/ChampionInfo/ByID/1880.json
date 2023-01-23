@@ -5,6 +5,11 @@
 		"defaultValue": "Squire",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1880#static",
+		"defaultValue": "Hero 1880 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "BannerLords",
 	"role": "Defense",

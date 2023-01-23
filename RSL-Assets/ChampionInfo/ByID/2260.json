@@ -5,6 +5,11 @@
 		"defaultValue": "Woad-Painted",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2260#static",
+		"defaultValue": "Hero 2260 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Barbarians",
 	"role": "Health",

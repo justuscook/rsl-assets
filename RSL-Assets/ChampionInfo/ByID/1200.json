@@ -5,6 +5,11 @@
 		"defaultValue": "Grinner",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1200#static",
+		"defaultValue": "Hero 1200 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "UndeadHordes",
 	"role": "Support",

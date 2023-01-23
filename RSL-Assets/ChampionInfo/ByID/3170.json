@@ -5,6 +5,11 @@
 		"defaultValue": "Drexthar Bloodtwin",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3170#static",
+		"defaultValue": "Hero 3170 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Demonspawn",
 	"role": "Defense",

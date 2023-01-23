@@ -5,6 +5,11 @@
 		"defaultValue": "Giscard the Sigiled",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5960#static",
+		"defaultValue": "Hero 5960 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "BannerLords",
 	"role": "Defense",

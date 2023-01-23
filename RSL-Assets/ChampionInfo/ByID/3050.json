@@ -5,6 +5,11 @@
 		"defaultValue": "Interceptor",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3050#static",
+		"defaultValue": "Hero 3050 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "HighElves",
 	"role": "Defense",

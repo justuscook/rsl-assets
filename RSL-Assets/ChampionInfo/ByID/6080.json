@@ -5,6 +5,11 @@
 		"defaultValue": "Hurndig",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6080#static",
+		"defaultValue": "Hero 6080 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Dwarves",
 	"role": "Attack",

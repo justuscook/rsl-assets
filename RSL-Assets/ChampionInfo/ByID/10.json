@@ -5,6 +5,11 @@
 		"defaultValue": "Vergis",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=10#static",
+		"defaultValue": "Hero 10 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "HighElves",
 	"role": "Defense",

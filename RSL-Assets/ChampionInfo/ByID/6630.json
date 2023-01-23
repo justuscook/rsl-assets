@@ -5,6 +5,11 @@
 		"defaultValue": "Ordinator",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6630#static",
+		"defaultValue": "Hero 6630 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "DarkElves",
 	"role": "Attack",

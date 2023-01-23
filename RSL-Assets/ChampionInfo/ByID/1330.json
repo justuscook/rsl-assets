@@ -5,6 +5,11 @@
 		"defaultValue": "Seer",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1330#static",
+		"defaultValue": "Hero 1330 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "Orcs",
 	"role": "Support",

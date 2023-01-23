@@ -5,6 +5,11 @@
 		"defaultValue": "Courtier",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2040#static",
+		"defaultValue": "Hero 2040 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "BannerLords",
 	"role": "Attack",

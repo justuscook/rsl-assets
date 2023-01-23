@@ -5,6 +5,11 @@
 		"defaultValue": "Avenger",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=330#static",
+		"defaultValue": "Hero 330 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "HighElves",
 	"role": "Attack",

@@ -5,6 +5,11 @@
 		"defaultValue": "Furystoker",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=640#static",
+		"defaultValue": "Hero 640 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "OgrynTribes",
 	"role": "Support",

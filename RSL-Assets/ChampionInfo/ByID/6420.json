@@ -5,6 +5,11 @@
 		"defaultValue": "Lumberer",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6420#static",
+		"defaultValue": "Hero 6420 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "OgrynTribes",
 	"role": "Attack",

@@ -5,6 +5,11 @@
 		"defaultValue": "Tormentor",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3350#static",
+		"defaultValue": "Hero 3350 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Demonspawn",
 	"role": "Attack",

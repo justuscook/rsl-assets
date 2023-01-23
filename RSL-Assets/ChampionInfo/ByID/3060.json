@@ -5,6 +5,11 @@
 		"defaultValue": "Rotting Mage",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3060#static",
+		"defaultValue": "Hero 3060 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "UndeadHordes",
 	"role": "Support",

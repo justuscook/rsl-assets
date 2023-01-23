@@ -5,6 +5,11 @@
 		"defaultValue": "Towering Titan",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3230#static",
+		"defaultValue": "Hero 3230 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "OgrynTribes",
 	"role": "Health",

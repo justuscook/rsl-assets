@@ -5,6 +5,11 @@
 		"defaultValue": "Bombardier",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3850#static",
+		"defaultValue": "Hero 3850 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "BannerLords",
 	"role": "Attack",

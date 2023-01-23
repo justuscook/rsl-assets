@@ -5,6 +5,11 @@
 		"defaultValue": "Sorceress",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=750#static",
+		"defaultValue": "Hero 750 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "UndeadHordes",
 	"role": "Attack",

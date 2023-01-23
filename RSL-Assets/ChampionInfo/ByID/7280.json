@@ -5,6 +5,11 @@
 		"defaultValue": "Hoskarul",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7280#static",
+		"defaultValue": "Hero 7280 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Barbarians",
 	"role": "Defense",

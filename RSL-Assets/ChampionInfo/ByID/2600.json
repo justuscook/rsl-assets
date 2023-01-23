@@ -5,6 +5,11 @@
 		"defaultValue": "Ignatius",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2600#static",
+		"defaultValue": "Hero 2600 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "OgrynTribes",
 	"role": "Defense",

@@ -5,6 +5,11 @@
 		"defaultValue": "Ghoulish Ranger",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4070#static",
+		"defaultValue": "Hero 4070 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "UndeadHordes",
 	"role": "Attack",

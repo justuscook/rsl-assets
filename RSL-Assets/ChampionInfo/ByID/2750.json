@@ -5,6 +5,11 @@
 		"defaultValue": "Lonatharil",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2750#static",
+		"defaultValue": "Hero 2750 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "HighElves",
 	"role": "Health",

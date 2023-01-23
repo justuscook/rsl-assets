@@ -5,6 +5,11 @@
 		"defaultValue": "Greenwarden Ruarc",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7380#static",
+		"defaultValue": "Hero 7380 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "NyresanElves",
 	"role": "Defense",

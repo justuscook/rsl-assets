@@ -5,6 +5,11 @@
 		"defaultValue": "Trunda Giltmallet",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4260#static",
+		"defaultValue": "Hero 4260 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Dwarves",
 	"role": "Attack",

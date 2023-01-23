@@ -5,6 +5,11 @@
 		"defaultValue": "Keeyra the Watcher",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7190#static",
+		"defaultValue": "Hero 7190 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Dwarves",
 	"role": "Defense",

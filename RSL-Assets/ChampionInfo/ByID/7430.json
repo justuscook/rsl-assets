@@ -5,6 +5,11 @@
 		"defaultValue": "Cormac the Highpeak",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7430#static",
+		"defaultValue": "Hero 7430 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "NyresanElves",
 	"role": "Attack",

@@ -5,6 +5,11 @@
 		"defaultValue": "Pit Fighter",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1540#static",
+		"defaultValue": "Hero 1540 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Barbarians",
 	"role": "Health",

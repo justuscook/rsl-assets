@@ -5,6 +5,11 @@
 		"defaultValue": "Acrizia",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4720#static",
+		"defaultValue": "Hero 4720 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "Dwarves",
 	"role": "Attack",

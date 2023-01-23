@@ -5,6 +5,11 @@
 		"defaultValue": "Fodbor the Bard",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5630#static",
+		"defaultValue": "Hero 5630 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Dwarves",
 	"role": "Attack",

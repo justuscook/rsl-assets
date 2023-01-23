@@ -5,6 +5,11 @@
 		"defaultValue": "Helicath",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7200#static",
+		"defaultValue": "Hero 7200 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Demonspawn",
 	"role": "Defense",

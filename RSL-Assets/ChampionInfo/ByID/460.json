@@ -5,6 +5,11 @@
 		"defaultValue": "Knight-Errant",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=460#static",
+		"defaultValue": "Hero 460 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "BannerLords",
 	"role": "Attack",

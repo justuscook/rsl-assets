@@ -5,6 +5,11 @@
 		"defaultValue": "Zephyr Sniper",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2970#static",
+		"defaultValue": "Hero 2970 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Barbarians",
 	"role": "Defense",

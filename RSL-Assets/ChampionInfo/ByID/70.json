@@ -5,6 +5,11 @@
 		"defaultValue": "Blind Seer",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=70#static",
+		"defaultValue": "Hero 70 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "DarkElves",
 	"role": "Support",

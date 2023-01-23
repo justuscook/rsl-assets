@@ -5,6 +5,11 @@
 		"defaultValue": "Militia",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=80#static",
+		"defaultValue": "Hero 80 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "SacredOrder",
 	"role": "Attack",

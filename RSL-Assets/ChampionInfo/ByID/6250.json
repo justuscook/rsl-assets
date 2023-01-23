@@ -5,6 +5,11 @@
 		"defaultValue": "Tuhanarak",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6250#static",
+		"defaultValue": "Hero 6250 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "Barbarians",
 	"role": "Support",

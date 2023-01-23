@@ -5,6 +5,11 @@
 		"defaultValue": "Uugo",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5600#static",
+		"defaultValue": "Hero 5600 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "OgrynTribes",
 	"role": "Support",

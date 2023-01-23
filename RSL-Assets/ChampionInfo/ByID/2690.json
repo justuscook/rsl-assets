@@ -5,6 +5,11 @@
 		"defaultValue": "Grappler",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2690#static",
+		"defaultValue": "Hero 2690 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Skinwalkers",
 	"role": "Defense",

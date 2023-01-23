@@ -5,6 +5,11 @@
 		"defaultValue": "Centurion",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3110#static",
+		"defaultValue": "Hero 3110 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "KnightsRevenant",
 	"role": "Defense",

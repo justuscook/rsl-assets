@@ -5,6 +5,11 @@
 		"defaultValue": "Kael",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1510#static",
+		"defaultValue": "Hero 1510 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "DarkElves",
 	"role": "Attack",

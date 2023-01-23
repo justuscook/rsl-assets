@@ -5,6 +5,11 @@
 		"defaultValue": "Mountain King",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4270#static",
+		"defaultValue": "Hero 4270 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Dwarves",
 	"role": "Attack",

@@ -5,6 +5,11 @@
 		"defaultValue": "Ripper",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2680#static",
+		"defaultValue": "Hero 2680 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Skinwalkers",
 	"role": "Attack",

@@ -5,6 +5,11 @@
 		"defaultValue": "Mausoleum Mage",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4060#static",
+		"defaultValue": "Hero 4060 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "UndeadHordes",
 	"role": "Support",

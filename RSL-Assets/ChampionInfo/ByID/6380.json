@@ -5,6 +5,11 @@
 		"defaultValue": "Urogrim",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6380#static",
+		"defaultValue": "Hero 6380 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "OgrynTribes",
 	"role": "Support",

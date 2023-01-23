@@ -5,6 +5,11 @@
 		"defaultValue": "Thea the Tomb Angel",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4430#static",
+		"defaultValue": "Hero 4430 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "KnightsRevenant",
 	"role": "Attack",

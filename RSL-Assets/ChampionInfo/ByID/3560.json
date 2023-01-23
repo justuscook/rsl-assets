@@ -5,6 +5,11 @@
 		"defaultValue": "Arbiter",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3560#static",
+		"defaultValue": "Hero 3560 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "HighElves",
 	"role": "Support",

@@ -5,6 +5,11 @@
 		"defaultValue": "Corpulent Cadaver",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4410#static",
+		"defaultValue": "Hero 4410 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "UndeadHordes",
 	"role": "Health",

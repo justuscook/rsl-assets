@@ -5,6 +5,11 @@
 		"defaultValue": "Endalia",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7540#static",
+		"defaultValue": "Hero 7540 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "HighElves",
 	"role": "Health",

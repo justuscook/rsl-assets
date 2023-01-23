@@ -5,6 +5,11 @@
 		"defaultValue": "Gurptuk Moss-Beard",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4640#static",
+		"defaultValue": "Hero 4640 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "OgrynTribes",
 	"role": "Support",

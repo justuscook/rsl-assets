@@ -5,6 +5,11 @@
 		"defaultValue": "Muckstalker",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=880#static",
+		"defaultValue": "Hero 880 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "LizardMen",
 	"role": "Health",

@@ -5,6 +5,11 @@
 		"defaultValue": "Venomage",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6280#static",
+		"defaultValue": "Hero 6280 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "LizardMen",
 	"role": "Support",

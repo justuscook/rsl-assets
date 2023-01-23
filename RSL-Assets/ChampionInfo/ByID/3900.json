@@ -5,6 +5,11 @@
 		"defaultValue": "Mighty Ukko",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3900#static",
+		"defaultValue": "Hero 3900 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Skinwalkers",
 	"role": "Support",

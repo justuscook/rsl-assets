@@ -5,6 +5,11 @@
 		"defaultValue": "Wagonbane",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5170#static",
+		"defaultValue": "Hero 5170 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "OgrynTribes",
 	"role": "Support",

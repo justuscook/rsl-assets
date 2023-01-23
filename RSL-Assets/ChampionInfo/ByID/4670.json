@@ -5,6 +5,11 @@
 		"defaultValue": "Cudgeler",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4670#static",
+		"defaultValue": "Hero 4670 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Dwarves",
 	"role": "Attack",

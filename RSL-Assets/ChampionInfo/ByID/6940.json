@@ -5,6 +5,11 @@
 		"defaultValue": "Andryssia",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6940#static",
+		"defaultValue": "Hero 6940 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "HighElves",
 	"role": "Defense",

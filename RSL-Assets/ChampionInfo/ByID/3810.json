@@ -5,6 +5,11 @@
 		"defaultValue": "Frontline Warrior",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3810#static",
+		"defaultValue": "Hero 3810 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "BannerLords",
 	"role": "Defense",

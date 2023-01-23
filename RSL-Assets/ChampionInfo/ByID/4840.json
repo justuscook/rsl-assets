@@ -5,6 +5,11 @@
 		"defaultValue": "Dirandil",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4840#static",
+		"defaultValue": "Hero 4840 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "DarkElves",
 	"role": "Attack",

@@ -5,6 +5,11 @@
 		"defaultValue": "Shaman",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2560#static",
+		"defaultValue": "Hero 2560 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Orcs",
 	"role": "Support",

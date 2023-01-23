@@ -5,6 +5,11 @@
 		"defaultValue": "Assassin",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6190#static",
+		"defaultValue": "Hero 6190 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Shadowkin",
 	"role": "Attack",

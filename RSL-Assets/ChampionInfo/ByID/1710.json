@@ -5,6 +5,11 @@
 		"defaultValue": "Exemplar",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1710#static",
+		"defaultValue": "Hero 1710 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "HighElves",
 	"role": "Attack",

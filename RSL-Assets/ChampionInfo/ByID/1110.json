@@ -5,6 +5,11 @@
 		"defaultValue": "Doomscreech",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1110#static",
+		"defaultValue": "Hero 1110 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "UndeadHordes",
 	"role": "Health",

@@ -5,6 +5,11 @@
 		"defaultValue": "Bystophus",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=980#static",
+		"defaultValue": "Hero 980 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "KnightsRevenant",
 	"role": "Attack",

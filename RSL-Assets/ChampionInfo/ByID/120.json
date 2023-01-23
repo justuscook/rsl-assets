@@ -5,6 +5,11 @@
 		"defaultValue": "Battlesage",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=120#static",
+		"defaultValue": "Hero 120 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "HighElves",
 	"role": "Support",

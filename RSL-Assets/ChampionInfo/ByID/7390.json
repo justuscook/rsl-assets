@@ -5,6 +5,11 @@
 		"defaultValue": "King Gallcobar",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7390#static",
+		"defaultValue": "Hero 7390 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "NyresanElves",
 	"role": "Support",

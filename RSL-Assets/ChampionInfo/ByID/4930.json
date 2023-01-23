@@ -5,6 +5,11 @@
 		"defaultValue": "Samson the Masher",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4930#static",
+		"defaultValue": "Hero 4930 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Skinwalkers",
 	"role": "Health",

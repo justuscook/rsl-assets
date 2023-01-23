@@ -5,6 +5,11 @@
 		"defaultValue": "Witness",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3040#static",
+		"defaultValue": "Hero 3040 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "SacredOrder",
 	"role": "Support",

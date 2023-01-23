@@ -5,6 +5,11 @@
 		"defaultValue": "Catacomb Councilor",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3640#static",
+		"defaultValue": "Hero 3640 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "UndeadHordes",
 	"role": "Attack",

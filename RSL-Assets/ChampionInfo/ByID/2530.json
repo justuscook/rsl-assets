@@ -5,6 +5,11 @@
 		"defaultValue": "War Mother",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2530#static",
+		"defaultValue": "Hero 2530 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "OgrynTribes",
 	"role": "Attack",

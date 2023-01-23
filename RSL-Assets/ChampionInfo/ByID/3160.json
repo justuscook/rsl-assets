@@ -5,6 +5,11 @@
 		"defaultValue": "Vanguard",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3160#static",
+		"defaultValue": "Hero 3160 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "BannerLords",
 	"role": "Defense",

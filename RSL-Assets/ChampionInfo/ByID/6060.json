@@ -5,6 +5,11 @@
 		"defaultValue": "Marauder",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6060#static",
+		"defaultValue": "Hero 6060 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Shadowkin",
 	"role": "Health",

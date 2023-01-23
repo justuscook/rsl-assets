@@ -5,6 +5,11 @@
 		"defaultValue": "Oboro",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5850#static",
+		"defaultValue": "Hero 5850 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "Shadowkin",
 	"role": "Attack",

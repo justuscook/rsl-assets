@@ -5,6 +5,11 @@
 		"defaultValue": "Lord Champfort",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=910#static",
+		"defaultValue": "Hero 910 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "BannerLords",
 	"role": "Health",

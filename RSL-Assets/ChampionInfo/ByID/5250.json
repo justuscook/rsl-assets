@@ -5,6 +5,11 @@
 		"defaultValue": "Avir the Alchemage",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5250#static",
+		"defaultValue": "Hero 5250 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Dwarves",
 	"role": "Support",

@@ -5,6 +5,11 @@
 		"defaultValue": "Truath",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7080#static",
+		"defaultValue": "Hero 7080 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "DarkElves",
 	"role": "Health",

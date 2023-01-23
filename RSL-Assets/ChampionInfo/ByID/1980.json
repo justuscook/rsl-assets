@@ -5,6 +5,11 @@
 		"defaultValue": "Penitent",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1980#static",
+		"defaultValue": "Hero 1980 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "SacredOrder",
 	"role": "Defense",

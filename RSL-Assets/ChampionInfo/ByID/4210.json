@@ -5,6 +5,11 @@
 		"defaultValue": "Rearguard Sergeant",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4210#static",
+		"defaultValue": "Hero 4210 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Dwarves",
 	"role": "Defense",

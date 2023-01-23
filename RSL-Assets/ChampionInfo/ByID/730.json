@@ -5,6 +5,11 @@
 		"defaultValue": "Warchanter",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=730#static",
+		"defaultValue": "Hero 730 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Orcs",
 	"role": "Health",

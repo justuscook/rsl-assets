@@ -5,6 +5,11 @@
 		"defaultValue": "Gladiator",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1580#static",
+		"defaultValue": "Hero 1580 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "KnightsRevenant",
 	"role": "Attack",

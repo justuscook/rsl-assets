@@ -5,6 +5,11 @@
 		"defaultValue": "Guardian",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=900#static",
+		"defaultValue": "Hero 900 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "KnightsRevenant",
 	"role": "Health",

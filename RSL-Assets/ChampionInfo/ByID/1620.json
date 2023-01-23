@@ -5,6 +5,11 @@
 		"defaultValue": "Souldrinker",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1620#static",
+		"defaultValue": "Hero 1620 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Demonspawn",
 	"role": "Attack",

@@ -5,6 +5,11 @@
 		"defaultValue": "Dagger",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5460#static",
+		"defaultValue": "Hero 5460 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "BannerLords",
 	"role": "Attack",

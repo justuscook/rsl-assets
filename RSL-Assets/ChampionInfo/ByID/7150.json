@@ -5,6 +5,11 @@
 		"defaultValue": "Wuji",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7150#static",
+		"defaultValue": "Hero 7150 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Shadowkin",
 	"role": "Attack",

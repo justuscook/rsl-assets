@@ -5,6 +5,11 @@
 		"defaultValue": "Brakus the Shifter",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4590#static",
+		"defaultValue": "Hero 4590 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Skinwalkers",
 	"role": "Attack",

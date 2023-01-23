@@ -5,6 +5,11 @@
 		"defaultValue": "Captain Temila",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3770#static",
+		"defaultValue": "Hero 3770 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "DarkElves",
 	"role": "Health",

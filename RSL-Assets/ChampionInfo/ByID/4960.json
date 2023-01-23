@@ -5,6 +5,11 @@
 		"defaultValue": "Vogoth",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4960#static",
+		"defaultValue": "Hero 4960 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "UndeadHordes",
 	"role": "Health",

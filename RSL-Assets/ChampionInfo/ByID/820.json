@@ -5,6 +5,11 @@
 		"defaultValue": "Warmaiden",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=820#static",
+		"defaultValue": "Hero 820 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Barbarians",
 	"role": "Attack",

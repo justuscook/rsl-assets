@@ -5,6 +5,11 @@
 		"defaultValue": "Ruel the Huntmaster",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5980#static",
+		"defaultValue": "Hero 5980 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "DarkElves",
 	"role": "Attack",

@@ -5,6 +5,11 @@
 		"defaultValue": "Gloril Brutebane",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5130#static",
+		"defaultValue": "Hero 5130 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Dwarves",
 	"role": "Attack",

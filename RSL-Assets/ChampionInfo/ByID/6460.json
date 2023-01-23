@@ -5,6 +5,11 @@
 		"defaultValue": "Roric Wyrmbane",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6460#static",
+		"defaultValue": "Hero 6460 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Barbarians",
 	"role": "Attack",

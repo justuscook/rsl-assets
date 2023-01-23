@@ -5,6 +5,11 @@
 		"defaultValue": "Nogoryo",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6580#static",
+		"defaultValue": "Hero 6580 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Shadowkin",
 	"role": "Attack",

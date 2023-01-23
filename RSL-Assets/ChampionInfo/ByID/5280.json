@@ -5,6 +5,11 @@
 		"defaultValue": "Tuhak the Wanderer",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5280#static",
+		"defaultValue": "Hero 5280 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "Orcs",
 	"role": "Attack",

@@ -28,7 +28,7 @@
 			"numBooksToMax": "3"
 		},
 		{
-			"desc": "Places a [Shield] buff for 3 turns and a [Counterattack] buff for 2 turns on one ally. Grants an extra turn. The value of [Shield] is proportional to this Champion's DEF.",
+			"desc": "Places a [Shield] buff for 3 turns and a [Counterattack] buff for 2 turns on one ally. Grants an extra turn. The value of the [Shield] is proportional to this Champion's DEF.",
 			"basedOn": "[DEF]",
 			"name": "Fierce Protector",
 			"maxcd": "5",

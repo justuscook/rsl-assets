@@ -5,6 +5,11 @@
 		"defaultValue": "Fencer",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4700#static",
+		"defaultValue": "Hero 4700 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "HighElves",
 	"role": "Attack",

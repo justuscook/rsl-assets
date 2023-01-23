@@ -5,6 +5,11 @@
 		"defaultValue": "Terrorbeast",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1310#static",
+		"defaultValue": "Hero 1310 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Orcs",
 	"role": "Health",

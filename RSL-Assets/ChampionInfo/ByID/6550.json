@@ -5,6 +5,11 @@
 		"defaultValue": "Alexandr the Sharpshooter",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6550#static",
+		"defaultValue": "Hero 6550 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "HighElves",
 	"role": "Attack",

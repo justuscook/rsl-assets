@@ -5,6 +5,11 @@
 		"defaultValue": "Marked",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1530#static",
+		"defaultValue": "Hero 1530 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Barbarians",
 	"role": "Support",

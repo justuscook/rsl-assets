@@ -5,6 +5,11 @@
 		"defaultValue": "Turvold",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2370#static",
+		"defaultValue": "Hero 2370 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "Barbarians",
 	"role": "Attack",

@@ -5,6 +5,11 @@
 		"defaultValue": "Vigilante",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=860#static",
+		"defaultValue": "Hero 860 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "SacredOrder",
 	"role": "Health",

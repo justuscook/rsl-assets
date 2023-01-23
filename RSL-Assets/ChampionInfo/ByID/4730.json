@@ -5,6 +5,11 @@
 		"defaultValue": "Gravechill Killer",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4730#static",
+		"defaultValue": "Hero 4730 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "UndeadHordes",
 	"role": "Attack",

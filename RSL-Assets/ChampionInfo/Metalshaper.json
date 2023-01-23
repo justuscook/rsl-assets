@@ -28,7 +28,7 @@
 			"numBooksToMax": "6"
 		},
 		{
-			"desc": "Places a [Shield] buff on all allies for 2 turns. The value of [Shield] is proportional to this Champion Level.",
+			"desc": "Places a [Shield] buff on all allies for 2 turns. The value of the [Shield] is proportional to this Champion Level.",
 			"basedOn": "[HERO_LEVEL]",
 			"name": "Fortified Steel",
 			"maxcd": "3",

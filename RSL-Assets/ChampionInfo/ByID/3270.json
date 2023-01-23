@@ -5,6 +5,11 @@
 		"defaultValue": "Pitiless One",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3270#static",
+		"defaultValue": "Hero 3270 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "KnightsRevenant",
 	"role": "Attack",

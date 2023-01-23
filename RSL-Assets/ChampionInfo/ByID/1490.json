@@ -5,6 +5,11 @@
 		"defaultValue": "Elhain",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1490#static",
+		"defaultValue": "Hero 1490 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "HighElves",
 	"role": "Attack",

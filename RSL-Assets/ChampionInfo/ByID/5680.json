@@ -5,6 +5,11 @@
 		"defaultValue": "Dhukk the Pierced",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5680#static",
+		"defaultValue": "Hero 5680 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Orcs",
 	"role": "Defense",

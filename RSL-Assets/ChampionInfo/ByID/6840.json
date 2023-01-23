@@ -5,6 +5,11 @@
 		"defaultValue": "Holsring",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6840#static",
+		"defaultValue": "Hero 6840 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "SacredOrder",
 	"role": "Attack",

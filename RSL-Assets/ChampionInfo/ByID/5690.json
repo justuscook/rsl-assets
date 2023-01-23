@@ -5,6 +5,11 @@
 		"defaultValue": "Sanguinia",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5690#static",
+		"defaultValue": "Hero 5690 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "SacredOrder",
 	"role": "Support",

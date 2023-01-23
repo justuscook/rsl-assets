@@ -5,6 +5,11 @@
 		"defaultValue": "Baroth the Bloodsoaked",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5310#static",
+		"defaultValue": "Hero 5310 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Barbarians",
 	"role": "Health",

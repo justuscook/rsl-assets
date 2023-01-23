@@ -5,6 +5,11 @@
 		"defaultValue": "Drake",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1350#static",
+		"defaultValue": "Hero 1350 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "LizardMen",
 	"role": "Attack",

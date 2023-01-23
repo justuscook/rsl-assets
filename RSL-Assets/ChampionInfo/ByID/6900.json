@@ -5,6 +5,11 @@
 		"defaultValue": "Yumeko ",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6900#static",
+		"defaultValue": "Hero 6900 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "Shadowkin",
 	"role": "Support",

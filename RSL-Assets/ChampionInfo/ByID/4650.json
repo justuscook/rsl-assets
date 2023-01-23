@@ -5,6 +5,11 @@
 		"defaultValue": "Quargan the Crowned",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4650#static",
+		"defaultValue": "Hero 4650 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "LizardMen",
 	"role": "Support",

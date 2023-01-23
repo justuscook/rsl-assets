@@ -5,6 +5,11 @@
 		"defaultValue": "Gorgorab",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=320#static",
+		"defaultValue": "Hero 320 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "UndeadHordes",
 	"role": "Support",

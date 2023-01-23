@@ -5,6 +5,11 @@
 		"defaultValue": "Maulie Tankard",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4520#static",
+		"defaultValue": "Hero 4520 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Dwarves",
 	"role": "Support",

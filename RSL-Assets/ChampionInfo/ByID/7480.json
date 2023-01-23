@@ -5,6 +5,11 @@
 		"defaultValue": "Gnishak Verminlord",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7480#static",
+		"defaultValue": "Hero 7480 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Skinwalkers",
 	"role": "Attack",

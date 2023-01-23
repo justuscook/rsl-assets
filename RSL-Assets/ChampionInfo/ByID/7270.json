@@ -5,6 +5,11 @@
 		"defaultValue": "Lorn the Cutter",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7270#static",
+		"defaultValue": "Hero 7270 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "OgrynTribes",
 	"role": "Attack",

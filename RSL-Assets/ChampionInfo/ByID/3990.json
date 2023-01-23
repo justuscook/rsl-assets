@@ -5,6 +5,11 @@
 		"defaultValue": "Candraphon",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3990#static",
+		"defaultValue": "Hero 3990 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Demonspawn",
 	"role": "Attack",

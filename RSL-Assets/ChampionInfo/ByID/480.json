@@ -5,6 +5,11 @@
 		"defaultValue": "Fireblade",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=480#static",
+		"defaultValue": "Hero 480 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "BannerLords",
 	"role": "Attack",

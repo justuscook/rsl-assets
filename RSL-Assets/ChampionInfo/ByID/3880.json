@@ -5,6 +5,11 @@
 		"defaultValue": "Sepulcher Sentinel",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3880#static",
+		"defaultValue": "Hero 3880 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "KnightsRevenant",
 	"role": "Defense",

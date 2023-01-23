@@ -5,6 +5,11 @@
 		"defaultValue": "Rector Drath",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4810#static",
+		"defaultValue": "Hero 4810 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "KnightsRevenant",
 	"role": "Support",

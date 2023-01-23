@@ -5,6 +5,11 @@
 		"defaultValue": "Grunch Killjoy",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5520#static",
+		"defaultValue": "Hero 5520 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "OgrynTribes",
 	"role": "Support",

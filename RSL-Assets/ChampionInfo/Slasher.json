@@ -38,7 +38,7 @@
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Places a 15% [Increase C. RATE] buff and a [Shield] buff on this Champion for 2 turns. The value of [Shield] is proportional to this Champion's DEF and C. DMG. Grants an Extra Turn.",
+			"desc": "Places a 15% [Increase C. RATE] buff and a [Shield] buff on this Champion for 2 turns. The value of the [Shield] is proportional to this Champion's DEF and C. DMG. Grants an Extra Turn.",
 			"basedOn": "",
 			"name": "Killing Zeal",
 			"maxcd": "5",

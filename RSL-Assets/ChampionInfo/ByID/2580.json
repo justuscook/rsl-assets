@@ -5,6 +5,11 @@
 		"defaultValue": "Jotun",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2580#static",
+		"defaultValue": "Hero 2580 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Barbarians",
 	"role": "Health",

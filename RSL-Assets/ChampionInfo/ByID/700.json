@@ -5,6 +5,11 @@
 		"defaultValue": "Brute",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=700#static",
+		"defaultValue": "Hero 700 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "OgrynTribes",
 	"role": "Attack",

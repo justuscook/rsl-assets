@@ -5,6 +5,11 @@
 		"defaultValue": "Lordly Legionary",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5000#static",
+		"defaultValue": "Hero 5000 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "BannerLords",
 	"role": "Attack",

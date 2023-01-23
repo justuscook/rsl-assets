@@ -5,6 +5,11 @@
 		"defaultValue": "Lady Kimi",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6090#static",
+		"defaultValue": "Hero 6090 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Shadowkin",
 	"role": "Support",

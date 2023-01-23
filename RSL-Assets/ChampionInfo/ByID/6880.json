@@ -5,6 +5,11 @@
 		"defaultValue": "Boragar the Elder",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6880#static",
+		"defaultValue": "Hero 6880 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Dwarves",
 	"role": "Health",

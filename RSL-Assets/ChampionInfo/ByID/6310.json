@@ -5,6 +5,11 @@
 		"defaultValue": "Vasal of the Seal",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6310#static",
+		"defaultValue": "Hero 6310 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Demonspawn",
 	"role": "Health",

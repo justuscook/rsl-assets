@@ -5,6 +5,11 @@
 		"defaultValue": "Tramaria",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7520#static",
+		"defaultValue": "Hero 7520 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "DarkElves",
 	"role": "Support",

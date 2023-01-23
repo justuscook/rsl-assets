@@ -5,6 +5,11 @@
 		"defaultValue": "Banshee",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=20#static",
+		"defaultValue": "Hero 20 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "UndeadHordes",
 	"role": "Support",

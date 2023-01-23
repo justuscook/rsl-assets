@@ -5,6 +5,11 @@
 		"defaultValue": "Deathless",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1590#static",
+		"defaultValue": "Hero 1590 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "KnightsRevenant",
 	"role": "Defense",

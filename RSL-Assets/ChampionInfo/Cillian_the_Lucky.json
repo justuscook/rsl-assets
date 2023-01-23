@@ -28,17 +28,17 @@
 			"numBooksToMax": "5"
 		},
 		{
-			"desc": "Attacks 1 enemy. Has an 85% chance of placing a [Block Active Skills] debuff for 4 turns. Also has a 35% chance of placing a [Block Active Skills] debuff on all other enemies for 1 turn.",
+			"desc": "Attacks all enemies. Has an 85% chance of placing a [Block Active Skills] debuff for 2 turns.",
 			"basedOn": "[ATK]",
 			"name": "Inflict Misfortune",
-			"maxcd": "4",
-			"mincd": "3",
+			"maxcd": "5",
+			"mincd": "4",
 			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Cooldown -1\n",
-			"multiplier": "5.8*ATK",
+			"multiplier": "4.3*ATK",
 			"numBooksToMax": "5"
 		},
 		{
-			"desc": "Attacks 1 enemy. Has a 75% chance of placing a [Stun] debuff for 1 turn. Has a 25% chance of placing the [Stun] debuff for 2 turns instead and stealing 50% of the target's current Turn Meter. Resets the cooldown of this Skill if the target is killed.",
+			"desc": "Attacks 1 enemy. Has a 75% chance of placing a [Stun] debuff for 2 turns and stealing 50% of the target's current Turn Meter. Resets the cooldown of this Skill if the target is killed.",
 			"basedOn": "[ATK]",
 			"name": "Head Ringer",
 			"maxcd": "5",
@@ -48,7 +48,7 @@
 			"numBooksToMax": "5"
 		},
 		{
-			"desc": "Places one of the following buffs on this Champion for 2 turns at the start of each turn: a 50% [Increase ATK] buff, a 30% [Increase C. DMG] buff, a 30% [Increase C. RATE] buff, a 25% [Strengthen] buff, or a [Block Damage] buff.",
+			"desc": "Places two of the following buffs on this Champion for 2 turns at the start of each turn: a 50% [Increase ATK] buff, a 30% [Increase C. DMG] buff, a 30% [Increase C. RATE] buff, a 25% [Strengthen] buff, a [Block Damage] buff, or a 50% [Increase ACC] buff.",
 			"basedOn": "",
 			"name": "Charmed Life [P]",
 			"maxcd": "0",

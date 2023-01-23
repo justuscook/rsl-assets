@@ -5,6 +5,11 @@
 		"defaultValue": "Alika",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3250#static",
+		"defaultValue": "Hero 3250 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Barbarians",
 	"role": "Attack",

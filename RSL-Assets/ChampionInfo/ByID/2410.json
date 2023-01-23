@@ -5,6 +5,11 @@
 		"defaultValue": "Flesheater",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2410#static",
+		"defaultValue": "Hero 2410 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "OgrynTribes",
 	"role": "Support",

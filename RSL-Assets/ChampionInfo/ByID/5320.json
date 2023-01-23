@@ -5,6 +5,11 @@
 		"defaultValue": "Vergumkaar",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5320#static",
+		"defaultValue": "Hero 5320 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "LizardMen",
 	"role": "Support",

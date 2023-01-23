@@ -5,6 +5,11 @@
 		"defaultValue": "Teumesia",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6240#static",
+		"defaultValue": "Hero 6240 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "Skinwalkers",
 	"role": "Attack",

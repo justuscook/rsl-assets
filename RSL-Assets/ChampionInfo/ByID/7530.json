@@ -5,6 +5,11 @@
 		"defaultValue": "Aeshma",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7530#static",
+		"defaultValue": "Hero 7530 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "KnightsRevenant",
 	"role": "Attack",

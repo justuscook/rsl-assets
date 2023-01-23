@@ -5,6 +5,11 @@
 		"defaultValue": "Bloodpainter",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1270#static",
+		"defaultValue": "Hero 1270 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Skinwalkers",
 	"role": "Attack",

@@ -5,6 +5,11 @@
 		"defaultValue": "Skinner",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1080#static",
+		"defaultValue": "Hero 1080 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "LizardMen",
 	"role": "Attack",

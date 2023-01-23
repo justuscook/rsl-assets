@@ -5,6 +5,11 @@
 		"defaultValue": "Bellower",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2810#static",
+		"defaultValue": "Hero 2810 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "OgrynTribes",
 	"role": "Support",

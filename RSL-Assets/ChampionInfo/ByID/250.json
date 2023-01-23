@@ -5,6 +5,11 @@
 		"defaultValue": "Arcanist",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=250#static",
+		"defaultValue": "Hero 250 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "KnightsRevenant",
 	"role": "Support",

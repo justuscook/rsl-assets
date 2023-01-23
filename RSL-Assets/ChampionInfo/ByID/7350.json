@@ -5,6 +5,11 @@
 		"defaultValue": "Michinaki",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7350#static",
+		"defaultValue": "Hero 7350 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Shadowkin",
 	"role": "Defense",

@@ -5,6 +5,11 @@
 		"defaultValue": "Tunnel Steward",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4340#static",
+		"defaultValue": "Hero 4340 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Dwarves",
 	"role": "Attack",

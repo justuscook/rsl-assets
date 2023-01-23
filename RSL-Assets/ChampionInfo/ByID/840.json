@@ -5,6 +5,11 @@
 		"defaultValue": "Outlander",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=840#static",
+		"defaultValue": "Hero 840 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Barbarians",
 	"role": "Attack",

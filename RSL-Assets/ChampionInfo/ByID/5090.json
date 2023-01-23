@@ -5,6 +5,11 @@
 		"defaultValue": "Tainix Hateflower",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5090#static",
+		"defaultValue": "Hero 5090 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Demonspawn",
 	"role": "Support",

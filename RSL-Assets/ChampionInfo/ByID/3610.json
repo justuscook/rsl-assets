@@ -5,6 +5,11 @@
 		"defaultValue": "Basileus Roanas",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3610#static",
+		"defaultValue": "Hero 3610 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "HighElves",
 	"role": "Attack",

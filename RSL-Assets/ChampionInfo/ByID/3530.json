@@ -5,6 +5,11 @@
 		"defaultValue": "Tyrant Ixlimor",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3530#static",
+		"defaultValue": "Hero 3530 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Demonspawn",
 	"role": "Health",

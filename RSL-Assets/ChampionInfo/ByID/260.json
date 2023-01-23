@@ -5,6 +5,11 @@
 		"defaultValue": "Luria",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=260#static",
+		"defaultValue": "Hero 260 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "DarkElves",
 	"role": "Attack",

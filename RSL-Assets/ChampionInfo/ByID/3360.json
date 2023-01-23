@@ -5,6 +5,11 @@
 		"defaultValue": "Adjudicator",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3360#static",
+		"defaultValue": "Hero 3360 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "HighElves",
 	"role": "Attack",

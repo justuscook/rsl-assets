@@ -5,6 +5,11 @@
 		"defaultValue": "Coffin Smasher",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4470#static",
+		"defaultValue": "Hero 4470 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "KnightsRevenant",
 	"role": "Health",

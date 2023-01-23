@@ -5,6 +5,11 @@
 		"defaultValue": "Genbo the Dishonored",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6040#static",
+		"defaultValue": "Hero 6040 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "Shadowkin",
 	"role": "Attack",

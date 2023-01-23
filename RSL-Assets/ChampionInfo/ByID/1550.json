@@ -5,6 +5,11 @@
 		"defaultValue": "Ritualist",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1550#static",
+		"defaultValue": "Hero 1550 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Barbarians",
 	"role": "Attack",

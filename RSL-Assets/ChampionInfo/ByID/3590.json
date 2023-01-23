@@ -5,6 +5,11 @@
 		"defaultValue": "Sniktraak",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3590#static",
+		"defaultValue": "Hero 3590 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Skinwalkers",
 	"role": "Health",

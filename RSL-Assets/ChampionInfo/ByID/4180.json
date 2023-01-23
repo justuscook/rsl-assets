@@ -5,6 +5,11 @@
 		"defaultValue": "Bulwark",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4180#static",
+		"defaultValue": "Hero 4180 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "Dwarves",
 	"role": "Defense",

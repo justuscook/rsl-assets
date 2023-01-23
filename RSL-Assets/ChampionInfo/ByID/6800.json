@@ -5,6 +5,11 @@
 		"defaultValue": "Visionary",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6800#static",
+		"defaultValue": "Hero 6800 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "DarkElves",
 	"role": "Support",

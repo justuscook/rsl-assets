@@ -5,6 +5,11 @@
 		"defaultValue": "Grumbler",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4150#static",
+		"defaultValue": "Hero 4150 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Dwarves",
 	"role": "Health",

@@ -5,6 +5,11 @@
 		"defaultValue": "Flinger",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1130#static",
+		"defaultValue": "Hero 1130 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "LizardMen",
 	"role": "Attack",

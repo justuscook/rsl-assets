@@ -5,6 +5,11 @@
 		"defaultValue": "Bloodbraid",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2090#static",
+		"defaultValue": "Hero 2090 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Barbarians",
 	"role": "Health",

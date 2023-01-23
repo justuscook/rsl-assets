@@ -5,6 +5,11 @@
 		"defaultValue": "Halberdier",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1860#static",
+		"defaultValue": "Hero 1860 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "BannerLords",
 	"role": "Attack",

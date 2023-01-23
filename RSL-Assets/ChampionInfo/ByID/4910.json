@@ -5,6 +5,11 @@
 		"defaultValue": "Icebound Prospector",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4910#static",
+		"defaultValue": "Hero 4910 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Dwarves",
 	"role": "Attack",

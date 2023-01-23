@@ -5,6 +5,11 @@
 		"defaultValue": "Hurler",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1140#static",
+		"defaultValue": "Hero 1140 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "LizardMen",
 	"role": "Attack",

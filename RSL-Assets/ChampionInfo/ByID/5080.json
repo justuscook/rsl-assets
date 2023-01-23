@@ -5,6 +5,11 @@
 		"defaultValue": "Urost the Soulcage",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5080#static",
+		"defaultValue": "Hero 5080 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "UndeadHordes",
 	"role": "Health",

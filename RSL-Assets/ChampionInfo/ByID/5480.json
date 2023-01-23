@@ -5,6 +5,11 @@
 		"defaultValue": "Alaric the Hooded",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5480#static",
+		"defaultValue": "Hero 5480 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "BannerLords",
 	"role": "Attack",

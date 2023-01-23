@@ -5,6 +5,11 @@
 		"defaultValue": "Nekhret the Great",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4800#static",
+		"defaultValue": "Hero 4800 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "UndeadHordes",
 	"role": "Defense",

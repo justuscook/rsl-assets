@@ -5,6 +5,11 @@
 		"defaultValue": "Vagabond",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6070#static",
+		"defaultValue": "Hero 6070 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Shadowkin",
 	"role": "Support",

@@ -5,6 +5,11 @@
 		"defaultValue": "Intercessor",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1410#static",
+		"defaultValue": "Hero 1410 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "SacredOrder",
 	"role": "Support",

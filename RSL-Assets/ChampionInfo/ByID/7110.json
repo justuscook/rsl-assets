@@ -5,6 +5,11 @@
 		"defaultValue": "Nekmo Thaar",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7110#static",
+		"defaultValue": "Hero 7110 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "LizardMen",
 	"role": "Support",

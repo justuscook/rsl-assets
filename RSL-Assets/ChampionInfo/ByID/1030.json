@@ -5,6 +5,11 @@
 		"defaultValue": "Alure",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1030#static",
+		"defaultValue": "Hero 1030 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Demonspawn",
 	"role": "Attack",

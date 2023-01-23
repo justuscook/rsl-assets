@@ -5,6 +5,11 @@
 		"defaultValue": "Sniper",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2120#static",
+		"defaultValue": "Hero 2120 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "DarkElves",
 	"role": "Attack",

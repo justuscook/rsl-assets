@@ -5,6 +5,11 @@
 		"defaultValue": "Lightsworn",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2490#static",
+		"defaultValue": "Hero 2490 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "SacredOrder",
 	"role": "Defense",

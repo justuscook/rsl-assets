@@ -5,6 +5,11 @@
 		"defaultValue": "Opardin Clanfather",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6830#static",
+		"defaultValue": "Hero 6830 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Barbarians",
 	"role": "Health",

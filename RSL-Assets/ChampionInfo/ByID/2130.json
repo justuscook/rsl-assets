@@ -5,6 +5,11 @@
 		"defaultValue": "Grimskin",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2130#static",
+		"defaultValue": "Hero 2130 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "OgrynTribes",
 	"role": "Defense",

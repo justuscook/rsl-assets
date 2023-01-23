@@ -5,6 +5,11 @@
 		"defaultValue": "Klodd Beastfeeder",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5640#static",
+		"defaultValue": "Hero 5640 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "OgrynTribes",
 	"role": "Health",

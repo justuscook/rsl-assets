@@ -5,6 +5,11 @@
 		"defaultValue": "Teodor the Savant",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=3600#static",
+		"defaultValue": "Hero 3600 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "KnightsRevenant",
 	"role": "Support",

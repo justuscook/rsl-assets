@@ -5,6 +5,11 @@
 		"defaultValue": "Heartpiercer",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2870#static",
+		"defaultValue": "Hero 2870 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "DarkElves",
 	"role": "Attack",

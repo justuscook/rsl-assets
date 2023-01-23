@@ -5,6 +5,11 @@
 		"defaultValue": "Lady Etessa",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4380#static",
+		"defaultValue": "Hero 4380 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "SacredOrder",
 	"role": "Attack",

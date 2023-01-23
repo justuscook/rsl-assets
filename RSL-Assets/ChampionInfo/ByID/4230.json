@@ -5,6 +5,11 @@
 		"defaultValue": "Line Infantry",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4230#static",
+		"defaultValue": "Hero 4230 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Dwarves",
 	"role": "Defense",

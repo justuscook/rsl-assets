@@ -5,6 +5,11 @@
 		"defaultValue": "Hellborn Sprite",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6170#static",
+		"defaultValue": "Hero 6170 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Demonspawn",
 	"role": "Support",

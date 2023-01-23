@@ -5,6 +5,11 @@
 		"defaultValue": "Yakarl the Scourge",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5510#static",
+		"defaultValue": "Hero 5510 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "Barbarians",
 	"role": "Attack",

@@ -5,6 +5,11 @@
 		"defaultValue": "Grandmaster",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2510#static",
+		"defaultValue": "Hero 2510 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "BannerLords",
 	"role": "Health",

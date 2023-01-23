@@ -5,6 +5,11 @@
 		"defaultValue": "Bloodfeather",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1870#static",
+		"defaultValue": "Hero 1870 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "Orcs",
 	"role": "Attack",

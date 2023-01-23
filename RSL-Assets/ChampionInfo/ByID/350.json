@@ -5,6 +5,11 @@
 		"defaultValue": "Tomb Lord",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=350#static",
+		"defaultValue": "Hero 350 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "KnightsRevenant",
 	"role": "Support",

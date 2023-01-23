@@ -5,6 +5,11 @@
 		"defaultValue": "Konstantin the Dayborn",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6670#static",
+		"defaultValue": "Hero 6670 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "SacredOrder",
 	"role": "Attack",

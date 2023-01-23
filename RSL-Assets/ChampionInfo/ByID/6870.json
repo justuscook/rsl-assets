@@ -5,6 +5,11 @@
 		"defaultValue": "Lady Quilen",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=6870#static",
+		"defaultValue": "Hero 6870 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "BannerLords",
 	"role": "Attack",

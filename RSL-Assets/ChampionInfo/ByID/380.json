@@ -5,6 +5,11 @@
 		"defaultValue": "Baron",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=380#static",
+		"defaultValue": "Hero 380 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "BannerLords",
 	"role": "Attack",

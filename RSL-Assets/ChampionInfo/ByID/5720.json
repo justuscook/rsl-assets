@@ -5,6 +5,11 @@
 		"defaultValue": "Scrapper",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=5720#static",
+		"defaultValue": "Hero 5720 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "Barbarians",
 	"role": "Attack",

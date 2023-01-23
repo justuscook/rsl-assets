@@ -5,6 +5,11 @@
 		"defaultValue": "Pounder",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2820#static",
+		"defaultValue": "Hero 2820 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "OgrynTribes",
 	"role": "Defense",

@@ -5,6 +5,11 @@
 		"defaultValue": "Mystic Hand",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=60#static",
+		"defaultValue": "Hero 60 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "DarkElves",
 	"role": "Support",

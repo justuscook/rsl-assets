@@ -5,6 +5,11 @@
 		"defaultValue": "Aina",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=2170#static",
+		"defaultValue": "Hero 2170 short name",
+		"localizedValue": null
+	},
 	"affinity": "Magic",
 	"faction": "Barbarians",
 	"role": "Attack",

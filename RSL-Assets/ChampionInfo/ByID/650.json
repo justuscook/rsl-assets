@@ -5,6 +5,11 @@
 		"defaultValue": "Skullcrusher",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=650#static",
+		"defaultValue": "Hero 650 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "OgrynTribes",
 	"role": "Defense",

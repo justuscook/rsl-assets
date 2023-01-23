@@ -5,6 +5,11 @@
 		"defaultValue": "Stoneskin",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1060#static",
+		"defaultValue": "Hero 1060 short name",
+		"localizedValue": null
+	},
 	"affinity": "Void",
 	"faction": "OgrynTribes",
 	"role": "Health",

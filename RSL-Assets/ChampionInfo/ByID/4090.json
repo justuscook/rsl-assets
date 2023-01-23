@@ -5,6 +5,11 @@
 		"defaultValue": "Sandlashed Survivor",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=4090#static",
+		"defaultValue": "Hero 4090 short name",
+		"localizedValue": null
+	},
 	"affinity": "Spirit",
 	"faction": "Orcs",
 	"role": "Defense",

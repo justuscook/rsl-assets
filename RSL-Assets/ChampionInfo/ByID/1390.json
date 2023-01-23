@@ -5,6 +5,11 @@
 		"defaultValue": "Admonitor",
 		"localizedValue": null
 	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=1390#static",
+		"defaultValue": "Hero 1390 short name",
+		"localizedValue": null
+	},
 	"affinity": "Force",
 	"faction": "KnightsRevenant",
 	"role": "Health",
