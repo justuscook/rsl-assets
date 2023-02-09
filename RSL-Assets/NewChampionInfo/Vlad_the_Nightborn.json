@@ -14,7 +14,7 @@
 	"cdamage": "63",
 	"cheal": "50",
 	"faction": "Undead Hordes",
-	"aura": "Increase Ally C. RATE in Arena battles by 30",
+	"aura": "Increase Ally C. RATE in  by 24",
 	"totalBooks": "14",
 	"skills": [
 		{
@@ -38,13 +38,13 @@
 			"numBooksToMax": "5"
 		},
 		{
-			"desc": "Attacks 1 enemy 2 times. The first hit has a 75% chance of placing a 60% [Decrease DEF] debuff for 2 turns. The second hit has a 75% chance of placing a [Block Active Skills] debuff for 2 turns. \r\n\r\nIf both debuffs are placed, places a [Perfect Veil] buff on this Champion for 2 turns.",
+			"desc": "Attacks all enemies. Has a 75% chance of placing a 60% [Decrease DEF] debuff and a [Block Active Skills] debuff for 2 turns.\r\n\r\nPlaces a [Perfect Veil] buff on this Champion for 2 turns.",
 			"basedOn": "[ATK]",
 			"name": "Mind Shroud",
 			"maxcd": "4",
 			"mincd": "3",
 			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1\n",
-			"multiplier": "3.3*ATK",
+			"multiplier": "4*ATK",
 			"numBooksToMax": "5"
 		},
 		{

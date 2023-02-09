@@ -18,11 +18,11 @@
 	"modelName": "0793_Vlad_id6650",
 	"avatarKey": "6650",
 	"leaderSkill": {
-		"area": "Arena",
+		"area": "",
 		"affinity": "",
 		"kind": "CriticalChance",
 		"absolute": false,
-		"value": 0.3
+		"value": 0.24
 	},
 	"skillTypeIds": [
 		66501,

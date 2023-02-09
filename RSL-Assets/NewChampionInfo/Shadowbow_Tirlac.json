@@ -1,0 +1,63 @@
+{
+	"name": "Shadowbow Tirlac",
+	"key": "l10n:hero-type/name?id=7750#static",
+	"id": 7756,
+	"avatar": "7750",
+	"affinity": "Spirit",
+	"hp": "15030",
+	"atk": "793",
+	"def": "1233",
+	"spd": "95",
+	"res": "40",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Nyresan Elves",
+	"aura": "",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 40% chance of placing a 25% [Decrease ATK] debuff for 1 turn.",
+			"basedOn": "[DEF]",
+			"name": "Shadowbow",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\nLvl. 6 Buff/Debuff Chance +10%\n",
+			"multiplier": "3.4*DEF",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks all enemies. Places a 15% [Increase SPD] buff on all allies for 2 turns.",
+			"basedOn": "[DEF]",
+			"name": "Swift Warband",
+			"maxcd": "5",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Cooldown -1\nLvl. 5 Cooldown -1\n",
+			"multiplier": "3.6*DEF",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Places a [Veil] buff on all allies except this Champion for 1 turn. \r\n\r\nAlso places a [Shield] buff on all allies for 2 turns equal to 20% of this Champion's MAX HP.",
+			"basedOn": "",
+			"name": "Diversion",
+			"maxcd": "6",
+			"mincd": "4",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
+		},
+		{
+			"desc": "Decreases the damage received from skills by all allies under [Veil] or [Perfect Veil] buffs by 5%.",
+			"basedOn": "",
+			"name": "Camo Cover [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Rare",
+	"type": "Defense"
+}

@@ -1,0 +1,39 @@
+{
+	"typeId": 7746,
+	"name": {
+		"key": "l10n:hero-type/name?id=7740#static",
+		"defaultValue": "Merouka",
+		"localizedValue": null
+	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7740#static",
+		"defaultValue": "Hero 7740 short name",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "Orcs",
+	"role": "Defense",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0191_Orc_f_id7740",
+	"avatarKey": "7740",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		77401,
+		77402,
+		77403,
+		77404
+	],
+	"unscaledStats": {
+		"Health": 113,
+		"Attack": 70,
+		"Defense": 117,
+		"Speed": 98,
+		"Resistance": 45,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

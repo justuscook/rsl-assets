@@ -1,0 +1,63 @@
+{
+	"name": "Ultan of the Shell",
+	"key": "l10n:hero-type/name?id=7690#static",
+	"id": 7696,
+	"avatar": "7690",
+	"affinity": "Spirit",
+	"hp": "15525",
+	"atk": "1553",
+	"def": "991",
+	"spd": "101",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "63",
+	"cheal": "50",
+	"faction": "Dark Elves",
+	"aura": "Increase Ally ATK in  by 30",
+	"totalBooks": "10",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Each hit has a 30% chance of placing a 60% [Decrease DEF] debuff for 2 turns. Each hit will also ignore 50% of the target’s RES if Oella is on the same team. \r\n\r\nIf the target is under an [Increase DEF] buff, each hit has a 80% chance of removing it. This effect cannot be resisted.",
+			"basedOn": "[ATK]",
+			"name": "Under the Skin",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +10%\n",
+			"multiplier": "1.6*ATK",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "Removes all debuffs from this Champion. Heals this Champion by 20% of their MAX HP for each debuff removed. \r\n\r\nThen, places a [Shield] buff on this Champion for 2 turns. The value of the [Shield] is equal to any surplus heal from this skill. \r\n\r\nFinally, attacks 1 enemy. Will ignore [Shield] buffs. Damage increases by 20% for each debuff removed by this skill.",
+			"basedOn": "",
+			"name": "Resurging Reversal",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1\n",
+			"multiplier": null,
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 100% chance of placing a [Sleep] debuff for 1 turn. Will ignore 50% of the target’s RES if Oella is on the same team. \r\n\r\nFills this Champion’s Turn Meter by 15% whenever a [Sleep] debuff placed by this skill expires.",
+			"basedOn": "[ATK]",
+			"name": "Somnolence Spores",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Cooldown -1\n",
+			"multiplier": "3.6*ATK",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "Has a 15% chance of decreasing the cooldown of one of this Champion’s skills by 1 turn every time they are healed by a [Continuous Heal] buff. The chance increases to 30% if Oella is on the same team.",
+			"basedOn": "",
+			"name": "Metabolism [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Legendary",
+	"type": "Attack"
+}

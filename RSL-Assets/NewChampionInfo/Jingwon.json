@@ -38,7 +38,7 @@
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Attacks all enemies 2 times. The first hit has an 80% chance of placing a 50% [Decrease ACC] debuff for 2 turns. The second hit has an 80% chance of placing a 30% [Decrease C. DMG] debuff for 2 turns. Also places a 25% [Strengthen] buff on this Champion for 2 turns.",
+			"desc": "Attacks all enemies 2 times. The first hit has an 80% chance of placing a 50% [Decrease ACC] debuff for 2 turns. The second hit has an 80% chance of placing a 25% [Decrease C. DMG] debuff for 2 turns. Also places a 25% [Strengthen] buff on this Champion for 2 turns.",
 			"basedOn": "[HP]",
 			"name": "Power Flare",
 			"maxcd": "5",

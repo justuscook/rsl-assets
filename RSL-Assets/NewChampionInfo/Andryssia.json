@@ -18,7 +18,7 @@
 	"totalBooks": "12",
 	"skills": [
 		{
-			"desc": "Attacks 1 enemy. Has a 40% chance of placing a 30% [Decrease C. DMG] debuff for 2 turns.",
+			"desc": "Attacks 1 enemy. Has a 40% chance of placing a 25% [Decrease C. DMG] debuff for 2 turns.",
 			"basedOn": "[DEF]",
 			"name": "Censorious Bludgeon",
 			"maxcd": "0",

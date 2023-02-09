@@ -1,0 +1,45 @@
+{
+	"typeId": 7686,
+	"name": {
+		"key": "l10n:hero-type/name?id=7680#static",
+		"defaultValue": "Oella",
+		"localizedValue": null
+	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7680#static",
+		"defaultValue": "Hero 7680 short name",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "NyresanElves",
+	"role": "Support",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0855_Butterfly_7680",
+	"avatarKey": "7680",
+	"leaderSkill": {
+		"area": "Dungeon",
+		"affinity": "",
+		"kind": "Resistance",
+		"absolute": true,
+		"value": 75
+	},
+	"skillTypeIds": [
+		76801,
+		76802,
+		76803,
+		76804
+	],
+	"unscaledStats": {
+		"Health": 128,
+		"Attack": 89,
+		"Defense": 108,
+		"Speed": 110,
+		"Resistance": 50,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

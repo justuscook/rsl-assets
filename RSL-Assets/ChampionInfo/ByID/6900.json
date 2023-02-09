@@ -2,7 +2,7 @@
 	"typeId": 6906,
 	"name": {
 		"key": "l10n:hero-type/name?id=6900#static",
-		"defaultValue": "Yumeko ",
+		"defaultValue": "Yumeko",
 		"localizedValue": null
 	},
 	"shortName": {

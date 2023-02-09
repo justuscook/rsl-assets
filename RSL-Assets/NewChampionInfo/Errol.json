@@ -14,7 +14,7 @@
 	"cdamage": "63",
 	"cheal": "50",
 	"faction": "Sacred Order",
-	"aura": "Increase Ally ATK in Dungeons by 35",
+	"aura": "Increase Ally ATK in  by 28.000000000000004",
 	"totalBooks": "12",
 	"skills": [
 		{
@@ -28,23 +28,23 @@
 			"numBooksToMax": "3"
 		},
 		{
-			"desc": "Attacks 1 enemy 3 times. Has an extra 30% chance of inflicting a critical hit. Each hit has a 50% chance to ignore DEF.",
+			"desc": "Attacks all enemies 2 times. Has an extra 30% chance of inflicting a critical hit. Each hit will ignore 15% of the target's DEF.",
 			"basedOn": "[ATK]",
 			"name": "Helmbreaker",
 			"maxcd": "4",
 			"mincd": "3",
 			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Damage +10%\nLvl. 5 Damage +15%\nLvl. 6 Cooldown -1\n",
-			"multiplier": "1.5*ATK",
+			"multiplier": "1.85*ATK",
 			"numBooksToMax": "5"
 		},
 		{
-			"desc": "Steals all buffs from a target enemy, then attacks the target. Has an extra 30% chance of inflicting a critical hit.",
-			"basedOn": "[ATK]",
+			"desc": "Attacks 1 enemy. Removes all debuffs from this Champion and steals all buffs from the target before attacking. Has an extra 30% chance of inflicting a critical hit. Grants an Extra Turn if the target is killed.",
+			"basedOn": "",
 			"name": "Negation",
 			"maxcd": "4",
 			"mincd": "3",
 			"books": "Lvl. 2 Damage +15%\nLvl. 3 Damage +15%\nLvl. 4 Damage +15%\nLvl. 5 Cooldown -1\n",
-			"multiplier": "5.2*ATK",
+			"multiplier": null,
 			"numBooksToMax": "4"
 		}
 	],

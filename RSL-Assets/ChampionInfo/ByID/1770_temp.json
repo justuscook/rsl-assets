@@ -18,11 +18,11 @@
 	"modelName": "203_order_warrior",
 	"avatarKey": "1770_temp",
 	"leaderSkill": {
-		"area": "Dungeon",
+		"area": "",
 		"affinity": "",
 		"kind": "Attack",
 		"absolute": false,
-		"value": 0.35
+		"value": 0.28
 	},
 	"skillTypeIds": [
 		17701,
