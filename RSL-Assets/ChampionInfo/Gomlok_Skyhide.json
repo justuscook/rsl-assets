@@ -28,7 +28,7 @@
 			"numBooksToMax": "5"
 		},
 		{
-			"desc": "Attacks 1 enemy. Has a 60% chance of stealing 2 random buffs from the target.\r\n\r\nAlso has a 60% chance of decreasing the target's Turn Meter by 50%. Steals 50% of the target's max Turn Meter instead if this Champion has full HP.",
+			"desc": "Attacks 1 enemy. Has a 60% chance of stealing all buffs from the target.\r\n\r\nAlso has a 60% chance of stealing 50% of the target's max Turn Meter.",
 			"basedOn": "[ATK]",
 			"name": "Fateful Trickster",
 			"maxcd": "4",
@@ -48,7 +48,7 @@
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Whenever 4 or more buffs are placed on the enemy team in a single turn, places a [Shield] buff on this Champion for equal to 15% of this Champion's MAX HP for 2 turns.",
+			"desc": "Whenever 4 or more buffs are placed on the enemy team in a single turn, places a [Shield] buff on this Champion for equal to 30% of this Champion's MAX HP for 2 turns.",
 			"basedOn": "[HP]",
 			"name": "Enchanter [P]",
 			"maxcd": "3",

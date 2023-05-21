@@ -1,0 +1,39 @@
+{
+	"typeId": 7936,
+	"name": {
+		"key": "l10n:hero-type/name?id=7930#static",
+		"defaultValue": "Jetni the Giant",
+		"localizedValue": null
+	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7930#static",
+		"defaultValue": "Hero 7930 short name",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "Barbarians",
+	"role": "Attack",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0608_barbarian_id7930",
+	"avatarKey": "7930",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		79301,
+		79302,
+		79303,
+		79304
+	],
+	"unscaledStats": {
+		"Health": 93,
+		"Attack": 144,
+		"Defense": 88,
+		"Speed": 100,
+		"Resistance": 30,
+		"Accuracy": 10,
+		"CriticalChance": 15,
+		"CriticalDamage": 63,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

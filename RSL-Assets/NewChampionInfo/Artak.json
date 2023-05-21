@@ -1,0 +1,63 @@
+{
+	"name": "Artak",
+	"key": "l10n:hero-type/name?id=7860#static",
+	"id": 7866,
+	"avatar": "7860",
+	"affinity": "Magic",
+	"hp": "22140",
+	"atk": "936",
+	"def": "1167",
+	"spd": "100",
+	"res": "30",
+	"acc": "10",
+	"crate": "15",
+	"cdamage": "63",
+	"cheal": "50",
+	"faction": "Orcs",
+	"aura": "",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks all enemies. Has a 35% chance to extend the duration of any [HP Burn] debuffs on each target by 1 turn.",
+			"basedOn": "[HP]",
+			"name": "Chaosrazor",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +5%\n",
+			"multiplier": "0.1*HP",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Before attacking, instantly activates any [HP Burn] debuffs on each enemy. \r\n\r\nHas a 75% chance of placing a 50% [Decrease ATK] debuff on all enemies for 2 turns.",
+			"basedOn": "",
+			"name": "Dogs of War",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +15%\nLvl. 5 Cooldown -1\n",
+			"multiplier": null,
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies 2 times. The first hit has a 75% chance of placing a [HP Burn] debuff on all enemies for 2 turns. \r\n\r\nRestores this Champion’s destroyed MAX HP by 10% for each [HP Burn] debuff placed by this skill. Heals this Champion by 5% of their MAX HP for each [HP Burn] debuff attempt blocked or resisted by the enemy team.",
+			"basedOn": "[HP]",
+			"name": "Purifyre",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +15%\nLvl. 5 Cooldown -1\n",
+			"multiplier": "0.14*HP",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Whenever a [HP Burn] debuff is activated, destroys this Champion’s MAX HP by 5%. Stacks up to 50%. \r\n\r\nIncreases this Champion’s DMG, C. DMG, and DEF by 1% for each 1% of their destroyed MAX HP. Also increases this Champion’s SPD and RES by 2 for each 1% of their destroyed MAX HP.",
+			"basedOn": "[HP]",
+			"name": "Burning Blood [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Legendary",
+	"type": "Health"
+}

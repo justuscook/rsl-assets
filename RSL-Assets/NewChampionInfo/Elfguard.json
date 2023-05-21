@@ -28,7 +28,7 @@
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Attacks 1 enemy. Decreases the Turn Meter by 50%.",
+			"desc": "Attacks 1 enemy. Decreases the enemy's current Turn Meter by 50%.",
 			"basedOn": "[ATK]",
 			"name": "Impale",
 			"maxcd": "3",

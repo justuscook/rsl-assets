@@ -1,0 +1,45 @@
+{
+	"typeId": 7856,
+	"name": {
+		"key": "l10n:hero-type/name?id=7850#static",
+		"defaultValue": "Razelvarg",
+		"localizedValue": null
+	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7850#static",
+		"defaultValue": "Hero 7850 short name",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "Skinwalkers",
+	"role": "Attack",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0639_skinwalkers_id7850",
+	"avatarKey": "7850",
+	"leaderSkill": {
+		"area": "",
+		"affinity": "",
+		"kind": "Speed",
+		"absolute": false,
+		"value": 0.2
+	},
+	"skillTypeIds": [
+		78501,
+		78502,
+		78503,
+		78504
+	],
+	"unscaledStats": {
+		"Health": 91,
+		"Attack": 138,
+		"Defense": 96,
+		"Speed": 110,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 63,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

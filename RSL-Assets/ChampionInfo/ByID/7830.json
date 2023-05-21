@@ -1,0 +1,45 @@
+{
+	"typeId": 7836,
+	"name": {
+		"key": "l10n:hero-type/name?id=7830#static",
+		"defaultValue": "Claidna",
+		"localizedValue": null
+	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7830#static",
+		"defaultValue": "Hero 7830 short name",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "NyresanElves",
+	"role": "Health",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0825_Forestelves_id7830",
+	"avatarKey": "7830",
+	"leaderSkill": {
+		"area": "Dungeon",
+		"affinity": "",
+		"kind": "Health",
+		"absolute": false,
+		"value": 0.4
+	},
+	"skillTypeIds": [
+		78301,
+		78302,
+		78303,
+		78304
+	],
+	"unscaledStats": {
+		"Health": 129,
+		"Attack": 73,
+		"Defense": 123,
+		"Speed": 100,
+		"Resistance": 40,
+		"Accuracy": 20,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

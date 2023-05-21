@@ -18,7 +18,7 @@
 	"totalBooks": "12",
 	"skills": [
 		{
-			"desc": "Attacks 1 enemy. Has a 50% chance of decreasing the duration of all enemy buffs by 2 turns.",
+			"desc": "Attacks 1 enemy. Has a 50% chance of decreasing the duration of all buffs on the target by 2 turns.",
 			"basedOn": "[ATK]",
 			"name": "Chop",
 			"maxcd": "0",

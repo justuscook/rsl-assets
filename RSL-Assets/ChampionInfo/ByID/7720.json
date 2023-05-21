@@ -1,0 +1,46 @@
+{
+	"typeId": 7726,
+	"name": {
+		"key": "l10n:hero-type/name?id=7720#static",
+		"defaultValue": "Supreme Athel",
+		"localizedValue": null
+	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7720#static",
+		"defaultValue": "Hero 7720 short name",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "SacredOrder",
+	"role": "Attack",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0851_Athel_id7720",
+	"avatarKey": "7720",
+	"leaderSkill": {
+		"area": "Arena",
+		"affinity": "",
+		"kind": "Attack",
+		"absolute": false,
+		"value": 0.35
+	},
+	"skillTypeIds": [
+		77201,
+		77202,
+		77203,
+		77205,
+		77204
+	],
+	"unscaledStats": {
+		"Health": 98,
+		"Attack": 145,
+		"Defense": 82,
+		"Speed": 100,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 63,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

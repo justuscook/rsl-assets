@@ -1,0 +1,63 @@
+{
+	"name": "Supreme Athel",
+	"key": "l10n:hero-type/name?id=7720#static",
+	"id": 7726,
+	"avatar": "7720",
+	"affinity": "Void",
+	"hp": "16185",
+	"atk": "1597",
+	"def": "903",
+	"spd": "100",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "63",
+	"cheal": "50",
+	"faction": "Sacred Order",
+	"aura": "Increase Ally ATK in Arena battles by 35",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. If there are any enemies under a [Freeze] debuff, also attacks them. \r\n\r\nDecreases the enemy’s ATK by 3% whenever this Champion hits an enemy with this skill (stacks up to 30%). \r\n\r\nAlso increases this Champion’s ATK by 3% whenever they hit an enemy with this skill (stacks up to 30%).",
+			"basedOn": "[ATK]",
+			"name": "Exemplar of Stoicism",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Damage +10%\n",
+			"multiplier": "2.7*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Will ignore [Strengthen], [Ally Protection] and [Unkillable] buffs on enemies under a [Freeze] debuff. \r\n\r\nThen, has a 100% chance of placing a [Freeze] debuff for 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Cold Company",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1\n",
+			"multiplier": "3.8*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Places a 50% [Increase ATK] buff, a 30% [Increase C. RATE] buff and a [Shield] buff on this Champion for 3 turns, then grants an Extra Turn. The value of the [Shield] is proportional to this Champion’s ATK.",
+			"basedOn": "",
+			"name": "Ever Faithful",
+			"maxcd": "5",
+			"mincd": "4",
+			"books": "Lvl. 2 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "1"
+		},
+		{
+			"desc": "Has a 15% chance of placing a [Freeze] debuff on attackers for 1 turn when hit while under a [Shield] buff. \r\n\r\nHas a 35% chance of placing a [Freeze] debuff on all enemies for 1 turn whenever a [Shield] buff on this Champion is removed by damage.",
+			"basedOn": "",
+			"name": "Frosty Glare [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Buff/Debuff Chance +5%\nLvl. 3 Buff/Debuff Chance +10%\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
+		}
+	],
+	"rarity": "Legendary",
+	"type": "Attack"
+}

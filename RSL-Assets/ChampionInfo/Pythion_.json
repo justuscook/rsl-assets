@@ -1,0 +1,63 @@
+{
+	"name": "Pythion",
+	"key": "l10n:hero-type/name?id=7590#static",
+	"id": 7596,
+	"avatar": "7590",
+	"affinity": "Force",
+	"hp": "21135",
+	"atk": "870",
+	"def": "1299",
+	"spd": "105",
+	"res": "50",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Lizard Men",
+	"aura": "Increase Ally  in  by 60",
+	"totalBooks": "10",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Heals the ally with the lowest HP by 5% of this Champion’s MAX HP after each hit.",
+			"basedOn": "[ATK]",
+			"name": "Rapacious Staff",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2  Heal +5%\nLvl. 3  Heal +5%\nLvl. 4  Heal +10%\n",
+			"multiplier": "3*ATK",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "Removes all debuffs from all allies, then heals them by 10% of their MAX HP. Heals each ally by an extra 5% of their MAX HP for each debuff removed from them. \r\n\r\nAlso places a [Block Debuffs] buff on all allies for 2 turns.",
+			"basedOn": "",
+			"name": "Shed Skin",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2  Heal +5%\nLvl. 3  Heal +5%\nLvl. 4  Heal +10%\nLvl. 5 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Revives all dead allies with 50% HP and 50% Turn Meter, then places a 25% [Strengthen] buff on all allies for 2 turns.",
+			"basedOn": "[Enemy MAX HP]",
+			"name": "Immortal Serpent",
+			"maxcd": "7",
+			"mincd": "4",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\nLvl. 4 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "Allies receive 5% less damage from skills for each buff on them. Stacks up to 25%.",
+			"basedOn": "[REL_]",
+			"name": "Overlay [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Legendary",
+	"type": "Support"
+}

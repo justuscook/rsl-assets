@@ -1,0 +1,45 @@
+{
+	"typeId": 7796,
+	"name": {
+		"key": "l10n:hero-type/name?id=7790#static",
+		"defaultValue": "Quintus the Triumphant",
+		"localizedValue": null
+	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7790#static",
+		"defaultValue": "Hero 7790 short name",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "BannerLords",
+	"role": "Attack",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0808_Bannerlord_id7790",
+	"avatarKey": "7790",
+	"leaderSkill": {
+		"area": "Arena",
+		"affinity": "",
+		"kind": "Attack",
+		"absolute": false,
+		"value": 0.35
+	},
+	"skillTypeIds": [
+		77901,
+		77902,
+		77903,
+		77904
+	],
+	"unscaledStats": {
+		"Health": 91,
+		"Attack": 146,
+		"Defense": 88,
+		"Speed": 105,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 63,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

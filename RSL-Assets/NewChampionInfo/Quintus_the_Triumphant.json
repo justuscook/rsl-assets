@@ -1,0 +1,63 @@
+{
+	"name": "Quintus the Triumphant",
+	"key": "l10n:hero-type/name?id=7790#static",
+	"id": 7796,
+	"avatar": "7790",
+	"affinity": "Void",
+	"hp": "15030",
+	"atk": "1608",
+	"def": "969",
+	"spd": "105",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "63",
+	"cheal": "50",
+	"faction": "Banner Lords",
+	"aura": "Increase Ally ATK in Arena battles by 35",
+	"totalBooks": "13",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Places an extra hit if the target has no buffs. If this attack is critical, repeats the attack once.",
+			"basedOn": "[ATK]",
+			"name": "Encore Performance",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
+			"multiplier": "1.9*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 1 enemy. Removes all buffs, then places a 60% [Decrease DEF] debuff on the target for 2 turns before attacking. These effects cannot be resisted or blocked. \r\n\r\nDamage inflicted by this skill cannot be decreased by enemy Passive skills or Masteries, except by the Passive skills of Bosses. Damage inflicted by this skill cannot be increased by either this Champion's Masteries or ally Passive skills, except when attacking Bosses.\r\n\r\nResets the cooldown of the [Crowd Favorite] skill if this attack kills an enemy.",
+			"basedOn": "",
+			"name": "Strip Away",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\nLvl. 6 Cooldown -1\n",
+			"multiplier": null,
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks all enemies. Places a 50% [Increase ATK] buff and a 30% [Increase C. DMG] buff on this Champion for 3 turns before attacking. \r\n\r\nResets the cooldown of the [Strip Away] skill if this attack kills an enemy.",
+			"basedOn": "",
+			"name": "Crowd Favorite",
+			"maxcd": "4",
+			"mincd": "4",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +10%\n",
+			"multiplier": null,
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Each of this Champion’s skills deals additional pure damage. The amount of pure damage dealt is equal to 10% of the target’s MAX HP for each buff on them. The additional pure damage dealt will ignore [Shield] buffs.",
+			"basedOn": "[REL_]",
+			"name": "Percussion [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "(0.1*REL_TRG_BUFF_COUNT)*REL_TRG_HP",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Legendary",
+	"type": "Attack"
+}

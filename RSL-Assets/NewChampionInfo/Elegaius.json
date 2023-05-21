@@ -14,7 +14,7 @@
 	"cdamage": "50",
 	"cheal": "50",
 	"faction": "Undead Hordes",
-	"aura": "",
+	"aura": "Increase Ally ACC in  by 60",
 	"totalBooks": "12",
 	"skills": [
 		{
@@ -28,7 +28,7 @@
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Attacks 1 enemy. Puts the target’s skills on cooldown. \r\n\r\nIf the enemy team has any duplicates of the target Champion, will also put all their skills on cooldown.",
+			"desc": "Attacks 1 enemy. Puts the target's skills on cooldown. Also places a [Block Buffs] debuff for 2 turns.\r\n\r\nIf the enemy team has any duplicates of the target Champion, will also put all their skills on cooldown and place a [Block Buffs] debuff on them for 2 turns.",
 			"basedOn": "[HP]",
 			"name": "Dead Stop",
 			"maxcd": "4",
@@ -38,7 +38,7 @@
 			"numBooksToMax": "3"
 		},
 		{
-			"desc": "Attacks all enemies. Has a 75% chance of removing 2 random buffs. Has a 75% chance of decreasing all enemies’ Turn Meters by 20%. Decreases enemy Turn Meters by a further 0.2% for every 1% of HP this Champion loses.",
+			"desc": "Attacks all enemies. Has a 75% chance of removing 2 random buffs. Also has a 75% chance of decreasing all enemies' Turn Meters by 20%. Decreases enemy Turn Meters by a further 10% for each removed buff.",
 			"basedOn": "[HP]",
 			"name": "Ghost Rage",
 			"maxcd": "5",
@@ -48,11 +48,11 @@
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Prevents this Champion’s death and keeps them alive on 1 HP when hit by a fatal hit.\r\n\r\nIf this skill prevents this Champion’s death, heals them by 10% of their MAX HP, fills their Turn Meter by 20%, and places a [Shield] buff on them equal to 30% of their MAX HP for 2 turns.\r\n\r\nWill not prevent this Champion’s death if they are under a [Heal Reduction] debuff.",
+			"desc": "Prevents this Champion's death and keeps them alive on 1 HP when hit by a fatal hit.\r\n\r\nIf this skill prevents this Champion's death, heals them by 30% of their MAX HP, fills their Turn Meter by 30%, and places a [Shield] buff on them equal to 30% of their MAX HP for 2 turns.\r\n\r\nWill not prevent this Champion's death if they are under a [Heal Reduction] debuff.",
 			"basedOn": "[CUR_HP]",
 			"name": "Spurned by Death [P]",
-			"maxcd": "6",
-			"mincd": "5",
+			"maxcd": "5",
+			"mincd": "4",
 			"books": "Lvl. 2 Cooldown -1\n",
 			"multiplier": "",
 			"numBooksToMax": "1"

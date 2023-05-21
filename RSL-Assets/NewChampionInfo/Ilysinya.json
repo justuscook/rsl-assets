@@ -1,0 +1,63 @@
+{
+	"name": "Ilysinya",
+	"key": "l10n:hero-type/name?id=7970#static",
+	"id": 7976,
+	"avatar": "7970",
+	"affinity": "Force",
+	"hp": "21480",
+	"atk": "749",
+	"def": "1123",
+	"spd": "98",
+	"res": "30",
+	"acc": "15",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "High Elves",
+	"aura": "",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 30% chance of stealing 1 random buff from the target.",
+			"basedOn": "[HP]",
+			"name": "Lancer",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"multiplier": "0.25*HP",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies.\r\n\r\nBefore attacking, has a 50% chance of removing any [Block Debuffs] buffs from all enemies. \r\n\r\nAlso has a 50% chance of placing a [Block Buffs] debuff on all enemies for 2 turns after attacking.",
+			"basedOn": "",
+			"name": "Excoriating Light",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +15%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1\n",
+			"multiplier": null,
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Places a [Shield] buff on all allies for 2 turns equal to 20% of this Champion’s MAX HP. \r\n\r\nAlso places a 15% [Strengthen] buff on all allies for 2 turns.",
+			"basedOn": "[HP]",
+			"name": "Shield of Aravia",
+			"maxcd": "6",
+			"mincd": "4",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
+		},
+		{
+			"desc": "Heals this Champion by 30% of their MAX HP whenever a [Shield] buff placed by the Shield of Aravia skill on this Champion expires, is removed, or is broken by an enemy attack.",
+			"basedOn": "[HP]",
+			"name": "Inviolable Nobility [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Epic",
+	"type": "Health"
+}

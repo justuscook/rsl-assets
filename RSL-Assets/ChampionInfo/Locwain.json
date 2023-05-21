@@ -1,0 +1,63 @@
+{
+	"name": "Locwain",
+	"key": "l10n:hero-type/name?id=7800#static",
+	"id": 7806,
+	"avatar": "7800",
+	"affinity": "Magic",
+	"hp": "14040",
+	"atk": "1409",
+	"def": "958",
+	"spd": "98",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "60",
+	"cheal": "50",
+	"faction": "Nyresan Elves",
+	"aura": "Increase Ally SPD in Arena battles by 20",
+	"totalBooks": "13",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Has a 30% chance of stealing 1 random buff.",
+			"basedOn": "[ATK]",
+			"name": "Booncatcher",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"multiplier": "3.5*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 25% chance of removing any [Veil] or [Perfect Veil] buffs from all enemies. \r\n\r\nAlso has a 75% chance of removing 1 random buff from all enemies.",
+			"basedOn": "[ATK]",
+			"name": "Revelation",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "3.8*ATK",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Attacks 1 enemy 2 times. Will ignore [Shield] buffs. \r\n\r\nResets the cooldown of this skill if this attack kills an enemy.",
+			"basedOn": "[ATK]",
+			"name": "Focused Force",
+			"maxcd": "6",
+			"mincd": "4",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Cooldown -1\nLvl. 5 Cooldown -1\n",
+			"multiplier": "2.9*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Increases this Champion’s ACC by 10 for each buff on each enemy.",
+			"basedOn": "[BuffsCountOnTeam][enemyTeamId]",
+			"name": "Hunt the Haughty [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Epic",
+	"type": "Attack"
+}

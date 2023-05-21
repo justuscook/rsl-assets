@@ -48,7 +48,7 @@
 			"numBooksToMax": "2"
 		},
 		{
-			"desc": "Whenever an ally attacks an enemy under a [Hex] debuff, this Champion has a 50% chance to team up and join the ally’s attack.",
+			"desc": "Whenever an ally attacks an enemy under a [Hex] debuff, this Champion has a 50% chance to team up and join the ally's attack. This effect does not work against the Hydra's Exposed Necks.",
 			"basedOn": "",
 			"name": "Courser of Curses [P]",
 			"maxcd": "0",

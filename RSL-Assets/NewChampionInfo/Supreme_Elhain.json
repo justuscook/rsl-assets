@@ -1,0 +1,63 @@
+{
+	"name": "Supreme Elhain",
+	"key": "l10n:hero-type/name?id=7730#static",
+	"id": 7736,
+	"avatar": "7730",
+	"affinity": "Void",
+	"hp": "13875",
+	"atk": "1509",
+	"def": "1145",
+	"spd": "102",
+	"res": "40",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "63",
+	"cheal": "50",
+	"faction": "High Elves",
+	"aura": "Increase Ally ATK in  by 30",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Each hit transfers a random debuff from this Champion to the target.",
+			"basedOn": "[ATK]",
+			"name": "Exemplar of Strikes",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "2*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Damage increases by 10% for each debuff on each target. \r\n\r\nResets the cooldown of the [Crack Shot] skill if this attack kills an enemy.",
+			"basedOn": "[ATK]",
+			"name": "Let None Live",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Cooldown -1\n",
+			"multiplier": "4*ATK*(1+0.1*TRG_DEBUFF_COUNT)",
+			"numBooksToMax": "3"
+		},
+		{
+			"desc": "Attacks 1 enemy. Will ignore [Ally Protection], [Strengthen], and [Shield] buffs. \r\n\r\nGrants an Extra Turn if this attack kills an enemy.",
+			"basedOn": "[ATK]",
+			"name": "Crack Shot",
+			"maxcd": "6",
+			"mincd": "4",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Cooldown -1\nLvl. 5 Cooldown -1\n",
+			"multiplier": "6*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Immune to [Decrease ATK] debuffs. Inflicts 20% more damage against targets whose ATK is lower than this Champion’s ATK.",
+			"basedOn": "",
+			"name": "Implacable [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Legendary",
+	"type": "Attack"
+}

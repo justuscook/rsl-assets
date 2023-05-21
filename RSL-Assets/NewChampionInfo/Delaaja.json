@@ -1,0 +1,63 @@
+{
+	"name": "Delaaja",
+	"key": "l10n:hero-type/name?id=7900#static",
+	"id": 7906,
+	"avatar": "7900",
+	"affinity": "Spirit",
+	"hp": "20640",
+	"atk": "760",
+	"def": "1167",
+	"spd": "98",
+	"res": "30",
+	"acc": "15",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Lizard Men",
+	"aura": "Increase Ally HP in Faction Crypts by 30",
+	"totalBooks": "13",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Each hit heals this Champion by 2% of their MAX HP. \r\n\r\nEach hit also has a 20% chance of placing a 5% [Poison] debuff for 2 turns.",
+			"basedOn": "[HP]",
+			"name": "Bath of Azoth",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +5%\nLvl. 5 Buff/Debuff Chance +5%\n",
+			"multiplier": "0.12*HP",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 75% chance of placing a 50% [Decrease ATK] debuff for 2 turns.",
+			"basedOn": "[HP]",
+			"name": "Blades Dissolved",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "0.24*HP",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Places a 15% [Continuous Heal] buff on all allies for 1 turn.\r\n\r\nAlso places a [Shield] buff equal to 20% of this Champion's MAX HP on all allies for 2 turns.",
+			"basedOn": "",
+			"name": "Restorative Froth",
+			"maxcd": "6",
+			"mincd": "4",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
+		},
+		{
+			"desc": "Has a 30% chance of counterattacking when ally Lizardmen except this Champion are attacked.",
+			"basedOn": "",
+			"name": "Instincts [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Buff/Debuff Chance +10%\nLvl. 3 Buff/Debuff Chance +10%\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
+		}
+	],
+	"rarity": "Epic",
+	"type": "Health"
+}

@@ -1,0 +1,45 @@
+{
+	"typeId": 7716,
+	"name": {
+		"key": "l10n:hero-type/name?id=7710#static",
+		"defaultValue": "Supreme Galek",
+		"localizedValue": null
+	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7710#static",
+		"defaultValue": "Hero 7710 short name",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "Orcs",
+	"role": "Attack",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0852_Galek_id7710",
+	"avatarKey": "7710",
+	"leaderSkill": {
+		"area": "",
+		"affinity": "",
+		"kind": "Attack",
+		"absolute": false,
+		"value": 0.33
+	},
+	"skillTypeIds": [
+		77101,
+		77102,
+		77103,
+		77104
+	],
+	"unscaledStats": {
+		"Health": 103,
+		"Attack": 137,
+		"Defense": 85,
+		"Speed": 100,
+		"Resistance": 30,
+		"Accuracy": 10,
+		"CriticalChance": 15,
+		"CriticalDamage": 63,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

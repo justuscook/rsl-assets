@@ -1,0 +1,63 @@
+{
+	"name": "Alsgor Crimsonhorn",
+	"key": "l10n:hero-type/name?id=7940#static",
+	"id": 7946,
+	"avatar": "7940",
+	"affinity": "Force",
+	"hp": "21975",
+	"atk": "936",
+	"def": "1178",
+	"spd": "99",
+	"res": "50",
+	"acc": "10",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Barbarians",
+	"aura": "Increase Ally  in  by 60",
+	"totalBooks": "11",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Heals this Champion by 20% of the damage dealt. \r\n\r\nHas a 40% chance of increasing the duration of 2 random debuffs on the target Champion by 1 turn.",
+			"basedOn": "[HP]",
+			"name": "Thunderous Maul",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"multiplier": "0.26*HP",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 75% chance of removing 2 random buffs from all enemies. \r\n\r\nHas a 75% chance of removing all buffs from all enemies, even if this attack lands as a weak hit, if Jetni the Giant is on the same team. \r\n\r\nAlso places a 15% [Continuous Heal] buff on all allies for 2 turns.",
+			"basedOn": "[HP]",
+			"name": "Crack the Sky",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Damage +10%\nLvl. 4 Buff/Debuff Chance +10%\nLvl. 5 Buff/Debuff Chance +15%\nLvl. 6 Cooldown -1\n",
+			"multiplier": "0.27*HP",
+			"numBooksToMax": "5"
+		},
+		{
+			"desc": "Fully heals a target ally. \r\n\r\nAlso places a [Block Damage] buff on all allies for 2 turns.",
+			"basedOn": "[Enemy MAX HP]",
+			"name": "Resounding Rally",
+			"maxcd": "6",
+			"mincd": "4",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
+		},
+		{
+			"desc": "When attacked, has a 50% chance of placing a 30% [Decrease SPD] debuff on the attacker for 2 turns. \r\n\r\nThe chance increases to 100% if Jetni the Giant is on the same team.",
+			"basedOn": "",
+			"name": "Trammel",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Legendary",
+	"type": "Health"
+}

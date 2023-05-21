@@ -1,0 +1,39 @@
+{
+	"typeId": 7976,
+	"name": {
+		"key": "l10n:hero-type/name?id=7970#static",
+		"defaultValue": "Ilysinya",
+		"localizedValue": null
+	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7970#static",
+		"defaultValue": "Hero 7970 short name",
+		"localizedValue": null
+	},
+	"affinity": "Force",
+	"faction": "HighElves",
+	"role": "Health",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0651_highelves_id7970",
+	"avatarKey": "7970",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		79701,
+		79702,
+		79703,
+		79704
+	],
+	"unscaledStats": {
+		"Health": 130,
+		"Attack": 68,
+		"Defense": 102,
+		"Speed": 98,
+		"Resistance": 30,
+		"Accuracy": 15,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

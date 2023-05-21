@@ -48,7 +48,7 @@
 			"numBooksToMax": "2"
 		},
 		{
-			"desc": "Whenever an ally under a [Shield] buff is attacked, reflects 25% of the damage inflicted on the [Shield] back the attacker. Also heals that ally by 25% of the damage inflicted on the [Shield].\r\n\r\nIf there are multiple Champions in the team with this Skill, only one will activate.",
+			"desc": "Whenever an ally under a [Shield] buff is attacked, reflects 25% of the damage inflicted on the [Shield] back to the attacker. Also heals that ally by 25% of the damage inflicted on the [Shield].\r\n\r\nIf there are multiple Champions in the team with this Skill, only one will activate.",
 			"basedOn": "[damageAbsorbedByShield]",
 			"name": "Redoubt [P]",
 			"maxcd": "0",

@@ -1,0 +1,44 @@
+{
+	"typeId": 7666,
+	"name": {
+		"key": "l10n:hero-type/name?id=7660#static",
+		"defaultValue": "Wyrennon the Silken",
+		"localizedValue": null
+	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7660#static",
+		"defaultValue": "Hero 7660 short name",
+		"localizedValue": null
+	},
+	"affinity": "Spirit",
+	"faction": "NyresanElves",
+	"role": "Support",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0831_forestelves_id7660",
+	"avatarKey": "7660",
+	"leaderSkill": {
+		"area": "Fractions",
+		"affinity": "",
+		"kind": "Speed",
+		"absolute": false,
+		"value": 0.2
+	},
+	"skillTypeIds": [
+		76601,
+		76602,
+		76603
+	],
+	"unscaledStats": {
+		"Health": 108,
+		"Attack": 77,
+		"Defense": 115,
+		"Speed": 104,
+		"Resistance": 30,
+		"Accuracy": 0,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

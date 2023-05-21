@@ -38,7 +38,7 @@
 			"numBooksToMax": "5"
 		},
 		{
-			"desc": "Attacks all enemies. Has a 75% chance of placing a [HP Burn] debuff for 2 turns. \r\n\r\nFills this Champion’s Turn Meter by 15% on each critical hit.",
+			"desc": "Attacks all enemies. Has a 75% chance of placing a [HP Burn] debuff for 2 turns.\r\n\r\nFills this Champion's Turn Meter by 15% if at least one enemy is hit with a critical hit.",
 			"basedOn": "[ATK]",
 			"name": "Unleash Havoc",
 			"maxcd": "4",

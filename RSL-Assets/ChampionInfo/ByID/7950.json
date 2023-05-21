@@ -1,0 +1,39 @@
+{
+	"typeId": 7956,
+	"name": {
+		"key": "l10n:hero-type/name?id=7950#static",
+		"defaultValue": "Criodan the Blue",
+		"localizedValue": null
+	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7950#static",
+		"defaultValue": "Hero 7950 short name",
+		"localizedValue": null
+	},
+	"affinity": "Magic",
+	"faction": "NyresanElves",
+	"role": "Support",
+	"rarity": "Epic",
+	"ascended": 6,
+	"modelName": "0841_Forestelves_id7950",
+	"avatarKey": "7950",
+	"leaderSkill": null,
+	"skillTypeIds": [
+		79501,
+		79502,
+		79503,
+		79504
+	],
+	"unscaledStats": {
+		"Health": 108,
+		"Attack": 99,
+		"Defense": 93,
+		"Speed": 99,
+		"Resistance": 30,
+		"Accuracy": 15,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

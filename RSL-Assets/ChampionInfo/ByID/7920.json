@@ -1,0 +1,45 @@
+{
+	"typeId": 7926,
+	"name": {
+		"key": "l10n:hero-type/name?id=7920#static",
+		"defaultValue": "Graazur Irongut",
+		"localizedValue": null
+	},
+	"shortName": {
+		"key": "l10n:hero-type/short-name?id=7920#static",
+		"defaultValue": "Hero 7920 short name",
+		"localizedValue": null
+	},
+	"affinity": "Void",
+	"faction": "OgrynTribes",
+	"role": "Defense",
+	"rarity": "Legendary",
+	"ascended": 6,
+	"modelName": "0726_Ogre_id_7920",
+	"avatarKey": "7920",
+	"leaderSkill": {
+		"area": "",
+		"affinity": "",
+		"kind": "Defence",
+		"absolute": false,
+		"value": 0.33
+	},
+	"skillTypeIds": [
+		79201,
+		79202,
+		79203,
+		79204
+	],
+	"unscaledStats": {
+		"Health": 113,
+		"Attack": 92,
+		"Defense": 120,
+		"Speed": 102,
+		"Resistance": 40,
+		"Accuracy": 20,
+		"CriticalChance": 15,
+		"CriticalDamage": 50,
+		"CriticalHeal": 50
+	},
+	"brain": "Clever"
+}

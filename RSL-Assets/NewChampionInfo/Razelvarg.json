@@ -1,0 +1,63 @@
+{
+	"name": "Razelvarg",
+	"key": "l10n:hero-type/name?id=7850#static",
+	"id": 7856,
+	"avatar": "7850",
+	"affinity": "Magic",
+	"hp": "15030",
+	"atk": "1520",
+	"def": "1057",
+	"spd": "110",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "63",
+	"cheal": "50",
+	"faction": "Skinwalkers",
+	"aura": "Increase Ally SPD in  by 20",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 3 times. Each hit will fill this Champion’s Turn Meter by 5%.",
+			"basedOn": "[ATK][SPD]",
+			"name": "Hopping Mad",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "ATK*(0.45*SPD/100)",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 75% chance of placing a [Leech] debuff for 2 turns. \r\n\r\nHeals this Champion by 10% of their MAX HP for each [Leech] debuff placed by this skill.",
+			"basedOn": "[ATK][SPD]",
+			"name": "Night of the Rabbit",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +15%\nLvl. 5 Cooldown -1\n",
+			"multiplier": "ATK*(1.5+SPD/100)",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Places a 30% [Increase SPD] buff and a 50% [Increase ACC] buff on all allies for 2 turns before attacking.",
+			"basedOn": "",
+			"name": "Keep Up If You Can",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Cooldown -1\n",
+			"multiplier": null,
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Each [Increase SPD] buff placed by this Champion increases this Champion's SPD by 5 (Stacks up to 100).",
+			"basedOn": "[StatusIncreaseSpeed_KindId]",
+			"name": "Built For Speed [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Legendary",
+	"type": "Attack"
+}

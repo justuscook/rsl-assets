@@ -28,7 +28,7 @@
 			"numBooksToMax": "4"
 		},
 		{
-			"desc": "Attacks 1 enemy. Will ignore [Strengthen], [Stone Skin], [Increase DEF], and [Ally Protection] buffs. \r\n\r\nIf this attack kills an enemy, fully heals this Champion and places a [Stone Skin] buff on them for 1 turn.",
+			"desc": "Attacks 1 enemy. Will ignore [Strengthen], [Stone Skin], [Increase DEF], and [Ally Protection] buffs.\r\n\r\nIf this attack kills an enemy, fully heals this Champion and places a [Stone Skin] buff on them for 1 turn.",
 			"basedOn": "[ATK]",
 			"name": "Pierce the Carapace",
 			"maxcd": "4",

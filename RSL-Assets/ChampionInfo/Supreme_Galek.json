@@ -1,0 +1,63 @@
+{
+	"name": "Supreme Galek",
+	"key": "l10n:hero-type/name?id=7710#static",
+	"id": 7716,
+	"avatar": "7710",
+	"affinity": "Void",
+	"hp": "17010",
+	"atk": "1509",
+	"def": "936",
+	"spd": "100",
+	"res": "30",
+	"acc": "10",
+	"crate": "15",
+	"cdamage": "63",
+	"cheal": "50",
+	"faction": "Orcs",
+	"aura": "Increase Ally ATK in  by 33",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy 2 times. Each hit has an extra 10% chance of inflicting a critical hit. \r\n\r\nEach hit also has a 40% chance of increasing the duration of any [HP Burn] debuffs on the target by 1 turn.",
+			"basedOn": "[ATK]",
+			"name": "Exemplar of Rage",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\n",
+			"multiplier": "2.1*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 4 times at random. Places a 50% [Increase ATK] buff on this Champion for 3 turns before attacking. \r\n\r\nEach hit has an extra 10% chance of inflicting a critical hit. Each hit also has a 75% chance of instantly activating any [HP Burn] debuffs on each target and decreasing the duration of those [HP Burn] debuffs by 1 turn. \r\n\r\nFills this Champion’s Turn Meter by 30% if 3 or more [HP Burn] debuffs are activated during the attack.",
+			"basedOn": "",
+			"name": "Bloodshed Tempest",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +15%\nLvl. 5 Cooldown -1\n",
+			"multiplier": null,
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Has an extra 10% chance of inflicting a critical hit. Has a 75% chance of placing [HP Burn] and [Block Buffs] debuffs for 2 turns. \r\n\r\nAlso places a 30% [Decrease SPD] debuff on targets whose Turn Meter is higher than 50%.",
+			"basedOn": "[ATK]",
+			"name": "Unreasoning Outburst",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +15%\nLvl. 5 Cooldown -1\n",
+			"multiplier": "4.6*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Whenever this Champion receives a [Fear], [True Fear], [Freeze], [Provoke], [Sleep], [Stun], or [Petrification] debuff, instantly removes it. Then, fully heals this Champion, and grants an Extra Turn.",
+			"basedOn": "",
+			"name": "Laugh At Danger [P]",
+			"maxcd": "4",
+			"mincd": "4",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Legendary",
+	"type": "Attack"
+}

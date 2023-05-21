@@ -1,0 +1,63 @@
+{
+	"name": "Supreme Kael",
+	"key": "l10n:hero-type/name?id=7700#static",
+	"id": 7706,
+	"avatar": "7700",
+	"affinity": "Void",
+	"hp": "15855",
+	"atk": "1531",
+	"def": "991",
+	"spd": "110",
+	"res": "30",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "63",
+	"cheal": "50",
+	"faction": "Dark Elves",
+	"aura": "",
+	"totalBooks": "12",
+	"skills": [
+		{
+			"desc": "Attacks all enemies. Has a 50% chance of placing a 25% [Weaken] debuff for 2 turns. This debuff cannot be resisted.",
+			"basedOn": "[ATK]",
+			"name": "Exemplar of Skill",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +15%\n",
+			"multiplier": "2.4*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Has a 75% chance of placing three 5% [Poison] debuffs for 2 turns. These debuffs cannot be resisted. \r\n\r\nAlso increases the duration of all enemy debuffs by 1 turn. This effect cannot be resisted.",
+			"basedOn": "[ATK]",
+			"name": "Putrescence",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +15%\nLvl. 5 Cooldown -1\n",
+			"multiplier": "4.6*ATK",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks all enemies. Places a 50% [Increase ACC] buff on all allies for 2 turns before attacking.  \r\n\r\nAlso has a 75% chance of placing a 50% [Decrease RES] debuff on all enemies for 2 turns. This debuff cannot be resisted. Fills this Champion’s Turn Meter by 10% for each [Decrease RES] debuff placed by this skill.",
+			"basedOn": "",
+			"name": "Arcane Havoc",
+			"maxcd": "4",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +10%\nLvl. 3 Buff/Debuff Chance +10%\nLvl. 4 Buff/Debuff Chance +15%\nLvl. 5 Cooldown -1\n",
+			"multiplier": null,
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Decreases each target’s ACC, C.RATE, and C.DMG by 3% for each [Poison] debuff on them. If there are multiple Champions on the team with this skill, only one will activate.",
+			"basedOn": "[B_ACC][EffectsAppliedOnTargetCountOfKind][ContinuousDamage_KindId]",
+			"name": "Degrade [P]",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "",
+			"multiplier": "",
+			"numBooksToMax": "0"
+		}
+	],
+	"rarity": "Legendary",
+	"type": "Attack"
+}

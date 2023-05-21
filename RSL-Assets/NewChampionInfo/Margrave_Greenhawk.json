@@ -1,0 +1,53 @@
+{
+	"name": "Margrave Greenhawk",
+	"key": "l10n:hero-type/name?id=7910#static",
+	"id": 7916,
+	"avatar": "7910",
+	"affinity": "Force",
+	"hp": "19320",
+	"atk": "760",
+	"def": "980",
+	"spd": "95",
+	"res": "40",
+	"acc": "0",
+	"crate": "15",
+	"cdamage": "50",
+	"cheal": "50",
+	"faction": "Nyresan Elves",
+	"aura": "",
+	"totalBooks": "13",
+	"skills": [
+		{
+			"desc": "Attacks 1 enemy. Places a 7.5% [Continuous Heal] buff for 1 turn on the ally with the lowest HP.",
+			"basedOn": "[HP]",
+			"name": "Hawktalon",
+			"maxcd": "0",
+			"mincd": "0",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +5%\nLvl. 5 Damage +5%\n",
+			"multiplier": "0.22*HP",
+			"numBooksToMax": "4"
+		},
+		{
+			"desc": "Attacks 3 times at random. Each hit has a 50% chance of placing a [Provoke] debuff for 1 turn. \r\n\r\nAlso places a 30% [Reflect Damage] buff on this Champion for 2 turns.",
+			"basedOn": "[HP]",
+			"name": "Emotionless Rampage",
+			"maxcd": "5",
+			"mincd": "3",
+			"books": "Lvl. 2 Damage +5%\nLvl. 3 Damage +5%\nLvl. 4 Damage +10%\nLvl. 5 Buff/Debuff Chance +10%\nLvl. 6 Buff/Debuff Chance +10%\nLvl. 7 Cooldown -1\nLvl. 8 Cooldown -1\n",
+			"multiplier": "0.12*HP",
+			"numBooksToMax": "7"
+		},
+		{
+			"desc": "Places a 25% [Ally Protection] buff on all allies except this Champion for 2 turns. \r\n\r\nAlso places a 30% [Increase DEF] buff on this Champion for 2 turns.",
+			"basedOn": "",
+			"name": "Living Barricade",
+			"maxcd": "6",
+			"mincd": "4",
+			"books": "Lvl. 2 Cooldown -1\nLvl. 3 Cooldown -1\n",
+			"multiplier": "",
+			"numBooksToMax": "2"
+		}
+	],
+	"rarity": "Rare",
+	"type": "Health"
+}
